@@ -1,6 +1,150 @@
 {
   "jobs": [
     {
+      "id": "2955060",
+      "title": "Postdoctoral Research Associate (Physics)",
+      "institution": "Baylor U.",
+      "deadline": "2025-08-28",
+      "description": "<div><strong>Postdoctoral Research Associate (Physics)</strong></div><div><br></div><div><strong>What We're Looking For</strong></div><div>Baylor University has an opening for a Postdoctoral Research Associate in Experimental High Energy Physics beginning no sooner than August 1st, 2025. The successful candidate will join the Experimental High Energy Physics group led by Profs. Brinkerhoff, Dittmann, Hatakeyama, and Wilson to participate in the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider.&nbsp;</div><div><br></div><div>The group currently plays a major role in the Phase 2 upgrade of the endcap calorimeter, the development of novel calorimeters for future experiments, the operation of the recently upgraded hadron calorimeter, trigger system optimization, and improvement of particle flow reconstruction. We are currently engaged in measurements involving the top quark, searches for rare Higgs boson decays, searches for supersymmetry and other new phenomena, and measurements of rare standard model processes. We vigorously pursue the use of machine learning techniques for data analysis.&nbsp;</div><div><br></div><div>Candidates must have a Ph.D. and research experience in experimental high energy physics. The successful candidate is expected to carry out novel physics analyses in the area of effective fi eld theory, as well as to contribute to the Phase 2 upgrade of the endcap calorimeter, the development of novel calorimetry, the operation of the CMS detector, and/or future detector upgrades. Candidates should have extensive programming experience in C++ and Python, and some experience in machine learning techniques is preferred.&nbsp;</div><div><br></div><div>The position will be located at the Fermilab LHC Physics Center (Batavia, Illinois, United States). Review of applications will begin immediately and will continue until the position is filled.&nbsp;</div><div><br></div><div>To apply, candidates should submit the following to Baylor’s jobs website:&nbsp;</div><div>• Cover letter&nbsp;</div><div>• CV&nbsp;</div><div>• Statement of research interests (to be appended to the cover letter)&nbsp;</div><div>• Names and contact information for three professional references In addition, applicants should also arrange for at least three letters of recommendation to be sent by email to hep-postdoc-letters@baylor.edu.&nbsp;</div><div><br></div><div><strong>What You Will Do</strong></div><div>• Assist PI in planning, organizing, and carrying out research projects.&nbsp;</div><div>• Prepare scientific articles for publication.</div><div>• Present publications and research results at conferences and workshops.</div><div>• Attend training as required for the job.</div><div>• Work on other projects assigned by the PI.</div><div>• Perform all other duties as assigned to support Baylor’s mission</div><div>• Ability to comply with University policies</div><div>• Maintain regular and punctual attendance</div><div><br></div><div><strong>What You Can Expect</strong></div><div>As part of the Baylor family, eligible employees receive a comprehensive benefits package that includes medical, dental, and vision insurance, generous time off, tuition remission, and outstanding automatic retirement contributions. Baylor has a comprehensive benefits plan that supports you and your family’s wellbeing and allows you to be a part of the life of a vibrant and active college campus.&nbsp;To learn more, go to&nbsp;Baylor Benefits &amp; Advantages.</div><div><br></div><div><strong>Explore &amp; Engage</strong></div><div>Learn more about&nbsp;Baylor&nbsp;and our strategic vision,&nbsp;Baylor in Deeds.&nbsp;Also, explore our great hometown of&nbsp;Waco&nbsp;and the many opportunities to&nbsp;engage locally.&nbsp;If you are new to Central Texas,&nbsp;This is Waco!&nbsp;</div><div><br></div><div><strong>ABOUT US</strong></div><div>Baylor University, a private not-for-profit university affiliated with the Baptist General Convention of Texas, is committed to compliance with all applicable anti-discrimination laws, including those regarding age, race, color, sex, national origin, military service, genetic information, and disability. Baylor complies with statutory Affirmative Action/Equal Opportunity requirements. Baylor's full official Notice of Non-Discrimination&nbsp;may be read online.</div><div><br></div><div><strong>To apply, visit:</strong> <a href=\"https://apptrkr.com/6418929\">https://apptrkr.com/6418929</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://apptrkr.com/6418929"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T13:02:59.890909+00:00",
+      "updated": "2025-07-29T14:42:06.056645+00:00"
+    },
+    {
+      "id": "2955005",
+      "title": "Postdoctoral position in ePIC experiment at the EIC",
+      "institution": "AGH-UST, Cracow",
+      "deadline": "2025-10-31",
+      "description": "<div>The construction of the Electron-Ion Collider and acompanied ePIC detector will start in 2026 at Brookhaven National Laboratory, USA, and first collisions are expected to be observed in 2032. Successful candidate will participate in the activities of the AGH University's group involved in ePIC experiment: simulations of the detector components and phenomenological analyses of Monte Carlo data as part of the measurement feasibility studies of selected exclusive processes.</div><div>From the successful candidate it is expected an excellent knowledge of physics subjects related to this project. Perfect programming knowledge in C++, ROOT, Python and frameworks like GitHub. Experience in data analysis in HEP experiments. Some knowledge of the software related to ePIC will also be appreciated, e.g. experience with using Monte Carlo generators.</div><div>Ii will be possible for interested candidates to be partly involved in the analysis of data collected by the STAR experiment at RHIC.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.epic-eic.org/"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T10:36:20.836475+00:00",
+      "updated": "2025-07-29T14:49:53.930511+00:00"
+    },
+    {
+      "id": "2954973",
+      "title": "Boya postdoctoral fellow in Experimental High Energy Physics - 2",
+      "institution": "Peking U., Beijing",
+      "deadline": "2025-09-30",
+      "description": "<div>The Experimental High Energy Physics group at Peking University (PKU) invites applications for the Boya postdoctoral fellow (<a href=\"https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm\">https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm</a>)</div><div><br></div><div>The successful candidate is expected to play a prominent role in some of the following areas: machine learning/quantum computing application, Higgs factories, and muon experiments.</div><div><br></div><div>Some previous public results of our group include:</div><ol><li>jet origin identification and its application at Higgs factory (Phys. Rev. Lett. 132 (2024) 221802)</li><li>novel quantum realization of jet clustering (Science Bulletin 70&nbsp;(2025)&nbsp;460)</li><li>quantum state tomography with muons (J. Phys. G&nbsp;52&nbsp;(2025)&nbsp;075002)</li></ol><div>Initial appointment will be for two years, renewable for a third year and beyond, subject to mutual satisfaction. It will start as soon as possible when the decision is made. A Ph.D. is required at the time of employment.&nbsp;</div><div><br></div><div>For more details, please contact&nbsp;Prof. Chen Zhou (<a href=\"mailto:chen.zhou@cern.ch\">chen.zhou@cern.ch</a>).</div><div><br></div><div>The application material will consist of (1) curriculum vitae, (2) a description of research interests and accomplishments and (3) three letters of recommendation sent directly by the referees. Please send the material by email to:&nbsp;Prof. Chen Zhou (<a href=\"mailto:chen.zhou@cern.ch\">chen.zhou@cern.ch</a>).</div><div><br></div><div>Applications will be accepted until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T08:06:01.043333+00:00",
+      "updated": "2025-07-29T14:44:15.260003+00:00"
+    },
+    {
+      "id": "2954972",
+      "title": "Boya postdoctoral fellow in Experimental High Energy Physics - 1",
+      "institution": "Peking U., Beijing",
+      "deadline": "2025-09-30",
+      "description": "<div>The Experimental High Energy Physics group at Peking University (PKU) invites applications for the Boya postdoctoral fellow (<a href=\"https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm\">https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm</a>)</div><div><br></div><div>The successful candidate is expected to work on the CMS experiment at the LHC and play a prominent role in the areas of physics related to the Higgs boson (e.g. Higgs rare decays, multiple Higgs production, precision measurements of Higgs properties) and new physics searches. Some previous public results of our group include:</div><div>1. evidence for Higgs-&gt;ZGamma decay with ATLAS+CMS (Phys. Rev. Lett. 132 (2024) 021803)</div><div>2. searches for Higgs production through heavy resonance decays with CMS (Phys. Rept. 1115 (2025) 368)</div><div>3. measurement of fiducial cross section of Higgs production with CMS (CMS-PAS-HIG-23-014)</div><div><br></div><div>The successful candidate will also have a chance to contribute to the muon detector upgrade including the local production at PKU and the commissioning/operation at CERN.&nbsp;</div><div><br></div><div>Initial appointment will be for two years, renewable for a third year and beyond, subject to mutual satisfaction. It will start as soon as possible when the decision is made. A Ph.D. is required at the time of employment.&nbsp;</div><div><br></div><div>For more details, please contact&nbsp;Prof. Chen Zhou (<a href=\"mailto:chen.zhou@cern.ch\">chen.zhou@cern.ch</a>).</div><div><br></div><div>The application material will consist of (1) curriculum vitae, (2) a description of research interests and accomplishments and (3) three letters of recommendation sent directly by the referees. Please send the material by email to:&nbsp;Prof. Chen Zhou (<a href=\"mailto:chen.zhou@cern.ch\">chen.zhou@cern.ch</a>).</div><div><br></div><div>Applications will be accepted until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://postdocs.pku.edu.cn/tzgg/23e7ff5c7223496eb014f454d49c43db.htm"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T07:53:33.582237+00:00",
+      "updated": "2025-07-29T14:52:33.492938+00:00"
+    },
+    {
+      "id": "2954971",
+      "title": "QUP Associate or Assistant Professor in experimental physics",
+      "institution": "QUP, Tsukuba",
+      "deadline": "2025-08-31",
+      "description": "<div>We are seeking outstanding applicants for&nbsp;<strong>several positions of the rank of&nbsp;associate professor or assistant professor positions in experimental physics&nbsp;at QUP</strong>. We are interested in outstanding scientists with excellent track records and international recognition.</div><div><br></div><div>International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP) is a World Premier international research Center Initiative (WPI) promoted by the Japanese government and hosted by High Energy Accelerator Research Organization (KEK), the leading national high energy physics laboratory in Japan.&nbsp;</div><div><br></div><div>QUP aims to explore new quantum fields and forces and probe physical phenomena with extremely weak couplings; such as light dark matter, axions, and gravitational waves, by pioneering the weak coupling frontier through the use of cutting-edge quantum sensors and devices. QUP operates under a distinctive organizational model in which researchers from a broad range of institutions, including KEK, converge at QUP to pursue common scientific objectives. QUP's principal research activities are conducted at its central facility, with additional support provided by satellite laboratories at the University of California at Berkeley (USA), Toyota Central R&amp;D Lab. and ISAS at Japanese space agency JAXA. These programs are designed to bridge quantum technologies with particle and fundamental physics, materials science, and biomedical applications through deeply coordinated, intra-institutional collaboration.</div><div><br></div><div>The appointee will primarily engage in one of the following QUP experimental projects shown at&nbsp;<a href=\"https://www2.kek.jp/qup/en/research/\"><strong>https://www2.kek.jp/qup/en/research/</strong></a>, in collaboration with the QUP Principal Investigators (PIs). However, the possibility of proposing new projects in accordance with QUP's research plan remains open.</div><div><br></div><div>The contract for this position will be on an annual basis. The renewal of the contract depends on the continuing availability of funds and the fellow's satisfactory job performance. The maximum term of the position is five years, with the possibility of renewal or promotion to a tenured position based on satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salaries are comparable to those at other prestigious institutions. Financial support for starting-up research will also be provided.</div><div><br></div><div>As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. QUP is an equal opportunity employer that will build a diverse community of scientists. We welcome qualified applicants worldwide, including women, persons with disabilities, and underrepresented minorities, regardless of race, color, religion, gender identity, etc.</div><div><br></div><div>Applicants should have a Ph.D. in Physics or a related field and more than three years of working experience after receiving a Ph.D. with an outstanding record in experimental cosmology, particle physics, or related fields. The posting shall remain open until the positions are filled. However, for full consideration, we encourage all candidates to apply by August 31, 2025. Applications will only be accepted via <a href=\"http://AcademicJobsOnline.org\">AcademicJobsOnline.org</a>. Applicants should submit a curriculum vitae (with an email address and citizenship), a statement of research interests, and a list of publications. Applicants should also ensure that at least five letters of reference be submitted on their behalf. They should be uploaded from this page. Email inquiries regarding the application process may be sent to :&nbsp;&nbsp;<a href=\"mailto:qup_job_inquiry@ml.post.kek.jp\"><strong>qup_job_inquiry@ml.post.kek.jp</strong></a>.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30166"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T07:14:11.809316+00:00",
+      "updated": "2025-07-29T14:46:21.920850+00:00"
+    },
+    {
+      "id": "2954970",
+      "title": "QUP Postdoctoral Fellows in Experimental Physics",
+      "institution": "QUP, Tsukuba",
+      "deadline": "2025-08-31",
+      "description": "<div>We are seeking outstanding applicants for<strong>&nbsp;approximately ten Postdoctoral Fellow positions&nbsp;</strong>at QUP in experimental physics.</div><div><br></div><div>The International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP) is a World Premier International Research Center Initiative (WPI) promoted by the Japanese government and hosted by the High Energy Accelerator Research Organization (KEK), the leading national high energy physics laboratory in Japan.&nbsp;</div><div><br></div><div>QUP aims to explore new quantum fields and forces and probe physical phenomena with extremely weak couplings, such as light dark matter, axions, and gravitational waves, by pioneering the weak coupling frontier through the use of cutting-edge quantum sensors and devices. QUP operates under a distinctive organizational model in which researchers from a broad range of institutions, including KEK, converge at QUP to pursue common scientific objectives. QUP's principal research activities are conducted at its central facility, with additional support provided by satellite laboratories at the University of California at Berkeley (USA), Toyota Central R&amp;D Lab., and ISAS at the Japanese space agency JAXA. These programs are designed to bridge quantum technologies with particle and fundamental physics, materials science, and biomedical applications through deeply coordinated, intra-institutional collaboration.&nbsp;</div><div><br></div><div>Successful candidates are expected to conduct research for the QUP experimental projects with the Principal Investigators. A brief list of the projects can be found at <a href=\"https://academicjobsonline.org/ajo/jobs/30165\">Job opening page</a>. An overview of the QUP research, including the relationship between the projects, can be found at:&nbsp;<a href=\"https://www2.kek.jp/qup/en/research/\"><strong>https://www2.kek.jp/qup/en/research/</strong></a>.</div><div><br></div><div>The contract for this postdoctoral fellowship will be on an annual basis. The renewal of the contract depends on the continuing availability of funds and the fellow's satisfactory job performance. The maximum term of the position is three years, with the possibility of a two-year renewal based upon satisfactory job performance and ongoing operational need, provided with salaries comparable to those at other prestigious institutions.</div><div><br></div><div>As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. QUP is an equal opportunity employer that will build a diverse community of scientists. We welcome qualified applicants worldwide, including women, persons with disabilities, and underrepresented minorities, regardless of race, color, religion, gender identity, etc.</div><div><br></div><div>Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. The posting shall remain open until the positions are filled. However, for full consideration, we encourage all candidates to apply by August 31, 2025. Applications will only be accepted via <a href=\"http://AcademicJobsOnline.org\">AcademicJobsOnline.org</a>. Applicants should submit a curriculum vitae (with an email address and citizenship), a statement of research interests, and a list of publications. Applicants should also ensure that at least three letters of reference be submitted on their behalf. They should be uploaded from this page. Email inquiries&nbsp;regarding the application process may be sent to :&nbsp;&nbsp;<a href=\"mailto:qup_job_inquiry@ml.post.kek.jp\"><strong>qup_job_inquiry@ml.post.kek.jp</strong></a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30165"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T07:07:59.631557+00:00",
+      "updated": "2025-07-29T14:51:05.824660+00:00"
+    },
+    {
+      "id": "2954696",
+      "title": "Assistant Professor (No fixed term)",
+      "institution": "Tokyo U., RESCEU",
+      "deadline": "2025-09-30",
+      "description": "<div>A junior faculty position at the rank of an assistant professor is available for a suitably qualified individual to work in cooperation with Professor Shinji Mukohyama at Research Center for the Early Universe (RESCEU), Graduate School of Science, The University of Tokyo.</div><div><br></div><div><strong>1.Title of position</strong></div><div>Assistant Professor (Full-time)</div><div><strong>2.Affiliation</strong></div><div>Research Center for the Early Universe (RESCEU), Graduate School of Science, The University of Tokyo</div><div>Early Universe Cosmology Division</div><div><strong>3.Area of expertise and job description</strong></div><div>Theoretical Astrophysics. In addition to conducting research and graduate education in astrophysics in cooperation with Professor Shinji Mukohyama, the successful candidate will also be responsible for various tasks at the Center and undergraduate education in the Department of Physics, Faculty of Science (with the same duties as an assistant professor in the Department of Physics with regard to undergraduate education).</div><div>Note: Reassignment, concurrent assignment, or transfer will not be imposed without consent in accordance with Article 4 of the university's employment regulations.</div><div><strong>4.Starting date</strong></div><div>As soon as possible after the decision is made</div><div><strong>5.Terms of Employment</strong></div><div>No fixed term</div><div><strong>6.Probation Period</strong></div><div>Six months from the date of employment</div><div><strong>7.Place of employment</strong></div><div>Graduate School of Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan</div><div>Note: In principle, the University could change the designated place of work, but no reassignment or secondment will be against one's will. (In accordance with Article 4 of the Regulations on the Employment of University of Tokyo Faculty Members).</div><div><strong>8.Working hours</strong></div><div>Discretionary work system for professional work applies, and working hours will be deemed as 7 hours and 45 minutes per day.</div><div><strong>9.Days off, Leave</strong></div><div>Saturdays, Sundays, National Holidays, and the year-end and New Year holidays (December 29 to January 3), Annual Paid Leave, Special Leave, etc.</div><div><strong>10.Salary and Benefits</strong></div><div>To be determined based on academic background, work experience, etc. Salary increase system is available.</div><div>Various allowances: Year-end and diligence allowance (twice a year), commutation allowance (up to 55,000 yen per month if meeting requirements), and others as determined by the University.</div><div><strong>11.Insurance</strong></div><div>The successful applicant will be automatically enrolled in the insurance from the Mutual Aid Association of MEXT (Ministry of Education, Culture, Sports, Science, and Technology) and Employment Insurance.</div><div><strong>12.Qualification Requirements</strong></div><div>Applicants must hold a Ph.D. degree.</div><div><strong>13.Documents to be submitted</strong></div><div>Curriculum vitae</div><div>List of achievements (mark up to 5 major papers)</div><div>URL information to obtain PDF files of major papers</div><div>Summary of research achievements</div><div>Research plan (about 3 pages, A4 size)</div><div>Aspirations for education (about 2 pages, A4 size)</div><div>Names and contact information of 3 persons whose opinions can be heard (recommendation letters may be arranged)</div><div><strong>14.Application Deadline</strong></div><div>Must arrive no later than Tuesday, September 30, 2025</div><div><strong>15. (1) How and where to send documents</strong></div><div>All submitted documents should be combined into a single PDF file and sent to&nbsp;<a href=\"mailto:apply@resceu.s.u-tokyo.ac.jp\">apply@resceu.s.u-tokyo.ac.jp</a>. The subject line should include \"Application for Assistant Professor of Early Universe Cosmology\".</div><div>If you do not receive a confirmation of receipt within 5 days, please contact us by e-mail at the following address.</div><div>Request that the recommendation letter(s) be sent directly from the recommender(s) to the above address.</div><div><strong>(2) Inquiries:</strong></div><div>Prof. Toshikazu Shigeyama</div><div>Research Center for the Early Universe (RESCEU), Graduate School of Science, The University of Tokyo</div><div>Phone 03-5841-4689</div><div>E-mail&nbsp;<a href=\"mailto:toiawase@resceu.s.u-tokyo.ac.jp\">toiawase@resceu.s.u-tokyo.ac.jp</a></div><div><a href=\"http://16.Name\"><strong>16.Name</strong></a><strong> of Recruiter</strong></div><div>The University of Tokyo</div><div><strong>17. State of working measures to avoid passive smoking</strong></div><div>Smoking is prohibited inside the grounds of our university. We have smoking areas outdoors.</div><div><strong>18.Others</strong></div><div>During the period of employment, sharing controlled technology with you may be prohibited by FEFTA, and it may become difficult to achieve your job as a faculty or a staff member of the University if you are under the control of a foreign government, corporation or university by contract, or under the control of a foreign government by economic interests. In such a case, you need to keep the contract or interests within the range that does not incur such restrictions.</div><div>Personal information received through this application process will not be used for other purposes.</div><div>The University of Tokyo is committed to gender equality and encourages applications from all qualified candidates regardless of gender. For details see&nbsp;<a href=\"https://www.s.u-tokyo.ac.jp/en/overview/gender/promotion.html\">https://www.s.u-tokyo.ac.jp/en/overview/gender/promotion.html</a>.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.s.u-tokyo.ac.jp/en/recruit/?id=1830"
+      ],
+      "contact_email": null,
+      "created": "2025-07-29T02:25:31.353824+00:00",
+      "updated": "2025-07-29T14:48:22.636963+00:00"
+    },
+    {
       "id": "2954670",
       "title": "Postdoctoral Associate",
       "institution": "SUNY, Stony Brook",
@@ -2055,6 +2199,6 @@
       "updated": "2025-07-16T13:25:42.982292+00:00"
     }
   ],
-  "lastUpdated": "2025-07-29T14:50:32.529Z",
-  "totalJobs": 100
+  "lastUpdated": "2025-07-29T14:53:35.687Z",
+  "totalJobs": 107
 }
