@@ -974,7 +974,7 @@ body {
         const endIndex = Math.min(this.currentPage * this.pageSize, totalFiltered);
         
         this.resultsInfo.textContent = 
-            \`Showing \${startIndex}-\${endIndex} of \${totalFiltered} jobs\`;
+            'Showing ' + startIndex + '-' + endIndex + ' of ' + totalFiltered + ' jobs';
     }
 
     updatePagination() {
@@ -988,50 +988,46 @@ body {
         let paginationHTML = '';
         
         // Previous button
-        paginationHTML += \`
-            <button onclick="jobsApp.goToPage(\${this.currentPage - 1})" 
-                    \${this.currentPage <= 1 ? 'disabled' : ''}>
-                ← Previous
-            </button>\`;
+        paginationHTML += '<button onclick="jobsApp.goToPage(' + (this.currentPage - 1) + ')" ' +
+                    (this.currentPage <= 1 ? 'disabled' : '') + '>' +
+                '← Previous' +
+            '</button>';
 
         // Page numbers
         const startPage = Math.max(1, this.currentPage - 2);
         const endPage = Math.min(totalPages, this.currentPage + 2);
         
         if (startPage > 1) {
-            paginationHTML += \`<button onclick="jobsApp.goToPage(1)">1</button>\`;
+            paginationHTML += '<button onclick="jobsApp.goToPage(1)">1</button>';
             if (startPage > 2) {
-                paginationHTML += \`<span class="page-ellipsis">...</span>\`;
+                paginationHTML += '<span class="page-ellipsis">...</span>';
             }
         }
         
         for (let i = startPage; i <= endPage; i++) {
             const isActive = i === this.currentPage ? 'active' : '';
-            paginationHTML += \`
-                <button class="\${isActive}" onclick="jobsApp.goToPage(\${i})">
-                    \${i}
-                </button>\`;
+            paginationHTML += '<button class="' + isActive + '" onclick="jobsApp.goToPage(' + i + ')">' +
+                    i +
+                '</button>';
         }
         
         if (endPage < totalPages) {
             if (endPage < totalPages - 1) {
-                paginationHTML += \`<span class="page-ellipsis">...</span>\`;
+                paginationHTML += '<span class="page-ellipsis">...</span>';
             }
-            paginationHTML += \`<button onclick="jobsApp.goToPage(\${totalPages})">\${totalPages}</button>\`;
+            paginationHTML += '<button onclick="jobsApp.goToPage(' + totalPages + ')">' + totalPages + '</button>';
         }
 
         // Next button
-        paginationHTML += \`
-            <button onclick="jobsApp.goToPage(\${this.currentPage + 1})" 
-                    \${this.currentPage >= totalPages ? 'disabled' : ''}>
-                Next →
-            </button>\`;
+        paginationHTML += '<button onclick="jobsApp.goToPage(' + (this.currentPage + 1) + ')" ' +
+                    (this.currentPage >= totalPages ? 'disabled' : '') + '>' +
+                'Next →' +
+            '</button>';
 
         // Page info
-        paginationHTML += \`
-            <div class="page-info">
-                Page \${this.currentPage} of \${totalPages}
-            </div>\`;
+        paginationHTML += '<div class="page-info">' +
+                'Page ' + this.currentPage + ' of ' + totalPages +
+            '</div>';
 
         this.paginationContainer.innerHTML = paginationHTML;
     }
@@ -1191,7 +1187,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       jobs.push({
-        id: \`mock-\${i + 1}\`,
+        id: 'mock-' + (i + 1),
         title: positions[Math.floor(Math.random() * positions.length)],
         institution: institutions[Math.floor(Math.random() * institutions.length)],
         deadline: deadlineDate.toISOString().split('T')[0],
@@ -1199,8 +1195,8 @@ document.addEventListener('DOMContentLoaded', () => {
         regions: regions[Math.floor(Math.random() * regions.length)],
         ranks: ranks[Math.floor(Math.random() * ranks.length)],
         experiments: Math.random() < 0.7 ? experiments[Math.floor(Math.random() * experiments.length)] : [],
-        urls: [\`https://jobs.example.com/job/\${i + 1000}\`],
-        contact_email: \`jobs\${i}@example.edu\`,
+        urls: ['https://jobs.example.com/job/' + (i + 1000)],
+        contact_email: 'jobs' + i + '@example.edu',
         created: createdDate.toISOString(),
         updated: createdDate.toISOString()
       });
