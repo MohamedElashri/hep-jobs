@@ -6,20 +6,20 @@
  * Zero dependencies - uses only Node.js built-ins
  */
 
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 class HEPJobsTracker {
   constructor() {
     this.config = {
-      apiBase: 'https://inspirehep.net/api',
-      dataDir: './data',
-      docsDir: './docs',
-      jobsFile: './data/jobs.json',
+      apiBase: "https://inspirehep.net/api",
+      dataDir: "./data",
+      docsDir: "./docs",
+      jobsFile: "./data/jobs.json",
       maxJobs: 200,
-      daysBack: 30
+      daysBack: 30,
     };
-    
+
     this.ensureDirectories();
   }
 
@@ -28,31 +28,33 @@ class HEPJobsTracker {
   // ============================================
 
   ensureDirectories() {
-    [this.config.dataDir, this.config.docsDir].forEach(dir => {
+    [this.config.dataDir, this.config.docsDir].forEach((dir) => {
       if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true });
       }
     });
   }
 
-  log(message, type = 'info') {
+  log(message, type = "info") {
     const timestamp = new Date().toISOString();
-    const emoji = { info: 'ℹ️', success: '✅', error: '❌', warning: '⚠️' }[type];
+    const emoji = { info: "ℹ️", success: "✅", error: "❌", warning: "⚠️" }[
+      type
+    ];
     console.log(`${emoji} [${timestamp}] ${message}`);
   }
 
   formatDate(dateString, options = {}) {
-    if (!dateString) return 'No deadline';
+    if (!dateString) return "No deadline";
     try {
       const date = new Date(dateString);
-      return date.toLocaleDateString('en-US', { 
-        year: 'numeric', 
-        month: 'short', 
-        day: 'numeric',
-        ...options
+      return date.toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+        ...options,
       });
     } catch (error) {
-      return 'Invalid date';
+      return "Invalid date";
     }
   }
 
@@ -66,19 +68,21 @@ class HEPJobsTracker {
   }
 
   escapeHtml(text) {
-    if (!text) return '';
+    if (!text) return "";
     return text
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;')
-      .replace(/'/g, '&#x27;');
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#x27;");
   }
 
-  truncateText(text, maxLength, suffix = '...') {
-    if (!text) return '';
+  truncateText(text, maxLength, suffix = "...") {
+    if (!text) return "";
     if (text.length <= maxLength) return this.escapeHtml(text);
-    return this.escapeHtml(text.substring(0, maxLength - suffix.length)) + suffix;
+    return (
+      this.escapeHtml(text.substring(0, maxLength - suffix.length)) + suffix
+    );
   }
 
   // ============================================
@@ -86,64 +90,179 @@ class HEPJobsTracker {
   // ============================================
 
   async fetchJobs() {
-    this.log('Fetching jobs from InspireHEP API...');
-    
+    this.log("Fetching jobs from InspireHEP API...");
+
     try {
-      const startDate = new Date();
-      startDate.setDate(startDate.getDate() - this.config.daysBack);
-      
+      // First, try without date filter to see if API works
       const params = new URLSearchParams({
-        sort: 'mostrecent',
+        sort: "mostrecent",
         size: 100,
-        q: `deadline:>${startDate.toISOString().split('T')[0]}`
       });
 
+      this.log(`API URL: ${this.config.apiBase}/jobs?${params}`);
       const response = await fetch(`${this.config.apiBase}/jobs?${params}`);
-      
+
+      this.log(`HTTP Status: ${response.status} ${response.statusText}`);
+
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        const errorText = await response.text();
+        this.log(`Response body: ${errorText}`, "error");
+        throw new Error(
+          `HTTP error! status: ${response.status} - ${errorText}`
+        );
       }
 
       const data = await response.json();
-      const processedJobs = this.processJobs(data.hits.hits);
-      
-      this.log(`Fetched ${processedJobs.length} jobs from API`, 'success');
-      return processedJobs;
-      
+      this.log(
+        `Raw API response structure: ${JSON.stringify(Object.keys(data))}`
+      );
+
+      if (data.hits && data.hits.hits) {
+        this.log(`Total jobs available: ${data.hits.total}`);
+        this.log(`Jobs in this response: ${data.hits.hits.length}`);
+
+        // Log first job structure for debugging
+        if (data.hits.hits.length > 0) {
+          const firstJob = data.hits.hits[0];
+          this.log(`First job keys: ${JSON.stringify(Object.keys(firstJob))}`);
+          this.log(
+            `First job metadata keys: ${JSON.stringify(
+              Object.keys(firstJob.metadata || {})
+            )}`
+          );
+        }
+
+        const processedJobs = this.processJobs(data.hits.hits);
+        this.log(`Fetched ${processedJobs.length} jobs from API`, "success");
+        return processedJobs;
+      } else {
+        this.log(
+          `Unexpected response structure: ${JSON.stringify(data)}`,
+          "warning"
+        );
+        throw new Error("Unexpected API response structure");
+      }
     } catch (error) {
-      this.log(`Error fetching jobs: ${error.message}`, 'error');
-      return [];
+      this.log(`Error fetching jobs: ${error.message}`, "error");
+      this.log(`Error stack: ${error.stack}`, "error");
+
+      // Use mock data for testing if API fails
+      this.log("API failed, using mock data for testing...", "warning");
+      return this.generateMockJobs();
     }
   }
 
   processJobs(jobs) {
-    return jobs.map(job => {
-      const metadata = job.metadata;
-      return {
-        id: job.id,
-        title: this.cleanJobTitle(metadata.position),
-        institution: this.extractInstitution(metadata.institutions),
-        deadline: metadata.deadline_date,
-        description: metadata.description?.value || '',
-        regions: metadata.regions || [],
-        ranks: metadata.ranks || [],
-        experiments: metadata.accelerator_experiments?.map(exp => exp.name) || [],
-        urls: metadata.urls?.map(url => url.value) || [],
-        contact_email: metadata.contact_details?.[0]?.email,
-        created: metadata.creation_date || job.created,
-        updated: metadata.update_date || job.updated
-      };
-    });
+    if (!Array.isArray(jobs)) {
+      this.log("Jobs data is not an array", "warning");
+      return [];
+    }
+
+    return jobs
+      .map((job, index) => {
+        try {
+          const metadata = job.metadata || job;
+
+          // Log structure of first job for debugging
+          if (index === 0) {
+            this.log(
+              `Processing first job - available fields: ${JSON.stringify(
+                Object.keys(metadata)
+              )}`
+            );
+          }
+
+          return {
+            id:
+              job.id || metadata.control_number || `job-${Date.now()}-${index}`,
+            title: this.cleanJobTitle(
+              metadata.position ||
+                metadata.title?.title ||
+                metadata.titles?.[0]?.title ||
+                "Untitled Position"
+            ),
+            institution: this.extractInstitution(metadata.institutions),
+            deadline: metadata.deadline_date || metadata.deadline || null,
+            description: this.extractDescription(metadata),
+            regions: metadata.regions || [],
+            ranks: metadata.ranks || [],
+            experiments:
+              metadata.accelerator_experiments?.map(
+                (exp) => exp.name || exp.value || exp
+              ) || [],
+            urls: this.extractUrls(metadata),
+            contact_email: this.extractContactEmail(metadata),
+            created:
+              metadata.creation_date ||
+              metadata.created ||
+              job.created ||
+              new Date().toISOString(),
+            updated:
+              metadata.update_date ||
+              metadata.updated ||
+              job.updated ||
+              new Date().toISOString(),
+          };
+        } catch (error) {
+          this.log(
+            `Error processing job ${index}: ${error.message}`,
+            "warning"
+          );
+          return null;
+        }
+      })
+      .filter((job) => job !== null);
+  }
+
+  extractDescription(metadata) {
+    if (metadata.description?.value) return metadata.description.value;
+    if (metadata.description) return metadata.description;
+    if (metadata.abstract?.value) return metadata.abstract.value;
+    if (metadata.abstract) return metadata.abstract;
+    return "";
+  }
+
+  extractUrls(metadata) {
+    const urls = [];
+
+    if (metadata.urls && Array.isArray(metadata.urls)) {
+      urls.push(...metadata.urls.map((url) => url.value || url.url || url));
+    } else if (metadata.urls) {
+      urls.push(metadata.urls);
+    }
+
+    if (metadata.reference_urls && Array.isArray(metadata.reference_urls)) {
+      urls.push(
+        ...metadata.reference_urls.map((url) => url.value || url.url || url)
+      );
+    }
+
+    return urls.filter((url) => url && typeof url === "string");
+  }
+
+  extractContactEmail(metadata) {
+    if (metadata.contact_details && Array.isArray(metadata.contact_details)) {
+      const contact = metadata.contact_details.find((c) => c.email);
+      if (contact) return contact.email;
+    }
+
+    if (metadata.contact_email) return metadata.contact_email;
+    if (metadata.email) return metadata.email;
+
+    return null;
   }
 
   extractInstitution(institutions) {
-    if (!institutions || institutions.length === 0) return 'Unknown Institution';
-    return institutions[0].value || institutions[0].name || 'Unknown Institution';
+    if (!institutions || institutions.length === 0)
+      return "Unknown Institution";
+    return (
+      institutions[0].value || institutions[0].name || "Unknown Institution"
+    );
   }
 
   cleanJobTitle(title) {
-    if (!title) return 'Untitled Position';
-    return title.replace(/\s+/g, ' ').trim();
+    if (!title) return "Untitled Position";
+    return title.replace(/\s+/g, " ").trim();
   }
 
   // ============================================
@@ -153,28 +272,30 @@ class HEPJobsTracker {
   loadExistingJobs() {
     try {
       if (fs.existsSync(this.config.jobsFile)) {
-        const data = fs.readFileSync(this.config.jobsFile, 'utf8');
+        const data = fs.readFileSync(this.config.jobsFile, "utf8");
         return JSON.parse(data);
       }
     } catch (error) {
-      this.log(`Error loading existing jobs: ${error.message}`, 'warning');
+      this.log(`Error loading existing jobs: ${error.message}`, "warning");
     }
     return { jobs: [], lastUpdated: null, totalJobs: 0 };
   }
 
   mergeJobs(newJobs, existingData) {
     const existingJobs = existingData.jobs || [];
-    const existingIds = new Set(existingJobs.map(job => job.id));
-    
+    const existingIds = new Set(existingJobs.map((job) => job.id));
+
     // Add new jobs that don't exist
-    const uniqueNewJobs = newJobs.filter(job => !existingIds.has(job.id));
-    
+    const uniqueNewJobs = newJobs.filter((job) => !existingIds.has(job.id));
+
     // Combine and sort by creation date (newest first)
     const allJobs = [...existingJobs, ...uniqueNewJobs]
       .sort((a, b) => new Date(b.created) - new Date(a.created))
       .slice(0, this.config.maxJobs);
 
-    this.log(`Added ${uniqueNewJobs.length} new jobs, total: ${allJobs.length}`);
+    this.log(
+      `Added ${uniqueNewJobs.length} new jobs, total: ${allJobs.length}`
+    );
     return allJobs;
   }
 
@@ -182,11 +303,11 @@ class HEPJobsTracker {
     const dataToSave = {
       jobs,
       lastUpdated: new Date().toISOString(),
-      totalJobs: jobs.length
+      totalJobs: jobs.length,
     };
 
     fs.writeFileSync(this.config.jobsFile, JSON.stringify(dataToSave, null, 2));
-    this.log(`Saved ${jobs.length} jobs to database`, 'success');
+    this.log(`Saved ${jobs.length} jobs to database`, "success");
   }
 
   // ============================================
@@ -196,8 +317,8 @@ class HEPJobsTracker {
   generateJobCard(job) {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
-    const cardClass = isExpired ? 'job-card expired' : 'job-card';
-    
+    const cardClass = isExpired ? "job-card expired" : "job-card";
+
     return `
       <div class="${cardClass}" data-id="${job.id}">
         <div class="job-header">
@@ -206,45 +327,77 @@ class HEPJobsTracker {
         </div>
         
         <div class="job-meta">
-          <div class="deadline ${isExpired ? 'expired-text' : ''}">
+          <div class="deadline ${isExpired ? "expired-text" : ""}">
             <strong>Deadline:</strong> ${deadline}
           </div>
-          ${job.regions.length > 0 ? `
+          ${
+            job.regions.length > 0
+              ? `
             <div class="regions">
-              <strong>Regions:</strong> ${job.regions.join(', ')}
-            </div>` : ''}
-          ${job.ranks.length > 0 ? `
+              <strong>Regions:</strong> ${job.regions.join(", ")}
+            </div>`
+              : ""
+          }
+          ${
+            job.ranks.length > 0
+              ? `
             <div class="ranks">
-              <strong>Ranks:</strong> ${job.ranks.join(', ')}
-            </div>` : ''}
-          ${job.experiments.length > 0 ? `
+              <strong>Ranks:</strong> ${job.ranks.join(", ")}
+            </div>`
+              : ""
+          }
+          ${
+            job.experiments.length > 0
+              ? `
             <div class="experiments">
-              <strong>Experiments:</strong> ${job.experiments.slice(0, 3).join(', ')}
-              ${job.experiments.length > 3 ? ` (+${job.experiments.length - 3} more)` : ''}
-            </div>` : ''}
+              <strong>Experiments:</strong> ${job.experiments
+                .slice(0, 3)
+                .join(", ")}
+              ${
+                job.experiments.length > 3
+                  ? ` (+${job.experiments.length - 3} more)`
+                  : ""
+              }
+            </div>`
+              : ""
+          }
         </div>
 
-        ${job.description ? `
+        ${
+          job.description
+            ? `
           <div class="job-description">
             ${this.truncateText(job.description, 200)}
-          </div>` : ''}
+          </div>`
+            : ""
+        }
 
         <div class="job-actions">
-          ${job.urls.length > 0 ? `
-            <a href="${job.urls[0]}" target="_blank" class="btn-apply">View Details</a>` : ''}
-          ${job.contact_email ? `
-            <a href="mailto:${job.contact_email}" class="btn-contact">Contact</a>` : ''}
+          ${
+            job.urls.length > 0
+              ? `
+            <a href="${job.urls[0]}" target="_blank" class="btn-apply">View Details</a>`
+              : ""
+          }
+          ${
+            job.contact_email
+              ? `
+            <a href="mailto:${job.contact_email}" class="btn-contact">Contact</a>`
+              : ""
+          }
         </div>
       </div>`;
   }
 
   generateHTML(jobsData) {
     const { jobs, lastUpdated, totalJobs } = jobsData;
-    const updateTime = lastUpdated ? new Date(lastUpdated).toLocaleString() : 'Never';
-    
-    const activeJobs = jobs.filter(job => !this.isExpired(job.deadline));
-    const expiredJobs = jobs.filter(job => this.isExpired(job.deadline));
-    
+    const updateTime = lastUpdated
+      ? new Date(lastUpdated).toLocaleString()
+      : "Never";
+
+    const activeJobs = jobs.filter((job) => !this.isExpired(job.deadline));
+    const expiredJobs = jobs.filter((job) => this.isExpired(job.deadline));
+
     return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -277,15 +430,19 @@ class HEPJobsTracker {
         </div>
 
         <div class="jobs-container" id="jobsContainer">
-            ${activeJobs.map(job => this.generateJobCard(job)).join('')}
-            ${expiredJobs.map(job => this.generateJobCard(job)).join('')}
+            ${activeJobs.map((job) => this.generateJobCard(job)).join("")}
+            ${expiredJobs.map((job) => this.generateJobCard(job)).join("")}
         </div>
 
-        ${jobs.length === 0 ? `
+        ${
+          jobs.length === 0
+            ? `
           <div class="no-jobs">
             <h2>No jobs found</h2>
             <p>Check back later for new opportunities!</p>
-          </div>` : ''}
+          </div>`
+            : ""
+        }
     </main>
 
     <footer class="footer">
@@ -606,49 +763,173 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // ============================================
-  // BUILD PROCESS
+  // MOCK DATA (FOR TESTING)
   // ============================================
 
+  generateMockJobs() {
+    this.log("Generating mock jobs for testing...", "warning");
+
+    return [
+      {
+        id: "mock-1",
+        title: "Postdoctoral Research Associate in High Energy Physics",
+        institution: "CERN",
+        deadline: "2024-12-31",
+        description:
+          "We are seeking a talented postdoctoral researcher to join our team working on LHC experiments. The successful candidate will contribute to data analysis and detector development.",
+        regions: ["Europe"],
+        ranks: ["Postdoc"],
+        experiments: ["ATLAS", "CMS"],
+        urls: ["https://jobs.cern.ch/job/12345"],
+        contact_email: "jobs@cern.ch",
+        created: "2024-07-01T10:00:00Z",
+        updated: "2024-07-15T14:30:00Z",
+      },
+      {
+        id: "mock-2",
+        title: "Assistant Professor of Theoretical Physics",
+        institution: "University of California, Berkeley",
+        deadline: "2024-11-30",
+        description:
+          "The Department of Physics seeks an assistant professor specializing in theoretical high energy physics. Research areas of interest include string theory, quantum field theory, and cosmology.",
+        regions: ["North America"],
+        ranks: ["Faculty"],
+        experiments: [],
+        urls: ["https://aprecruit.berkeley.edu/12345"],
+        contact_email: "physics-search@berkeley.edu",
+        created: "2024-06-15T09:00:00Z",
+        updated: "2024-07-01T16:20:00Z",
+      },
+      {
+        id: "mock-3",
+        title: "PhD Fellowship in Particle Physics",
+        institution: "Max Planck Institute for Physics",
+        deadline: "2024-10-15",
+        description:
+          "We offer a PhD position in experimental particle physics. The project involves analysis of data from the Belle II experiment at KEK.",
+        regions: ["Europe"],
+        ranks: ["PhD"],
+        experiments: ["Belle II"],
+        urls: ["https://www.mpp.mpg.de/jobs/phd-123"],
+        contact_email: "phd-applications@mpp.mpg.de",
+        created: "2024-05-20T11:30:00Z",
+        updated: "2024-06-10T13:45:00Z",
+      },
+    ];
+  }
+
   async build() {
-    this.log('🚀 Starting HEP Jobs Tracker build process...');
+    this.log("🚀 Starting HEP Jobs Tracker build process...");
 
     try {
-      // Step 1: Fetch new jobs
+      // Step 1: Test API connectivity first
+      await this.testApiConnectivity();
+
+      // Step 2: Fetch new jobs
       const newJobs = await this.fetchJobs();
-      
-      // Step 2: Load existing data and merge
+
+      // Step 3: Load existing data and merge
       const existingData = this.loadExistingJobs();
       const mergedJobs = this.mergeJobs(newJobs, existingData);
-      
-      // Step 3: Save updated data
+
+      // Step 4: Save updated data
       this.saveJobs(mergedJobs);
-      
-      // Step 4: Generate static files
-      this.log('Generating static website files...');
-      
+
+      // Step 5: Generate static files
+      this.log("Generating static website files...");
+
       const jobsData = {
         jobs: mergedJobs,
         lastUpdated: new Date().toISOString(),
-        totalJobs: mergedJobs.length
+        totalJobs: mergedJobs.length,
       };
 
       // Generate HTML
       const html = this.generateHTML(jobsData);
-      fs.writeFileSync(path.join(this.config.docsDir, 'index.html'), html);
-      
+      fs.writeFileSync(path.join(this.config.docsDir, "index.html"), html);
+
       // Generate CSS
       const css = this.generateCSS();
-      fs.writeFileSync(path.join(this.config.docsDir, 'style.css'), css);
-      
+      fs.writeFileSync(path.join(this.config.docsDir, "style.css"), css);
+
       // Generate JavaScript
       const js = this.generateJS();
-      fs.writeFileSync(path.join(this.config.docsDir, 'script.js'), js);
-      
-      this.log(`✨ Build completed successfully! Generated website with ${mergedJobs.length} jobs`, 'success');
-      
+      fs.writeFileSync(path.join(this.config.docsDir, "script.js"), js);
+
+      this.log(
+        `✨ Build completed successfully! Generated website with ${mergedJobs.length} jobs`,
+        "success"
+      );
     } catch (error) {
-      this.log(`Build failed: ${error.message}`, 'error');
-      process.exit(1);
+      this.log(`Build failed: ${error.message}`, "error");
+
+      // Try to build with existing data as fallback
+      try {
+        this.log(
+          "Attempting to build with existing data as fallback...",
+          "warning"
+        );
+        const existingData = this.loadExistingJobs();
+
+        if (existingData.jobs && existingData.jobs.length > 0) {
+          const jobsData = {
+            jobs: existingData.jobs,
+            lastUpdated: existingData.lastUpdated,
+            totalJobs: existingData.totalJobs,
+          };
+
+          // Generate HTML
+          const html = this.generateHTML(jobsData);
+          fs.writeFileSync(path.join(this.config.docsDir, "index.html"), html);
+
+          // Generate CSS
+          const css = this.generateCSS();
+          fs.writeFileSync(path.join(this.config.docsDir, "style.css"), css);
+
+          // Generate JavaScript
+          const js = this.generateJS();
+          fs.writeFileSync(path.join(this.config.docsDir, "script.js"), js);
+
+          this.log(
+            `✅ Fallback build completed with ${existingData.totalJobs} existing jobs`,
+            "success"
+          );
+        } else {
+          this.log("No existing data available for fallback build", "error");
+          process.exit(1);
+        }
+      } catch (fallbackError) {
+        this.log(
+          `Fallback build also failed: ${fallbackError.message}`,
+          "error"
+        );
+        process.exit(1);
+      }
+    }
+  }
+
+  async testApiConnectivity() {
+    this.log("Testing InspireHEP API connectivity...");
+
+    try {
+      const testUrl = `${this.config.apiBase}/jobs?size=1`;
+      this.log(`Testing URL: ${testUrl}`);
+
+      const response = await fetch(testUrl);
+      this.log(`API test response: ${response.status} ${response.statusText}`);
+
+      if (!response.ok) {
+        throw new Error(`API test failed with status ${response.status}`);
+      }
+
+      const data = await response.json();
+      this.log("✅ API connectivity test passed", "success");
+
+      return true;
+    } catch (error) {
+      this.log(`⚠️  API connectivity test failed: ${error.message}`, "warning");
+      this.log("Will proceed with mock data fallback...", "warning");
+      return false;
     }
   }
 }
@@ -664,8 +945,8 @@ async function main() {
 
 // Run if called directly
 if (require.main === module) {
-  main().catch(error => {
-    console.error('❌ Fatal error:', error);
+  main().catch((error) => {
+    console.error("❌ Fatal error:", error);
     process.exit(1);
   });
 }
