@@ -8,14 +8,16 @@
 
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
+const { URL } = require('url');
 
 class HEPJobsTracker {
   constructor() {
     this.config = {
       apiBase: 'https://inspirehep.net/api',
-      dataDir: './data',
-      docsDir: './docs',
-      jobsFile: './data/jobs.json',
+      dataDir: path.resolve('./data'),
+      docsDir: path.resolve('./docs'),
+      jobsFile: path.resolve('./data/jobs.json'),
       maxJobs: 200,
       daysBack: 30
     };
@@ -45,6 +47,7 @@ class HEPJobsTracker {
     if (!dateString) return 'No deadline';
     try {
       const date = new Date(dateString);
+      if (isNaN(date.getTime())) return 'Invalid date';
       return date.toLocaleDateString('en-US', { 
         year: 'numeric', 
         month: 'short', 
@@ -59,7 +62,8 @@ class HEPJobsTracker {
   isExpired(deadlineString) {
     if (!deadlineString) return false;
     try {
-      return new Date(deadlineString) < new Date();
+      const deadline = new Date(deadlineString);
+      return !isNaN(deadline.getTime()) && deadline < new Date();
     } catch (error) {
       return false;
     }
@@ -67,7 +71,7 @@ class HEPJobsTracker {
 
   escapeHtml(text) {
     if (!text) return '';
-    return text
+    return String(text)
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
@@ -77,8 +81,70 @@ class HEPJobsTracker {
 
   truncateText(text, maxLength, suffix = '...') {
     if (!text) return '';
-    if (text.length <= maxLength) return this.escapeHtml(text);
-    return this.escapeHtml(text.substring(0, maxLength - suffix.length)) + suffix;
+    const cleanText = String(text);
+    if (cleanText.length <= maxLength) return this.escapeHtml(cleanText);
+    return this.escapeHtml(cleanText.substring(0, maxLength - suffix.length)) + suffix;
+  }
+
+  // ============================================
+  // HTTP CLIENT (FETCH REPLACEMENT)
+  // ============================================
+
+  httpRequest(url, options = {}) {
+    return new Promise((resolve, reject) => {
+      const parsedUrl = new URL(url);
+      const requestOptions = {
+        hostname: parsedUrl.hostname,
+        port: parsedUrl.port || (parsedUrl.protocol === 'https:' ? 443 : 80),
+        path: parsedUrl.pathname + parsedUrl.search,
+        method: options.method || 'GET',
+        headers: {
+          'User-Agent': 'HEP-Jobs-Tracker/1.0',
+          'Accept': 'application/json',
+          ...options.headers
+        }
+      };
+
+      const client = parsedUrl.protocol === 'https:' ? https : require('http');
+      
+      const req = client.request(requestOptions, (res) => {
+        let data = '';
+        
+        res.on('data', (chunk) => {
+          data += chunk;
+        });
+        
+        res.on('end', () => {
+          try {
+            const result = {
+              status: res.statusCode,
+              statusText: res.statusMessage,
+              ok: res.statusCode >= 200 && res.statusCode < 300,
+              json: () => Promise.resolve(JSON.parse(data)),
+              text: () => Promise.resolve(data)
+            };
+            resolve(result);
+          } catch (error) {
+            reject(new Error(`Failed to parse response: ${error.message}`));
+          }
+        });
+      });
+
+      req.on('error', (error) => {
+        reject(new Error(`Request failed: ${error.message}`));
+      });
+
+      req.setTimeout(30000, () => {
+        req.destroy();
+        reject(new Error('Request timeout'));
+      });
+
+      if (options.body) {
+        req.write(options.body);
+      }
+      
+      req.end();
+    });
   }
 
   // ============================================
@@ -89,14 +155,17 @@ class HEPJobsTracker {
     this.log('Fetching jobs from InspireHEP API...');
     
     try {
-      // First, try without date filter to see if API works
+      // Build API query with proper parameters
       const params = new URLSearchParams({
         sort: 'mostrecent',
-        size: 100
+        size: '100',
+        q: 'doc_type:job' // Ensure we're getting job documents
       });
 
-      this.log(`API URL: ${this.config.apiBase}/jobs?${params}`);
-      const response = await fetch(`${this.config.apiBase}/jobs?${params}`);
+      const apiUrl = `${this.config.apiBase}/jobs?${params}`;
+      this.log(`API URL: ${apiUrl}`);
+      
+      const response = await this.httpRequest(apiUrl);
       
       this.log(`HTTP Status: ${response.status} ${response.statusText}`);
       
@@ -109,15 +178,17 @@ class HEPJobsTracker {
       const data = await response.json();
       this.log(`Raw API response structure: ${JSON.stringify(Object.keys(data))}`);
       
-      if (data.hits && data.hits.hits) {
-        this.log(`Total jobs available: ${data.hits.total}`);
+      if (data.hits && Array.isArray(data.hits.hits)) {
+        this.log(`Total jobs available: ${data.hits.total || data.hits.hits.length}`);
         this.log(`Jobs in this response: ${data.hits.hits.length}`);
         
         // Log first job structure for debugging
         if (data.hits.hits.length > 0) {
           const firstJob = data.hits.hits[0];
           this.log(`First job keys: ${JSON.stringify(Object.keys(firstJob))}`);
-          this.log(`First job metadata keys: ${JSON.stringify(Object.keys(firstJob.metadata || {}))}`);
+          if (firstJob.metadata) {
+            this.log(`First job metadata keys: ${JSON.stringify(Object.keys(firstJob.metadata))}`);
+          }
         }
         
         const processedJobs = this.processJobs(data.hits.hits);
@@ -125,7 +196,7 @@ class HEPJobsTracker {
         return processedJobs;
         
       } else {
-        this.log(`Unexpected response structure: ${JSON.stringify(data)}`, 'warning');
+        this.log(`Unexpected response structure: ${JSON.stringify(data, null, 2)}`, 'warning');
         throw new Error('Unexpected API response structure');
       }
       
@@ -165,9 +236,9 @@ class HEPJobsTracker {
           institution: this.extractInstitution(metadata.institutions),
           deadline: metadata.deadline_date || metadata.deadline || null,
           description: this.extractDescription(metadata),
-          regions: metadata.regions || [],
-          ranks: metadata.ranks || [],
-          experiments: metadata.accelerator_experiments?.map(exp => exp.name || exp.value || exp) || [],
+          regions: this.ensureArray(metadata.regions),
+          ranks: this.ensureArray(metadata.ranks),
+          experiments: this.extractExperiments(metadata.accelerator_experiments),
           urls: this.extractUrls(metadata),
           contact_email: this.extractContactEmail(metadata),
           created: metadata.creation_date || metadata.created || job.created || new Date().toISOString(),
@@ -180,11 +251,25 @@ class HEPJobsTracker {
     }).filter(job => job !== null);
   }
 
+  ensureArray(value) {
+    if (!value) return [];
+    if (Array.isArray(value)) return value;
+    return [value];
+  }
+
+  extractExperiments(experiments) {
+    if (!experiments || !Array.isArray(experiments)) return [];
+    return experiments.map(exp => {
+      if (typeof exp === 'string') return exp;
+      return exp.name || exp.value || exp.legacy_name || String(exp);
+    }).filter(Boolean);
+  }
+
   extractDescription(metadata) {
     if (metadata.description?.value) return metadata.description.value;
-    if (metadata.description) return metadata.description;
+    if (typeof metadata.description === 'string') return metadata.description;
     if (metadata.abstract?.value) return metadata.abstract.value;
-    if (metadata.abstract) return metadata.abstract;
+    if (typeof metadata.abstract === 'string') return metadata.abstract;
     return '';
   }
 
@@ -192,13 +277,19 @@ class HEPJobsTracker {
     const urls = [];
     
     if (metadata.urls && Array.isArray(metadata.urls)) {
-      urls.push(...metadata.urls.map(url => url.value || url.url || url));
-    } else if (metadata.urls) {
+      urls.push(...metadata.urls.map(url => {
+        if (typeof url === 'string') return url;
+        return url.value || url.url || null;
+      }).filter(Boolean));
+    } else if (typeof metadata.urls === 'string') {
       urls.push(metadata.urls);
     }
     
     if (metadata.reference_urls && Array.isArray(metadata.reference_urls)) {
-      urls.push(...metadata.reference_urls.map(url => url.value || url.url || url));
+      urls.push(...metadata.reference_urls.map(url => {
+        if (typeof url === 'string') return url;
+        return url.value || url.url || null;
+      }).filter(Boolean));
     }
     
     return urls.filter(url => url && typeof url === 'string');
@@ -217,13 +308,18 @@ class HEPJobsTracker {
   }
 
   extractInstitution(institutions) {
-    if (!institutions || institutions.length === 0) return 'Unknown Institution';
-    return institutions[0].value || institutions[0].name || 'Unknown Institution';
+    if (!institutions || !Array.isArray(institutions) || institutions.length === 0) {
+      return 'Unknown Institution';
+    }
+    
+    const institution = institutions[0];
+    if (typeof institution === 'string') return institution;
+    return institution.value || institution.name || 'Unknown Institution';
   }
 
   cleanJobTitle(title) {
     if (!title) return 'Untitled Position';
-    return title.replace(/\s+/g, ' ').trim();
+    return String(title).replace(/\s+/g, ' ').trim();
   }
 
   // ============================================
@@ -234,7 +330,15 @@ class HEPJobsTracker {
     try {
       if (fs.existsSync(this.config.jobsFile)) {
         const data = fs.readFileSync(this.config.jobsFile, 'utf8');
-        return JSON.parse(data);
+        const parsed = JSON.parse(data);
+        
+        // Validate structure
+        if (!parsed.jobs || !Array.isArray(parsed.jobs)) {
+          this.log('Invalid existing jobs file structure', 'warning');
+          return { jobs: [], lastUpdated: null, totalJobs: 0 };
+        }
+        
+        return parsed;
       }
     } catch (error) {
       this.log(`Error loading existing jobs: ${error.message}`, 'warning');
@@ -251,7 +355,11 @@ class HEPJobsTracker {
     
     // Combine and sort by creation date (newest first)
     const allJobs = [...existingJobs, ...uniqueNewJobs]
-      .sort((a, b) => new Date(b.created) - new Date(a.created))
+      .sort((a, b) => {
+        const dateA = new Date(a.created || 0);
+        const dateB = new Date(b.created || 0);
+        return dateB - dateA;
+      })
       .slice(0, this.config.maxJobs);
 
     this.log(`Added ${uniqueNewJobs.length} new jobs, total: ${allJobs.length}`);
@@ -259,14 +367,19 @@ class HEPJobsTracker {
   }
 
   saveJobs(jobs) {
-    const dataToSave = {
-      jobs,
-      lastUpdated: new Date().toISOString(),
-      totalJobs: jobs.length
-    };
+    try {
+      const dataToSave = {
+        jobs,
+        lastUpdated: new Date().toISOString(),
+        totalJobs: jobs.length
+      };
 
-    fs.writeFileSync(this.config.jobsFile, JSON.stringify(dataToSave, null, 2));
-    this.log(`Saved ${jobs.length} jobs to database`, 'success');
+      fs.writeFileSync(this.config.jobsFile, JSON.stringify(dataToSave, null, 2));
+      this.log(`Saved ${jobs.length} jobs to database`, 'success');
+    } catch (error) {
+      this.log(`Error saving jobs: ${error.message}`, 'error');
+      throw error;
+    }
   }
 
   // ============================================
@@ -279,7 +392,7 @@ class HEPJobsTracker {
     const cardClass = isExpired ? 'job-card expired' : 'job-card';
     
     return `
-      <div class="${cardClass}" data-id="${job.id}">
+      <div class="${cardClass}" data-id="${this.escapeHtml(job.id)}">
         <div class="job-header">
           <h3 class="job-title">${this.escapeHtml(job.title)}</h3>
           <div class="job-institution">${this.escapeHtml(job.institution)}</div>
@@ -291,15 +404,15 @@ class HEPJobsTracker {
           </div>
           ${job.regions.length > 0 ? `
             <div class="regions">
-              <strong>Regions:</strong> ${job.regions.join(', ')}
+              <strong>Regions:</strong> ${job.regions.map(r => this.escapeHtml(r)).join(', ')}
             </div>` : ''}
           ${job.ranks.length > 0 ? `
             <div class="ranks">
-              <strong>Ranks:</strong> ${job.ranks.join(', ')}
+              <strong>Ranks:</strong> ${job.ranks.map(r => this.escapeHtml(r)).join(', ')}
             </div>` : ''}
           ${job.experiments.length > 0 ? `
             <div class="experiments">
-              <strong>Experiments:</strong> ${job.experiments.slice(0, 3).join(', ')}
+              <strong>Experiments:</strong> ${job.experiments.slice(0, 3).map(e => this.escapeHtml(e)).join(', ')}
               ${job.experiments.length > 3 ? ` (+${job.experiments.length - 3} more)` : ''}
             </div>` : ''}
         </div>
@@ -311,9 +424,9 @@ class HEPJobsTracker {
 
         <div class="job-actions">
           ${job.urls.length > 0 ? `
-            <a href="${job.urls[0]}" target="_blank" class="btn-apply">View Details</a>` : ''}
+            <a href="${this.escapeHtml(job.urls[0])}" target="_blank" rel="noopener noreferrer" class="btn-apply">View Details</a>` : ''}
           ${job.contact_email ? `
-            <a href="mailto:${job.contact_email}" class="btn-contact">Contact</a>` : ''}
+            <a href="mailto:${this.escapeHtml(job.contact_email)}" class="btn-contact">Contact</a>` : ''}
         </div>
       </div>`;
   }
@@ -331,6 +444,7 @@ class HEPJobsTracker {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>High Energy Physics Jobs Tracker</title>
+    <meta name="description" content="Latest High Energy Physics job opportunities from InspireHEP">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -348,7 +462,7 @@ class HEPJobsTracker {
             <div class="stats">
                 <span class="stat">Total Jobs: ${totalJobs}</span>
                 <span class="stat">Active: ${activeJobs.length}</span>
-                <span class="stat">Last Updated: ${updateTime}</span>
+                <span class="stat">Last Updated: ${this.escapeHtml(updateTime)}</span>
             </div>
         </div>
     </header>
@@ -395,7 +509,7 @@ class HEPJobsTracker {
 
     <footer class="footer">
         <div class="container">
-            <p>Data sourced from <a href="https://inspirehep.net" target="_blank">InspireHEP</a></p>
+            <p>Data sourced from <a href="https://inspirehep.net" target="_blank" rel="noopener noreferrer">InspireHEP</a></p>
             <p>Updated automatically daily via GitHub Actions</p>
         </div>
     </footer>
@@ -876,8 +990,26 @@ body {
 
     initDarkMode() {
         // Check for saved theme preference or default to light mode
-        const savedTheme = localStorage.getItem('theme') || 'light';
+        const savedTheme = this.getStoredTheme() || 'light';
         this.setTheme(savedTheme);
+    }
+
+    getStoredTheme() {
+        try {
+            return localStorage.getItem('theme');
+        } catch (e) {
+            // localStorage might not be available
+            return null;
+        }
+    }
+
+    storeTheme(theme) {
+        try {
+            localStorage.setItem('theme', theme);
+        } catch (e) {
+            // localStorage might not be available
+            console.warn('Could not save theme preference');
+        }
     }
 
     toggleDarkMode() {
@@ -888,11 +1020,13 @@ body {
 
     setTheme(theme) {
         document.documentElement.setAttribute('data-theme', theme);
-        localStorage.setItem('theme', theme);
+        this.storeTheme(theme);
         
         // Update toggle button icon
         const toggleIcon = this.darkModeToggle.querySelector('.toggle-icon');
-        toggleIcon.textContent = theme === 'dark' ? '☀️' : '🌙';
+        if (toggleIcon) {
+            toggleIcon.textContent = theme === 'dark' ? '☀️' : '🌙';
+        }
         
         // Update toggle button title
         this.darkModeToggle.setAttribute('aria-label', 
@@ -917,8 +1051,8 @@ body {
     }
 
     filterJobs() {
-        const searchTerm = this.searchInput.value.toLowerCase();
-        const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+        const searchTerm = this.searchInput.value.toLowerCase().trim();
+        const activeFilter = document.querySelector('.filter-btn.active')?.dataset.filter || 'all';
         
         this.filteredJobs = this.allJobs.filter(job => {
             const matchesSearch = this.matchesSearchTerm(job, searchTerm);
@@ -929,7 +1063,8 @@ body {
 
     matchesSearchTerm(job, searchTerm) {
         if (!searchTerm) return true;
-        return job.textContent.toLowerCase().includes(searchTerm);
+        const jobText = job.textContent.toLowerCase();
+        return jobText.includes(searchTerm);
     }
 
     matchesFilter(job, filter) {
@@ -974,7 +1109,7 @@ body {
         const endIndex = Math.min(this.currentPage * this.pageSize, totalFiltered);
         
         this.resultsInfo.textContent = 
-            'Showing ' + startIndex + '-' + endIndex + ' of ' + totalFiltered + ' jobs';
+            \`Showing \${startIndex}-\${endIndex} of \${totalFiltered} jobs\`;
     }
 
     updatePagination() {
@@ -988,10 +1123,9 @@ body {
         let paginationHTML = '';
         
         // Previous button
-        paginationHTML += '<button onclick="jobsApp.goToPage(' + (this.currentPage - 1) + ')" ' +
-                    (this.currentPage <= 1 ? 'disabled' : '') + '>' +
-                '← Previous' +
-            '</button>';
+        paginationHTML += \`<button onclick="jobsApp.goToPage(\${this.currentPage - 1})" \${
+            this.currentPage <= 1 ? 'disabled' : ''
+        }>← Previous</button>\`;
 
         // Page numbers
         const startPage = Math.max(1, this.currentPage - 2);
@@ -1006,28 +1140,23 @@ body {
         
         for (let i = startPage; i <= endPage; i++) {
             const isActive = i === this.currentPage ? 'active' : '';
-            paginationHTML += '<button class="' + isActive + '" onclick="jobsApp.goToPage(' + i + ')">' +
-                    i +
-                '</button>';
+            paginationHTML += \`<button class="\${isActive}" onclick="jobsApp.goToPage(\${i})">\${i}</button>\`;
         }
         
         if (endPage < totalPages) {
             if (endPage < totalPages - 1) {
                 paginationHTML += '<span class="page-ellipsis">...</span>';
             }
-            paginationHTML += '<button onclick="jobsApp.goToPage(' + totalPages + ')">' + totalPages + '</button>';
+            paginationHTML += \`<button onclick="jobsApp.goToPage(\${totalPages})">\${totalPages}</button>\`;
         }
 
         // Next button
-        paginationHTML += '<button onclick="jobsApp.goToPage(' + (this.currentPage + 1) + ')" ' +
-                    (this.currentPage >= totalPages ? 'disabled' : '') + '>' +
-                'Next →' +
-            '</button>';
+        paginationHTML += \`<button onclick="jobsApp.goToPage(\${this.currentPage + 1})" \${
+            this.currentPage >= totalPages ? 'disabled' : ''
+        }>Next →</button>\`;
 
         // Page info
-        paginationHTML += '<div class="page-info">' +
-                'Page ' + this.currentPage + ' of ' + totalPages +
-            '</div>';
+        paginationHTML += \`<div class="page-info">Page \${this.currentPage} of \${totalPages}</div>\`;
 
         this.paginationContainer.innerHTML = paginationHTML;
     }
@@ -1047,27 +1176,6 @@ body {
             behavior: 'smooth', 
             block: 'start' 
         });
-    }
-
-    // ============================================
-    // UTILITY METHODS
-    // ============================================
-
-    getTotalFilteredJobs() {
-        return this.filteredJobs.length;
-    }
-
-    getTotalPages() {
-        return Math.ceil(this.filteredJobs.length / this.pageSize);
-    }
-
-    getCurrentPageInfo() {
-        return {
-            currentPage: this.currentPage,
-            totalPages: this.getTotalPages(),
-            totalJobs: this.getTotalFilteredJobs(),
-            pageSize: this.pageSize
-        };
     }
 
     // ============================================
@@ -1220,6 +1328,31 @@ document.addEventListener('DOMContentLoaded', () => {
     return descriptions[Math.floor(Math.random() * descriptions.length)];
   }
 
+  async testApiConnectivity() {
+    this.log('Testing InspireHEP API connectivity...');
+    
+    try {
+      const testUrl = `${this.config.apiBase}/jobs?size=1`;
+      this.log(`Testing URL: ${testUrl}`);
+      
+      const response = await this.httpRequest(testUrl);
+      this.log(`API test response: ${response.status} ${response.statusText}`);
+      
+      if (!response.ok) {
+        throw new Error(`API test failed with status ${response.status}`);
+      }
+      
+      const data = await response.json();
+      this.log('✅ API connectivity test passed', 'success');
+      
+      return true;
+    } catch (error) {
+      this.log(`⚠️  API connectivity test failed: ${error.message}`, 'warning');
+      this.log('Will proceed with mock data fallback...', 'warning');
+      return false;
+    }
+  }
+
   async build() {
     this.log('🚀 Starting HEP Jobs Tracker build process...');
 
@@ -1296,31 +1429,6 @@ document.addEventListener('DOMContentLoaded', () => {
         this.log(`Fallback build also failed: ${fallbackError.message}`, 'error');
         process.exit(1);
       }
-    }
-  }
-
-  async testApiConnectivity() {
-    this.log('Testing InspireHEP API connectivity...');
-    
-    try {
-      const testUrl = `${this.config.apiBase}/jobs?size=1`;
-      this.log(`Testing URL: ${testUrl}`);
-      
-      const response = await fetch(testUrl);
-      this.log(`API test response: ${response.status} ${response.statusText}`);
-      
-      if (!response.ok) {
-        throw new Error(`API test failed with status ${response.status}`);
-      }
-      
-      const data = await response.json();
-      this.log('✅ API connectivity test passed', 'success');
-      
-      return true;
-    } catch (error) {
-      this.log(`⚠️  API connectivity test failed: ${error.message}`, 'warning');
-      this.log('Will proceed with mock data fallback...', 'warning');
-      return false;
     }
   }
 }
