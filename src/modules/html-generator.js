@@ -59,15 +59,24 @@ class HTMLGenerator {
     );
   }
 
+  truncateHTML(htmlText, maxLength, suffix = "...") {
+    if (!htmlText) return "";
+    if (htmlText.length <= maxLength) return htmlText;
+    return htmlText.substring(0, maxLength - suffix.length) + suffix;
+  }
+
   generateJobCard(job) {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
     const cardClass = isExpired ? "job-card expired" : "job-card";
+    const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
 
     return `
       <div class="${cardClass}" data-id="${job.id}">
         <div class="job-header">
-          <h3 class="job-title">${this.escapeHtml(job.title)}</h3>
+          <h3 class="job-title">
+            <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
+          </h3>
           <div class="job-institution">${this.escapeHtml(job.institution)}</div>
         </div>
         
@@ -112,7 +121,7 @@ class HTMLGenerator {
           job.description
             ? `
           <div class="job-description">
-            ${this.truncateText(job.description, 200)}
+            ${this.truncateHTML(job.description, 200)}
           </div>`
             : ""
         }
