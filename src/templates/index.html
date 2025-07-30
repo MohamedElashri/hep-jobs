@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High Energy Physics Jobs Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-top">
+                <h1 class="clickable-title" onclick="window.location.reload()">🔬 HEP Jobs Tracker</h1>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark/light mode">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
+            <p class="subtitle">Latest High Energy Physics Job Opportunities</p>
+            <div class="stats">
+                <span class="stat">Total Jobs: {{totalJobs}}</span>
+                <span class="stat">Active: {{activeJobs}}</span>
+                <span class="stat">Last Updated: {{lastUpdated}}</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="filters">
+            <input type="text" id="searchInput" placeholder="Search jobs..." class="search-input">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All Jobs</button>
+                <button class="filter-btn" data-filter="active">Active Only</button>
+                <button class="filter-btn" data-filter="expired">Expired</button>
+            </div>
+        </div>
+
+        <div class="jobs-container" id="jobsContainer">
+            {{jobCards}}
+        </div>
+
+        {{noJobsMessage}}
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Data sourced from <a href="https://inspirehep.net" target="_blank">InspireHEP</a></p>
+            <p>Updated automatically daily via GitHub Actions</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
