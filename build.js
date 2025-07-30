@@ -77,12 +77,130 @@ class HEPJobsTracker {
       .replace(/'/g, "&#x27;");
   }
 
+  // Sanitize HTML while preserving safe formatting tags
+  sanitizeHtml(text) {
+    if (!text) return "";
+    
+    // List of allowed tags for job descriptions
+    const allowedTags = ['div', 'p', 'br', 'strong', 'b', 'em', 'i', 'u', 'a', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'];
+    const allowedAttributes = ['href', 'target'];
+    
+    // Simple HTML sanitizer that preserves allowed tags
+    let sanitized = text;
+    
+    // Remove script and style tags completely
+    sanitized = sanitized.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+    sanitized = sanitized.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
+    
+    // Remove any tag not in the allowed list
+    sanitized = sanitized.replace(/<(\/?)([\w]+)([^>]*)>/gi, (match, closing, tagName, attributes) => {
+      if (!allowedTags.includes(tagName.toLowerCase())) {
+        return ''; // Remove disallowed tags
+      }
+      
+      // For allowed tags, clean up attributes
+      if (attributes && tagName.toLowerCase() === 'a') {
+        // For anchor tags, preserve href and target attributes
+        const hrefMatch = attributes.match(/href\s*=\s*["']([^"']*)["']/i);
+        const targetMatch = attributes.match(/target\s*=\s*["']([^"']*)["']/i);
+        
+        let cleanAttributes = '';
+        if (hrefMatch) {
+          // Basic URL validation
+          const url = hrefMatch[1];
+          if (url.match(/^https?:\/\//) || url.match(/^mailto:/)) {
+            cleanAttributes += ` href="${url}"`;
+          }
+        }
+        if (targetMatch && targetMatch[1] === '_blank') {
+          cleanAttributes += ' target="_blank"';
+        }
+        
+        return `<${closing}${tagName}${cleanAttributes}>`;
+      }
+      
+      // For other allowed tags, remove all attributes for simplicity
+      return `<${closing}${tagName}>`;
+    });
+    
+    return sanitized;
+  }
+
   truncateText(text, maxLength, suffix = "...") {
     if (!text) return "";
     if (text.length <= maxLength) return this.escapeHtml(text);
     return (
       this.escapeHtml(text.substring(0, maxLength - suffix.length)) + suffix
     );
+  }
+
+  // New function for truncating HTML content while preserving tags
+  truncateHtml(html, maxLength, suffix = "...") {
+    if (!html) return "";
+    
+    // First sanitize the HTML
+    const sanitized = this.sanitizeHtml(html);
+    
+    // If the sanitized HTML is short enough, return as-is
+    if (sanitized.length <= maxLength) return sanitized;
+    
+    // For longer content, strip HTML for length calculation but preserve structure for display
+    const textOnly = sanitized.replace(/<[^>]*>/g, '');
+    if (textOnly.length <= maxLength) return sanitized;
+    
+    // If still too long, create a truncated version that preserves HTML structure
+    // Extract text content while keeping track of HTML tags
+    let result = '';
+    let textLength = 0;
+    let inTag = false;
+    let i = 0;
+    
+    while (i < sanitized.length && textLength < maxLength - suffix.length) {
+      const char = sanitized[i];
+      
+      if (char === '<') {
+        inTag = true;
+        result += char;
+      } else if (char === '>') {
+        inTag = false;
+        result += char;
+      } else if (inTag) {
+        result += char;
+      } else {
+        result += char;
+        textLength++;
+      }
+      i++;
+    }
+    
+    // Close any unclosed tags (basic implementation)
+    const openTags = [];
+    const tagRegex = /<(\/?)([\w]+)[^>]*>/g;
+    let match;
+    
+    while ((match = tagRegex.exec(result)) !== null) {
+      const [, closing, tagName] = match;
+      if (closing) {
+        // Closing tag
+        const index = openTags.lastIndexOf(tagName.toLowerCase());
+        if (index !== -1) {
+          openTags.splice(index, 1);
+        }
+      } else {
+        // Opening tag (skip self-closing tags like br)
+        const selfClosing = ['br', 'hr', 'img', 'input'];
+        if (!selfClosing.includes(tagName.toLowerCase())) {
+          openTags.push(tagName.toLowerCase());
+        }
+      }
+    }
+    
+    // Close any remaining open tags
+    for (let i = openTags.length - 1; i >= 0; i--) {
+      result += `</${openTags[i]}>`;
+    }
+    
+    return result + suffix;
   }
 
   // ============================================
@@ -318,11 +436,16 @@ class HEPJobsTracker {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
     const cardClass = isExpired ? "job-card expired" : "job-card";
+    
+    // Create InspireHEP URL for the job
+    const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
 
     return `
       <div class="${cardClass}" data-id="${job.id}">
         <div class="job-header">
-          <h3 class="job-title">${this.escapeHtml(job.title)}</h3>
+          <h3 class="job-title">
+            <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
+          </h3>
           <div class="job-institution">${this.escapeHtml(job.institution)}</div>
         </div>
         
@@ -367,7 +490,7 @@ class HEPJobsTracker {
           job.description
             ? `
           <div class="job-description">
-            ${this.truncateText(job.description, 200)}
+            ${this.truncateHtml(job.description, 200)}
           </div>`
             : ""
         }
@@ -701,6 +824,46 @@ body {
     margin-bottom: 1rem;
     font-size: 0.9rem;
     color: var(--text-secondary);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Ensure HTML content in job descriptions renders properly */
+.job-description div {
+    margin-bottom: 0.5rem;
+}
+
+.job-description div:last-child {
+    margin-bottom: 0;
+}
+
+.job-description strong,
+.job-description b {
+    font-weight: 600;
+}
+
+.job-description a {
+    color: var(--text-accent);
+    text-decoration: none;
+    word-break: break-all;
+}
+
+.job-description a:hover {
+    text-decoration: underline;
+}
+
+.job-description ul,
+.job-description ol {
+    margin-left: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.job-description li {
+    margin-bottom: 0.2rem;
 }
 
 .job-actions {
@@ -961,6 +1124,8 @@ body {
     .job-description {
         font-size: 0.8rem;
         padding: 0.8rem;
+        max-width: 100%;
+        overflow-x: hidden;
     }
 }`;
   }
