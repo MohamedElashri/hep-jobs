@@ -1,6 +1,91 @@
 {
   "jobs": [
     {
+      "id": "2955765",
+      "title": "BNL Postdoc on ATLAS and EIC",
+      "institution": "Brookhaven Natl. Lab.",
+      "deadline": "2026-01-30",
+      "description": "<div>The Omega Group in the Physics Department has an opening for two postdocs to join in the study of Electroweak and Beyond the Standard Model (BSM) physics on ATLAS at CERN and for the experiments at the Electron Ion Collider (EIC) being constructed at BNL. Applicants should have a strong interest in and experience with the LHC, RHIC, or EIC scientific programs. This position has a high level of interaction with an international and multicultural scientific community.</div><div><br></div><div>The Omega Group in the Physics Department at BNL focuses primarily on the ATLAS experiment at CERN in Geneva, Switzerland. The Omega Group has major responsibilities in detector operations and software development, and has leading roles in the ATLAS High Luminosity Large-Hadron Collider (HL-LHC) upgrade. BNL serves as the host laboratory for the U.S. ATLAS Operations Program, the U.S. ATLAS HL-LHC Upgrade Project, the ATLAS Tier-1 computing facility, and is an active U.S. ATLAS Center. The Omega Group is becoming involved in the EIC and has strong detector R&amp;D programs on silicon detectors and in data acquisition.</div><div><br></div><div><strong>Essential Duties and Responsibilities:</strong></div><ul><li>Participation in the ATLAS and EIC scientific programs with a strong focus on Electroweak and Beyond the Standard Model physics.</li><li>Participation in the development and performance of physics and detector simulations for high-energy and nuclear physics.</li><li>Development of new artificial-intelligence and machine-learning techniques for high-energy and nuclear physics.</li><li>Close interaction with our collaborators in the EIC and the BNL theory group will be essential for progress on all aspects of this program.</li></ul><div><strong>Required Knowledge, Skills, and Abilities:</strong></div><ul><li>Ph.D. in experimental particle or nuclear physics or related field.</li><li>Experience with high- and medium-energy nuclear and particle-physics experiments</li><li>Experience with data analysis and knowledge of statistical techniques for data analysis</li><li>Experience with computing and software for high-energy or nuclear physics experiments</li><li>Experience with machine learning techniques and tools</li><li>Ability to work in a large international collaboration</li><li>Hands-on problem-solving skills and clear and concise verbal and written communication skills</li><li>Demonstrated track record of publication of research in high quality peer-reviewed journals and delivery of presentations&nbsp;&nbsp;&nbsp;&nbsp;</li></ul><div><strong>Preferred Knowledge, Skills, and Abilities:</strong></div><ul><li>Familiarity with pp, ep, and/or eA Monte Carlo generators and detector simulations</li><li>Experience with detector performance for high energy or nuclear physics experiments</li><li>Experience with detector R&amp;D and/or construction</li></ul><div><strong>OTHER INFORMATION:</strong></div><ul><li>Domestic and international travel should be expected</li><li>This position is located at BNL in Upton, New York</li><li>Initial 2-year term appointment subject to renewal contingent on performance and funding</li><li>Candidates must have completed all degree requirements by the commencement of the employment.</li><li>BNL policy requires that after obtaining a PhD, eligible candidates for research associate appointments may not exceed a combined total of 5 years of relevant work experience as a post-doc and/or in an R&amp;D position, excluding time associated with family planning, military service, illness or other life-changing events</li><li>Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $71500 - $81500 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group.</li><li>You may receive an email requesting contact information for references at the appropriate stage in the search</li></ul><div>Brookhaven employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven.</div><div>The full text of the Order may be found at:<a href=\"https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file\">&nbsp;https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file</a></div><div><br></div><div>Equal Opportunity/Affirmative Action Employer Brookhaven Science Associates is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability, or any other federal, state, or local protected class. BSA takes affirmative action in support of its policy and to advance the employment of minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodations to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request accommodation.</div><div>*VEVRAA Federal Contractor</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://jobs.bnl.gov/job/upton/bnl-postdoc-on-atlas-and-eic/3437/84413570880"
+      ],
+      "contact_email": null,
+      "created": "2025-07-31T18:40:24.846081+00:00",
+      "updated": "2025-07-31T20:22:28.045391+00:00"
+    },
+    {
+      "id": "2955764",
+      "title": "BNL ATLAS Postdoc at CERN",
+      "institution": "Brookhaven Natl. Lab.",
+      "deadline": "2026-04-03",
+      "description": "<div>The Omega Group in the Physics Department has an opening for two postdocs to join in the study of Electroweak and Higgs physics on ATLAS and for future collider experiments. The successful candidates will also contribute to the development of trigger technologies intended for use at the HL-LHC and by future experiments. Applicants should have a strong interest in and experience with the LHC scientific program This position has a high level of interaction with an international and multicultural scientific community.</div><div><br></div><div>The Omega Group in the Physics Department at BNL focuses on the ATLAS experiment at CERN in Geneva, Switzerland. The Omega Group has major responsibilities in the operation of the Liquid Argon calorimeter, Trigger &amp; Data Acquisition, and software development, and has leading roles in the ATLAS High Luminosity Large-Hadron Collider (HL-LHC) upgrade (Silicon Strip detector, Liquid Argon calorimeter, and Trigger &amp; Data Acquisition). The group also has strong detector R&amp;D programs on silicon detectors and in trigger/data acquisition. BNL serves as the host laboratory for the U.S. ATLAS Operations Program, the U.S. ATLAS HL-LHC Upgrade Project, the ATLAS Tier-1 computing facility, and is an active U.S. ATLAS Center.</div><div><br></div><div><strong>Essential Duties and Responsibilities:</strong></div><ul><li>Participation in the ATLAS scientific program with a strong focus on Electroweak and Higgs physics.</li><li>Participation in detector research and development, especially for low-latency event selection in trigger systems.</li><li>Development of new artificial-intelligence and machine-learning techniques for high-energy physics</li><li>Participation in developing, constructing, installing, integrating, and commissioning hardware, firmware, and software for the HL-LHC Upgrade of the ATLAS detector.</li><li>Participation in the operation, software, and computing of the ATLAS experiment.</li></ul><div><strong>Required Knowledge, Skills, and Abilities:</strong></div><ul><li>Ph.D. in experimental particle or nuclear physics or related field.</li><li>Experience with data analysis and knowledge of statistical techniques for data analysis</li><li>Experience in detector performance or trigger systems for high energy or nuclear physics experiments</li><li>Experience with machine learning techniques and tools</li><li>Ability to work in a large international collaboration</li><li>Hands-on problem-solving skills and clear and concise verbal and written communication skills</li><li>Demonstrated track record of publication of research in high quality peer-reviewed journals and delivery of presentations&nbsp;&nbsp;&nbsp;&nbsp;</li></ul><div><strong>Preferred Knowledge, Skills, and Abilities:</strong></div><ul><li>Physics analysis with LHC data</li><li>Expertise in machine learning techniques and tools</li><li>Experience with detector R&amp;D and/or construction</li><li>Experience with computing and software development for high energy or nuclear physics experiments</li></ul><div><strong>OTHER INFORMATION:</strong></div><ul><li>Domestic and international travel should be expected</li><li>This position is located at CERN in Geneva Switzerland</li><li>Initial 2-year term appointment subject to renewal contingent on performance and funding</li><li>Candidates must have completed all degree requirements by the commencement of the employment.</li><li>BNL policy requires that after obtaining a PhD, eligible candidates for research associate appointments may not exceed a combined total of 5 years of relevant work experience as a post-doc and/or in an R&amp;D position, excluding time associated with family planning, military service, illness or other life-changing events</li><li>Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $71500 - $81500 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group.</li><li>You may receive an email requesting contact information for references at the appropriate stage in the search</li></ul><div>Brookhaven employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven.</div><div>The full text of the Order may be found at:<a href=\"https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file\">&nbsp;https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file</a></div><div><br></div><div>Equal Opportunity/Affirmative Action Employer Brookhaven Science Associates is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability, or any other federal, state, or local protected class. BSA takes affirmative action in support of its policy and to advance the employment of minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodations to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request accommodation.</div><div>*VEVRAA Federal Contractor</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://jobs.bnl.gov/job/meyrin/bnl-atlas-postdoc-at-cern/3437/84413570864"
+      ],
+      "contact_email": null,
+      "created": "2025-07-31T18:02:14.719403+00:00",
+      "updated": "2025-07-31T20:24:22.589817+00:00"
+    },
+    {
+      "id": "2955682",
+      "title": "PhD positions in ultracold atomic physics and integrable models (EU citizens/residents)",
+      "institution": "Murcia U.",
+      "deadline": "2025-09-25",
+      "description": "<div>I am currently accepting PhD applications in the areas of ultracold atomic systems, condensed matter theory, and</div><div>non-perturbative approaches to many-body physics, within the framework of the University of Murcia's internal PhD fellowship program (\"Plan Propio\").</div><div>Our research focuses on the theory of strongly interacting quantum systems, using a combination of analytical</div><div>techniques and computational methods. Candidates with backgrounds and interest in quantum mechanics, statistical physics, or related areas are encouraged to apply.</div><div>Located in southeastern Spain, Murcia is a dynamic and well-connected city, with a population of over 400,000. It offers high-speed train links to Madrid, Barcelona and other major cities, as well as direct international flights from the nearby airport of Alicante, a lower cost of living compared to most large urban centers in Spain, and a mild Mediterranean climate year-round.</div><div>The University of Murcia supports a vibrant research environment with a strong commitment to fundamental science. Our group maintains active international collaborations, including across Europe.</div><div>We particularly encourage applications from women and individuals from underrepresented backgrounds in physics. We are committed to building a diverse and inclusive research community.</div><div>Interested candidates are welcome to get in touch for further details about the research projects and application process.</div><div><br></div><div><strong>Note: Candidates are required to be EU citizens, spouses of a EU citizen, or hold a valid work permit in Spain to apply. A minimum GPA of 8.5/10.0 during their BSc is also required. Candidates must hold a MSc degree.</strong></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.um.es/documents/d/investigacion/r-952_2025-convocatoria-formacion-personal-investigador-predoctoral-r1-borm-21-07-2025"
+      ],
+      "contact_email": null,
+      "created": "2025-07-31T08:09:06.942669+00:00",
+      "updated": "2025-07-31T20:23:24.172143+00:00"
+    },
+    {
+      "id": "2955451",
+      "title": "Faculty position in Physics",
+      "institution": "Taiwan, Inst. Phys.",
+      "deadline": "2025-09-01",
+      "description": "<div>The Institute of Physics (IOP), Academia Sinica, Taiwan’s premier research institution, invites applications for tenure-track faculty positions at all levels with an expected starting date on Sep. 1, 2026.&nbsp;<strong>Female scientists are particularly encouraged to apply.&nbsp;</strong>Proficiency in Chinese is not required. Currently, IOP maintains active research programs in the following areas:&nbsp;<strong>Condensed Matter Physics, Medium to High-Energy Physics, and Physics of Active and Living Matter</strong>. We particularly welcome applicants whose research specializes in&nbsp;&nbsp;<strong>Quantum Materials and Quantum Devices, Advanced Optical Spectroscopy, Astroparticle Physics, Collider Physics, Cosmology, Gravitational Physics, Nuclear Physics, Molecular and Cellular Biophysics, Mechanobiology, Active Soft Matters</strong>. Outstanding candidates in other research areas will also be considered.</div><div><br></div><div>IoP is committed to the pursuit of excellence in research. Faculty members enjoy the freedom to pursue independent research in a collegial environment. IOP is well-equipped with facilities for computation, quantum material preparation and characterization, and advanced optical microscopy. More details can be found through the website (<a href=\"http://www.phys.sinica.edu.tw/\"><strong>http://www.phys.sinica.edu.tw</strong></a>). Faculty members are eligible to apply for intramural funding (Academia Sinica) and extramural fundings (e.g., National Science and Technology Council). They can supervise PhD students through Taiwan International Graduate Program (TIGP,&nbsp;<a href=\"https://tigp.sinica.edu.tw/\"><strong>https://tigp.sinica.edu.tw</strong></a>) or through partnership universities. Teaching is not required but encouraged to support high-quality education. Academia Sinica offers a supportive work environment. New faculty members are eligible for the faculty housing. There are also on-campus childcare and kindergarten facilities, and bilingual (English/Chinese) program in Nangang Elementary School.</div><div><br></div><div>Successful candidates should have a Ph.D. degree in physics or closely related areas, and preferably postdoctoral experience. The candidates are expected to lead an independent and international competitive research program, which contributes to the institute’s global reputation for excellence.</div><div><br></div><div><strong>Application Materials Required</strong>&nbsp;(should be submitted via AcademicJobsOnline <a href=\"https://academicjobsonline.org/ajo/jobs/30190):\">https://academicjobsonline.org/ajo/jobs/30190):</a></div><div>1.&nbsp;&nbsp;Cover letter describing the major accomplishments</div><div>2.&nbsp;&nbsp;Curriculum vitae including a full publication list</div><div>3.&nbsp;&nbsp;Up to five representative journal publications</div><div>4.&nbsp;&nbsp;Research statement</div><div>5.&nbsp;&nbsp;Three or more reference letters (should be arranged to be submitted directly via the AcademicJobsOnline)</div><div><br></div><div>For full consideration, please submit all materials by&nbsp;<strong>September 1, 2025</strong>. Late applications may be considered until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30190"
+      ],
+      "contact_email": null,
+      "created": "2025-07-31T03:13:32.945000+00:00",
+      "updated": "2025-07-31T20:25:53.301922+00:00"
+    },
+    {
       "id": "2955447",
       "title": "High Energy Theory-Postdoctoral Research Assistant",
       "institution": "Brookhaven Natl. Lab.",
@@ -2387,6 +2472,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-07-31T08:04:47.449Z",
-  "totalJobs": 116
+  "lastUpdated": "2025-07-31T22:13:41.237Z",
+  "totalJobs": 120
 }
