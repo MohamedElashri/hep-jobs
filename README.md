@@ -45,6 +45,6 @@ For detailed architecture documentation, see [`src/README.md`](src/README.md).
 
 ## 🌐 Live Site
 
-The tracker is automatically deployed to GitHub Pages: [View Live Site](https://mohammedelashri.github.io/hep-jobs/)
+The tracker is automatically deployed to GitHub Pages: [View Live Site](http://melashri.net/hep-jobs/)
 
 Data sourced from [InspireHEP](https://inspirehep.net)
