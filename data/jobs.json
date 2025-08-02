@@ -1,6 +1,46 @@
 {
   "jobs": [
     {
+      "id": "2956036",
+      "title": "KICP Postdoctoral Research Fellow",
+      "institution": "Chicago U.",
+      "deadline": "2025-10-31",
+      "description": "<div>The Kavli Institute for Cosmological Physics (KICP) at the University of Chicago would like to invite applications for the KICP Postdoctoral Research Fellowship program. Scientists receiving a PhD in physics, astrophysics, astronomy, or related fields between June 2022 and September 2026 are welcome to apply. Successful applicants will conduct original research in experimental, observational, numerical, or theoretical cosmological physics, broadly defined. KICP Fellows are appointed to renewable one-year terms, for up to three years. Our positions carry a salary and benefits package comparable to other prize fellowships.</div><div><br></div><div>KICP Fellows are an integral part of the KICP community. The KICP is an interdisciplinary environment that brings together physicists and astronomers who range from experimentalists to observers, simulators, and theorists, to stimulate new ideas and push the forefront of cosmological research. Current topics of research in the institute include: the inflationary era; dark energy; dark matter; experimental and theoretical studies of the CMB; analysis of cosmological data including CMB, large-scale structure surveys (especially the Dark Energy Survey), and type Ia supernova; gravitational lensing and gravitational-wave studies; observational cosmology; experimental and theoretical particle astrophysics; near-field cosmology, and direct and indirect detection of dark matter. The KICP has an active program of visitors, symposia, and meetings as well as Education and Outreach opportunities. All members of the KICP are expected to adhere to our&nbsp;<a href=\"https://kavlicosmo.uchicago.edu/about/diversity-inclusion/#CommunityValues\">Community Values</a>. Information about the KICP can be found at the&nbsp;<a href=\"https://kavlicosmo.uchicago.edu/\">KICP website</a>.</div><div><br></div><div>To apply for a KICP Postdoctoral Research Fellowship, please complete the online&nbsp;application form at&nbsp;<a href=\"https://academicjobsonline.org/ajo/jobs/30323\">Academic Jobs Online (AJO)</a>. Requested information includes email contact information for 3 references who can independently write a letter of support for the applicant.&nbsp;&nbsp;Supplemental materials (Cover Letter; Curriculum Vitae; Research Statement - a one to three page document of your research accomplishments and plans; List of Publications) should be submitted as PDF files on the application form.</div><div><br></div><div>If you have any questions, please contact&nbsp;Jennifer Smith at jmsmith@uchicago.edu.</div><div><br></div><div>The positions will remain open until filled; however applicants are strongly encouraged to submit application by&nbsp;<strong>October 31, 2025</strong>&nbsp;and ensure that 3 letters of recommendation are received by&nbsp;<strong>November 15, 2025</strong>. Review of applications will begin November 17, 2025. The positions are expected to begin in the Fall of 2026.</div><div><br></div><div><strong>Equal Employment Opportunity Statement</strong></div><div>The University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.</div><div>Job seekers in need of a reasonable accommodation to complete the application process should call 773-834-3988 or email equalopportunity@uchicago.edu with their request.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30323"
+      ],
+      "contact_email": null,
+      "created": "2025-08-01T16:25:46.698952+00:00",
+      "updated": "2025-08-01T17:05:02.990995+00:00"
+    },
+    {
+      "id": "2956028",
+      "title": "Postdoctoral Position in Theoretical Particle Physics",
+      "institution": "Indian Inst. Tech., Gandhinagar",
+      "deadline": "2025-08-15",
+      "description": "<div>Applications are invited for Postdoctoral Position in Theoretical Particle Physics for a research project jointly funded by DAE-BRNS and IIT Gandhinagar. The start date can be <strong>at the earliest possible.</strong></div><div><br></div><div>The research project mostly focuses in the area of&nbsp;Flavor Physics and Dark Matter analysis.</div><div><br></div><div>Initial appointment is for 1 year, extendable up to 1 more year based on performance.</div><div><br></div><div>Remuneration: Consolidated 72,000 INR per month</div><div><br></div><div>The applicants should send their application as a single pdf attachment by&nbsp;<strong>August 15, 2025</strong> including</div><ul><li>Curriculum Vitae</li><li>List of publications</li><li>Research statement</li><li>a copy of the PhD certificate/provisional certificate or a certificate mentioning expected date of graduation along with a copy of the highest completed degree certificate (in case PhD degree is awaiting)</li></ul><div>to Rusa Mandal (<a href=\"mailto:rusa.mandal@iitgn.ac.in\">rusa.mandal@iitgn.ac.in</a>). Further&nbsp;<strong>Three letters</strong>&nbsp;of recommendation should directly be sent to the mentioned email address. The search will remain open until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://iitgn.ac.in/careers/staff"
+      ],
+      "contact_email": null,
+      "created": "2025-08-01T12:31:33.633593+00:00",
+      "updated": "2025-08-01T17:05:44.770351+00:00"
+    },
+    {
       "id": "2955765",
       "title": "BNL Postdoc on ATLAS and EIC",
       "institution": "Brookhaven Natl. Lab.",
@@ -2472,6 +2512,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-01T08:04:47.911Z",
-  "totalJobs": 120
+  "lastUpdated": "2025-08-02T08:03:57.133Z",
+  "totalJobs": 122
 }
