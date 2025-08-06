@@ -1,6 +1,104 @@
 {
   "jobs": [
     {
+      "id": "2957668",
+      "title": "Assistant professor",
+      "institution": "GSSI, Aquila",
+      "deadline": "2025-08-28",
+      "description": "<div><strong>Call for assistant professor with tenure track to associate professor</strong></div><div><strong>in the Physics Division of the Gran Sasso Science Institute:</strong></div><div><strong>Experimental study of the cosmic radiation</strong></div><div><strong>(HE-EXP)</strong></div><div>&nbsp;</div><div>The Physics Division of the Gran Sasso Science Institute (GSSI) invites applications for assistant professor (with tenure track to associate professor) from highly qualified scholars worldwide with interests in the <strong>experimental study of cosmic radiation with space based missions and in related R&amp;D activities.</strong></div><div><strong>&nbsp;</strong></div><div>The GSSI physics division hosts scientists carrying out research on a variety of subjects including: cosmic rays, multi-messenger and high-energy astrophysics, gravitation and cosmology, dark matter searches, searches for neutrinoless double beta decay.<strong> </strong>About 10 physics graduate students from all over the world are admitted at GSSI every year among hundreds of applicants, and part of the duties of the faculty is to provide teaching and supervision of their research activity in the field of Astroparticle Physics. A new PhD program has also been recently added on “Innovative technologies for space missions and radiation detectors”.</div><div>&nbsp;</div><div>More information on research in Physics at GSSI can be found here:</div><div><a href=\"https://gssi.it/research-area/physics-research\">https://gssi.it/research-area/physics-research</a></div><div><strong>&nbsp;</strong></div><div>The present call for expressions of interest is aimed at probing the community for scientists who might want to join the GSSI faculty. <strong>The candidate is expected to have a strong background in the field of experimental astroparticle physics aimed at the study of high-energy cosmic radiation, with ground and space-based experiments. In particular, an advanced knowledge of simulation techniques of the response of complex experimental setup, as well as techniques for data reconstruction and analysis, is required, including the use of machine learning tools.</strong></div><div><strong>&nbsp;</strong></div><div>Candidates are required to have a doctoral degree in physics or related fields prior to the appointment, with a proven record of achievements in the above field, a clear potential to promote and lead research activities and a specific interest in teaching at the graduate and postgraduate level to a small set of particularly skilled students.</div><div>The position of RTT, i.e. Ricercatore Tenure Track, as outlined by current Italian laws, provides for the inclusion of the Researcher among the teaching staff of the University with a fixed-term contract, structured as a six-year tenure-track, which cannot be renewed or extended. Holding this contract is incompatible with other employment relationships as specified here:</div><div><a href=\"https://amministrazionetrasparente.gssi.it/page/29/details/1360/regolamento-reclutamento-ricercatori-a-tempo-determinato-rtt.html\">https://amministrazionetrasparente.gssi.it/page/29/details/1360/regolamento-reclutamento-ricercatori-a-tempo-determinato-rtt.html</a></div><div>&nbsp;</div><div>Starting from the end of the third year and for each subsequent year of the RTT contract, the University, shall evaluate (upon his/her request) the activity of the contract holder who obtained the Italian national scientific qualification (ASN Abilitazione Scientifica Nazionale), for the purpose of his/her appointment to the role of associate professor with a permanent position.</div><div>&nbsp;</div><div><strong>The text of the Call can be found at the link below. The deadline for application is August 28, 2025.</strong></div><div><a href=\"https://alboufficiale.gssi.it/act/details/108496/bando-per-la-copertura-di-un-posto-da-ricercatore-a-tempo-determinato-per-il-gsd-02phys-01-ssd-phys-01a-dr-1492025.html\">https://alboufficiale.gssi.it/act/details/108496/bando-per-la-copertura-di-un-posto-da-ricercatore-a-tempo-determinato-per-il-gsd-02phys-01-ssd-phys-01a-dr-1492025.html</a></div><div><br></div><div>GSSI is an equal-opportunity employer. We are committed to realize an inclusive work environment, and we promote gender balance and diversity.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://alboufficiale.gssi.it/act/details/108496/bando-per-la-copertura-di-un-posto-da-ricercatore-a-tempo-determinato-per-il-gsd-02phys-01-ssd-phys-01a-dr-1492025.html"
+      ],
+      "contact_email": null,
+      "created": "2025-08-05T17:19:31.845128+00:00",
+      "updated": "2025-08-05T20:31:53.040402+00:00"
+    },
+    {
+      "id": "2957660",
+      "title": "Postdoctoral Position for ERC project",
+      "institution": "U. Milan (main)",
+      "deadline": "2026-01-31",
+      "description": "<div><strong>Join Our Group – Postdoctoral Position Available</strong></div><div><br></div><div>We are an experimental research group at the <strong>University of Milan</strong>, led by <strong>Prof. Woojin Kwon</strong>, dedicated to exploring quantum phenomena in ultracold atomic systems of <strong>fermionic Lithium-6 gases</strong>. Our research seeks to deepen the understanding of <strong>many-body quantum physics</strong> through precision experiments.</div><div>Supported by the <strong>ERC Starting Grant</strong>, our current focus is on <strong>fermionic superfluid gases</strong>, with particular interest in <strong>quantum vortices</strong> and related quantum transport phenomena.</div><div><br></div><div><strong>Postdoctoral Position</strong></div><div>We are looking for a highly motivated postdoctoral researcher to join our team.</div><div><strong> </strong>Start date: Flexible</div><div>Location: Milan, Italy</div><div>Duration: Negotiable (typically 2 years, renewable, supported by ERC grant)</div><div>Contact: Woojin Kwon ( woojin.kwon@unimi.it )</div><div><br></div><div><strong>Requirements</strong></div><div>Ph.D. (or near completion) in Atomic Physics, Quantum Optics, or a related field</div><div>Hands-on experience with:</div><ul><li>Optics and laser systems</li><li>Ultra-high vacuum (UHV) techniques</li><li>Laser cooling and atom trapping</li></ul><div>Additional plus:</div><ul><li>Experience with Digital Micromirror Devices (DMDs) for atom manipulation</li><li>Proficiency in Python for data analysis and control systems</li></ul><div>Also, master's &amp; phd positions are available in our group.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://sites.google.com/view/wjkwonlab/"
+      ],
+      "contact_email": null,
+      "created": "2025-08-05T15:10:21.902196+00:00",
+      "updated": "2025-08-05T20:33:46.106579+00:00"
+    },
+    {
+      "id": "2957469",
+      "title": "Postdoctoral position in String/QFT/Gravity",
+      "institution": "Kyung Hee U.",
+      "deadline": "2025-08-23",
+      "description": "<div>The theoretical high energy physics group at Kyung Hee University, Seoul, Republic of Korea invites applications for one postdoctoral position.</div><div>The group currently consists of Prof. Nakwoo Kim, Prof. Euihun Joung, Prof. Junggi Yoon, two research fellows, and 7 graduate students.</div><div>The applicants are expected to work with Professor Nakwoo Kim on various topics covered in hep-th, in particular integrated correlators, supersymmetric localization, duality of gauge theory, supergravity, AdS/CFT, black hole physics etc. The starting date is negotiable but it is possible to begin right away.</div><div><br></div><div>The initial appointment is for one year, renewable up to one additional year. The position will be supported by NRF grant \"Solving CFTs with or without supersymmetric localization\" (RS-2025-00518906, Mar 2025 - Feb 2028).</div><div><br></div><div>The following documents should be submitted electronically to&nbsp;<a href=\"mailto:khu.hepth@gmail.com\">khu.hepth@gmail.com</a>&nbsp;in a single PDF file :</div><ol><li>a cover letter</li><li>a curriculum vitae including names of two referees</li><li>a statement of research interest with a publication list</li></ol><div>(We will later contact the referees and request a recommendation letter for shortlisted applicants.)</div><div><br></div><div>Review of applications will continue until the position&nbsp;is filled, but priority will be given to the applications received by August 23, 2025.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-05T12:28:47.101449+00:00",
+      "updated": "2025-08-05T14:56:54.535671+00:00"
+    },
+    {
+      "id": "2957432",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Queen Mary, U. of London (main)",
+      "deadline": "2025-09-12",
+      "description": "<div>The ATLAS L1Calo/Global upgrade project is primarily a firmware development based on a common multipurpose hardware module. It requires a lot of software development in a wide range of areas. You will join the ATLAS group in the Particle Physics Research Centre, working within our L1Calo team, making leading contributions to the ATLAS calorimeter trigger upgrade for the high-luminosity LHC. You will provide support to our PhD students and contribute to the broader activities of the group and the school.</div><div><br></div><div><strong>About You</strong></div><div>You will have completed or be about to complete a PhD or research qualification/experience equivalent to PhD level in a relevant subject area (physics, engineering, computing science, etc.). You will need as essential skills a good knowledge of C++ and python, familiarity with the use of code repositories and ability to work in a collaborative environment.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://qmul-jobs.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/7007-Postdoctoral-Research-Associate/"
+      ],
+      "contact_email": null,
+      "created": "2025-08-05T08:49:10.939342+00:00",
+      "updated": "2025-08-05T14:59:03.735214+00:00"
+    },
+    {
+      "id": "2957132",
+      "title": "PhD position in Theoretical Particle Cosmology",
+      "institution": "KIT, Karlsruhe, Dept. Phys.",
+      "deadline": "2025-10-03",
+      "description": "<div><strong>Doctoral Student (Akademische*r Mitarbeiter*in) (f/m/d) in Theoretical Particle Cosmology</strong></div><div><br></div><div>We seek a qualified physics graduate to join as a PhD candidate at the Karlsruhe Institute of Technology (KIT).</div><div><br></div><div>The successful candidate will join Dr. Kim Berghaus' research group to work on projects related to Theoretical Particle Cosmology, on topics of the intersection of particle physics and theoretical/observational cosmology such as inflation, dark energy, and the Hubble tension. The position is for 3 years with a flexible starting date from February 1st, 2026 to May 1st, 2026.</div><div><br></div><div>This position is part of the Emmy Noether Research Group “Novel Signatures of Relativistic Particle Production in Cosmology”. The group investigates the impact of fundamental interactions between scalar fields and other light degrees of freedom on cosmological observations.</div><div><br></div><div><strong>Your Profile:</strong></div><ul><li><strong>Master’s degree</strong>&nbsp;in Physics (to be completed by the starting date).</li><li>Strong interest in cosmology and (astro)particle physics.</li><li>Some prior research experience in cosmology or particle physics is highly desirable.</li></ul><div><strong>We Offer:</strong></div><ul><li>3-year contract (salary level E 13 TV-L, 75%).</li><li>Collaborative and supportive work environment.</li></ul><div><strong>Application Procedure:</strong></div><ul><li>Motivation letter (max 1 page).</li><li>Curriculum Vitae.</li><li>Recent transcript of study records.</li><li>1-3 Recommendation letters (to be submitted by the reference writer).</li></ul><div>Motivation letter, CV and transcript of records should be sent as a <strong>single PDF</strong> to kberghaus.kit.phys.applications@gmail.com.</div><div><br></div><div>The review of applications will start on <strong>October 4th, 2025</strong>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-04T22:36:40.227373+00:00",
+      "updated": "2025-08-05T14:58:21.691115+00:00"
+    },
+    {
       "id": "2957049",
       "title": "Fondazione Antonio Madonna ETS Scholarship",
       "institution": "CSTQ",
@@ -2538,6 +2636,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-05T08:04:34.298Z",
-  "totalJobs": 123
+  "lastUpdated": "2025-08-06T08:04:22.526Z",
+  "totalJobs": 128
 }
