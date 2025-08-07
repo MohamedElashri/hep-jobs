@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "id": "2957871",
+      "title": "PhD position (m/f/d) in Experimental Particle Physics (ATLAS)",
+      "institution": "Bergische U., Wuppertal (main)",
+      "deadline": "2025-08-25",
+      "description": "<div>The experimental particle physics group at Wuppertal is strongly engaged in the data analysis and the operation of the ATLAS detector at the Large Hadron Collider (LHC) at CERN. The new position are dedicated to analyses of events with top quarks. The search for physics beyond the standard model as well as measurements of rare processes within the framework of the standard model are pursued here. It is expected to contribute to our responsibilities for the ATLAS MC Validation Framework PAVER and take over of ATLAS control room shifts as well as participation in the operation of the ATLAS detector. The PhD student will have the opportunity for an extended stay at CERN.</div><div><br></div><div><strong>Professional and personal requirements:&nbsp;</strong></div><ul><li>Above-average university degree in physics (Master's degree of Science or equivalent)</li><li>Experience in experimental elementary particle physics or related fields of research (nuclear, hadron or astroparticle physics), through a thesis in these areas</li><li>Experience in the analysis of experimental or simulated data, or phenomenological studies</li><li>Programming skills in C++ or Python</li><li>Good knowledge of English</li></ul><div>The position is subject to the German labour law concerning non-permanent contracts in science (German: Wissenschaftszeitvertragsgesetzes [WissZeitVG]), supporting candidates aiming for graduation as Ph.D. (Dr. rerum naturalium). The contract is limited until graduation, initially for three years. An extension to complete the Ph.D. is possible within the legal boundaries of the WissZeitVG.</div><div><br></div><div>Applications including all relevant credentials (motivation letter, CV, proof of successful graduation, job references, and if applicable, evidence of a severe disability as a PDF file) should be addressed to Dr. Dominic Hirschbühl and solely submitted via the online portal of the University of Wuppertal: <a href=\"https://stellenausschreibungen.uni-wuppertal.de/\">https://stellenausschreibungen.uni-wuppertal.de</a>. Kindly note that incomplete applications will not be considered.</div><div>&nbsp;</div><div>The University of Wuppertal is an equal opportunity employer. Applications from persons of any gender and persons with disabilities as well as persons with an equivalent status are highly welcome. In accordance with the Gender Equality Act of North Rhine-Westphalia, women will be given preferential consideration unless there are compelling reasons in favour of an applicant who is not female. The same applies to applications from disabled persons, who will be given preference in the case of equal suitability.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://stellenausschreibungen.uni-wuppertal.de"
+      ],
+      "contact_email": null,
+      "created": "2025-08-06T10:46:14.444986+00:00",
+      "updated": "2025-08-06T13:38:22.557221+00:00"
+    },
+    {
       "id": "2957668",
       "title": "Assistant professor",
       "institution": "GSSI, Aquila",
@@ -2636,6 +2658,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-06T08:04:22.526Z",
-  "totalJobs": 128
+  "lastUpdated": "2025-08-07T08:04:31.227Z",
+  "totalJobs": 129
 }
