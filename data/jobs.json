@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "id": "2959807",
+      "title": "Assistant Professor Position in Experimental Particle Physics",
+      "institution": "Chiba U.",
+      "deadline": "2025-10-31",
+      "description": "<div>The Department of Physics at Chiba University in Japan conducts fundamental research spanning particle physics, condensed matter, astrophysics and cosmology. Within the department, the Laboratory for Experimental Particle Physics (LEPP) is internationally recognized as a leader in high-energy neutrino physics, spearheading accelerator-based neutrino experiments. LEPP makes major contributions to the NA65/DsTau experiment, the FASER neutrino programme at the LHC, and the proposed FASER$\\nu$2 experiment at the Forward Physics Facility (FPF). Exploration of all three neutrino flavours at TeV energies at the LHC is opening a new frontier that links neutrino and flavour physics with QCD and cosmic-ray studies. LEPP also partners closely with the International Center for Hadron Astrophysics (ICEHAP) at Chiba University, the leading institute for IceCube Neutrino Observatory, to promote interdisciplinary work across particle and astroparticle physics.</div><div><br></div><div>The Department of Physics now invites applications for a tenure-track Assistant Professor in experimental particle physics. The successful candidate will lead innovative research in accelerator-based neutrino and hadron physics—particularly within FASER and NA65/DsTau—and play a central role in developing future neutrino experiments, such as those foreseen for the FPF, in collaboration with Prof. Akitaka Ariga and LEPP members.</div><div><br></div><div>In addition to research, the appointee will be expected to undertake departmental responsibilities, including teaching and day-to-day supervision of Bachelor’s, Master’s, and Ph.D. students.</div><div><br></div><div>Chiba University offers outstanding infrastructure for experimental research, with dedicated laboratories for detector development, emulsion handling, and high-speed automated microscope readout, as well as strong industrial collaboration on aerogel production. Applicants should hold (or expect to hold by the start date) a Ph.D. in experimental particle physics or a closely related field and demonstrate a record of high-quality research and potential for independence.</div><div><br></div><div>We welcome applications from candidates of all nationalities. Chiba University is an equal-opportunity employer committed to fostering diversity and excellence in its academic community.</div><div><br></div><div>The position is offered as a five-year tenure-track appointment. A tenure review will be conducted within the contract period. Candidates who successfully pass the review may be considered for promotion to Associate Professor. The annual salary is determined in accordance with the Chiba University Salary Regulations for Employees on the Annual Salary Scale.</div><div><br></div><div>The position will start on January 1, 2026, or later (negotiable). Review of applications will begin on November 1, 2025, and will continue until the position is filled.</div><div><br></div><div>Interested candidates should submit the following materials:</div><div>- Cover letter</div><div>- Curriculum Vitae</div><div>- List of publications (please highlight up to five representative papers with brief descriptions)</div><div>- Research statement</div><div>- Two letters of reference</div><div><br></div><div>Application documents should be submitted via AcademicJobsOnline (<a href=\"https://academicjobsonline.org/ajo/jobs/30369\">https://academicjobsonline.org/ajo/jobs/30369</a>)</div><div>Inquiries about the position can be directed to: Prof. Akitaka Ariga – <a href=\"mailto:ariga@chiba-u.jp\">ariga@chiba-u.jp</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [
+        "CERN-LHC-FASER",
+        "CERN-NA-065"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30369"
+      ],
+      "contact_email": null,
+      "created": "2025-08-13T05:20:38.351629+00:00",
+      "updated": "2025-08-13T16:23:37.214058+00:00"
+    },
+    {
       "id": "2959608",
       "title": "Postdoctoral Associate",
       "institution": "Cornell U.",
@@ -2901,6 +2924,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-13T08:04:27.811Z",
-  "totalJobs": 141
+  "lastUpdated": "2025-08-14T08:04:43.908Z",
+  "totalJobs": 142
 }
