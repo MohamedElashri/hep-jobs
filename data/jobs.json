@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "id": "2960458",
+      "title": "Postdoctoral Research Associate In Dark Matter/SuperCDMS Experiment (Physics)",
+      "institution": "Texas A-M",
+      "deadline": "2025-09-30",
+      "description": "<div>Texas A&amp;M University has an immediate opening for a Postdoctoral Research Associate in Experimental High Energy Physics working on the SuperCDMS experiment. The successful candidate will join the group led by Prof Toback.&nbsp;</div><div><br></div><div>The group currently plays a major role in the software, simulation, computing and analysis for the experiment. The Commissioning phase at SNOLAB for the experiment is expected to start in late 2025 and the Science Data Taking run is expected to start in early 2026.&nbsp;</div><div><br></div><div>Candidates must have a Ph.D. and research experience in experimental high energy physics. The successful candidate is expected to work with the Senior Research Scientist and graduate students in the group to carry out novel physics analyses in the search for dark matter, take a lead role in software, simulations development and production, and contribute to the commissioning and data taking phases as SNOLAB. Candidates should have extensive programming and computing experience.</div><div><br></div><div>The location of the position is flexible, with possibilities including at the Mitchell Institute at Texas A&amp;M, SNOLAB and other locations. Review of applications will begin immediately and will continue until the position is filed.&nbsp;</div><div><br></div><div>To apply, candidates should submit the following:&nbsp;</div><ul><li>Cover letter&nbsp;</li><li>CV&nbsp;</li><li>Statement of research interests (to be appended to the cover letter)&nbsp;</li><li>Names and contact information for three professional references. In addition, applicants should also arrange for at least three letters of recommendation to be sent by email to toback@tamu.edu.</li></ul>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "SuperCDMS-SNOLAB"
+      ],
+      "urls": [
+        "https://tobackgroup.physics.tamu.edu/"
+      ],
+      "contact_email": null,
+      "created": "2025-08-14T17:23:14.133234+00:00",
+      "updated": "2025-08-14T19:26:29.819500+00:00"
+    },
+    {
       "id": "2959807",
       "title": "Assistant Professor Position in Experimental Particle Physics",
       "institution": "Chiba U.",
@@ -2924,6 +2946,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-14T08:04:43.908Z",
-  "totalJobs": 142
+  "lastUpdated": "2025-08-15T08:04:43.244Z",
+  "totalJobs": 143
 }
