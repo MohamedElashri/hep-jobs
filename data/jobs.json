@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "id": "2961940",
+      "title": "European Research Council (ERC) Consolidator Grants",
+      "institution": "Imperial Coll., London",
+      "deadline": "2025-10-13",
+      "description": "<div>European Research Council (ERC) Consolidator Grants – Department of Physics, Imperial (UK)</div><div>&nbsp;</div><div>The Department of Physics at Imperial welcomes expressions of interest from researchers planning to apply to the ERC Consolidator Grants 2026.</div><div>&nbsp;</div><div>We invite applicants to explore opportunities within our diverse <a href=\"https://www.imperial.ac.uk/physics/research/communities/\">Research Communities</a>.</div><div>&nbsp;</div><div><strong>Summary</strong></div><div>The European Research Council (ERC) Consolidator Grants are prestigious, frontier research grants for talented mid-career researchers.</div><div>&nbsp;</div><div>Consolidator Grants provide up to €2 million over 5 years. Applicants based in the EU or an Associated Country may request up to an additional €1 million to cover eligible costs such as start-up costs, major equipment, large facilities access, major experimental costs and field work. Applicants currently based outside the EU or Associated Countries who are relocating may request up to an additional €2 million for these costs.</div><div>&nbsp;</div><div>The ERC 2026 Consolidator Grant call is due to open on 25 September 2025 and close on 13 January 2026.</div><div>&nbsp;</div><div>Imperial Physics applicants are expected to charge 50% of their time to the grant and to take on a small teaching load.</div><div>&nbsp;</div><div>Eligibility</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The scheme is open to researchers of any nationality who defended their first PhD between 7 and 12 years<strong> </strong>before 1 January 2026.</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extensions may apply for eligible circumstances such as parental leave, long-term illness, clinical training, or asylum seeking.</div><div>&nbsp;</div><div><strong>Further details: </strong></div><div><a href=\"https://erc.europa.eu/apply-grant/consolidator-grant\">https://erc.europa.eu/apply-grant/consolidator-grant</a></div><div><a href=\"https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/european-commission/horizon-europe/european-research-council/\">https://www.imperial.ac.uk/research-and-innovation/research-office/funder-information/european-commission/horizon-europe/european-research-council/</a></div><div>&nbsp;</div><div><strong>How to Apply with Imperial Physics</strong></div><div>To apply for an ERC Consolidator Grant with Imperial Physics as your host</div><div>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identify a Sponsor</div><div>Secure the agreement of an <a href=\"https://www.imperial.ac.uk/physics/research/staff/\">academic staff member</a> within the Department of Physics to act as your sponsor. We recommend early contact to explore alignment and support.</div><div>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submit an Expression of Interest.&nbsp;Complete the Imperial EOI form (available from the Department’s Fellowships <a href=\"https://www.imperial.ac.uk/physics/opportunities/research-fellowships\">webpage</a>) and email it including your CV and publication list to <a href=\"mailto:phys-ra@imperial.ac.uk\">phys-ra@imperial.ac.uk</a> copying your sponsor by 13 October 2025</div><div>&nbsp;</div><div><strong>Our Commitment to Inclusive Excellence</strong></div><div>The Department of Physics is proud to be an IoP JUNO Practitioner and to hold an Athena SWAN Silver Award, recognising our ongoing commitment to fostering a supportive, inclusive, and high-achieving community. We strive to create a <a href=\"https://www.imperial.ac.uk/physics/about-us/equality-diversity-and-inclusion/inclusive-environment/\">welcoming environment</a> for everyone and have introduced a range of initiatives to encourage collaboration, inclusivity, and professional development.</div><div>&nbsp;</div><div>We value the strength that comes from diverse perspectives and strongly encourage applications from candidates of all backgrounds. We particularly welcome applications from individuals who identify as female and those who consider themselves underrepresented in physics.</div><div>&nbsp;</div><div>Imperial is committed to equality of opportunity, the elimination of discrimination, and the creation of an inclusive working environment for all. We welcome applicants regardless of age, disability, marital or civil partnership status, pregnancy or maternity, race, religion or belief, gender identity, sex, or sexual orientation.</div><div>&nbsp;</div><div>To learn more about Imperial’s work in equity, diversity and inclusion, please visit</div><div>- <a href=\"https://www.imperial.ac.uk/equality\">Equality at Imperial</a></div><div>- <a href=\"https://www.imperial.ac.uk/equality/staff-networks/\">Imperial’s Diversity Networks</a></div><div>&nbsp;</div><div><strong>Supporting Your Career</strong></div><div>At Imperial, we highly value our postdocs and are committed to supporting your personal and professional development. The <a href=\"https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-research/vpre-led-initiatives/early-career-researcher-institute/\">Early Career Researcher Institute</a> (ECRI) serves as a central hub, offering a wide range of resources, training, and guidance. Through ECRI, you'll benefit from tailored development opportunities—including mentoring, skills workshops, and networking events—all designed to support your growth and long-term career success.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-19T10:59:20.227147+00:00",
+      "updated": "2025-08-19T14:39:55.346434+00:00"
+    },
+    {
       "id": "2961665",
       "title": "Postdoctoral Position in Neutrino Physics at TAMBO",
       "institution": "Harvard U. (main)",
@@ -3087,6 +3105,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-19T08:04:14.705Z",
-  "totalJobs": 150
+  "lastUpdated": "2025-08-20T08:04:04.666Z",
+  "totalJobs": 151
 }
