@@ -435,13 +435,16 @@ class HEPJobsTracker {
   generateJobCard(job) {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
+    const hasPostdoc = job.ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
     const cardClass = isExpired ? "job-card expired" : "job-card";
+    const postdocClass = hasPostdoc ? " postdoc" : "";
+    const ranksData = job.ranks.map(rank => rank.toUpperCase()).join(',');
     
     // Create InspireHEP URL for the job
     const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
 
     return `
-      <div class="${cardClass}" data-id="${job.id}">
+      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}">
         <div class="job-header">
           <h3 class="job-title">
             <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
@@ -555,6 +558,26 @@ class HEPJobsTracker {
                 <button class="filter-btn" data-filter="active">Active Only</button>
                 <button class="filter-btn" data-filter="expired">Expired</button>
             </div>
+            <div class="rank-filters">
+                <h4>Filter by Rank:</h4>
+                <div class="rank-filter-buttons">
+                    <label class="rank-filter">
+                        <input type="checkbox" value="POSTDOC" checked> Postdoc
+                    </label>
+                    <label class="rank-filter">
+                        <input type="checkbox" value="PHD" checked> PhD
+                    </label>
+                    <label class="rank-filter">
+                        <input type="checkbox" value="JUNIOR" checked> Junior
+                    </label>
+                    <label class="rank-filter">
+                        <input type="checkbox" value="SENIOR" checked> Senior
+                    </label>
+                    <label class="rank-filter">
+                        <input type="checkbox" value="OTHER" checked> Other
+                    </label>
+                </div>
+            </div>
         </div>
 
         <div class="jobs-container" id="jobsContainer">
@@ -603,6 +626,8 @@ class HEPJobsTracker {
     --expired-border: #dc3545;
     --expired-text: #dc3545;
     --success-color: #28a745;
+    --postdoc-border: #ff6b35;
+    --postdoc-bg: rgba(255, 107, 53, 0.05);
 }
 
 [data-theme="dark"] {
@@ -622,6 +647,8 @@ class HEPJobsTracker {
     --expired-border: #fc8181;
     --expired-text: #fc8181;
     --success-color: #68d391;
+    --postdoc-border: #ff8a65;
+    --postdoc-bg: rgba(255, 138, 101, 0.1);
 }
 
 * {
@@ -760,6 +787,42 @@ body {
     border-color: var(--text-accent);
 }
 
+.rank-filters {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.rank-filters h4 {
+    margin: 0 0 0.5rem 0;
+    color: var(--text-primary);
+    font-size: 1rem;
+}
+
+.rank-filter-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.rank-filter {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    transition: color 0.3s ease;
+}
+
+.rank-filter:hover {
+    color: var(--text-primary);
+}
+
+.rank-filter input[type="checkbox"] {
+    cursor: pointer;
+}
+
 .jobs-container {
     display: grid;
     gap: 1.5rem;
@@ -781,6 +844,16 @@ body {
 }
 
 .job-card.expired {
+    opacity: 0.7;
+    border-left-color: var(--expired-border);
+}
+
+.job-card.postdoc {
+    border-left-color: var(--postdoc-border);
+    background: var(--postdoc-bg);
+}
+
+.job-card.postdoc.expired {
     opacity: 0.7;
     border-left-color: var(--expired-border);
 }
@@ -1135,6 +1208,7 @@ body {
     constructor() {
         this.searchInput = document.getElementById('searchInput');
         this.filterButtons = document.querySelectorAll('.filter-btn');
+        this.rankFilters = document.querySelectorAll('.rank-filter input[type="checkbox"]');
         this.jobsContainer = document.getElementById('jobsContainer');
         this.allJobs = Array.from(document.querySelectorAll('.job-card'));
         this.themeToggle = document.getElementById('themeToggle');
@@ -1148,6 +1222,10 @@ body {
         
         this.filterButtons.forEach(btn => {
             btn.addEventListener('click', (e) => this.setFilter(e.target));
+        });
+
+        this.rankFilters.forEach(checkbox => {
+            checkbox.addEventListener('change', () => this.filterJobs());
         });
 
         this.themeToggle.addEventListener('click', () => this.toggleTheme());
@@ -1188,12 +1266,15 @@ body {
     filterJobs() {
         const searchTerm = this.searchInput.value.toLowerCase();
         const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+        const selectedRanks = Array.from(document.querySelectorAll('.rank-filter input[type="checkbox"]:checked'))
+            .map(checkbox => checkbox.value);
         
         this.allJobs.forEach(job => {
             const matchesSearch = this.matchesSearchTerm(job, searchTerm);
             const matchesFilter = this.matchesFilter(job, activeFilter);
+            const matchesRank = this.matchesRankFilter(job, selectedRanks);
             
-            if (matchesSearch && matchesFilter) {
+            if (matchesSearch && matchesFilter && matchesRank) {
                 job.classList.remove('hidden');
             } else {
                 job.classList.add('hidden');
@@ -1216,6 +1297,16 @@ body {
             default:
                 return true;
         }
+    }
+
+    matchesRankFilter(job, selectedRanks) {
+        if (selectedRanks.length === 0) return true; // If no ranks selected, show all
+        
+        const jobRanks = job.dataset.ranks ? job.dataset.ranks.split(',') : [];
+        if (jobRanks.length === 0) return selectedRanks.includes('OTHER'); // Jobs without ranks are considered "OTHER"
+        
+        // Check if job has any of the selected ranks
+        return jobRanks.some(rank => selectedRanks.includes(rank.trim()));
     }
 }
 
