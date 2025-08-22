@@ -435,16 +435,14 @@ class HEPJobsTracker {
   generateJobCard(job) {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
-    const hasPostdoc = job.ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
     const cardClass = isExpired ? "job-card expired" : "job-card";
-    const postdocClass = hasPostdoc ? " postdoc" : "";
     const ranksData = job.ranks.map(rank => rank.toUpperCase()).join(',');
     
     // Create InspireHEP URL for the job
     const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
 
     return `
-      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}">
+      <div class="${cardClass}" data-id="${job.id}" data-ranks="${ranksData}">
         <div class="job-header">
           <h3 class="job-title">
             <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
@@ -610,45 +608,41 @@ class HEPJobsTracker {
 
   generateCSS() {
     return `:root {
-    /* Light theme colors */
-    --bg-primary: #f5f7fa;
+    /* Light theme colors - GitHub palette */
+    --bg-primary: #f6f8fa;
     --bg-secondary: #ffffff;
     --bg-accent: rgba(255, 255, 255, 0.2);
-    --text-primary: #333333;
-    --text-secondary: #555555;
-    --text-accent: #667eea;
-    --border-color: #e1e5e9;
+    --text-primary: #24292f;
+    --text-secondary: #656d76;
+    --text-accent: #0969da;
+    --border-color: #d1d9e0;
     --shadow-color: rgba(0, 0, 0, 0.1);
     --shadow-hover: rgba(0, 0, 0, 0.15);
-    --gradient-start: #667eea;
-    --gradient-end: #764ba2;
-    --card-border: #667eea;
-    --expired-border: #dc3545;
-    --expired-text: #dc3545;
-    --success-color: #28a745;
-    --postdoc-border: #ff6b35;
-    --postdoc-bg: rgba(255, 107, 53, 0.05);
+    --gradient-start: #0969da;
+    --gradient-end: #0550ae;
+    --card-border: #0969da;
+    --expired-border: #cf222e;
+    --expired-text: #cf222e;
+    --success-color: #1a7f37;
 }
 
 [data-theme="dark"] {
-    /* Dark theme colors */
-    --bg-primary: #1a1a2e;
-    --bg-secondary: #16213e;
+    /* Dark theme colors - GitHub palette */
+    --bg-primary: #0d1117;
+    --bg-secondary: #161b22;
     --bg-accent: rgba(255, 255, 255, 0.1);
-    --text-primary: #e0e0e0;
-    --text-secondary: #b0b0b0;
-    --text-accent: #7c93ff;
-    --border-color: #2d3748;
+    --text-primary: #e6edf3;
+    --text-secondary: #7d8590;
+    --text-accent: #2f81f7;
+    --border-color: #30363d;
     --shadow-color: rgba(0, 0, 0, 0.3);
     --shadow-hover: rgba(0, 0, 0, 0.4);
-    --gradient-start: #4a5568;
-    --gradient-end: #2d3748;
-    --card-border: #7c93ff;
-    --expired-border: #fc8181;
-    --expired-text: #fc8181;
-    --success-color: #68d391;
-    --postdoc-border: #ff8a65;
-    --postdoc-bg: rgba(255, 138, 101, 0.1);
+    --gradient-start: #30363d;
+    --gradient-end: #21262d;
+    --card-border: #2f81f7;
+    --expired-border: #f85149;
+    --expired-text: #f85149;
+    --success-color: #3fb950;
 }
 
 * {
@@ -844,16 +838,6 @@ body {
 }
 
 .job-card.expired {
-    opacity: 0.7;
-    border-left-color: var(--expired-border);
-}
-
-.job-card.postdoc {
-    border-left-color: var(--postdoc-border);
-    background: var(--postdoc-bg);
-}
-
-.job-card.postdoc.expired {
     opacity: 0.7;
     border-left-color: var(--expired-border);
 }
