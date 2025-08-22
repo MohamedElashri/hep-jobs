@@ -2,6 +2,7 @@ class JobsApp {
     constructor() {
         this.searchInput = document.getElementById('searchInput');
         this.filterButtons = document.querySelectorAll('.filter-btn');
+        this.rankFilters = document.querySelectorAll('.rank-filter input[type="checkbox"]');
         this.jobsContainer = document.getElementById('jobsContainer');
         this.allJobs = Array.from(document.querySelectorAll('.job-card'));
         this.themeToggle = document.getElementById('themeToggle');
@@ -15,6 +16,10 @@ class JobsApp {
         
         this.filterButtons.forEach(btn => {
             btn.addEventListener('click', (e) => this.setFilter(e.target));
+        });
+
+        this.rankFilters.forEach(checkbox => {
+            checkbox.addEventListener('change', () => this.filterJobs());
         });
 
         this.themeToggle.addEventListener('click', () => this.toggleTheme());
@@ -55,12 +60,15 @@ class JobsApp {
     filterJobs() {
         const searchTerm = this.searchInput.value.toLowerCase();
         const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
+        const selectedRanks = Array.from(document.querySelectorAll('.rank-filter input[type="checkbox"]:checked'))
+            .map(checkbox => checkbox.value);
         
         this.allJobs.forEach(job => {
             const matchesSearch = this.matchesSearchTerm(job, searchTerm);
             const matchesFilter = this.matchesFilter(job, activeFilter);
+            const matchesRank = this.matchesRankFilter(job, selectedRanks);
             
-            if (matchesSearch && matchesFilter) {
+            if (matchesSearch && matchesFilter && matchesRank) {
                 job.classList.remove('hidden');
             } else {
                 job.classList.add('hidden');
@@ -83,6 +91,16 @@ class JobsApp {
             default:
                 return true;
         }
+    }
+
+    matchesRankFilter(job, selectedRanks) {
+        if (selectedRanks.length === 0) return true; // If no ranks selected, show all
+        
+        const jobRanks = job.dataset.ranks ? job.dataset.ranks.split(',') : [];
+        if (jobRanks.length === 0) return selectedRanks.includes('OTHER'); // Jobs without ranks are considered "OTHER"
+        
+        // Check if job has any of the selected ranks
+        return jobRanks.some(rank => selectedRanks.includes(rank.trim()));
     }
 }
 

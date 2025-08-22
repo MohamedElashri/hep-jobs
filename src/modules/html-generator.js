@@ -68,11 +68,14 @@ class HTMLGenerator {
   generateJobCard(job) {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
+    const hasPostdoc = job.ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
     const cardClass = isExpired ? "job-card expired" : "job-card";
+    const postdocClass = hasPostdoc ? " postdoc" : "";
     const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
+    const ranksData = job.ranks.map(rank => rank.toUpperCase()).join(',');
 
     return `
-      <div class="${cardClass}" data-id="${job.id}">
+      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}">
         <div class="job-header">
           <h3 class="job-title">
             <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
