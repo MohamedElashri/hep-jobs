@@ -614,13 +614,13 @@ class HEPJobsTracker {
     --bg-accent: rgba(255, 255, 255, 0.2);
     --text-primary: #24292f;
     --text-secondary: #656d76;
-    --text-accent: #0969da;
+    --text-accent: #24292f;
     --border-color: #d1d9e0;
     --shadow-color: rgba(0, 0, 0, 0.1);
     --shadow-hover: rgba(0, 0, 0, 0.15);
-    --gradient-start: #0969da;
-    --gradient-end: #0550ae;
-    --card-border: #0969da;
+    --gradient-start: #bd93f9;
+    --gradient-end: #ff79c6;
+    --card-border: #d1d9e0;
     --expired-border: #cf222e;
     --expired-text: #cf222e;
     --success-color: #1a7f37;
