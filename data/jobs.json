@@ -1,6 +1,26 @@
 {
   "jobs": [
     {
+      "id": "2963232",
+      "title": "Postdoctoral Position - Multi-messenger Astrophysics Group",
+      "institution": "U. Geneva (main)",
+      "deadline": "2025-10-31",
+      "description": "<div>The Section of Physics of the University of Geneva is a worldwide-recognized center for fundamental research in physics, including Particle Physics, Astroparticle Physics and Cosmology, and provides an international, dynamic, and competitive environment for the training of young researchers. Within the Section of Physics the Département de Physique Nucléaire (DPNC) hosts groups in particle physics with accelerators and astroparticles measured from ground and space.</div><div><br></div><div>The Multi-messenger Astrophysics group at the University of Geneva (UniGE/DPNC) invites applications for a Postdoctoral Research Associate position within the Cherenkov Telescope Array Observatory (CTAO). CTAO is the next-generation ground-based gamma-ray observatory featuring tens of telescopes located at two sites in both hemispheres. It allows probing the high-energy cosmic ray sources with unprecedented sensitivity and angular resolution, in the energy domain from tens of GeV to hundreds of TeV.</div><div><br></div><div>The UniGE/DPNC group leads the development of the&nbsp;<strong>Calibration and Data Quality Pipeline</strong>&nbsp;subsystems of the&nbsp;<strong>CTAO Data Processing and Preservation System (DPPS)</strong>. DPPS is a software system responsible for the reconstruction, processing, quality monitoring, and preservation of data products of the CTAO. The selected candidate will work on the&nbsp;<strong>development and implementation of the calibration and</strong>&nbsp;<strong>data quality monitoring tools, and related software infrastructure</strong>. S/He will be a member of the LST Collaboration with shifts duties on site.</div><div><br></div><div><strong>Required Qualifications</strong></div><ul><li>Knowledge of imaging Cherenkov gamma-ray telescopes, data taking and analysis with them</li><li>Strong knowledge of Python and familiarity with version control systems (Git/GitLab)</li><li>Ph.D. in Physics and Astronomy/Possible consideration for Ph.D. in Computer Science&nbsp;</li></ul><div><strong>Additional Preferred Qualifications</strong></div><ul><li>Experience in data analysis in the field of very high-energy gamma-ray astrophysics</li><li>Experience with the Data Quality Monitoring in the domain of (astro)particle physics</li><li>Experience with UI design, Experience in web applications development</li><li>Experience in the development of complex SaaS applications</li><li>Familiarity with continuous integration and development (CI/CD)</li></ul><div>The successful candidate will be offered an initial 1-year contract, renewable. The salary corresponds to class 14 or beyond of the Echelle de Traitement de Genève and is commensurate with the experience of the candidate.</div><div><br></div><div>NB : The University encourages applications from the underrepresented gender and minorities.</div><div>Interested applicants should send a motivation letter, a Curriculum Vitae, and 2 reference persons' letters by electronic mail to:&nbsp;</div><div><br></div><div>Prof.&nbsp;T. Montaruli</div><div><a href=\"mailto:teresa.montaruli@unige.ch\">teresa.montaruli@unige.ch</a></div><div>Dr. M. Heller</div><div><a href=\"mailto:teresa.montaruli@unige.ch,domenico.dellavolpe@cern.ch,%20Matthieu.Heller@unige.ch?subject=Postdoc%20Opening%20DPPS%20in%20your%20group\">matthieu.heller@unige.ch</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CTAO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-22T14:03:47.681452+00:00",
+      "updated": "2025-08-22T14:43:11.625374+00:00"
+    },
+    {
       "id": "2962773",
       "title": "Postdoctoral position",
       "institution": "U. Florida, Gainesville (main)",
@@ -3187,6 +3207,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-22T15:12:03.399Z",
-  "totalJobs": 155
+  "lastUpdated": "2025-08-22T15:15:03.043Z",
+  "totalJobs": 156
 }
