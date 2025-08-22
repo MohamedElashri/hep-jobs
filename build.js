@@ -853,6 +853,10 @@ body {
     line-height: 1.3;
 }
 
+[data-theme="dark"] .job-title {
+    color: #8be9fd;
+}
+
 .job-institution {
     color: var(--text-accent);
     font-weight: 500;
