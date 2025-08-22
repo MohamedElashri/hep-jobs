@@ -5,13 +5,13 @@
     --bg-accent: rgba(255, 255, 255, 0.2);
     --text-primary: #24292f;
     --text-secondary: #656d76;
-    --text-accent: #24292f;
+    --text-accent: #059669;
     --border-color: #d1d9e0;
     --shadow-color: rgba(0, 0, 0, 0.1);
     --shadow-hover: rgba(0, 0, 0, 0.15);
     --gradient-start: #bd93f9;
     --gradient-end: #ff79c6;
-    --card-border: #d1d9e0;
+    --card-border: #059669;
     --expired-border: #cf222e;
     --expired-text: #cf222e;
     --success-color: #1a7f37;
