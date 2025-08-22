@@ -624,6 +624,7 @@ class HEPJobsTracker {
     --expired-border: #cf222e;
     --expired-text: #cf222e;
     --success-color: #1a7f37;
+    --job-title-color: #24292f;
 }
 
 [data-theme="dark"] {
@@ -643,6 +644,7 @@ class HEPJobsTracker {
     --expired-border: #ff5555;
     --expired-text: #ff5555;
     --success-color: #50fa7b;
+    --job-title-color: #8be9fd;
 }
 
 * {
@@ -848,7 +850,7 @@ body {
 
 .job-title {
     font-size: 1.3rem;
-    color: var(--text-primary);
+    color: var(--job-title-color);
     margin-bottom: 0.5rem;
     line-height: 1.3;
 }
