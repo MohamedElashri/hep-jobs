@@ -258,6 +258,17 @@ body {
     line-height: 1.3;
 }
 
+.job-title-link {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.job-title-link:hover {
+    color: var(--text-accent);
+    text-decoration: underline;
+}
+
 .job-institution {
     color: var(--text-accent);
     font-weight: 500;

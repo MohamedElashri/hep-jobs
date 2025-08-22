@@ -182,11 +182,11 @@ class HTMLGenerator {
     const template = this.loadTemplate();
     
     return template
-      .replace('{{totalJobs}}', totalJobs)
-      .replace('{{activeJobs}}', activeJobs.length)
-      .replace('{{lastUpdated}}', updateTime)
-      .replace('{{jobCards}}', jobCards)
-      .replace('{{noJobsMessage}}', noJobsMessage);
+      .replace(/\{\{totalJobs\}\}/g, totalJobs)
+      .replace(/\{\{activeJobs\}\}/g, activeJobs.length)
+      .replace(/\{\{lastUpdated\}\}/g, updateTime)
+      .replace(/\{\{jobCards\}\}/g, jobCards)
+      .replace(/\{\{noJobsMessage\}\}/g, noJobsMessage);
   }
 }
 
