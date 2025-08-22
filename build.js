@@ -627,22 +627,22 @@ class HEPJobsTracker {
 }
 
 [data-theme="dark"] {
-    /* Dark theme colors - Lighter, more comfortable palette */
-    --bg-primary: #2d3748;
-    --bg-secondary: #4a5568;
-    --bg-accent: rgba(255, 255, 255, 0.15);
-    --text-primary: #f7fafc;
-    --text-secondary: #a0aec0;
-    --text-accent: #63b3ed;
-    --border-color: #718096;
-    --shadow-color: rgba(0, 0, 0, 0.2);
-    --shadow-hover: rgba(0, 0, 0, 0.3);
-    --gradient-start: #4a5568;
-    --gradient-end: #2d3748;
-    --card-border: #63b3ed;
-    --expired-border: #fc8181;
-    --expired-text: #fc8181;
-    --success-color: #68d391;
+    /* Dark theme colors - Dracula palette */
+    --bg-primary: #282a36;
+    --bg-secondary: #44475a;
+    --bg-accent: rgba(139, 233, 253, 0.15);
+    --text-primary: #f8f8f2;
+    --text-secondary: #6272a4;
+    --text-accent: #8be9fd;
+    --border-color: #6272a4;
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --shadow-hover: rgba(0, 0, 0, 0.5);
+    --gradient-start: #bd93f9;
+    --gradient-end: #ff79c6;
+    --card-border: #8be9fd;
+    --expired-border: #ff5555;
+    --expired-text: #ff5555;
+    --success-color: #50fa7b;
 }
 
 * {
