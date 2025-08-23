@@ -1,6 +1,24 @@
 {
   "jobs": [
     {
+      "id": "2963237",
+      "title": "Postdoctoral Position in High Energy Physics/Condensed Matter Theory",
+      "institution": "APCTP, Pohang",
+      "deadline": "2025-09-10",
+      "description": "<div>Applications are invited for one postdoctoral research fellow position in theoretical physics at the Asia-Pacific Center for Theoretical Physics (APCTP), Pohang, South Korea (<a href=\"http://www.apctp.org/\">www.apctp.org</a>). The position will be part of the Junior Research Group “Non-Lorentzian Structures in Gravity and Quantum Matter,” led by Dr. Patricio Salgado-Rebolledo.</div><div><br></div><div>APCTP, founded in 1996, is an international organization dedicated to excellence in research and the training of young scientists in the Asia-Pacific region. APCTP offers a great research environment with strong connections to a number of active theoretical and experimental research groups at the Pohang University of Science and Technology (POSTECH). APCTP has broad international agreements with many leading institutions around the globe for scientific exchanges.</div><div><br></div><div>The group’s research interests are non-Lorentzian field theory and gravity (e.g. Galilean, Carrollian, Lifshitz),&nbsp;non-AdS extensions of gauge/gravity dualities (e.g. non-relativistic holography, Carrollian perspective on flat space holography), and effective field theories&nbsp;for&nbsp;quantum matter systems (e.g. fractional quantum Hall effect,&nbsp;fractons,&nbsp;flat band systems).</div><div><br></div><div>The successful candidate is expected to actively participate in the collaborations of the research group, interact with members at APCTP and researchers at partner institutes, and pursue independent projects. A PhD in theoretical physics or a closely related field is required by the starting date of the position.</div><div><br></div><div>Experience in one or more of the following areas is especially desirable: <strong>non-Lorentzian symmetries, holography, higher-spin theory, field theory methods in condensed matter theory</strong>. We encourage applications from candidates of all backgrounds, especially those from groups historically underrepresented in the field.</div><div><br></div><div>The initial appointment is for one year, renewable for a second year depending on research performance and funding. The starting date is negotiable but is expected to be December 1, 2025.</div><div><br></div><div><strong>Application documents </strong>(to be sent electronically to salgado.rebolledo@apctp.org):</div><ul><li>Curriculum Vitae, list of publications, and a brief research statement (maximum 2 pages) in a single PDF file.</li><li>Two recommendation letters, to be submitted directly by the reference writers</li></ul><div>Review of applications will continue until the position is filled; however, priority will be given to applications received by <strong>September 10, 2025</strong>.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-22T18:06:47.581014+00:00",
+      "updated": "2025-08-22T20:15:30.435128+00:00"
+    },
+    {
       "id": "2963232",
       "title": "Postdoctoral Position - Multi-messenger Astrophysics Group",
       "institution": "U. Geneva (main)",
@@ -3207,6 +3225,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-22T15:43:50.869Z",
-  "totalJobs": 156
+  "lastUpdated": "2025-08-23T08:03:45.464Z",
+  "totalJobs": 157
 }
