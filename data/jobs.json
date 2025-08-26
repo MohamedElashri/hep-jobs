@@ -1,6 +1,326 @@
 {
   "jobs": [
     {
+      "id": "2963554",
+      "title": "PhD positions in Astrophysics, Cosmology and Gravitation",
+      "institution": "Espirito Santo U.",
+      "deadline": "2025-11-14",
+      "description": "<div>PPGCosmo is an international PhD program on Astrophysics, Cosmology and Gravitation that aims to give PhD students the opportunity to develop a successful international scientific career. The program offers a wide range of research topics, from theoretical to observational studies, with participation in major collaborations such as LIGO, Virgo, Einstein Telescope, J-PAS, Euclid, LSST, DELVE, Pierre Auger Observatory, SWGO, and CTA.</div><div><br></div><div>Currently, three 4-year PhD positions are available, starting in April 2026:</div><div>• Two positions funded by CAPES, offering a monthly fellowship of R$3100 (net).</div><div>• One position funded by FAPES, offering a monthly fellowship of R$4500 (net).</div><div><br></div><div>The program includes supervision by a professor from a Brazilian institution and co-supervision by an international collaborator. While compulsory postgraduate courses are primarily held in Vitória, Espírito Santo, Brazil, students will also engage with other Brazilian institutions participating in the program and spend up to one year at the institution of their international co-supervisor.</div><div><br></div><div>Research Topics Include:</div><div>Dark matter and dark energy models, extensions and alternatives to general relativity, observational cosmology, inflation, cosmic microwave background, large-scale structure, general properties of galaxies and galaxy clusters, gravitational lensing, quantum field theory in curved space-time, quantum gravity and its applications to cosmology and astrophysics, supernovae, black holes, neutron stars, pulsars, white dwarfs, galactic transient sources, high-energy astrophysics, gravitational waves, multi-messenger observations of compact objects, data analysis, and machine learning methods applied to astronomy.</div><div><br></div><div>For further details about the program and application process, visit: <a href=\"http://ppgcosmo.cosmo-ufes.org\">http://ppgcosmo.cosmo-ufes.org</a> and <a href=\"https://cosmologia.ufes.br/en\">https://cosmologia.ufes.br/en</a></div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "http://ppgcosmo.cosmo-ufes.org"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T20:24:14.385858+00:00",
+      "updated": "2025-08-25T20:36:01.086159+00:00"
+    },
+    {
+      "id": "2963471",
+      "title": "Postdoctoral position in CMS data analysis",
+      "institution": "Louvain U., CP3",
+      "deadline": "2025-09-10",
+      "description": "<div>The Centre for Cosmology, Particle Physics and Phenomenology (CP3) at the Université Catholique de Louvain (UCLouvain) in Louvain-la-Neuve, Belgium, invites applications for one</div><div>postdoctoral position in particle physics. Funding is available for 2 years with the possibility for extention for one more year. The position can start as soon as possible.</div><div>&nbsp;</div><div>Candidates should have a PhD in Particle Physics, or expect to have it within the next few months. The funding rules require that the candidates must be in the condition of international mobility, defined by our funding agency as not having resided or carried out their main activity (job, studies...) in Belgium for more than 24 months during the 3 years directly preceding the beginning of this postdoctoral fellowship, and that the PhD was obtained not more than 6 years before the start of the contract. Candidates with proven experience in data analysis are particularly encouraged to apply.</div><div>&nbsp;</div><div>The selected candidates are expected to join the CMS experimental studies. Service work (EPR) for the CMS collaboration is also expected. The Principal Investigators of the CMS-Louvain team are Agni Bethani, Christophe Delaere, Andrea Giammanco and soon Anna Benecke. More information about our CMS activities can be found at</div><div><a href=\"https://www.uclouvain.be/fr/instituts-recherche/irmp/cp3/cms-en\">https://www.uclouvain.be/fr/instituts-recherche/irmp/cp3/cms-en</a></div><div>&nbsp;</div><div>The successful candidate will work with Agni Bethani and Higgs and multi-Higgs related topics.&nbsp;The selected candidates will be given the opportunity to lead a well-defined analysis effort, in collaboration with PhD students and postdoctoral fellows. It is also possible, although not mandatory, to contribute to our hardware activities, which are mainly devoted to upgrades of the Tracker system and led by Christophe Delaere.</div><div>&nbsp;</div><div>The selected candidates are expected to be based in Belgium for the duration of the contract. Travel funding is available for presenting at conferences and workshops and for research missions at CERN or in other collaborating institutes.</div><div>&nbsp;</div><div>Applications should be submitted preferably before September 10th 2025. Later applications will be considered once the position is filled. Applicants should provide a curriculum vitae, a list of publications and a brief description of their research interests, as well as arrange for three recommendation letters to be submitted through the online form <a href=\"https://cp3.irmp.ucl.ac.be/job/115\">https://cp3.irmp.ucl.ac.be/job/115</a>.</div><div>&nbsp;</div><div>Applications and recommendation letters should be submitted using the online form only:</div><div>&nbsp;</div><div><a href=\"https://cp3.irmp.ucl.ac.be/job/115\">https://cp3.irmp.ucl.ac.be/job/115</a></div><div>&nbsp;</div><div>Contacts: agni.bethani@uclouvain.be</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://cp3.irmp.ucl.ac.be/job/115"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T15:36:13.104687+00:00",
+      "updated": "2025-08-25T17:23:54.715417+00:00"
+    },
+    {
+      "id": "2963461",
+      "title": "PhD position in astronomical instrumentation: space and ground-based high-resolution spectrographs",
+      "institution": "KU Leuven, Dept. Phys. Astron.",
+      "deadline": "2025-09-21",
+      "description": "<div><strong>The Host Institute&nbsp;</strong></div><div>The Institute of Astronomy (IoA) of KU Leuven University in Belgium is a young and vibrant research group of some 90 scientists, engineers, and administrative staff (<a href=\"http://fys.kuleuven.be/ster\">fys.kuleuven.be/ster</a>), including 7 full-time and 3 part-time professors. The institute is an expertise center in stellar physics and astronomical instrumentation, and is active in several international consortia and collaborations involving telescopes at observatories worldwide and in space. Members of IoA have access to parallel computing facilities at the Flemish Supercomputer Centre. The IoA is responsible for the organisation of the Master of Astronomy &amp; Astrophysics and the Advanced Master of Space Studies of the Faculty of Science, and it operates the 1.2m Mercator Telescope at the Roque de los Muchachos Observatory on La Palma (Canary Islands, Spain).</div><div><br></div><div><strong>The Project</strong></div><div>Currently, the IoA is developping and building two high-resolution echelle spectrographs:</div><ul><li>MARVEL is an instrument optimised for high-precision radial-velocity measurements for the detection and mass determination of exoplanets. It will be installed in the course of 2026 at the Mercator observatory on La Palma.</li><li>Cubespec is an ESA in-orbit demonstration mission that will use high-resolution spectroscopy from a 12U CubeSat platform for carrying out asteroseismology on massive stars. The spacecraft&nbsp;launch is scheduled around the end of 2026.</li></ul><div><br></div><div>These are very different instruments but they have a similar design and share the same type of challenges and problems to solve.</div><div><br></div><div>In this PhD project, you will work on the characterisation of both spectrographs in the lab, and their commissioning at the observatory for MARVEL or in orbit after launch for CubeSpec. Furthermore, you will also be involved in preceding design, integration an alignment activities. There is room to tune the content of the project to your previous education and/or specific profile. Some affinity with or experience in any of the following topics is valuable: optics (lab work, design), mechanics (e.g. CAD software), software (e.g. Python scripting), astronomical/spectroscopic data reduction and calibration, electronics (e.g. image sensors), …</div><div><br></div><div><strong>Requirements</strong></div><div>PhD applicants should hold a MSc degree in astrophysics, physics, or engineering, or have obtained an equivalent diploma. Proficiency in English is required. Apart of the assets mentioned in the previous paragraph, the ideal applicant is committed and curious, has strong problem-solving skills and a hands-on approach, can integrate and work in a team, and is eager to develop and deepen new skills and insights.</div><div><br></div><div><strong>The Contract</strong></div><div>The selected PhD student will be offered a 1-year contract, extensible to 4 years after positive evaluation (project fully funded for this period). The salary will be commensurate to the standard scale for PhD students in Belgium; it includes social and medical insurance as well as pension rights. Working hours are flexible and the opportunity for partial teleworking is offered. Refunds of commuting expenses when using public transport or bicycle are included. The KU Leuven offers access to childcare. The starting date is negotiable, but we prefer as soon as possible.</div><div><br></div><div>The successful PhD applicant will have to register at, and comply with, the regulations of KU Leuven’s Arenberg Doctoral School before final acceptance. The student will follow a doctoral programme including personal training in management, science communication, and teaching. As part of the doctoral requirements, the student will also have to take up a teaching task of at maximum 4 hours per week in one of the Bachelor (in Dutch) or Master (in English) programmes. PhD students at the IoA are also required to perform at least two Mercator observing runs of 10 nights during their PhD for the pooled IoA long-term monitoring programmes.</div><div><br></div><div><strong>How to apply?</strong></div><div>Your application should be received by September 21st, 2025, via the KU Leuven online application tool: <a href=\"https://www.kuleuven.be/personeel/jobsite/jobs/60539898?lang=en\">KU Leuven Jobsite</a>.</div><div><br></div><div>The application package should include:</div><ul><li>a cover letter, indicating a motivational statement (max. 1 page);</li><li>a summary of the master thesis research and previous research experience if relevant (max. 2 pages);</li><li>a curriculum vitae, with a publication list if relevant;</li><li>the names and contact details of two references who are prepared to send confidential recommendation letters should they be requested to do so.</li></ul><div>Please ensure that all your application documents are contained in a single PDF file before submitting your application. Members of minorities and underrepresented groups are strongly encouraged to apply.</div><div><br></div><div>For questions on the position: please contact Dr. Gert Raskin (gert.raskin@kuleuven.be) or Dr. Bart Vandenbussche (bart.vandenbussche@kuleuven.be). For questions on the application process: please contact Rose Stanley (rose.stanley@kuleuven.be).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://fys.kuleuven.be/ster/vacancies/vacancies"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T12:39:23.134061+00:00",
+      "updated": "2025-08-25T14:41:24.615702+00:00"
+    },
+    {
+      "id": "2963460",
+      "title": "ESA Research Fellowship in Space Science (Postdoctoral Fellowships)",
+      "institution": "European Space Agency",
+      "deadline": "2025-09-22",
+      "description": "<div>We are pleased to announce the 2025 Call for Applications for the European&nbsp;Space Agency's Research Fellowships in Space Science. We expect to hire 5 to 6 postdoctoral fellows who will start their fellowship in fall 2026.</div><div>&nbsp;</div><div>The deadline for applications is 22 September 2025.</div><div>&nbsp;</div><div>ESA's postdoctoral Research Fellowship programme offers early-career researchers the possibility to carry out independent research in a variety of disciplines. Research Fellowships in Space Science offer the opportunity to contribute to ESA's endeavour to explore our Solar System and the Universe in the fields of heliophysics, planetary science, astrophysics, and fundamental physics.</div><div>&nbsp;</div><div>ESA Research Fellow contracts have a maximum duration of three years. Projects initially last two years and are frequently extended to a third year upon submission of a dedicated proposal.</div><div>&nbsp;</div><div>Research Fellowships in Space Science can be located at any of the following institutes:</div><div>- European Space Astronomy Centre (ESAC) in Villafranca del Castillo near Madrid, Spain</div><div>- European Space Research and Technology Centre (ESTEC) in Noordwijk, the Netherlands</div><div>- ESA Office at Space Telescope Science Institute (STScI) in Baltimore, Maryland, USA</div><div><br></div><div>Detailed information and a link to the application portal can be found on the fellowship webpage:&nbsp;<a href=\"https://www.cosmos.esa.int/fellowship\">https://www.cosmos.esa.int/fellowship</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.cosmos.esa.int/fellowship"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T12:09:32.455343+00:00",
+      "updated": "2025-08-25T14:48:31.518290+00:00"
+    },
+    {
+      "id": "2963458",
+      "title": "PhD in Relativistic Quantum Reference Frames",
+      "institution": "University of South-Eastern Norway",
+      "deadline": "2025-09-26",
+      "description": "<div>Quantum reference frames have become an important tool for understanding foundational issues in quantum theory, and more recently, the structure of observable algebras in quantum field theory. This project looks at time observables as quantum reference frames of both quantum mechanical and quantum field theoretic systems, described by covariant POVMs, and the role they play in for example the reduction of observable algebras from type III to type II von Neumann algebras. More generally, we will investigate quantum reference frames in quantum field theory and analyse the relational description thus arising. The candidate will also be encouraged to develop their own lines of thought.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.jobbnorge.no/en/available-jobs/job/285499/phd-research-fellow-in-relativistic-quantum-reference-frames"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T11:56:24.125369+00:00",
+      "updated": "2025-08-25T14:42:05.395868+00:00"
+    },
+    {
+      "id": "2963452",
+      "title": "Phd position in neutrino physics",
+      "institution": "Boskovic Inst., Zagreb",
+      "deadline": "2025-10-24",
+      "description": "<div>We are looking for a candidate for a PhD position in neutrino physics. The formal call is expected to open in the last week of September 2025 and the call will remain open for a month.</div><div><br></div><div>The candidate will work on the topic of neutrino physics with a focus on neutrino oscillation phenomenology. The topics include neutrino oscillation phenomenology in standard three flavour and beyond, effect of systematics and cross-section, supernova neutrinos, quantum correlations in neutrino system, neutrino flavour models etc in the context of current and future neutrino experiments. Currently our group is a member of the EU funded ESSnuSBplus project (<a href=\"https://essnusb.eu/\">https://essnusb.eu/</a>) and a multilateral project MAPS (<a href=\"https://hrzz.hr/rezultati-natjecaja-maps-2024/\">https://hrzz.hr/rezultati-natjecaja-maps-2024/</a>). Within ESSnuSB we are collaborating with 23 institutes globally and within MAPS we are collaborating with University of Geneva, Switzerland and University of Silesia in Katowice, Poland. The candidate will closely work with these institutes.</div><div><br></div><div>The candidate must have a Master's diploma in order to apply for this position. Prior knowledge of quantum field theory, particle physics and neutrino physics with some basic knowledge of numerical computation is an advantage.</div><div><br></div><div>Interested candidates are requested to contact Monojit Ghosh (mghosh@irb.hr) for more details.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-25T10:39:52.452126+00:00",
+      "updated": "2025-08-25T18:02:35.763781+00:00"
+    },
+    {
+      "id": "2963447",
+      "title": "Faculty Position - nuclear and astro-particle physics theory and experiment",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2025-12-20",
+      "description": "<div>The Tsung-Dao Lee Institute (TDLI) and School of Physics and Astronomy (SPA) of Shanghai Jiao Tong University (<a href=\"http://tdli.sjtu.edu.cn/\"><strong>http://tdli.sjtu.edu.cn</strong></a>&nbsp;and&nbsp;<a href=\"https://inpac.physics.sjtu.edu.cn/\"><strong>https://inpac.physics.sjtu.edu.cn</strong></a>) invites applications for tenure-track or tenured faculty (“Fellow”/ Associate professor or tenured “Fellow”/Full professor) positions in particle, nuclear and astro-particle physics both in theory and experiment.</div><div><br></div><div>For this coming year we have openings for several positions. Experimental positions will emphasis on high-energy cosmic neutrino detection and neutrino astronomy, and theory position include areas for studies of new physics beyond the Standard Model, focusing in particular on the phenomenology at the energy frontier and related facilities, Lattice QCD, and Astro-particle physics. Faculty members at all levels at TDLI and SPA are expected to carry out independent forefront research and supervise students (both Ph.D. and undergraduate students). Successful candidate is expected to play a major role in developing one of the above mentioned areas.</div><div><br></div><div>The positions come with comprehensive university offer packages for faculty, including a highly competitive salary, start-up grant, generous housing subsidies, medical insurance and retirement benefits.</div><div><br></div><div>TDLI particle and nuclear division and the Institute of Particle and Nuclear Physics at SJTU work closely with each other. Both also work closely with astrophysics division of TDLI and Department of Astronomy of SJTU in the area of particle astrophysics and cosmology. The SJTU has an active visitor program, and organizes many topical workshops and conferences each year to create a scientifically stimulating environment. More information can be found at&nbsp;<a href=\"http://tdli.sjtu.edu.cn/\"><strong>http://tdli.sjtu.edu.cn</strong></a>&nbsp;and&nbsp;<a href=\"https://inpac.physics.sjtu.edu.cn/\"><strong>https://inpac.physics.sjtu.edu.cn/</strong></a></div><div><br></div><div>The applications are open to researchers of any nationality. Applicants should submit their applications to&nbsp;<a href=\"https://academicjobsonline.org/ajo/jobs/30432\"><strong>https://academicjobsonline.org/ajo/jobs/30432</strong></a>. They should upload a cover letter, curriculum vitae (including a publication list), a research and teaching statement (four-page maximum). At least five reference letters should be submitted online at the same website. For other inquires please send an email to ziyang@sjtu.edu.cn.</div><div><br></div><div>For full consideration, all application material should be received before December. 20, 2025. The search will remain open until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30432"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T05:43:12.737618+00:00",
+      "updated": "2025-08-25T14:46:37.167264+00:00"
+    },
+    {
+      "id": "2963446",
+      "title": "Faculty Position in Experimental Neutrino Physics",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2025-12-20",
+      "description": "<div>The Tsung-Dao Lee Institute (TDLI) of Shanghai Jiao Tong University (<a href=\"http://tdli.sjtu.edu.cn/\"><strong>http://tdli.sjtu.edu.cn</strong></a>) invites applications for tenure-track or tenured faculty (“Fellow”) positions in the area of experimental neutrino physics. We are seeking candidates with an emphasis in high-energy neutrino astronomy and neutrino telescope development. Successful candidate is expected to play a major role in the TRIDENT experiment, including but not limited to, detector construction, simulation refinement, data analysis (Phase-I data anticipated in 2026), and novel deep-sea particle detection technology development.</div><div><br></div><div>TRIDENT (<a href=\"https://trident.sjtu.edu.cn/en\"><strong>https://trident.sjtu.edu.cn/en</strong></a>) is a planned next-generation neutrino telescope to be built in South China Sea , which aims to rapidly identify various high energy comic neutrino sources and significantly boost all-flavor astrophysical neutrino identification to study their astrophysical origins and probe fundamental physics over astronomical baselines. TRIDENT features fast photosensors and advanced waveform readout electronics housed within strings of hybrid digital optical modules (hDOM) to notably enhance angular resolution for high-energy neutrinos and the detection sensitivity across all neutrino flavors. TRIDENT's development will follow a phased approach, starting with a funded 10-string TRIDENT Phase-I set to be operational by 2026. The complete TRIDENT array will consist of approximately 1000 strings, monitoring a water volume of about 10 km^3, opening up exciting new opportunities for high energy cosmic neutrino physics. TDLI, established in 2016, is a national research institute conducting research in particle physics, astrophysics and quantum physics. Shanghai Jiao Tong University (SJTU) is the contractor and trustee of TDLI, and is in charge of the operation of TDLI. TDLI has an active visitor program, and organizes many topical workshops and conferences each year to create a scientifically stimulating environment. About 40% of the researchers are international, and English is the working language of the institute.</div><div><br></div><div>TDLI particle physics division works closely with the Institute of Particle and Nuclear Physics (INPAC,&nbsp;<a href=\"https://inpac.physics.sjtu.edu.cn/en/\"><strong>https://inpac.physics.sjtu.edu.cn/en/</strong></a>) at SJTU. The TDLI particle physics division also works closely with astrophysics division, particularly in the area of particle astrophysics and cosmology.</div><div><br></div><div>Fellows at all levels at TDLI are expected to carry out independent forefront research and supervise students (both Ph.D. and undergraduate students). They will be jointly appointed at the School of Physics and Astronomy (<a href=\"https://www.physics.sjtu.edu.cn/en/\"><strong>https://www.physics.sjtu.edu.cn/en/</strong></a>) for teaching duties, but with a reduced load. The positions come with comprehensive university offer packages for faculty, including a highly competitive salary, start-up grant, generous housing subsidies, medical insurance and retirement benefits.</div><div><br></div><div>Applicants should submit their applications at&nbsp;<a href=\"https://academicjobsonline.org/ajo/jobs/30433\"><strong>https://academicjobsonline.org/ajo/jobs/30433</strong></a>. They should upload a cover letter, curriculum vitae (including a publication list), a research and teaching statement (four-page maximum). At least five reference letters should be submitted online at the same website. For other inquires please send an email to donglianxu@sjtu.edu.cn. For full consideration, all application material should be received before Dec. 20, 2025. The search will remain open until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30433"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T05:39:14.473676+00:00",
+      "updated": "2025-08-25T14:50:08.826089+00:00"
+    },
+    {
+      "id": "2963445",
+      "title": "Faculty Position in Collider physics theory",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2025-12-20",
+      "description": "<div>The Tsung-Dao Lee Institute (TDLI) of Shanghai Jiao Tong University (<a href=\"http://tdli.sjtu.edu.cn/\"><strong>http://tdli.sjtu.edu.cn</strong></a>) invites applications for a tenure-track or tenured faculty (“Fellow”) position work in the area of theoretical studies of new physics beyond the Standard Model, focusing in particular on the phenomenology at the energy frontier and related facilities. This position is also a joint appointment at the School of Physics and Astronomy (SPA) (<a href=\"https://www.physics.sjtu.edu.cn/en/\"><strong>https://www.physics.sjtu.edu.cn/en/</strong></a>). Successful candidate is expected to play a major role in developing a rigorous program in testing the standard model and searching for new physics beyond, and work closely with experimental groups in related areas.</div><div><br></div><div>TDLI, established in 2016, is a national research institute conducting research in particle physics, astrophysics and quantum physics. Shanghai Jiao Tong University (SJTU) is the contractor and trustee of TDLI, and is in charge of the operation of TDLI. TDLI has an active visitor program, and organizes many topical workshops and conferences each year to create a scientifically stimulating environment. About 40% of the researchers are international, and English is the working language of the institute.</div><div><br></div><div>The TDLI particle and nuclear physics division has a rich particle phenomenological program in particle physics, astrophysics and cosmology. We works closely with the Institute of Particle and Nuclear Physics (INPAC,&nbsp;<a href=\"https://inpac.physics.sjtu.edu.cn/en/\"><strong>https://inpac.physics.sjtu.edu.cn/en/</strong></a>) at SJTU, and also with the astrophysics division, particularly in the area of astro-particle physics and cosmology. Fellows at all levels at TDLI are expected to carry out independent forefront research and supervise students (both Ph.D. and undergraduate students), and to teach at all levels with reduced teaching load. The positions come with comprehensive university offer packages for faculty, including a highly competitive salary, start-up grant, generous housing subsidies, medical insurance and retirement benefits.</div><div><br></div><div>The applications are open to researchers of any nationality. Applicants should submit their applications at&nbsp;<a href=\"https://academicjobsonline.org/ajo/jobs/30434\"><strong>https://academicjobsonline.org/ajo/jobs/30434</strong></a>. They should upload a cover letter, curriculum vitae (including a publication list), a research and teaching statement (four-page maximum). At least five reference letters should be submitted online at the same website. For other inquires please send an email to jung49@sjtu.edu.cn.</div><div><br></div><div>For full consideration, all application material should be received before Dec. 20, 2025. The search will remain open until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30434"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T05:35:30.743318+00:00",
+      "updated": "2025-08-25T14:45:47.036314+00:00"
+    },
+    {
+      "id": "2963444",
+      "title": "Faculty Position in the Lattice QCD",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2025-12-20",
+      "description": "<div>The Tsung-Dao Lee Institute (TDLI) and School of Physics and Astronomy (SPA) of Shanghai Jiao Tong University (SJTU) invites applications for a tenure-track or tenured faculty (“Fellow”/Associate professor or tenured “Fellow”/Full professor) position in Lattice QCD. Possible projects span a variety of topics in lattice QCD with applications to High Energy Particle Physics and Nuclear Physics, with the main focus on hadron structures and heavy quark physics. Close collaboration with Lattice Parton Collaboration is envisioned.</div><div><br></div><div>SJTU is a national key university directly under the Ministry of Education and jointly built with Shanghai Municipality. TDLI and INPAC are positioned as internationally leading research institutions on particle physics and nuclear physics, conducting theoretical and experimental research in multiple cutting-edge areas of particle and nuclear physics. More information can be found at&nbsp;<a href=\"http://tdli.sjtu.edu.cn/\"><strong>http://tdli.sjtu.edu.cn</strong></a>&nbsp;and&nbsp;<a href=\"https://inpac.physics.sjtu.edu.cn/\"><strong>https://inpac.physics.sjtu.edu.cn/</strong></a>&nbsp;Successful candidates are expected to enhance the university’s progress by establishing top-tier research programs, leading in the field of Lattice QCD, enriching both undergraduate and graduate educational objectives, and actively engaging in professional service. The university places particular emphasis on individuals who can enhance the diversity and excellence of the academic community through their contributions in research, teaching, and service.</div><div><br></div><div>The position includes comprehensive university benefit packages for faculty members, featuring a very highly competitive salary, start-up grant, generous housing subsidies, medical insurance, and retirement benefits.</div><div><br></div><div>The applications are open to researchers of any nationality. Applicants should submit their applications to&nbsp;<a href=\"https://academicjobsonline.org/ajo/jobs/30435\"><strong>https://academicjobsonline.org/ajo/jobs/30435</strong></a>. They should upload a cover letter, curriculum vitae (including a publication list), a research and teaching statement (four-page maximum). At least five reference letters should be submitted online at the same website. For other inquires please send an email to wei.wang@sjtu.edu.cn .</div><div><br></div><div>For full consideration, all application material should be received before December. 20, 2025. The search will remain open until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30435"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T05:30:28.932586+00:00",
+      "updated": "2025-08-25T15:00:36.494846+00:00"
+    },
+    {
+      "id": "2963443",
+      "title": "Postdoc-Theory, Particle and Nuclear Division",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2026-01-10",
+      "description": "<div>The theory group in the Particle and Nuclear Division of the Tsung-Dao Lee Institute (TDLI) at the Shanghai Jiao Tong University (SJTU) [<a href=\"http://tdli.sjtu.edu.cn/\"><strong>http://tdli.sjtu.edu.cn</strong></a>] invites applications for Postdoctoral Research Fellowships in theoretical particle and nuclear physics and cosmology. Current research areas in the group include physics beyond the Standard Model, neutrino and flavor physics theory and phenomenology, early universe quantum field theory and applications to baryogenesis and dark matter, quantum chromodynamics and lattice gauge theory, effective field theory, and nuclear astrophysics.</div><div><br></div><div>Group members include Profs. Jason Evans, Shao-Feng Ge, Sophia Han, Hong-Jian He, Xiao-Gang He, Yuichiro Nakai, Michael Ramsey-Musolf and Frank Wilczek; and roughly 20 post-docs and Ph.D. students. The group interacts closely with TDLI and SJTU colleagues leading efforts in experimental searches for dark matter (PandaX); tests of neutrino properties (Daya Bay, JUNO, PandaX-III for neutrinoless double beta decay, and IceCube); precision tests (muon g-2); studies of high energy collisions at the LHC (ATLAS) and prospective future colliders (CEPC/SppC); and related theoretical efforts. The division has an active visitor program and co-organizes several conferences and workshops throughout the year.</div><div><br></div><div>The initial appointment is for 2+1years, starting from the fall of 2026, and a further 3-year appointment is also possible on mutual agreement. The TDLI offers a competitive salary (comparable to same-level positions in USA). Exceptional candidates will be considered for the TDLI Post-doctoral Fellowships, which can also provide 100,000CNY in start-up funds. All post-docs will have the opportunity and be supported to apply for external research funding.</div><div><br></div><div>Applications should be submitted through Academic Jobs Online system and must include a cover letter, curriculum vitae including information on date of birth and date of receiving the PhD degree, research statement, publication list, and at least three reference letters. The deadline is January 10, 2026 and applications received before this date will receive full consideration. TDLI has an international environment with English as its working language and invites candidates of all nationalities. The TDLI seeks to promote equal opportunity and diversity in physics. Members of under-represented groups in physics are particularly encouraged to apply. For inquiries about the position and TDLI, please contact Ms. Zi Yang（hep.tdli@sjtu.edu.cn）and Prof. Shao-Feng Ge (gesf@sjtu.edu.cn). You can also approach any of the faculty members for inquiries.</div><div><br></div><div>Those interested in the position can apply through the following website: <a href=\"https://academicjobsonline.org/ajo/jobs/30436\">https://academicjobsonline.org/ajo/jobs/30436</a>.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30436"
+      ],
+      "contact_email": null,
+      "created": "2025-08-25T05:26:52.739794+00:00",
+      "updated": "2025-08-25T14:52:18.392324+00:00"
+    },
+    {
+      "id": "2963441",
+      "title": "Postdoc-Experiment, Particle and Nuclear Division, Tsung-Dao Lee Institute, SJTU",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2026-01-10",
+      "description": "<div>The particle experimental group in the Particle and Nuclear Division of the Tsung-Dao Lee Institute (TDLI) at the Shanghai Jiao Tong University (SJTU) [<a href=\"http://tdli.sjtu.edu.cn/EN/\"><strong>http://tdli.sjtu.edu.cn/EN/</strong></a>] invites applications for Postdoctoral Research Fellowships in the areas of experimental particle physics.</div><div><br></div><div>Presently, the TDLI particle and nuclear physics division has two main experimental groups focusing on the following areas:</div><div>Underground Experimental Group: 1. Dark Matter Direct Detection and Neutrinoless Double Beta Decay (PandaX) 2. Cosmic Neutrino Experiment (TRIDENT, JUNO, IceCube) 3. Reactor Neutrino Experiment (JUNO) Faculty members involved are Profs. Donglian Xu, Jianglai Liu, Hualin Mei and Xin Xiang.</div><div><br></div><div>Accelerator-based Experimental Group: 1. LHC-ATLAS Physics and Detector Upgrade 2. CEPC Physics and Detector R&amp;D 3. Fundamental and Applied Muon Science (Muon g-2, muEDM, SHINE Muon Source, Shanghai Muography) 4. Light Dark Matter Search Experiment (DarkSHINE) 5. Advanced Accelerator Study. Faculty members involved are Profs. Kim Siang Khaw, Shu Li, Kun Liu, Dao Xiang, Haijun Yang.</div><div><br></div><div>The initial appointment is for 2+1 years, starting from the Fall of 2026, and a further 3-year appointment is also possible on mutual agreement. The TDLI offers a competitive salary (comparable to same-level positions in USA). Exceptional candidates will be considered for the TDLI Post-doctoral Fellowships, which can also provide 100,000 CNY in start-up funds. All post-docs will be supported to apply for external research funding.</div><div><br></div><div>Applications should be submitted through the Academic Jobs Online system and must include a cover letter, curriculum vitae including information on the date of birth and date of receiving the Ph.D. degree, research statement, publication list, and at least three reference letters. Review starts from 2026/01/10 till positions are filled.</div><div><br></div><div>TDLI has an internationalized environment with English as its working language and invites candidates of all nationalities. The TDLI seeks to promote equal opportunity and diversity in physics. Members of under-represented groups in physics are particularly encouraged to apply. For inquiries about the position and TDLI, please contact Ms. Zi Yang (hep.tdli@sjtu.edu.cn). For details about research projects, please contact Prof. Hualin Mei (mei.hualin@sjtu.edu.cn) for the Underground Experimental group and Prof. Kun Liu (kun.liu@sjtu.edu.cn) for the Accelerator-based Experimental group. You can also approach any of the faculty members for inquiries. Research at TDLI is closely connected with the Institute of Nuclear and Particle Physics (INPAC) at SJTU (<a href=\"http://inpac.physics.sjtu.edu.cn/en/\"><strong>http://inpac.physics.sjtu.edu.cn/en/</strong></a>), where more postdoc positions in these areas are available.</div><div><br></div><div>Those interested in the position can apply through the following website:<a href=\"https://academicjobsonline.org/ajo/jobs/30432\">Tsung-Dao Lee Institute</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-25T04:54:28.426138+00:00",
+      "updated": "2025-08-25T21:42:32.790946+00:00"
+    },
+    {
+      "id": "2963263",
+      "title": "Postdoctoral Fellow in Theoretical Nuclear Physics",
+      "institution": "Zhongshan U.",
+      "deadline": "2025-11-01",
+      "description": "<div>Position Overview: invites applications for a postdoctoral fellow position in theoretical nuclear physics.search Focus:</div><div><br></div><div>- Nuclear structure and decay</div><div>- Single-beta decay and double-beta decay</div><div>- Nuclear Schiff moments, EDMs</div><div><br></div><div>Methodologies:</div><div>- Ab initio nuclear theory</div><div>- Nuclear density functional theory</div><div><br></div><div>Qualifications:</div><div>- Applicants must hold a Ph.D. in physics or anticipate having a Ph.D. before joining us.</div><div>- A strong research record in nuclear physics is essential.</div><div>- Expertise in nuclear structure and decay is highly preferred.</div><div>- Candidates should demonstrate significant initiative and strong research skills.</div><div><br></div><div>Appointment Details:</div><div>- Two-years contract</div><div>- Annual gross salary is approximately 220,000 RMB +</div><div><br></div><div>Application Process:</div><div>- Letter of motivation</div><div>- Curriculum vitae</div><div>- Two letters of recommendation</div><div><br></div><div>mail to yaojm8@sysu.edu.cn</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-08-25T01:57:52.751446+00:00",
+      "updated": "2025-08-25T15:02:28.344851+00:00"
+    },
+    {
+      "id": "2963261",
+      "title": "Open PhD positions in Quantum Optics and Information Laboratory",
+      "institution": "Griffith U.",
+      "deadline": "2025-09-19",
+      "description": "<div>We are currently looking for PhD candidates to complete their research training at our laboratory, Griffith University’s Quantum Optics and Information Laboratory (Brisbane, Australia). Three fully funded PhD Scholarships are available to work on quantum nonlocality, metrology, and foundations. See https://qoil.xyz/opportunities/ for details.</div>",
+      "regions": [
+        "Australasia"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://qoil.xyz/opportunities/"
+      ],
+      "contact_email": null,
+      "created": "2025-08-24T16:12:40.747844+00:00",
+      "updated": "2025-08-25T15:06:24.281151+00:00"
+    },
+    {
+      "id": "2963257",
+      "title": "Faculty Positions",
+      "institution": "IMSc, Chennai",
+      "deadline": "2025-09-14",
+      "description": "<div><strong>Faculty Positions Available</strong></div><div>IMSc invites applications for regular faculty positions as Fellow, Reader, Professor in the main research groups at IMSc, namely, Theoretical Physics, Mathematics, Theoretical Computer Science and Computational Biology.</div><div><br></div><div><strong>About the Institute</strong></div><div>The Institute of Mathematical Sciences (IMSc), funded by the Department of Atomic Energy (DAE), Government of India, is a national Institution for fundamental research in the theoretical sciences. Research at the institute is internationally recognized. The institute runs a selective PhD program, supports several scientists at the post-doctoral level, and runs an active visiting scientist programme, hosting scientists from all over the world. The Institute admits students after their <a href=\"http://M.Sc\">M.Sc</a>./M.Tech degree (or) <a href=\"http://B.Sc/B.Tech\">B.Sc/B.Tech</a> Degree for pursuing and obtaining doctoral degrees under Ph.D/Integrated Ph.D. programmes of 5 years and 7 years respectively in the disciplines of Theoretical Physics, Mathematics, Theoretical Computer Sciences and Computational Biology. This Institute is one of the aided academic institutes under the Department of Atomic Energy, Government of India which is funded by the Department of Atomic Energy and partially funded by the Government of Tamil Nadu.</div><div>IMSc faculty members conduct research, advise graduate students, teach in our graduate programs, participate in outreach activities and have other professional responsibilities. IMSc follows the rules and regulations as applicable to Central Government employees including, for example, leave and other policies. The Institute also has a sabbatical policy, encourages travel for scientific purposes and is assisted by a supportive administration.</div><div><br></div><div>Online applications are invited for Direct Recruitment for filling the following posts, through the application portal: <a href=\"https://www.imsc.res.in/frecruit\">www.imsc.res.in/frecruit</a></div><div><br></div><div>The deadline for applying is <strong>23:59 hrs on 14th September 2025.</strong></div><div><br></div><div>The Institute is committed to fostering an inclusive, non-discriminatory environment supportive of diverse individuals which reflects gender balance and women candidates and candidates of other unrepresented groups are encouraged to apply.</div><div><br></div><div><strong>Details of Posts advertised for Direct Recruitment:</strong></div><div>See: <a href=\"https://www.imsc.res.in/facultyrecruitment\">https://www.imsc.res.in/facultyrecruitment</a></div><div><br></div><div><strong>Emoluments</strong></div><div>IMSc being an aided institution under the Department of Atomic Energy, follows Central Government Pay scales and allowances applicable to Central Government employees. Emoluments are at par with similar institutions of the Government of India. Off-campus faculty accommodation is provided to faculty members, subject to availability. House Rent Allowance (HRA) is paid if Institute accommodation is not availed or is unavailable.</div><div><br></div><div><strong>Last date for receipt of applications :</strong></div><div>14th September 2025 at 23:59 hrs.</div><div><br></div><div><strong>Application Process</strong></div><div>Interested candidates may apply (online only) along with the following:</div><ul><li>Curriculum Vitae, including date of birth, nationality, current affiliation, postal and email correspondence addresses, and a list of publications</li><li>A detailed description of current research interests</li><li>A concise outline of a planned course of research over a 3-5 year period</li><li>Any other material the applicant feels is relevant to the application (eg. a brief teaching statement, industrial research experience, etc.).</li></ul><div>Applicants are required to upload a single PDF containing the above details.</div><div>In addition, applicants should mention the names and addresses of at least 3 academic referees, who will be contacted directly by the institute.</div><div>Applications should be uploaded via <a href=\"https://www.imsc.res.in/frecruit\"><strong>www.imsc.res.in/frecruit</strong></a></div><div><br></div><div><strong>Selection Procedure</strong></div><div>After initial screening of the applications, suitable applications will be taken up for further processing by the Institute. Evaluation reports shall be obtained from the referees provided by the candidates and / or other Experts in the field of specialisation by the Institute. As part of the suitability evaluation process, shortlisted candidates are expected to give a research seminar and interact with IMSc faculty.</div><div>The final selection shall be based on recommendations of a Selection Committee constituted for this purpose.</div><div><strong>Additional Information</strong></div><div>The Institute reserves the right to pre-screen candidates and to process only those applications further that are found suitable. Fulfilling the minimum eligibility criteria does not automatically imply that the applicant will be short-listed.</div><div>The Institute reserves the right to consider to fill or not to fill positions in any of the listed areas of its research, depending on the quality of applications it receives.</div><div><strong>General Terms &amp; Conditions:</strong></div><ul><li>Applications will have to be submitted THROUGH ONLINE PORTAL only.</li><li>No hard copies or email applications shall be entertained.</li><li>Incomplete applications will not be considered.</li><li>Candidates are requested to go through carefully the details of posts and instructions.</li><li>Candidates working in Government / Semi Government / Public Undertakings / Autonomous bodies should apply through proper channel and they should enclose a “No Objection Certificate” from the present employer.</li><li>Candidates are required to have a valid Email ID and convey the same in the application. It should be kept active during the currency of this recruitment. IMSc will send further communications in this regard only through the registered email ID.</li><li>Period of experience as prescribed in the Advertisement will be determined with reference to the last date for submission of application.</li><li>Mere fulfillment of requirements as laid down in the Advertisement does not entitle a candidate to be shortlisted.</li><li>The decision of the Director of this Institute in all matters will be final and binding on the candidates.</li><li>The selected candidates will be governed by new re-structured defined contribution Pension Scheme (National Pension Scheme) which has come into force w.e.f. 1.1.2004 vide Ministry of Finance Notification No. 5/7/2003-ECB&amp;PR dated 22.12.2003 and the provisions made there under by contributing monthly an amount of 10% of Pay and Dearness allowances and 14% contribution from Government.</li><li>IMSc reserves the right to accept or reject any application at any stage of the Recruitment process, if the candidate is found ineligible for the post. The decision of Director, IMSc shall be final in deciding the eligibility / suitability of the candidate.</li><li>Director, IMSc reserves the right to cancel the whole process of recruitment without assigning any reasons thereof and decision of the Director, IMSc, is final in all respects.</li><li>For further information related to this advertisement, please contact:</li><li>The Registrar, The Institute of Mathematical Sciences, Chennai 600 113, India.</li><li>&nbsp;Phone: (+91 44) 2254 3150, Fax: (+91 44) 2254 1586</li><li>E-mail: <a href=\"mailto:registrar@imsc.res.in\">registrar@imsc.res.in</a></li></ul><div><strong>WARNING</strong></div><ul><li>&nbsp;Candidates must ensure that information provided by them is true. If at any subsequent stage if any information given by them or any claim made by them in their application is found to be false, their candidature will be liable to be rejected and also liable for any other appropriate action as deemed fit.</li><li>&nbsp;No communication will be entertained from candidates.</li><li>&nbsp;Any legal disputes arising out of this advertisement are subject to Chennai jurisdiction only and in case of any dispute, English version of advertisement placed on website <a href=\"https://www.imsc.res.in/~office/jobs/faculty-recruitment-advt-05feb2024.pdf\">www.imsc.res.in</a> will be taken as reference.</li><li>&nbsp;Indicative advertisement has already been published by the Institute in leading Newspapers.</li><li>Canvassing in any form will be a disqualification.</li></ul><div><a href=\"https://www.imsc.res.in/~office/jobs/2025/advt09_faculty_positions2025.pdf\">Faculty Positions Advertisement No.&nbsp;09-R/IMSc/2025 dated 14.08.2025</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.imsc.res.in/facultyrecruitment"
+      ],
+      "contact_email": null,
+      "created": "2025-08-24T14:52:23.411894+00:00",
+      "updated": "2025-08-25T15:05:16.803029+00:00"
+    },
+    {
+      "id": "2963251",
+      "title": "Ph.D. positions in Astroparticle Physics with LOFAR and SKA telescopes",
+      "institution": "Khalifa U.",
+      "deadline": "2025-09-15",
+      "description": "<div>Applications are invited for multiple PhD positions to work on cosmic-ray measurements with the LOFAR and SKA radio telescopes at the Department of Physics, Khalifa University, Abu Dhabi (UAE).</div><div><br></div><div>The positions are a part of the Ph.D. in Physics program at Khalifa University. The research conducted at the Physics Department covers a wide range of topics, including optics and photonics, astrophysics/astroparticle physics, medical physics, soft matter/materials physics, atomic and molecular physics, nuclear physics, and high-energy physics.</div><div>&nbsp;</div><div>The Astrophysics and Astroparticle Physics group is involved in the theoretical and experimental research on cosmic rays and high-energy neutrinos. Experimental research includes radio measurements of cosmic rays using LOFAR and SKA telescopes, and neutrino measurements using the KM3NeT experiment. In this round, we are actively looking for multiple PhD students to work on LOFAR/SKA. Interested candidates can apply through the university admission page given below. For more details on the available projects, please contact <strong>Dr. Satyendra Thoudam</strong> at <a href=\"mailto:satyendra.thoudam@ku.ac.ae\">satyendra.thoudam@ku.ac.ae</a></div><div>&nbsp;</div><div>Ph.D. positions at Khalifa University are funded by various competitive scholarship opportunities that offer generous stipends. For more details, please check the link below.</div><div>&nbsp;</div><div><strong>Requirements:</strong></div><ul><li>MSc in Physics<strong> </strong>(or related relevant discipline) with a minimum CGPA of <strong>3.25 out of 4.0</strong> (or equivalent).</li><li>BSc in Physics with a minimum CGPA of <strong>3.0 out of 4.0</strong> (or equivalent).</li><li>A minimum level of English proficiency in the form of either iBT TOEFL score of <strong>91</strong>, IELTS score of <strong>6.5</strong>, or <strong>1550</strong> EmSAT English score.</li><li>A minimum of two referee recommendations (provided via an online form).</li><li>Statement of purpose (500-1,000 words).</li><li>Research statement (500-1,000 words).</li><li>Admission interview</li></ul><div>Information about how to apply and detailed <strong>admission requirements</strong>:</div><div><a href=\"https://www.ku.ac.ae/postgraduate-admissions\">https://www.ku.ac.ae/postgraduate-admissions</a></div><div>&nbsp;</div><div>Details about the <strong>Ph.D. scholarships</strong>:</div><div>&nbsp;<a href=\"https://www.ku.ac.ae/scholarships-postgraduate\">https://www.ku.ac.ae/scholarships-postgraduate</a></div><div>&nbsp;</div><div>Details about the <strong>curricula</strong> can be found here under ‘Structure &amp; Requirements’:</div><div>&nbsp;<a href=\"https://www.ku.ac.ae/program/phd-in-physics\">https://www.ku.ac.ae/program/phd-in-physics</a></div><div>&nbsp;</div><div>For admission inquiries, please use <a href=\"mailto:pgadmissions@ku.ac.ae\">pgadmissions@ku.ac.ae</a></div>",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "LOFAR",
+        "SKA"
+      ],
+      "urls": [
+        "https://www.ku.ac.ae/postgraduate-admissions"
+      ],
+      "contact_email": null,
+      "created": "2025-08-23T06:52:09.170204+00:00",
+      "updated": "2025-08-25T15:07:33.680485+00:00"
+    },
+    {
       "id": "2963237",
       "title": "Postdoctoral Position in High Energy Physics/Condensed Matter Theory",
       "institution": "APCTP, Pohang",
@@ -3225,6 +3545,6 @@
       "updated": "2024-06-10T13:45:00Z"
     }
   ],
-  "lastUpdated": "2025-08-25T08:04:47.193Z",
-  "totalJobs": 157
+  "lastUpdated": "2025-08-26T08:04:25.726Z",
+  "totalJobs": 173
 }
