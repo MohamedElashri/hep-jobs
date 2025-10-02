@@ -1,6 +1,107 @@
 {
   "jobs": [
     {
+      "id": "2986142",
+      "title": "Research Associate / Senior Research Associate to work on the HL-LHC Upgrade of the CMS experiment",
+      "institution": "U. Bristol (main)",
+      "deadline": "2025-10-22",
+      "description": "<div>The Particle Physics group of the University of Bristol (<a href=\"http://tinyurl.com/particle-bristol\">tinyurl.com/particle-bristol</a>) UK, seeks a Research Associate/Senior Research Associate to join its team working on the HL-LHC upgrade of the CMS experiment at CERN. The successful applicant will focus on strengthening our involvement on the ambitious High-Granularity Calorimeter project, which forms an essential part of the upgrade to CMS. In particular they will play a leading role in&nbsp;algorithm&nbsp;emulator development and maintenance as well as coordinating the definition and testing of interfaces to the Level-1 Trigger system. It is anticipated the candidate will have to spend some time at CERN during testing periods.</div><div>For further information and to apply please go to:</div><div><a href=\"https://www.bristol.ac.uk/jobs/find/details/?jobId=381004&amp;jobTitle=Research%20Associate%20/%20Senior%20Research%20Associate%20to%20work%20on%20the%20HL-LHC%20Upgrade%20of%20the%20CMS%20experiment\">https://www.bristol.ac.uk/jobs/find/details/?jobId=381004&amp;jobTitle=Research%20Associate%20/%20Senior%20Research%20Associate%20to%20work%20on%20the%20HL-LHC%20Upgrade%20of%20the%20CMS%20experiment</a></div><div><br></div><div>Informal enquiries can be directed to Prof. Sudan Paramesvaran (sudarshan.paramesvaran@bristol.ac.uk)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.bristol.ac.uk/jobs/find/details/?jobId=381004&jobTitle=Research%20Associate%20/%20Senior%20Research%20Associate%20to%20work%20on%20the%20HL-LHC%20Upgrade%20of%20the%20CMS%20experiment"
+      ],
+      "contact_email": null,
+      "created": "2025-10-01T09:58:56.856233+00:00",
+      "updated": "2025-10-01T10:40:06.287354+00:00"
+    },
+    {
+      "id": "2985195",
+      "title": "Postdoctoral position at Particle Physics Department of IRFU (CEA) in the group of Neutrinos with accelerators",
+      "institution": "IRFU, Saclay",
+      "deadline": "2025-10-31",
+      "description": "<div>The Particle Physics Department (DPhP) of IRFU at CEA is involved in multiple experiments at the forefront of High Energy Physics and Cosmology.</div><div>More information here: <a href=\"http://irfu.cea.fr/dphp/index.php\">http://irfu.cea.fr/dphp/index.php</a></div><div>The group of \"Neutrinos with Accelerators\" at DPhP is a major contributor to T2K since the start of the experiment. The group is also active in Hyper-Kamiokande and DUNE.</div><div><br></div><div>The group welcome applications to participate to the study of quantum-correlation observables (notably Leggett-Garg inequalities, LGI) in neutrino oscillations, focusing on long-baseline experiments.</div><div>The selected applicant is expected to conduct the analysis aiming to the LGI measurement with T2K data and to evaluate the sensitivity in Hyper-Kamiokande and DUNE.</div><div>Dedicated workshop on the topic will be organized where the applicant will also have the opportunity to interact with experts on the phenomenology of this blooming domain.</div><div><br></div><div>Candidates are expected to hold a doctorate in experimental particle physics and to have a demonstrated track record of internationally recognized research activity in a particle physics experiments.</div><div>Candidates with strong interest in neutrino physics are encouraged to apply.</div><div>Previous experience in statistical inference and sophisticated fitting algorithms will be highly valued in the candidate selection.</div><div><br></div><div>The position is funded for 3 years.</div><div>Applications should be submitted as soon as possible and not later than 15 November 2025. The position will be closed when a suitable candidate is found.</div><div>Applications should include a curriculum vitae and a 2-page statement of interest or research proposal.</div><div>Two letters of reference are expected for each candidate.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "T2K"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-10-01T09:32:06.706287+00:00",
+      "updated": "2025-10-01T10:36:18.694833+00:00"
+    },
+    {
+      "id": "2983823",
+      "title": "PhD Fellowships",
+      "institution": "Bohr Inst.",
+      "deadline": "2025-12-01",
+      "description": "<div>The Center of Gravity at the Niels Bohr Institute invites expressions of interest for PhD Fellowships in Gravitational Physics (in particular black-hole and gravitational-wave physics) for a fixed period of three years. The preferred starting date is April-September 2026. Interested individuals are encouraged to upload all material before December 1, 2025. The search will remain open until completed.&nbsp;</div><div><br></div><div>We seek international outstanding individuals eager to join an ambitious research program at the Center of Gravity, a new DNRF Center of Excellence initiative which is composed of the young and vibrant team consisting of Vitor Cardoso, Emil Bjerrum-Bohr, Jose Ezquiaga, Troels Harmark, Niels Obers, Marta Orselli, Alessia Platania, Johan Samsing, Maarten van de Meent, Ziqi Yan, focused on addressing the physics of black holes, quantum aspects of spacetime via string theory and holography, the problem of motion in General Relativity using advanced quantum field scattering and gravitational self-force techniques, and gravitational-wave physics. An ample travel budget for the Center is available.Brief interviews will be conducted with team members after an initial shortlist is formed.</div><div><br></div><div>This search is part of a vigorous expansion at the Niels Bohr Institute into the field of Gravitational Physics, bringing together scientists from various areas of theoretical physics and astrophysics to address some of the most pressing questions related to gravity.&nbsp;The Center of Gravity is hosted by the Niels Bohr Institute. It functions as a primary center for fundamental research, including gravitational physics, theoretical and computational astrophysics, cosmology, and high-energy physics. The Center hosts several international programs, including visitor programs, workshops, and Ph.D. schools.</div><div><br></div><div>The University of Copenhagen wishes to reflect the diversity of society and welcomes all qualified individuals regardless of personal background.</div><div><br></div><div><a href=\"https://academicjobsonline.org/ajo/jobs/30634\">https://academicjobsonline.org/ajo/jobs/30634</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30634"
+      ],
+      "contact_email": null,
+      "created": "2025-10-01T09:01:32.005505+00:00",
+      "updated": "2025-10-02T07:11:33.605186+00:00"
+    },
+    {
+      "id": "2983822",
+      "title": "Postdoctoral and Assistant Professor Fellowships",
+      "institution": "Bohr Inst.",
+      "deadline": "2025-11-15",
+      "description": "<div>The Center of Gravity at the Niels Bohr Institute invites expressions of interest for Postdoctoral Fellowships in multiple fields related to Gravitational Physics and Gravitational Wave Astrophysics for a fixed period of up to four (3+1) years. Exceptional and highly motivated individuals will also be considered for 5-year Assistant Professorships. The preferred starting date is Fall 2026.&nbsp;</div><div><br></div><div>Postdoctoral Fellows and Assistant Professors at the Center of Gravity at the Niels Bohr Institute have the opportunity to guide more junior fellows, teach courses at various levels, participate in outreach activities, and organize international meetings. Interested individuals are encouraged to upload all material before November 15th, 2025. The search will remain open until completed.&nbsp;</div><div><br></div><div>We seek international outstanding individuals eager to join an ambitious research program addressing the physics of black holes, gravitational motion using both advanced quantum field scattering and gravitational self-force techniques, black hole spectroscopy, quantum aspects of spacetime via string theory and holography, and the effect of environments in gravitational wave physics. It further includes the exploration of black holes as engines of discovery, including implications for dark matter physics and connections to particle physics. However, outstanding individuals in complementary fields are also warmly welcomed to upload their material.</div><div><br></div><div>This search is part of a vigorous expansion at the Niels Bohr Institute into the field of Gravitational Physics, bringing together several scientists from several areas of theoretical physics and astrophysics, and addressing some of the most burning questions related to gravity. More information can be found on the website:&nbsp;<a href=\"https://the-center-of-gravity.com/\"><strong>https://the-center-of-gravity.com/</strong></a></div><div><br></div><div>The Center of Gravity (CoG) is a center for new ideas about the foundations of physics. We bring together cutting-edge research in observations of black holes and in the formal theory of relativistic and quantum aspects of gravity, completing the visions of Bohr and Einstein for the gravitational interaction. Our research endeavor spans from data analysis to theoretical disciplines within astrophysics and high-energy physics, and we aim to drive gravitational-wave physics to an exciting future.&nbsp;We have our physical home in the beautiful and legendary building at Blegdamsvej 17, established by Niels Bohr. This is the place where quantum theory was born and where many exciting new developments in gravity are now taking place. Today, the Niels Bohr Institute carries an important legacy in physics and is one of the leading institutes in theoretical and experimental physics. At the Center of Gravity, we hope to carry on the pioneering spirit that has defined our predecessors at the Niels Bohr Institute through trailblazing and fundamental research.</div><div><br></div><div>The University of Copenhagen wishes to reflect the diversity of society and welcomes all qualified individuals regardless of personal background. Postdoctoral Fellows at the University of Copenhagen receive a competitive salary (including pension) and funds for travel and computing. Generous parental leave, state-subsidized childcare, vacation, and full medical care are provided to employees in Denmark. A favorable tax scheme is generally granted to international researchers.</div><div><br></div><div><a href=\"https://academicjobsonline.org/ajo/jobs/30635\">https://academicjobsonline.org/ajo/jobs/30635</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30635"
+      ],
+      "contact_email": null,
+      "created": "2025-10-01T08:57:59.785824+00:00",
+      "updated": "2025-10-02T07:13:23.492766+00:00"
+    },
+    {
+      "id": "2983509",
+      "title": "Postdoctoral position in Theoretical Nuclear and Particle Astrophysics",
+      "institution": "Taiwan, Inst. Phys.",
+      "deadline": "2026-01-01",
+      "description": "<div>The Theoretical Nuclear and Particle Astrophysics Group at the Institute of Physics, Academia Sinica led by Dr. Meng-Ru Wu invites applications for postdoctoral positions. Applicants with diverse interests and backgrounds, including neutrino astrophysics, heavy element nucleosynthesis, astrophysical probes for physics beyond the Standard Model, and the related theoretical astrophysical modeling are welcomed to apply.</div><div><br></div><div>The initial appointment will be for two years, with possible extensions depending on funding availability and performance. Successful candidates are encouraged to collaborate and interact with other research groups in Taiwan or international institutes.</div><div><br></div><div>The application should be submitted via AcademicJobsOnline at <a href=\"https://academicjobsonline.org/ajo/jobs/30623\">https://academicjobsonline.org/ajo/jobs/30623</a>, including a CV, research statement, publication list, and at least 2 letters of recommendation. While screening of applications will start on January 1st, 2026, late applications will be considered until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-10-01T02:04:01.717759+00:00",
+      "updated": "2025-10-01T10:19:25.717392+00:00"
+    },
+    {
       "id": "2981824",
       "title": "Neutrino Theory Network Postdoctoral Fellowship",
       "institution": "Fermilab",
@@ -40,6 +141,131 @@
       "contact_email": null,
       "created": "2025-09-30T14:02:32.573625+00:00",
       "updated": "2025-09-30T23:57:50.244821+00:00"
+    },
+    {
+      "id": "2977853",
+      "title": "Assistant Professor Theoretical Particle Physics",
+      "institution": "U. Tennessee, Knoxville",
+      "deadline": "2025-12-01",
+      "description": "<div>The University of Tennessee, Knoxville Department of Physics &amp; Astronomy Assistant Professor in Theoretical Particle Physics</div><div><br></div><div>The Department of Physics and Astronomy at the University of Tennessee, Knoxville invites applications for a tenure-track faculty position at the rank of Assistant Professor in the field of theoretical particle physics. We are particularly seeking applicants who can work closely with our existing particle physics program.</div><div><br></div><div>The Department has broad research programs in experimental collider and neutrino physics, with leadership in the CMS Experiment, COHERENT, and efforts towards future colliders. We build neutron experiments searching for baryon number violation and have an active program in quantum computing. These programs benefit from extensive collaboration with research scientists at the nearby Oak Ridge National Laboratory, and from the leadership-class facilities there, such as the Spallation Neutron Source, the High Flux Isotope Reactor, and the Oak Ridge Leadership Computing Facility. We seek a candidate to complement, connect, and expand these research efforts.</div><div><br></div><div>Candidates should have a PhD in physics or a closely related field. The successful candidate will have established an exemplary record of research, as demonstrated through publications in peer-reviewed journals, citation statistics, invitations to speak, and scientific leadership roles the candidate may have assumed. The successful candidate will be expected to establish an externally funded research program in the Department and provide training for Departmental graduate students and postdoctoral researchers.</div><div><br></div><div>The successful candidate will also be expected to contribute to teaching and service in the Department. We are looking for candidates committed to undergraduate and graduate teaching, in physics and astronomy, as well as to innovation in the development of curricula and teaching methods.</div><div><br></div><div>The Department of Physics and Astronomy supports the University’s goals of expanding access to educational opportunities, removing barriers that limit such access, maintaining high educational standards, supporting student achievement, and preparing engaged, ethical, and responsible citizens for life in an increasingly interconnected and complex world. We strongly encourage applications from candidates that will actively contribute to this mission.</div><div><br></div><div>The University is beginning a next-level initiative aimed both at substantially elevating the University’s national reputation for impactful research, scholarship, and creative activity and at assembling a roster of faculty committed to delivering one of the nation’s best educational experiences for undergraduate and graduate students.</div><div><br></div><div>Applicants should send a Curriculum Vitae including research and teaching experience, list of publications, Statement of Research, Statement of Teaching, and should arrange for three letters of reference to be submitted separately. All application materials, including the letters, should be submitted via <a href=\"http://apply.interfolio.com/174290\">apply.interfolio.com/174290</a>. Only electronic applications will be considered, and acceptable file formats are .pdf or .docx. Applications are due on December 1, 2025. For other questions, please contact Dr. Yuri Efremenko at yefremen@utk.edu.</div><div><br></div><div>This position’s anticipated start date is August 1, 2026.</div><div><br></div><div>The University of Tennessee is an EEO/AA/Title VI/Title IX/Section 504/ADA/ADEA institution in the provision of its education and employment programs and services.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30681"
+      ],
+      "contact_email": null,
+      "created": "2025-09-30T14:01:02.625315+00:00",
+      "updated": "2025-10-01T09:33:33.558062+00:00"
+    },
+    {
+      "id": "2976617",
+      "title": "Postdoctoral researcher in relativistic heavy-ion physics, phenomenology and experimental in ALICE",
+      "institution": "University of São Paulo and/or University of Campinas",
+      "deadline": "2025-11-30",
+      "description": "<div>We invite applications for postdoctoral research positions at the Univ. of São Paulo and/or the State Univ. of Campinas, working under the supervision of Profs. Matthew Luzum, Jun Takahashi, and/or Giorgio Torrieri. These positions are part of a multidisciplinary FAPESP funded project (2023/13749-1) encompassing aspects of high-energy nuclear physics, astrophysics and medical sciences.&nbsp;</div><div><br></div><div>The University of São Paulo and the State University of Campinas are consistently ranked at the very top of Latin American universities and among the top worldwide.</div><div><br></div><div>At this time, we are searching for applications in:</div><ul><li>phenomenology of relativistic collisions applied to LHC and/or the EIC,</li><li>experimental data analysis with ALICE or SII in VERITAS collaboration.</li></ul><div><br></div><div>The precise location and supervisor will depend on the fit and preferences of the candidate and the PIs.</div><div><br></div><div>The postdoctoral positions are for three years with possible renewal for an extra year. Values are listed in (<a href=\"https://fapesp.br/valores/bolsasnopais\">https://fapesp.br/valores/bolsasnopais</a>). In addition, they are tax-free and pay moving costs as well as a research grant for travel, computer equipment and research expenses (<a href=\"http://www.fapesp.br/en/5427\">http://www.fapesp.br/en/5427</a>).</div><div><br></div><div>Applicants’ qualifications:</div><div>- PhD in Physics or related fields.</div><div>- Experience in one or more of the research fields listed above.</div><div>- Ability in programming.</div><div>- Ability to design and implement original scientific research programs, develop scientific reports and manuscripts.</div><div>- Capability to deliver professional scientific presentations.</div><div>- Ability to work collaboratively in a group environment and with remote collaborators.</div><div><br></div><div>Applicants should submit a CV, publication list, and a concise statement detailing research accomplishments and interests. Additionally, 2 letters of recommendation to be sent directly via email to: jtakahas@unicamp.br and mluzum@usp.br</div><div><br></div><div>Review will continue indefinitely, but for full consideration please apply by November 30, 2025.</div><div><br></div><div>Contact: Matthew Luzum (mluzum@usp.br)</div><div>Contact: Jun Takahashi (<a href=\"mailto:jtakahas@unicamp.br\">jtakahas@unicamp.br</a>)</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://sites.ifi.unicamp.br/hadrex/"
+      ],
+      "contact_email": null,
+      "created": "2025-09-30T13:46:28.398512+00:00",
+      "updated": "2025-10-01T16:35:52.862071+00:00"
+    },
+    {
+      "id": "2974771",
+      "title": "PhD positions at the International Helmholtz-Weizmann Research School on Multimessenger Astronomy",
+      "institution": "DESY, Zeuthen",
+      "deadline": "2025-11-07",
+      "description": "<div><strong>About the school:&nbsp;</strong>The school aims at bringing highly qualified and motivated graduate students to the forefront of the field of Multimessenger astronomy through a world-class international training environment. PhD students will work with leading scientists in the field and benefit from their complementary expertise in theory and experiments involving the various messengers. Collaboration between students and researchers at the partner institutions is facilitated through a lively exchange program. The professional training of students includes data science as a supporting component of the school. Furthermore, the school offers a number of individual measures to promote career development. Based on this year´s projects the PhD will be earned either at the Humboldt-University Berlin, at the Friedrich-Alexander Universität Erlangen-Nürnberg or at the Julius-Maximilians Universität Würzburg.</div><div><br></div><div><strong>The research field:&nbsp;</strong>Multimessenger astronomy, the exploration of the Universe using information from a multitude of cosmic messengers, including electromagnetic radiation, neutrinos and gravitational waves, has led to several groundbreaking discoveries during the last few years with significant contributions from the partner institutions. Through the development of better theoretical understanding, novel ways to combine the data and access to most sensitive instrumentation, members of the school will be optimally trained and positioned in this emerging field.</div><div><br></div><div><strong>Partners of the school</strong>&nbsp;are DESY and Weizmann institute of Science, as well the Humboldt-University Berlin and University Potsdam. The Ruhr-Universität Bochum, the Friedrich-Alexander Universität Erlangen-Nürnberg and the Julius-Maximilians Universität Würzburg are the school´s associates. The school is receiving significant funding through the Initiative and Networking Fund of the Helmholtz Association.</div><div><br></div><div><strong>Admission:</strong>&nbsp;Each year 3-5 students from countries around the world are admitted to the school. The earliest date to start the PhD is in spring 2026.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.multimessenger-school.de/application/"
+      ],
+      "contact_email": null,
+      "created": "2025-09-30T08:32:25.761707+00:00",
+      "updated": "2025-10-01T10:13:41.717168+00:00"
+    },
+    {
+      "id": "2974768",
+      "title": "Postdoctoral position in high-energy nuclear physics",
+      "institution": "Cracow, INP",
+      "deadline": "2025-11-05",
+      "description": "<div>The Division of Theoretical Physics (NO4) at the Institute of Nuclear Physics, Polish Academy of Sciences (IFJ PAN), invites applications for a <strong>postdoctoral position in theoretical high-energy nuclear</strong> <strong>physics</strong>. The successful candidate will join the group in the Department of Theory of Structure of Matter (NZ41), led by Prof. Radoslaw Ryblewski, to contribute to its research.</div><div><br></div><div><strong>The primary responsibilities include:</strong></div><ul><li>developing and implementing models of relativistic hydrodynamics for spin-polarized systems,</li><li>conducting theoretical calculations and numerical simulations to describe data from relativistic heavy-ion collision experiments,</li><li>disseminating research findings through publications in leading scientific journals (JCR-indexed) and presentations at international conferences,</li><li>actively participating in applications for external research funding.</li></ul><div><br></div><div><strong>Required qualifications:</strong></div><ul><li>doctorate in physical sciences,</li><li>scientific achievements documented by publications in leading international scientific journals,</li><li>knowledge of the research topics and current activity in the field of high-energy nuclear physics,</li><li>ability to work in a team,</li><li>very good knowledge of spoken and written English.</li></ul><div><br></div><div><strong>Welcome:</strong></div><ul><li>experience in the field of relativistic fluid dynamics, relativistic quantum field theory, relativistic kinetic theory, and effective models as applied to the physics of relativistic heavy-ion collisions,</li><li>experience in spin physics.</li></ul><div><br></div><div><strong>Salary offered:</strong></div><div>A person employed at the position of Assistant Professor with a PhD degree will receive a monthly basic</div><div>salary of PLN 7,000 gross, and with a postdoctoral degree (habilitation) of PLN 7,800 gross. The total amount of remuneration is influenced by additional components, such as length of service.</div><div><br></div><div><strong>Important information:</strong></div><div><strong>Candidates applying for employment in IFJ PAN are required to contact the head of the NZ41 Department, Prof. dr hab. Krzysztof Golec-Biernat (kgolec@ifj.edu.pl) at an early stage, who may ask the candidate to deliver a seminar prior to submitting the application, and then the Head of the Department submits an employment recommendation to the Competition Committee.</strong></div><div><br></div><div><strong>Required documents:</strong></div><div>The list of required documents is included in the rules of the competition:</div><div><a href=\"https://www.ifj.edu.pl/en/career/documents/terms-and-conditions-adjunct-research-assistant.pdf\">https://www.ifj.edu.pl/en/career/documents/terms-and-conditions-adjunct-research-assistant.pdf</a></div><div><br></div><div><strong>Deadline for application submission:</strong></div><ul><li><strong>Applications, along with attachments, placed in one file should be submitted by email, with the subject \"Adiunkt/postdoc/AP-II-NZ41/25\" by November 5, 2025, at 12:00 PM (Noon) (CET) to the address: jobs@ifj.edu.pl,</strong></li><li><strong>The employment recommendation from the two referees shall be sent directly, bypassing the candidate, to the following e-mail address:&nbsp;jobs@ifj.edu.pl.</strong></li></ul><div><br></div><div><strong>Conclusion of the competition:</strong></div><ul><li>Interviews with candidates shall take place from December 2nd to December 4th, 2025. Candidates qualified</li><li>for interviews shall be notified by email about the exact date of the Interview by November 17th, 2025. During the interview, the candidate shall be required to give a presentation, stored on a pen drive, lasting 10 minutes at maximum, presenting the candidate’s most important achievement.</li><li>The competition shall be concluded by December 19th, 2025.</li><li>Each candidate shall be notified by email about the results of the competition.</li><li>The final decision on employment and salary shall be taken by the IFJ PAN Director.</li></ul><div><br></div><div>For additional questions regarding the position, contact Radoslaw.Ryblewski@ifj.edu.pl.</div><div><br></div><div>Position advertised at <a href=\"https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ41-Adiunkt_postdoc_AP-II-25-eng.pdf\">https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ41-Adiunkt_postdoc_AP-II-25-eng.pdf</a> .</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ41-Adiunkt_postdoc_AP-II-25-eng.pdf"
+      ],
+      "contact_email": null,
+      "created": "2025-09-30T07:44:05.560921+00:00",
+      "updated": "2025-10-01T10:05:35.676321+00:00"
+    },
+    {
+      "id": "2974279",
+      "title": "Experimental Astroparticle Physics with Deep Learning",
+      "institution": "TU Dortmund University",
+      "deadline": "2025-10-19",
+      "description": "<div>The Astroparticlephysics group at TU Dortmund University is engaged in many of the world’s leading astroparticle physics experiments and has pioneered the use of modern deep learning techniques to advance fundamental physics research. We are now expanding our activities and invite applications for <strong>several PhD and PostDoc positions</strong> at the intersection of high-energy astroparticle physics, deep learning, and differentiable programming.</div><div>&nbsp;</div><div>Successful candidates will contribute to projects such as the ERC-funded <strong>NuRadioOpt</strong> initiative, which includes the development of a deep-learning-based trigger to dramatically increase the detection rate of ultra-high-energy neutrinos, the end-to-end optimization of the detector design using differentiable programming for next-generation experiments such as <strong>IceCube-Gen2</strong>, and the creation of a new data acquisition system that leverages state-of-the-art, low-power, high-speed ADCs and FPGA-based real-time inference. Additional opportunities include participation in the <strong>Radio Neutrino Observatory in Greenland (RNO-G)</strong>, the <strong>IceCube</strong> Neutrino Observatory at the South Pole, and the <strong>Pierre Auger Cosmic Ray Observatory</strong> in Argentina, among others, to study the particle physics of air showers. Candidates will also have the opportunity to contribute to the development of the open-source simulation frameworks <strong>NuRadio</strong> and <strong>CORSIKA 8</strong>, providing the theoretical foundation for the experimental work.</div><div><br></div><div>By joining us, you will become part of an active astroparticlephysics group at TU Dortmund and collaborate closely with the local LHCb group on advancing CORSIKA 8 and exploring the particle physics of air showers. Your work will be embedded in international collaborations such as RNO-G, IceCube, Pierre Auger, and MODE, and you will profit from a vibrant local research network through the Collaborative Research Center SFB 1491 (connecting Dortmund, Bochum, Wuppertal, and Duisburg-Essen) and the LAMARR Institute for Machine Learning and Artificial Intelligence, fostering collaboration across physics and AI.</div><div><br></div><div>The positions have full benefits and include support for travel and research expenses. PhD positions are three years, and PostDoc positions are initially two years.</div><div><br></div><div><strong>Requirements: </strong>We are looking for a qualified and highly motivated candidate with a master’s degree or equivalent in physics or a related field with excellent results. For PostDocs, a PhD in Astroparticlephysics or equivalent is required. Excellent communication and writing skills in English, as well as the ability to work both independently and collaboratively, are required. Applications may be submitted by candidates who have not fully completed the Master of Science degree or PhD -&nbsp;but please state your earliest starting date.</div><div><br></div><div><strong>Additional qualifications:</strong> Good Python programming and data analysis skills are a benefit, but there will be opportunities to improve those skills. Experience in radio detection of cosmic rays or neutrinos and/or deep learning is a merit. For the hardware projects, experience with FPGA programming is a benefit.</div><div><br></div><div>The application should include a statement of research interests and relevant experience, a CV, and a transcript of grades (please indicate grading system if not evident). Please provide the names and contact information for 2-3 people who can act as references. The positions should be ideally filled as soon as possible. Please indicate your earliest starting date. Please compile your application in a single PDF file(!) and send it to <a href=\"mailto:app.physik@tu-dortmund.de\">app.physik@tu-dortmund.de</a> with the subject line “application PhD” or “application PostDoc”. Applications will be reviewed as they arrive. The application remains open until all positions are filled. All applications received until October 19 will receive full consideration.</div><div><br></div><div><strong>For further information, please contact:</strong> Prof. Dr. Christian Glaser (<a href=\"mailto:christian.glaser@tu-dortmund.de\">christian.glaser@tu-dortmund.de</a>).</div><div><br></div><div>TU Dortmund University is an equal opportunity employer and welcomes applications from women. Handicapped applicants will be treated preferentially if equally qualified.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "POSTDOC"
+      ],
+      "experiments": [
+        "IceCube-Gen2",
+        "AUGER",
+        "AUGERPRIME",
+        "ICECUBE",
+        "RNO-G"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-09-29T18:48:37.049518+00:00",
+      "updated": "2025-10-01T14:24:55.448481+00:00"
+    },
+    {
+      "id": "2974100",
+      "title": "PhD Student Position in Theoretical Physics - Beyond the Standard Model physics",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2025-12-31",
+      "description": "<div><br></div><div><strong>About IFAE</strong></div><div>The Institut de Física d’Altes Energies (IFAE) is a public consortium of the Generalitat de Catalunya, the Autonomous Government of Catalonia, and the Universitat Autònoma de Barcelona (UAB, a public university) whose main objective is to carry out research and to contribute to the development of high energy physics from a theoretical, experimental and technological point of view. IFAE has the status of a “University Institute\" attached to the UAB and its premises are within the campus of the University.</div><div>IFAE is an internationally recognized center for fundamental research in Particle Physics, Astroparticle Physics, and Cosmology. IFAE offers an international, dynamic, and competitive environment for the training of young researchers. IFAE has been accredited three times with the “Severo Ochoa Centre of Excellence” distinction, most recently for the 2025-2029 period.</div><div><br></div><div><strong>About Theoretical Physics Group</strong></div><div>The Theory Group at IFAE is a vibrant international group with active senior members working on BSM and Cosmology: D. Blas, E. Masso, A Pomarol, O. Pujolas, M. Quiros, F. Rompineve, E. Salvioni and A. Wulzer (check <a href=\"https://www.ifae.es/\">https://www.ifae.es/</a> for more information about the group). The previous areas are complemented with a very active collaboration with the experimental colleagues at IFAE working on colliders, cosmology, gravitational waves, astroparticles and quantum technologies (check also <a href=\"https://www.ifae.es/\">https://www.ifae.es/</a> for more information about these groups).</div><div><br></div><div><strong>Required skills and evaluation criteria</strong></div><div>The successful candidate is expected to have:</div><ul><li>Master’s in Physics or satisfy the requirements to be admitted in the Physics PhD program of the UAB (<a href=\"https://www.uab.cat/en/phds/physics\">https://www.uab.cat/en/phds/physics</a> ) before the start of the grant (expected fall 2026)</li><li>Proficiency in the English language</li><li>Pro-active attitude and good communication skills</li></ul><div>The evaluation criteria and their weighting for the submitted applications will be the following:</div><ul><li>CV and previous achievements, 40</li><li>Suitability of the candidate to the research activities, 45</li><li>Letters of recommendation, 10</li><li>Interview, 5</li></ul><div><br></div><div><strong>What will be your role?</strong></div><div>The candidates should have a University degree in Physics or related topics and a Master degree. Being enroled in a master program in some of the strategic lines of the members of the Beyond the Standard Model and Astroparticle Physics and Cosmology groups (<a href=\"https://www.ifae.es/groups/theory/\">https://www.ifae.es/groups/theory/</a> ) is desirable. These include physics beyond the Standard Model, formal aspects of quantum field theories, gravitation, gravitational waves, quantum sensing of fundamental backgrounds, cosmology and astroparticle physics. Candidates are expected to carry independent and collaborative research in these topics leading to a PhD in 4 years.</div><div><br></div><div><strong>Offered contract:</strong></div><ul><li>Full-time contract (40 hours/week).</li><li>Predoctoral Contract 4-year</li><li>The position will correspond to “Predoctoral Researcher (R1)” within the professional categories of the IFAE.</li><li>Salary will be proportional to experience and qualifications within the corresponding category range.</li><li>Work with interesting experimental science. Travelling to scientific singular infrastructures. Opportunity to gain experience learning first-hand. Personal growth, innovation, and learning every day.</li><li>The selected candidate is expected to join the IFAE as soon as possible.</li></ul><div><br></div><div><strong>Application and Selection process:</strong></div><div>Applications should be submitted to <a href=\"mailto:phd2025bsm@ifae.es\">phd2025bsm@ifae.es</a> and <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a> stating the job reference (IFAE2025/28_THBSM_SO_PhDStudent) as the subject of the message. The e-mail should include: 1) a motivation letter, 2) updated CV, 3) a full list of university grades (Master and Bachelor). Additionally candidates should arrange to have two letters of reference sent to the above e-mail addresses.</div><div><br></div><div>Sending CVs to the above addresses implies consent to the IFAE’s legal warning on data privacy.</div><div><br></div><div>The application must contain a personal identification number (DNI, NIE or passport) in order to proceed to the verification of absence of conflict of interest required by Recovery and Resilience Mechanism of the Spanish Government.</div><div><br></div><div>IFAE is an equal opportunity employer committed to diversity in the workplace and social integration of people with a disability. We welcome applications from all qualified candidates. People from groups that are typically underrepresented in the labour market in general and in Science and Engineering in particular, such as women, minorities, or people with a disability, are particularly encouraged to apply.</div><div><br></div><div>A Selection Committee will evaluate the received applications. If more than one candidate seems equally suitable for the position, the Selection Committee will arrange an on-line interview with each one of them as part of the Selection process.</div><div><br></div><div>In compliance with article 121 of the Spanish Public Sector Legal Regime Act, staff with a pre-existing relationship with the Consortium administration (Generalitat de Catalunya and Universitat Autònoma de Barcelona) will have priority in the awarding of the position.</div><div><br></div><div>You may contact Prof. Alex Pomarol (<a href=\"mailto:pomarol@ifae.es\">pomarol@ifae.es</a>) or Prof. Oriol Pujolàs (pujolas@ifae.es) for questions related to this job opening.</div><div><br></div><div><strong>Funding Statement</strong></div><div>Esta plaza está financiada en el marco de la acreditación Severo Ochoa de IFAE CEX2024-001441-S (2025–2028), concedida por el MCIN/AEI/10.13039/501100011033.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.ifae.es/careers/jobs/2025/09/phd-student-position-for-the-th-bsm-group/"
+      ],
+      "contact_email": null,
+      "created": "2025-09-29T13:14:52.813990+00:00",
+      "updated": "2025-10-01T09:43:54.102380+00:00"
     },
     {
       "id": "2974099",
@@ -3834,237 +4060,8 @@
       "contact_email": null,
       "created": "2025-08-05T17:19:31.845128+00:00",
       "updated": "2025-08-05T20:31:53.040402+00:00"
-    },
-    {
-      "id": "2957660",
-      "title": "Postdoctoral Position for ERC project",
-      "institution": "U. Milan (main)",
-      "deadline": "2026-01-31",
-      "description": "<div><strong>Join Our Group – Postdoctoral Position Available</strong></div><div><br></div><div>We are an experimental research group at the <strong>University of Milan</strong>, led by <strong>Prof. Woojin Kwon</strong>, dedicated to exploring quantum phenomena in ultracold atomic systems of <strong>fermionic Lithium-6 gases</strong>. Our research seeks to deepen the understanding of <strong>many-body quantum physics</strong> through precision experiments.</div><div>Supported by the <strong>ERC Starting Grant</strong>, our current focus is on <strong>fermionic superfluid gases</strong>, with particular interest in <strong>quantum vortices</strong> and related quantum transport phenomena.</div><div><br></div><div><strong>Postdoctoral Position</strong></div><div>We are looking for a highly motivated postdoctoral researcher to join our team.</div><div><strong> </strong>Start date: Flexible</div><div>Location: Milan, Italy</div><div>Duration: Negotiable (typically 2 years, renewable, supported by ERC grant)</div><div>Contact: Woojin Kwon ( woojin.kwon@unimi.it )</div><div><br></div><div><strong>Requirements</strong></div><div>Ph.D. (or near completion) in Atomic Physics, Quantum Optics, or a related field</div><div>Hands-on experience with:</div><ul><li>Optics and laser systems</li><li>Ultra-high vacuum (UHV) techniques</li><li>Laser cooling and atom trapping</li></ul><div>Additional plus:</div><ul><li>Experience with Digital Micromirror Devices (DMDs) for atom manipulation</li><li>Proficiency in Python for data analysis and control systems</li></ul><div>Also, master's &amp; phd positions are available in our group.</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://sites.google.com/view/wjkwonlab/"
-      ],
-      "contact_email": null,
-      "created": "2025-08-05T15:10:21.902196+00:00",
-      "updated": "2025-08-05T20:33:46.106579+00:00"
-    },
-    {
-      "id": "2957469",
-      "title": "Postdoctoral position in String/QFT/Gravity",
-      "institution": "Kyung Hee U.",
-      "deadline": "2025-08-23",
-      "description": "<div>The theoretical high energy physics group at Kyung Hee University, Seoul, Republic of Korea invites applications for one postdoctoral position.</div><div>The group currently consists of Prof. Nakwoo Kim, Prof. Euihun Joung, Prof. Junggi Yoon, two research fellows, and 7 graduate students.</div><div>The applicants are expected to work with Professor Nakwoo Kim on various topics covered in hep-th, in particular integrated correlators, supersymmetric localization, duality of gauge theory, supergravity, AdS/CFT, black hole physics etc. The starting date is negotiable but it is possible to begin right away.</div><div><br></div><div>The initial appointment is for one year, renewable up to one additional year. The position will be supported by NRF grant \"Solving CFTs with or without supersymmetric localization\" (RS-2025-00518906, Mar 2025 - Feb 2028).</div><div><br></div><div>The following documents should be submitted electronically to&nbsp;<a href=\"mailto:khu.hepth@gmail.com\">khu.hepth@gmail.com</a>&nbsp;in a single PDF file :</div><ol><li>a cover letter</li><li>a curriculum vitae including names of two referees</li><li>a statement of research interest with a publication list</li></ol><div>(We will later contact the referees and request a recommendation letter for shortlisted applicants.)</div><div><br></div><div>Review of applications will continue until the position&nbsp;is filled, but priority will be given to the applications received by August 23, 2025.</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-08-05T12:28:47.101449+00:00",
-      "updated": "2025-08-05T14:56:54.535671+00:00"
-    },
-    {
-      "id": "2957432",
-      "title": "Postdoctoral Research Associate",
-      "institution": "Queen Mary, U. of London (main)",
-      "deadline": "2025-09-12",
-      "description": "<div>The ATLAS L1Calo/Global upgrade project is primarily a firmware development based on a common multipurpose hardware module. It requires a lot of software development in a wide range of areas. You will join the ATLAS group in the Particle Physics Research Centre, working within our L1Calo team, making leading contributions to the ATLAS calorimeter trigger upgrade for the high-luminosity LHC. You will provide support to our PhD students and contribute to the broader activities of the group and the school.</div><div><br></div><div><strong>About You</strong></div><div>You will have completed or be about to complete a PhD or research qualification/experience equivalent to PhD level in a relevant subject area (physics, engineering, computing science, etc.). You will need as essential skills a good knowledge of C++ and python, familiarity with the use of code repositories and ability to work in a collaborative environment.</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "CERN-LHC-ATLAS"
-      ],
-      "urls": [
-        "https://qmul-jobs.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/7007-Postdoctoral-Research-Associate/"
-      ],
-      "contact_email": null,
-      "created": "2025-08-05T08:49:10.939342+00:00",
-      "updated": "2025-08-05T14:59:03.735214+00:00"
-    },
-    {
-      "id": "2957132",
-      "title": "PhD position in Theoretical Particle Cosmology",
-      "institution": "KIT, Karlsruhe, Dept. Phys.",
-      "deadline": "2025-10-03",
-      "description": "<div><strong>Doctoral Student (Akademische*r Mitarbeiter*in) (f/m/d) in Theoretical Particle Cosmology</strong></div><div><br></div><div>We seek a qualified physics graduate to join as a PhD candidate at the Karlsruhe Institute of Technology (KIT).</div><div><br></div><div>The successful candidate will join Dr. Kim Berghaus' research group to work on projects related to Theoretical Particle Cosmology, on topics of the intersection of particle physics and theoretical/observational cosmology such as inflation, dark energy, and the Hubble tension. The position is for 3 years with a flexible starting date from February 1st, 2026 to May 1st, 2026.</div><div><br></div><div>This position is part of the Emmy Noether Research Group “Novel Signatures of Relativistic Particle Production in Cosmology”. The group investigates the impact of fundamental interactions between scalar fields and other light degrees of freedom on cosmological observations.</div><div><br></div><div><strong>Your Profile:</strong></div><ul><li><strong>Master’s degree</strong>&nbsp;in Physics (to be completed by the starting date).</li><li>Strong interest in cosmology and (astro)particle physics.</li><li>Some prior research experience in cosmology or particle physics is highly desirable.</li></ul><div><strong>We Offer:</strong></div><ul><li>3-year contract (salary level E 13 TV-L, 75%).</li><li>Collaborative and supportive work environment.</li></ul><div><strong>Application Procedure:</strong></div><ul><li>Motivation letter (max 1 page).</li><li>Curriculum Vitae.</li><li>Recent transcript of study records.</li><li>1-3 Recommendation letters (to be submitted by the reference writer).</li></ul><div>Motivation letter, CV and transcript of records should be sent as a <strong>single PDF</strong> to kberghaus.kit.phys.applications@gmail.com.</div><div><br></div><div>The review of applications will start on <strong>October 4th, 2025</strong>.</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "PHD"
-      ],
-      "experiments": [],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-08-04T22:36:40.227373+00:00",
-      "updated": "2025-08-05T14:58:21.691115+00:00"
-    },
-    {
-      "id": "2957049",
-      "title": "Fondazione Antonio Madonna ETS Scholarship",
-      "institution": "CSTQ",
-      "deadline": "2025-10-15",
-      "description": "<div>We are pleased to announce the opening for applications for the <strong>Fondazione Antonio Madonna ETS Scholarship for Researchers in the Fundamental Physics of the Universe</strong>. This newly created scholarship is funded by the <a href=\"https://www.fondazioneantoniomadonna-ets.org/\">Antonio Madonna ETS</a> and managed by the Center.</div><div>Fondazione Antonio Madonna ETS Scholarship</div><ul><li><strong>Application Deadline:</strong> October 15, 2025, at 23:59 CET</li><li><strong>Duration:</strong> 12 months (with possible extension)</li><li><strong>Amount:</strong> EUR 28,000 (gross)</li><li><strong>Focus:</strong> Fundamental physics of the universe, including quantum gravity, dark matter, cosmology, and theoretical astrophysics</li><li><strong>Details and Application Form:</strong> <a href=\"https://www.cstq.org/projects/borsa-fam-2025\">cstq.org/projects/borsa-fam-2025</a></li></ul><div>Eligibility Requirements:</div><ul><li>Hold a PhD in physics, astrophysics, or related disciplines, awarded after January 1, 2019</li><li>Conduct or intend to conduct research at a university or research institution</li></ul><div>We would greatly appreciate your help in disseminating this information to potential candidates.</div><div>For questions or more information, please contact us at <a href=\"mailto:fam@cstq.org\">fam@cstq.org</a>.</div>",
-      "regions": [
-        "Africa",
-        "Australasia",
-        "Asia",
-        "Europe",
-        "Middle East",
-        "North America",
-        "South America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://www.cstq.org/projects/borsa-fam-2025"
-      ],
-      "contact_email": null,
-      "created": "2025-08-04T12:32:40.233822+00:00",
-      "updated": "2025-08-04T14:38:58.424480+00:00"
-    },
-    {
-      "id": "2956036",
-      "title": "KICP Postdoctoral Research Fellow",
-      "institution": "Chicago U.",
-      "deadline": "2025-10-31",
-      "description": "<div>The Kavli Institute for Cosmological Physics (KICP) at the University of Chicago would like to invite applications for the KICP Postdoctoral Research Fellowship program. Scientists receiving a PhD in physics, astrophysics, astronomy, or related fields between June 2022 and September 2026 are welcome to apply. Successful applicants will conduct original research in experimental, observational, numerical, or theoretical cosmological physics, broadly defined. KICP Fellows are appointed to renewable one-year terms, for up to three years. Our positions carry a salary and benefits package comparable to other prize fellowships.</div><div><br></div><div>KICP Fellows are an integral part of the KICP community. The KICP is an interdisciplinary environment that brings together physicists and astronomers who range from experimentalists to observers, simulators, and theorists, to stimulate new ideas and push the forefront of cosmological research. Current topics of research in the institute include: the inflationary era; dark energy; dark matter; experimental and theoretical studies of the CMB; analysis of cosmological data including CMB, large-scale structure surveys (especially the Dark Energy Survey), and type Ia supernova; gravitational lensing and gravitational-wave studies; observational cosmology; experimental and theoretical particle astrophysics; near-field cosmology, and direct and indirect detection of dark matter. The KICP has an active program of visitors, symposia, and meetings as well as Education and Outreach opportunities. All members of the KICP are expected to adhere to our&nbsp;<a href=\"https://kavlicosmo.uchicago.edu/about/diversity-inclusion/#CommunityValues\">Community Values</a>. Information about the KICP can be found at the&nbsp;<a href=\"https://kavlicosmo.uchicago.edu/\">KICP website</a>.</div><div><br></div><div>To apply for a KICP Postdoctoral Research Fellowship, please complete the online&nbsp;application form at&nbsp;<a href=\"https://academicjobsonline.org/ajo/jobs/30323\">Academic Jobs Online (AJO)</a>. Requested information includes email contact information for 3 references who can independently write a letter of support for the applicant.&nbsp;&nbsp;Supplemental materials (Cover Letter; Curriculum Vitae; Research Statement - a one to three page document of your research accomplishments and plans; List of Publications) should be submitted as PDF files on the application form.</div><div><br></div><div>If you have any questions, please contact&nbsp;Jennifer Smith at jmsmith@uchicago.edu.</div><div><br></div><div>The positions will remain open until filled; however applicants are strongly encouraged to submit application by&nbsp;<strong>October 31, 2025</strong>&nbsp;and ensure that 3 letters of recommendation are received by&nbsp;<strong>November 15, 2025</strong>. Review of applications will begin November 17, 2025. The positions are expected to begin in the Fall of 2026.</div><div><br></div><div><strong>Equal Employment Opportunity Statement</strong></div><div>The University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.</div><div>Job seekers in need of a reasonable accommodation to complete the application process should call 773-834-3988 or email equalopportunity@uchicago.edu with their request.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/jobs/30323"
-      ],
-      "contact_email": null,
-      "created": "2025-08-01T16:25:46.698952+00:00",
-      "updated": "2025-08-01T17:05:02.990995+00:00"
-    },
-    {
-      "id": "2956028",
-      "title": "Postdoctoral Position in Theoretical Particle Physics",
-      "institution": "Indian Inst. Tech., Gandhinagar",
-      "deadline": "2025-08-15",
-      "description": "<div>Applications are invited for Postdoctoral Position in Theoretical Particle Physics for a research project jointly funded by DAE-BRNS and IIT Gandhinagar. The start date can be <strong>at the earliest possible.</strong></div><div><br></div><div>The research project mostly focuses in the area of&nbsp;Flavor Physics and Dark Matter analysis.</div><div><br></div><div>Initial appointment is for 1 year, extendable up to 1 more year based on performance.</div><div><br></div><div>Remuneration: Consolidated 72,000 INR per month</div><div><br></div><div>The applicants should send their application as a single pdf attachment by&nbsp;<strong>August 15, 2025</strong> including</div><ul><li>Curriculum Vitae</li><li>List of publications</li><li>Research statement</li><li>a copy of the PhD certificate/provisional certificate or a certificate mentioning expected date of graduation along with a copy of the highest completed degree certificate (in case PhD degree is awaiting)</li></ul><div>to Rusa Mandal (<a href=\"mailto:rusa.mandal@iitgn.ac.in\">rusa.mandal@iitgn.ac.in</a>). Further&nbsp;<strong>Three letters</strong>&nbsp;of recommendation should directly be sent to the mentioned email address. The search will remain open until the position is filled.</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://iitgn.ac.in/careers/staff"
-      ],
-      "contact_email": null,
-      "created": "2025-08-01T12:31:33.633593+00:00",
-      "updated": "2025-08-01T17:05:44.770351+00:00"
-    },
-    {
-      "id": "2955765",
-      "title": "BNL Postdoc on ATLAS and EIC",
-      "institution": "Brookhaven Natl. Lab.",
-      "deadline": "2026-01-30",
-      "description": "<div>The Omega Group in the Physics Department has an opening for two postdocs to join in the study of Electroweak and Beyond the Standard Model (BSM) physics on ATLAS at CERN and for the experiments at the Electron Ion Collider (EIC) being constructed at BNL. Applicants should have a strong interest in and experience with the LHC, RHIC, or EIC scientific programs. This position has a high level of interaction with an international and multicultural scientific community.</div><div><br></div><div>The Omega Group in the Physics Department at BNL focuses primarily on the ATLAS experiment at CERN in Geneva, Switzerland. The Omega Group has major responsibilities in detector operations and software development, and has leading roles in the ATLAS High Luminosity Large-Hadron Collider (HL-LHC) upgrade. BNL serves as the host laboratory for the U.S. ATLAS Operations Program, the U.S. ATLAS HL-LHC Upgrade Project, the ATLAS Tier-1 computing facility, and is an active U.S. ATLAS Center. The Omega Group is becoming involved in the EIC and has strong detector R&amp;D programs on silicon detectors and in data acquisition.</div><div><br></div><div><strong>Essential Duties and Responsibilities:</strong></div><ul><li>Participation in the ATLAS and EIC scientific programs with a strong focus on Electroweak and Beyond the Standard Model physics.</li><li>Participation in the development and performance of physics and detector simulations for high-energy and nuclear physics.</li><li>Development of new artificial-intelligence and machine-learning techniques for high-energy and nuclear physics.</li><li>Close interaction with our collaborators in the EIC and the BNL theory group will be essential for progress on all aspects of this program.</li></ul><div><strong>Required Knowledge, Skills, and Abilities:</strong></div><ul><li>Ph.D. in experimental particle or nuclear physics or related field.</li><li>Experience with high- and medium-energy nuclear and particle-physics experiments</li><li>Experience with data analysis and knowledge of statistical techniques for data analysis</li><li>Experience with computing and software for high-energy or nuclear physics experiments</li><li>Experience with machine learning techniques and tools</li><li>Ability to work in a large international collaboration</li><li>Hands-on problem-solving skills and clear and concise verbal and written communication skills</li><li>Demonstrated track record of publication of research in high quality peer-reviewed journals and delivery of presentations&nbsp;&nbsp;&nbsp;&nbsp;</li></ul><div><strong>Preferred Knowledge, Skills, and Abilities:</strong></div><ul><li>Familiarity with pp, ep, and/or eA Monte Carlo generators and detector simulations</li><li>Experience with detector performance for high energy or nuclear physics experiments</li><li>Experience with detector R&amp;D and/or construction</li></ul><div><strong>OTHER INFORMATION:</strong></div><ul><li>Domestic and international travel should be expected</li><li>This position is located at BNL in Upton, New York</li><li>Initial 2-year term appointment subject to renewal contingent on performance and funding</li><li>Candidates must have completed all degree requirements by the commencement of the employment.</li><li>BNL policy requires that after obtaining a PhD, eligible candidates for research associate appointments may not exceed a combined total of 5 years of relevant work experience as a post-doc and/or in an R&amp;D position, excluding time associated with family planning, military service, illness or other life-changing events</li><li>Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $71500 - $81500 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group.</li><li>You may receive an email requesting contact information for references at the appropriate stage in the search</li></ul><div>Brookhaven employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven.</div><div>The full text of the Order may be found at:<a href=\"https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file\">&nbsp;https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file</a></div><div><br></div><div>Equal Opportunity/Affirmative Action Employer Brookhaven Science Associates is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability, or any other federal, state, or local protected class. BSA takes affirmative action in support of its policy and to advance the employment of minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodations to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request accommodation.</div><div>*VEVRAA Federal Contractor</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "CERN-LHC-ATLAS"
-      ],
-      "urls": [
-        "https://jobs.bnl.gov/job/upton/bnl-postdoc-on-atlas-and-eic/3437/84413570880"
-      ],
-      "contact_email": null,
-      "created": "2025-07-31T18:40:24.846081+00:00",
-      "updated": "2025-07-31T20:22:28.045391+00:00"
-    },
-    {
-      "id": "2955764",
-      "title": "BNL ATLAS Postdoc at CERN",
-      "institution": "Brookhaven Natl. Lab.",
-      "deadline": "2026-04-03",
-      "description": "<div>The Omega Group in the Physics Department has an opening for two postdocs to join in the study of Electroweak and Higgs physics on ATLAS and for future collider experiments. The successful candidates will also contribute to the development of trigger technologies intended for use at the HL-LHC and by future experiments. Applicants should have a strong interest in and experience with the LHC scientific program This position has a high level of interaction with an international and multicultural scientific community.</div><div><br></div><div>The Omega Group in the Physics Department at BNL focuses on the ATLAS experiment at CERN in Geneva, Switzerland. The Omega Group has major responsibilities in the operation of the Liquid Argon calorimeter, Trigger &amp; Data Acquisition, and software development, and has leading roles in the ATLAS High Luminosity Large-Hadron Collider (HL-LHC) upgrade (Silicon Strip detector, Liquid Argon calorimeter, and Trigger &amp; Data Acquisition). The group also has strong detector R&amp;D programs on silicon detectors and in trigger/data acquisition. BNL serves as the host laboratory for the U.S. ATLAS Operations Program, the U.S. ATLAS HL-LHC Upgrade Project, the ATLAS Tier-1 computing facility, and is an active U.S. ATLAS Center.</div><div><br></div><div><strong>Essential Duties and Responsibilities:</strong></div><ul><li>Participation in the ATLAS scientific program with a strong focus on Electroweak and Higgs physics.</li><li>Participation in detector research and development, especially for low-latency event selection in trigger systems.</li><li>Development of new artificial-intelligence and machine-learning techniques for high-energy physics</li><li>Participation in developing, constructing, installing, integrating, and commissioning hardware, firmware, and software for the HL-LHC Upgrade of the ATLAS detector.</li><li>Participation in the operation, software, and computing of the ATLAS experiment.</li></ul><div><strong>Required Knowledge, Skills, and Abilities:</strong></div><ul><li>Ph.D. in experimental particle or nuclear physics or related field.</li><li>Experience with data analysis and knowledge of statistical techniques for data analysis</li><li>Experience in detector performance or trigger systems for high energy or nuclear physics experiments</li><li>Experience with machine learning techniques and tools</li><li>Ability to work in a large international collaboration</li><li>Hands-on problem-solving skills and clear and concise verbal and written communication skills</li><li>Demonstrated track record of publication of research in high quality peer-reviewed journals and delivery of presentations&nbsp;&nbsp;&nbsp;&nbsp;</li></ul><div><strong>Preferred Knowledge, Skills, and Abilities:</strong></div><ul><li>Physics analysis with LHC data</li><li>Expertise in machine learning techniques and tools</li><li>Experience with detector R&amp;D and/or construction</li><li>Experience with computing and software development for high energy or nuclear physics experiments</li></ul><div><strong>OTHER INFORMATION:</strong></div><ul><li>Domestic and international travel should be expected</li><li>This position is located at CERN in Geneva Switzerland</li><li>Initial 2-year term appointment subject to renewal contingent on performance and funding</li><li>Candidates must have completed all degree requirements by the commencement of the employment.</li><li>BNL policy requires that after obtaining a PhD, eligible candidates for research associate appointments may not exceed a combined total of 5 years of relevant work experience as a post-doc and/or in an R&amp;D position, excluding time associated with family planning, military service, illness or other life-changing events</li><li>Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $71500 - $81500 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group.</li><li>You may receive an email requesting contact information for references at the appropriate stage in the search</li></ul><div>Brookhaven employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven.</div><div>The full text of the Order may be found at:<a href=\"https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file\">&nbsp;https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file</a></div><div><br></div><div>Equal Opportunity/Affirmative Action Employer Brookhaven Science Associates is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability, or any other federal, state, or local protected class. BSA takes affirmative action in support of its policy and to advance the employment of minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodations to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request accommodation.</div><div>*VEVRAA Federal Contractor</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "CERN-LHC-ATLAS"
-      ],
-      "urls": [
-        "https://jobs.bnl.gov/job/meyrin/bnl-atlas-postdoc-at-cern/3437/84413570864"
-      ],
-      "contact_email": null,
-      "created": "2025-07-31T18:02:14.719403+00:00",
-      "updated": "2025-07-31T20:24:22.589817+00:00"
-    },
-    {
-      "id": "2955682",
-      "title": "PhD positions in ultracold atomic physics and integrable models (EU citizens/residents)",
-      "institution": "Murcia U.",
-      "deadline": "2025-09-25",
-      "description": "<div>I am currently accepting PhD applications in the areas of ultracold atomic systems, condensed matter theory, and</div><div>non-perturbative approaches to many-body physics, within the framework of the University of Murcia's internal PhD fellowship program (\"Plan Propio\").</div><div>Our research focuses on the theory of strongly interacting quantum systems, using a combination of analytical</div><div>techniques and computational methods. Candidates with backgrounds and interest in quantum mechanics, statistical physics, or related areas are encouraged to apply.</div><div>Located in southeastern Spain, Murcia is a dynamic and well-connected city, with a population of over 400,000. It offers high-speed train links to Madrid, Barcelona and other major cities, as well as direct international flights from the nearby airport of Alicante, a lower cost of living compared to most large urban centers in Spain, and a mild Mediterranean climate year-round.</div><div>The University of Murcia supports a vibrant research environment with a strong commitment to fundamental science. Our group maintains active international collaborations, including across Europe.</div><div>We particularly encourage applications from women and individuals from underrepresented backgrounds in physics. We are committed to building a diverse and inclusive research community.</div><div>Interested candidates are welcome to get in touch for further details about the research projects and application process.</div><div><br></div><div><strong>Note: Candidates are required to be EU citizens, spouses of a EU citizen, or hold a valid work permit in Spain to apply. A minimum GPA of 8.5/10.0 during their BSc is also required. Candidates must hold a MSc degree.</strong></div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "PHD"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://www.um.es/documents/d/investigacion/r-952_2025-convocatoria-formacion-personal-investigador-predoctoral-r1-borm-21-07-2025"
-      ],
-      "contact_email": null,
-      "created": "2025-07-31T08:09:06.942669+00:00",
-      "updated": "2025-07-31T20:23:24.172143+00:00"
-    },
-    {
-      "id": "2955451",
-      "title": "Faculty position in Physics",
-      "institution": "Taiwan, Inst. Phys.",
-      "deadline": "2025-09-01",
-      "description": "<div>The Institute of Physics (IOP), Academia Sinica, Taiwan’s premier research institution, invites applications for tenure-track faculty positions at all levels with an expected starting date on Sep. 1, 2026.&nbsp;<strong>Female scientists are particularly encouraged to apply.&nbsp;</strong>Proficiency in Chinese is not required. Currently, IOP maintains active research programs in the following areas:&nbsp;<strong>Condensed Matter Physics, Medium to High-Energy Physics, and Physics of Active and Living Matter</strong>. We particularly welcome applicants whose research specializes in&nbsp;&nbsp;<strong>Quantum Materials and Quantum Devices, Advanced Optical Spectroscopy, Astroparticle Physics, Collider Physics, Cosmology, Gravitational Physics, Nuclear Physics, Molecular and Cellular Biophysics, Mechanobiology, Active Soft Matters</strong>. Outstanding candidates in other research areas will also be considered.</div><div><br></div><div>IoP is committed to the pursuit of excellence in research. Faculty members enjoy the freedom to pursue independent research in a collegial environment. IOP is well-equipped with facilities for computation, quantum material preparation and characterization, and advanced optical microscopy. More details can be found through the website (<a href=\"http://www.phys.sinica.edu.tw/\"><strong>http://www.phys.sinica.edu.tw</strong></a>). Faculty members are eligible to apply for intramural funding (Academia Sinica) and extramural fundings (e.g., National Science and Technology Council). They can supervise PhD students through Taiwan International Graduate Program (TIGP,&nbsp;<a href=\"https://tigp.sinica.edu.tw/\"><strong>https://tigp.sinica.edu.tw</strong></a>) or through partnership universities. Teaching is not required but encouraged to support high-quality education. Academia Sinica offers a supportive work environment. New faculty members are eligible for the faculty housing. There are also on-campus childcare and kindergarten facilities, and bilingual (English/Chinese) program in Nangang Elementary School.</div><div><br></div><div>Successful candidates should have a Ph.D. degree in physics or closely related areas, and preferably postdoctoral experience. The candidates are expected to lead an independent and international competitive research program, which contributes to the institute’s global reputation for excellence.</div><div><br></div><div><strong>Application Materials Required</strong>&nbsp;(should be submitted via AcademicJobsOnline <a href=\"https://academicjobsonline.org/ajo/jobs/30190):\">https://academicjobsonline.org/ajo/jobs/30190):</a></div><div>1.&nbsp;&nbsp;Cover letter describing the major accomplishments</div><div>2.&nbsp;&nbsp;Curriculum vitae including a full publication list</div><div>3.&nbsp;&nbsp;Up to five representative journal publications</div><div>4.&nbsp;&nbsp;Research statement</div><div>5.&nbsp;&nbsp;Three or more reference letters (should be arranged to be submitted directly via the AcademicJobsOnline)</div><div><br></div><div>For full consideration, please submit all materials by&nbsp;<strong>September 1, 2025</strong>. Late applications may be considered until the positions are filled.</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "JUNIOR",
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/jobs/30190"
-      ],
-      "contact_email": null,
-      "created": "2025-07-31T03:13:32.945000+00:00",
-      "updated": "2025-07-31T20:25:53.301922+00:00"
     }
   ],
-  "lastUpdated": "2025-10-01T08:04:40.393Z",
+  "lastUpdated": "2025-10-02T08:04:02.189Z",
   "totalJobs": 200
 }
