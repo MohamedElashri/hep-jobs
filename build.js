@@ -634,6 +634,15 @@ class HEPJobsTracker {
         </div>
     </div>
 
+    <!-- Description Preview Popup -->
+    <div id="previewPopup" class="preview-popup">
+        <div class="preview-popup-content">
+            <button class="preview-close" id="previewClose">&times;</button>
+            <div id="previewText" class="preview-text"></div>
+            <button class="preview-view-full" id="previewViewFull">View Full Description</button>
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>`;
@@ -935,6 +944,13 @@ body {
     line-height: 1.5;
     min-height: 4.5em;
     max-height: 4.5em;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.job-description:hover {
+    background: var(--bg-secondary);
+    box-shadow: 0 2px 8px var(--shadow-color);
 }
 
 /* Ensure HTML content in job descriptions renders properly */
@@ -1373,6 +1389,109 @@ body {
 }
 
 /* ============================================ */
+/* PREVIEW POPUP STYLES */
+/* ============================================ */
+
+.preview-popup {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 600px;
+}
+
+.preview-popup.show {
+    display: block;
+    animation: popupFadeIn 0.2s ease;
+}
+
+@keyframes popupFadeIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -45%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+}
+
+.preview-popup-content {
+    background: var(--bg-secondary);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--border-color);
+    position: relative;
+    max-height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.preview-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+}
+
+.preview-close:hover {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    transform: rotate(90deg);
+}
+
+.preview-text {
+    color: var(--text-primary);
+    line-height: 1.7;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    overflow-y: auto;
+    max-height: 50vh;
+    padding-right: 2rem;
+}
+
+.preview-text p {
+    margin-bottom: 1rem;
+}
+
+.preview-text p:last-child {
+    margin-bottom: 0;
+}
+
+.preview-view-full {
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    background: var(--text-accent);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    align-self: flex-start;
+}
+
+.preview-view-full:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+/* ============================================ */
 /* RESPONSIVE DESIGN */
 /* ============================================ */
 
@@ -1576,10 +1695,15 @@ body {
         this.themeToggle = document.getElementById('themeToggle');
         this.modal = document.getElementById('jobModal');
         this.modalClose = document.getElementById('modalClose');
+        this.previewPopup = document.getElementById('previewPopup');
+        this.previewClose = document.getElementById('previewClose');
+        this.previewViewFull = document.getElementById('previewViewFull');
+        this.currentJobData = null;
         
         this.initEventListeners();
         this.initTheme();
         this.initModal();
+        this.initPreviewPopup();
     }
 
     initEventListeners() {
@@ -1677,6 +1801,87 @@ body {
     closeModal() {
         this.modal.classList.remove('show');
         document.body.style.overflow = '';
+    }
+
+    initPreviewPopup() {
+        // Click on job description to show preview
+        document.addEventListener('click', (e) => {
+            if (e.target.closest('.job-description')) {
+                const jobCard = e.target.closest('.job-card');
+                if (jobCard) {
+                    const jobData = JSON.parse(jobCard.getAttribute('data-job'));
+                    this.showPreview(jobData);
+                }
+            }
+        });
+
+        // Close preview when clicking X button
+        this.previewClose.addEventListener('click', () => this.closePreview());
+
+        // Close preview when clicking outside
+        this.previewPopup.addEventListener('click', (e) => {
+            if (e.target === this.previewPopup) {
+                this.closePreview();
+            }
+        });
+
+        // View full description button opens the modal
+        this.previewViewFull.addEventListener('click', () => {
+            this.closePreview();
+            if (this.currentJobData) {
+                this.showModal(this.currentJobData);
+            }
+        });
+
+        // Close with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && this.previewPopup.classList.contains('show')) {
+                this.closePreview();
+            }
+        });
+    }
+
+    extractFirstParagraph(html) {
+        if (!html) return 'No description available.';
+        
+        // Create a temporary div to parse HTML
+        const temp = document.createElement('div');
+        temp.innerHTML = html;
+        
+        // Try to get the first paragraph
+        const firstP = temp.querySelector('p');
+        if (firstP && firstP.textContent.trim().length > 0) {
+            return firstP.outerHTML;
+        }
+        
+        // If no paragraph, get first div or just truncate text
+        const firstDiv = temp.querySelector('div');
+        if (firstDiv && firstDiv.textContent.trim().length > 0) {
+            return firstDiv.outerHTML;
+        }
+        
+        // Fallback: get first 300 characters
+        const text = temp.textContent.trim();
+        if (text.length > 300) {
+            return \`<p>\${text.substring(0, 300)}...</p>\`;
+        }
+        
+        return html;
+    }
+
+    showPreview(jobData) {
+        this.currentJobData = jobData;
+        
+        // Extract and show first paragraph
+        const firstParagraph = this.extractFirstParagraph(jobData.description);
+        document.getElementById('previewText').innerHTML = firstParagraph;
+        
+        // Show preview popup
+        this.previewPopup.classList.add('show');
+    }
+
+    closePreview() {
+        this.previewPopup.classList.remove('show');
     }
 
     initTheme() {

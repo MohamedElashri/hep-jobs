@@ -8,10 +8,15 @@ class JobsApp {
         this.themeToggle = document.getElementById('themeToggle');
         this.modal = document.getElementById('jobModal');
         this.modalClose = document.getElementById('modalClose');
+        this.previewPopup = document.getElementById('previewPopup');
+        this.previewClose = document.getElementById('previewClose');
+        this.previewViewFull = document.getElementById('previewViewFull');
+        this.currentJobData = null;
         
         this.initEventListeners();
         this.initTheme();
         this.initModal();
+        this.initPreviewPopup();
     }
 
     initEventListeners() {
@@ -109,6 +114,87 @@ class JobsApp {
     closeModal() {
         this.modal.classList.remove('show');
         document.body.style.overflow = '';
+    }
+
+    initPreviewPopup() {
+        // Click on job description to show preview
+        document.addEventListener('click', (e) => {
+            if (e.target.closest('.job-description')) {
+                const jobCard = e.target.closest('.job-card');
+                if (jobCard) {
+                    const jobData = JSON.parse(jobCard.getAttribute('data-job'));
+                    this.showPreview(jobData);
+                }
+            }
+        });
+
+        // Close preview when clicking X button
+        this.previewClose.addEventListener('click', () => this.closePreview());
+
+        // Close preview when clicking outside
+        this.previewPopup.addEventListener('click', (e) => {
+            if (e.target === this.previewPopup) {
+                this.closePreview();
+            }
+        });
+
+        // View full description button opens the modal
+        this.previewViewFull.addEventListener('click', () => {
+            this.closePreview();
+            if (this.currentJobData) {
+                this.showModal(this.currentJobData);
+            }
+        });
+
+        // Close with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && this.previewPopup.classList.contains('show')) {
+                this.closePreview();
+            }
+        });
+    }
+
+    extractFirstParagraph(html) {
+        if (!html) return 'No description available.';
+        
+        // Create a temporary div to parse HTML
+        const temp = document.createElement('div');
+        temp.innerHTML = html;
+        
+        // Try to get the first paragraph
+        const firstP = temp.querySelector('p');
+        if (firstP && firstP.textContent.trim().length > 0) {
+            return firstP.outerHTML;
+        }
+        
+        // If no paragraph, get first div or just truncate text
+        const firstDiv = temp.querySelector('div');
+        if (firstDiv && firstDiv.textContent.trim().length > 0) {
+            return firstDiv.outerHTML;
+        }
+        
+        // Fallback: get first 300 characters
+        const text = temp.textContent.trim();
+        if (text.length > 300) {
+            return `<p>${text.substring(0, 300)}...</p>`;
+        }
+        
+        return html;
+    }
+
+    showPreview(jobData) {
+        this.currentJobData = jobData;
+        
+        // Extract and show first paragraph
+        const firstParagraph = this.extractFirstParagraph(jobData.description);
+        document.getElementById('previewText').innerHTML = firstParagraph;
+        
+        // Show preview popup
+        this.previewPopup.classList.add('show');
+    }
+
+    closePreview() {
+        this.previewPopup.classList.remove('show');
     }
 
     initTheme() {

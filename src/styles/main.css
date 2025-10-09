@@ -300,6 +300,13 @@ body {
     line-height: 1.5;
     min-height: 4.5em;
     max-height: 4.5em;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.job-description:hover {
+    background: var(--bg-secondary);
+    box-shadow: 0 2px 8px var(--shadow-color);
 }
 
 /* Ensure HTML content in job descriptions renders properly */
@@ -733,6 +740,109 @@ body {
 }
 
 .btn-view-full:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+/* ============================================ */
+/* PREVIEW POPUP STYLES */
+/* ============================================ */
+
+.preview-popup {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 600px;
+}
+
+.preview-popup.show {
+    display: block;
+    animation: popupFadeIn 0.2s ease;
+}
+
+@keyframes popupFadeIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -45%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+}
+
+.preview-popup-content {
+    background: var(--bg-secondary);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    border: 1px solid var(--border-color);
+    position: relative;
+    max-height: 70vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.preview-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+}
+
+.preview-close:hover {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    transform: rotate(90deg);
+}
+
+.preview-text {
+    color: var(--text-primary);
+    line-height: 1.7;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    overflow-y: auto;
+    max-height: 50vh;
+    padding-right: 2rem;
+}
+
+.preview-text p {
+    margin-bottom: 1rem;
+}
+
+.preview-text p:last-child {
+    margin-bottom: 0;
+}
+
+.preview-view-full {
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    background: var(--text-accent);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    align-self: flex-start;
+}
+
+.preview-view-full:hover {
     opacity: 0.9;
     transform: translateY(-1px);
 }

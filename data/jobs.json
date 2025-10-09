@@ -4043,6 +4043,10 @@
       "updated": "2025-08-25T14:41:24.615702+00:00"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-10-09T10:21:21.215Z",
+=======
+  "lastUpdated": "2025-10-09T10:24:01.271Z",
+>>>>>>> 24d22e2 (feat: add description preview popup with first paragraph view)
   "totalJobs": 200
 }
