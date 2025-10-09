@@ -863,6 +863,8 @@ body {
     box-shadow: 0 4px 15px var(--shadow-color);
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
     border-left: 4px solid var(--card-border);
+    display: flex;
+    flex-direction: column;
 }
 
 .job-card:hover {
@@ -877,6 +879,8 @@ body {
 
 .job-header {
     margin-bottom: 1rem;
+    min-height: 5.5em;
+    max-height: 5.5em;
 }
 
 .job-title {
@@ -884,6 +888,13 @@ body {
     color: var(--text-primary);
     margin-bottom: 0.5rem;
     line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 3.4em;
+    max-height: 3.4em;
 }
 
 [data-theme="dark"] .job-title {
@@ -900,6 +911,8 @@ body {
     margin-bottom: 1rem;
     font-size: 0.9rem;
     color: var(--text-secondary);
+    min-height: 5.2em;
+    max-height: 5.2em;
 }
 
 .job-meta > div {
@@ -923,7 +936,14 @@ body {
     word-break: break-word;
     hyphens: auto;
     max-width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    line-height: 1.5;
+    min-height: 4.5em;
+    max-height: 4.5em;
 }
 
 /* Ensure HTML content in job descriptions renders properly */
@@ -964,6 +984,7 @@ body {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
+    margin-top: auto;
 }
 
 .btn-apply,
@@ -1376,6 +1397,8 @@ body {
     
     .job-title {
         font-size: 1.1rem;
+        min-height: 2.9em;
+        max-height: 2.9em;
     }
     
     .job-institution {
@@ -1408,13 +1431,15 @@ body {
     
     .job-meta {
         font-size: 0.8rem;
+        min-height: 4.6em;
+        max-height: 4.6em;
     }
     
     .job-description {
         font-size: 0.8rem;
         padding: 0.8rem;
-        max-width: 100%;
-        overflow-x: hidden;
+        min-height: 4em;
+        max-height: 4em;
     }
 }`;
   }
