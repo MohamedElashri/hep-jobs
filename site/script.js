@@ -6,9 +6,12 @@ class JobsApp {
         this.jobsContainer = document.getElementById('jobsContainer');
         this.allJobs = Array.from(document.querySelectorAll('.job-card'));
         this.themeToggle = document.getElementById('themeToggle');
+        this.modal = document.getElementById('jobModal');
+        this.modalClose = document.getElementById('modalClose');
         
         this.initEventListeners();
         this.initTheme();
+        this.initModal();
     }
 
     initEventListeners() {
@@ -23,6 +26,89 @@ class JobsApp {
         });
 
         this.themeToggle.addEventListener('click', () => this.toggleTheme());
+    }
+
+    initModal() {
+        // Add event listeners to all view full description buttons
+        document.addEventListener('click', (e) => {
+            if (e.target.classList.contains('btn-view-full')) {
+                const jobCard = e.target.closest('.job-card');
+                if (jobCard) {
+                    const jobData = JSON.parse(jobCard.getAttribute('data-job'));
+                    this.showModal(jobData);
+                }
+            }
+        });
+
+        // Close modal when clicking the X button
+        this.modalClose.addEventListener('click', () => this.closeModal());
+
+        // Close modal when clicking outside the modal content
+        this.modal.addEventListener('click', (e) => {
+            if (e.target === this.modal) {
+                this.closeModal();
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && this.modal.classList.contains('show')) {
+                this.closeModal();
+            }
+        });
+    }
+
+    showModal(jobData) {
+        document.getElementById('modalTitle').textContent = jobData.title;
+        document.getElementById('modalInstitution').textContent = jobData.institution;
+        
+        // Build meta information
+        let metaHTML = '';
+        metaHTML += `<div><strong>Deadline:</strong> <span class="${jobData.isExpired ? 'expired-text' : ''}">${jobData.deadline}</span></div>`;
+        
+        if (jobData.regions && jobData.regions.length > 0) {
+            metaHTML += `<div><strong>Regions:</strong> ${jobData.regions.join(', ')}</div>`;
+        }
+        
+        if (jobData.ranks && jobData.ranks.length > 0) {
+            metaHTML += `<div><strong>Ranks:</strong> ${jobData.ranks.join(', ')}</div>`;
+        }
+        
+        if (jobData.experiments && jobData.experiments.length > 0) {
+            metaHTML += `<div><strong>Experiments:</strong> ${jobData.experiments.join(', ')}</div>`;
+        }
+        
+        document.getElementById('modalMeta').innerHTML = metaHTML;
+        
+        // Set full description
+        const description = jobData.description || 'No description available.';
+        document.getElementById('modalDescription').innerHTML = description;
+        
+        // Build actions
+        let actionsHTML = '';
+        
+        if (jobData.inspireHepUrl) {
+            actionsHTML += `<a href="${jobData.inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>`;
+        }
+        
+        if (jobData.urls && jobData.urls.length > 0) {
+            actionsHTML += `<a href="${jobData.urls[0]}" target="_blank" class="btn-apply">External Link</a>`;
+        }
+        
+        if (jobData.contact_email) {
+            actionsHTML += `<a href="mailto:${jobData.contact_email}" class="btn-contact">Contact</a>`;
+        }
+        
+        document.getElementById('modalActions').innerHTML = actionsHTML;
+        
+        // Show modal
+        this.modal.classList.add('show');
+        document.body.style.overflow = 'hidden';
+    }
+
+    closeModal() {
+        this.modal.classList.remove('show');
+        document.body.style.overflow = '';
     }
 
     initTheme() {

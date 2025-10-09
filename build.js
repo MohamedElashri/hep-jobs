@@ -14,7 +14,7 @@ class HEPJobsTracker {
     this.config = {
       apiBase: "https://inspirehep.net/api",
       dataDir: "./data",
-      docsDir: "./docs",
+      docsDir: "./site",
       jobsFile: "./data/jobs.json",
       maxJobs: 200,
       daysBack: 30,
@@ -440,9 +440,25 @@ class HEPJobsTracker {
     
     // Create InspireHEP URL for the job
     const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
+    
+    // Store full job data as JSON in data attribute
+    const jobData = {
+      id: job.id,
+      title: job.title,
+      institution: job.institution,
+      deadline: deadline,
+      isExpired: isExpired,
+      regions: job.regions,
+      ranks: job.ranks,
+      experiments: job.experiments,
+      description: job.description || '',
+      urls: job.urls,
+      contact_email: job.contact_email,
+      inspireHepUrl: inspireHepUrl
+    };
 
     return `
-      <div class="${cardClass}" data-id="${job.id}" data-ranks="${ranksData}">
+      <div class="${cardClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${JSON.stringify(jobData).replace(/'/g, "&#39;")}'>
         <div class="job-header">
           <h3 class="job-title">
             <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
@@ -498,11 +514,12 @@ class HEPJobsTracker {
 
         <div class="job-actions">
           ${
-            job.urls.length > 0
+            job.description
               ? `
-            <a href="${job.urls[0]}" target="_blank" class="btn-apply">View Details</a>`
+            <button class="btn-view-full" data-job-id="${job.id}">View Full Description</button>`
               : ""
           }
+          <a href="${inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>
           ${
             job.contact_email
               ? `
@@ -600,6 +617,22 @@ class HEPJobsTracker {
             <p>Updated automatically daily via GitHub Actions</p>
         </div>
     </footer>
+
+    <!-- Job Details Modal -->
+    <div id="jobModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle"></h2>
+                <button class="modal-close" id="modalClose">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modalInstitution" class="modal-institution"></div>
+                <div id="modalMeta" class="modal-meta"></div>
+                <div id="modalDescription" class="modal-description"></div>
+                <div id="modalActions" class="modal-actions"></div>
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
@@ -999,6 +1032,201 @@ body {
 }
 
 /* ============================================ */
+/* MODAL STYLES */
+/* ============================================ */
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+    animation: fadeIn 0.3s ease;
+}
+
+.modal.show {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.modal-content {
+    background-color: var(--bg-secondary);
+    margin: 2rem auto;
+    padding: 0;
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    width: 90%;
+    max-width: 800px;
+    max-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 40px var(--shadow-hover);
+    animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.5rem;
+    border-bottom: 1px solid var(--border-color);
+    gap: 1rem;
+}
+
+.modal-header h2 {
+    margin: 0;
+    color: var(--text-primary);
+    font-size: 1.5rem;
+    line-height: 1.3;
+    flex: 1;
+}
+
+.modal-close {
+    background: transparent;
+    border: none;
+    font-size: 2rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+}
+
+.modal-close:hover {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    transform: rotate(90deg);
+}
+
+.modal-body {
+    padding: 1.5rem;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.modal-institution {
+    color: var(--text-accent);
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.modal-meta {
+    background: var(--bg-primary);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+}
+
+.modal-meta > div {
+    margin-bottom: 0.5rem;
+}
+
+.modal-meta > div:last-child {
+    margin-bottom: 0;
+}
+
+.modal-meta strong {
+    color: var(--text-primary);
+}
+
+.modal-description {
+    color: var(--text-primary);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+}
+
+.modal-description h1,
+.modal-description h2,
+.modal-description h3,
+.modal-description h4,
+.modal-description h5,
+.modal-description h6 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.modal-description p {
+    margin-bottom: 0.75rem;
+}
+
+.modal-description ul,
+.modal-description ol {
+    margin-left: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.modal-description li {
+    margin-bottom: 0.5rem;
+}
+
+.modal-description a {
+    color: var(--text-accent);
+    text-decoration: none;
+    word-break: break-word;
+}
+
+.modal-description a:hover {
+    text-decoration: underline;
+}
+
+.modal-actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.btn-view-full {
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    background: var(--success-color);
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.btn-view-full:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+/* ============================================ */
 /* RESPONSIVE DESIGN */
 /* ============================================ */
 
@@ -1200,9 +1428,12 @@ body {
         this.jobsContainer = document.getElementById('jobsContainer');
         this.allJobs = Array.from(document.querySelectorAll('.job-card'));
         this.themeToggle = document.getElementById('themeToggle');
+        this.modal = document.getElementById('jobModal');
+        this.modalClose = document.getElementById('modalClose');
         
         this.initEventListeners();
         this.initTheme();
+        this.initModal();
     }
 
     initEventListeners() {
@@ -1217,6 +1448,89 @@ body {
         });
 
         this.themeToggle.addEventListener('click', () => this.toggleTheme());
+    }
+
+    initModal() {
+        // Add event listeners to all view full description buttons
+        document.addEventListener('click', (e) => {
+            if (e.target.classList.contains('btn-view-full')) {
+                const jobCard = e.target.closest('.job-card');
+                if (jobCard) {
+                    const jobData = JSON.parse(jobCard.getAttribute('data-job'));
+                    this.showModal(jobData);
+                }
+            }
+        });
+
+        // Close modal when clicking the X button
+        this.modalClose.addEventListener('click', () => this.closeModal());
+
+        // Close modal when clicking outside the modal content
+        this.modal.addEventListener('click', (e) => {
+            if (e.target === this.modal) {
+                this.closeModal();
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && this.modal.classList.contains('show')) {
+                this.closeModal();
+            }
+        });
+    }
+
+    showModal(jobData) {
+        document.getElementById('modalTitle').textContent = jobData.title;
+        document.getElementById('modalInstitution').textContent = jobData.institution;
+        
+        // Build meta information
+        let metaHTML = '';
+        metaHTML += \`<div><strong>Deadline:</strong> <span class="\${jobData.isExpired ? 'expired-text' : ''}">\${jobData.deadline}</span></div>\`;
+        
+        if (jobData.regions && jobData.regions.length > 0) {
+            metaHTML += \`<div><strong>Regions:</strong> \${jobData.regions.join(', ')}</div>\`;
+        }
+        
+        if (jobData.ranks && jobData.ranks.length > 0) {
+            metaHTML += \`<div><strong>Ranks:</strong> \${jobData.ranks.join(', ')}</div>\`;
+        }
+        
+        if (jobData.experiments && jobData.experiments.length > 0) {
+            metaHTML += \`<div><strong>Experiments:</strong> \${jobData.experiments.join(', ')}</div>\`;
+        }
+        
+        document.getElementById('modalMeta').innerHTML = metaHTML;
+        
+        // Set full description
+        const description = jobData.description || 'No description available.';
+        document.getElementById('modalDescription').innerHTML = description;
+        
+        // Build actions
+        let actionsHTML = '';
+        
+        if (jobData.inspireHepUrl) {
+            actionsHTML += \`<a href="\${jobData.inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>\`;
+        }
+        
+        if (jobData.urls && jobData.urls.length > 0) {
+            actionsHTML += \`<a href="\${jobData.urls[0]}" target="_blank" class="btn-apply">External Link</a>\`;
+        }
+        
+        if (jobData.contact_email) {
+            actionsHTML += \`<a href="mailto:\${jobData.contact_email}" class="btn-contact">Contact</a>\`;
+        }
+        
+        document.getElementById('modalActions').innerHTML = actionsHTML;
+        
+        // Show modal
+        this.modal.classList.add('show');
+        document.body.style.overflow = 'hidden';
+    }
+
+    closeModal() {
+        this.modal.classList.remove('show');
+        document.body.style.overflow = '';
     }
 
     initTheme() {

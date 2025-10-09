@@ -73,9 +73,25 @@ class HTMLGenerator {
     const postdocClass = hasPostdoc ? " postdoc" : "";
     const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
     const ranksData = job.ranks.map(rank => rank.toUpperCase()).join(',');
+    
+    // Store full job data as JSON in data attribute
+    const jobData = {
+      id: job.id,
+      title: job.title,
+      institution: job.institution,
+      deadline: deadline,
+      isExpired: isExpired,
+      regions: job.regions,
+      ranks: job.ranks,
+      experiments: job.experiments,
+      description: job.description || '',
+      urls: job.urls,
+      contact_email: job.contact_email,
+      inspireHepUrl: inspireHepUrl
+    };
 
     return `
-      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}">
+      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${JSON.stringify(jobData).replace(/'/g, "&#39;")}'>
         <div class="job-header">
           <h3 class="job-title">
             <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
@@ -131,11 +147,12 @@ class HTMLGenerator {
 
         <div class="job-actions">
           ${
-            job.urls.length > 0
+            job.description
               ? `
-            <a href="${job.urls[0]}" target="_blank" class="btn-apply">View Details</a>`
+            <button class="btn-view-full" data-job-id="${job.id}">View Full Description</button>`
               : ""
           }
+          <a href="${inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>
           ${
             job.contact_email
               ? `
