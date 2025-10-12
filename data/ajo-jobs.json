@@ -182,14 +182,6 @@
       "source": "AcademicJobsOnline"
     }
   ],
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "lastUpdated": "2025-10-12T23:23:01.146Z",
-=======
-  "lastUpdated": "2025-10-12T23:39:05.524Z",
->>>>>>> 416036e (feat: add DESY job listings with updated deadlines and new positions)
-=======
-  "lastUpdated": "2025-10-12T23:41:10.464Z",
->>>>>>> 2d3ac7a (refactor: rename jobs.json to ip-jobs.json and update GitHub workflow to include DESY jobs)
+  "lastUpdated": "2025-10-12T23:43:27.108Z",
   "totalJobs": 8
 }
