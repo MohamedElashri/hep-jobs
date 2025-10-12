@@ -2028,6 +2028,10 @@
       "updated": "2025-09-18T14:41:08.163250+00:00"
     }
   ],
+<<<<<<< HEAD:data/jobs.json
   "lastUpdated": "2025-10-12T23:23:01.139Z",
+=======
+  "lastUpdated": "2025-10-12T23:41:10.461Z",
+>>>>>>> 2d3ac7a (refactor: rename jobs.json to ip-jobs.json and update GitHub workflow to include DESY jobs):data/ip-jobs.json
   "totalJobs": 100
 }

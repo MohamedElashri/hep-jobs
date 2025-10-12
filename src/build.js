@@ -20,7 +20,7 @@ class HEPJobsTracker {
       rssUrl: "https://academicjobsonline.org/ajo?joblist-1062-0-0-0----rss--",
       dataDir: "./data",
       docsDir: "./site",
-      jobsFile: "./data/jobs.json",
+      jobsFile: "./data/ip-jobs.json",
       ajoJobsFile: "./data/ajo-jobs.json",
       desyJobsFile: "./data/desy-jobs.json",
       maxJobs: 200,
