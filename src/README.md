@@ -26,7 +26,6 @@ src/
 - Handles API connectivity testing
 - Fetches jobs from InspireHEP API
 - Processes raw job data into structured format
-- Provides mock data fallback when API is unavailable
 - Extracts job metadata (titles, institutions, deadlines, etc.)
 
 ### DataManager (`src/modules/data-manager.js`)
@@ -72,7 +71,7 @@ Both commands generate the same output in the `docs/` directory.
 
 1. **Initialize**: Create required directories and initialize modules
 2. **Test API**: Check InspireHEP API connectivity
-3. **Fetch Data**: Get new jobs from API (or use mock data if unavailable)
+3. **Fetch Data**: Get new jobs from InspireHEP API
 4. **Merge Data**: Combine new jobs with existing data
 5. **Save Data**: Store updated job data to JSON file
 6. **Generate HTML**: Process templates and create final HTML

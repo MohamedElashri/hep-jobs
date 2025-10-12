@@ -263,10 +263,7 @@ class HEPJobsTracker {
     } catch (error) {
       this.log(`Error fetching jobs: ${error.message}`, "error");
       this.log(`Error stack: ${error.stack}`, "error");
-
-      // Use mock data for testing if API fails
-      this.log("API failed, using mock data for testing...", "warning");
-      return this.generateMockJobs();
+      throw error;
     }
   }
 
@@ -648,61 +645,6 @@ class HEPJobsTracker {
 </html>`;
   }
 
-  // ============================================
-  // MOCK DATA (FOR TESTING)
-  // ============================================
-
-  generateMockJobs() {
-    this.log("Generating mock jobs for testing...", "warning");
-
-    return [
-      {
-        id: "mock-1",
-        title: "Postdoctoral Research Associate in High Energy Physics",
-        institution: "CERN",
-        deadline: "2024-12-31",
-        description:
-          "We are seeking a talented postdoctoral researcher to join our team working on LHC experiments. The successful candidate will contribute to data analysis and detector development.",
-        regions: ["Europe"],
-        ranks: ["Postdoc"],
-        experiments: ["ATLAS", "CMS"],
-        urls: ["https://jobs.cern.ch/job/12345"],
-        contact_email: "jobs@cern.ch",
-        created: "2024-07-01T10:00:00Z",
-        updated: "2024-07-15T14:30:00Z",
-      },
-      {
-        id: "mock-2",
-        title: "Assistant Professor of Theoretical Physics",
-        institution: "University of California, Berkeley",
-        deadline: "2024-11-30",
-        description:
-          "The Department of Physics seeks an assistant professor specializing in theoretical high energy physics. Research areas of interest include string theory, quantum field theory, and cosmology.",
-        regions: ["North America"],
-        ranks: ["Faculty"],
-        experiments: [],
-        urls: ["https://aprecruit.berkeley.edu/12345"],
-        contact_email: "physics-search@berkeley.edu",
-        created: "2024-06-15T09:00:00Z",
-        updated: "2024-07-01T16:20:00Z",
-      },
-      {
-        id: "mock-3",
-        title: "PhD Fellowship in Particle Physics",
-        institution: "Max Planck Institute for Physics",
-        deadline: "2024-10-15",
-        description:
-          "We offer a PhD position in experimental particle physics. The project involves analysis of data from the Belle II experiment at KEK.",
-        regions: ["Europe"],
-        ranks: ["PhD"],
-        experiments: ["Belle II"],
-        urls: ["https://www.mpp.mpg.de/jobs/phd-123"],
-        contact_email: "phd-applications@mpp.mpg.de",
-        created: "2024-05-20T11:30:00Z",
-        updated: "2024-06-10T13:45:00Z",
-      },
-    ];
-  }
 
   async build() {
     this.log("🚀 Starting HEP Jobs Tracker build process...");
@@ -822,7 +764,6 @@ class HEPJobsTracker {
       return true;
     } catch (error) {
       this.log(`⚠️  API connectivity test failed: ${error.message}`, "warning");
-      this.log("Will proceed with mock data fallback...", "warning");
       return false;
     }
   }
