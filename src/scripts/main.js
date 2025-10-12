@@ -1,10 +1,11 @@
 class JobsApp {
     constructor() {
+        // Current source ('inspirehep' or 'ajo')
+        this.currentSource = localStorage.getItem('currentSource') || 'inspirehep';
+        
         this.searchInput = document.getElementById('searchInput');
         this.filterButtons = document.querySelectorAll('.filter-btn');
         this.rankFilters = document.querySelectorAll('.rank-filter input[type="checkbox"]');
-        this.jobsContainer = document.getElementById('jobsContainer');
-        this.allJobs = Array.from(document.querySelectorAll('.job-card'));
         this.themeToggle = document.getElementById('themeToggle');
         this.modal = document.getElementById('jobModal');
         this.modalClose = document.getElementById('modalClose');
@@ -13,10 +14,16 @@ class JobsApp {
         this.previewViewFull = document.getElementById('previewViewFull');
         this.currentJobData = null;
         
+        // Navigation and views
+        this.navLinks = document.querySelectorAll('.nav-link');
+        this.inspirehepView = document.getElementById('inspirehep-view');
+        this.ajoView = document.getElementById('ajo-view');
+        
         this.initEventListeners();
         this.initTheme();
         this.initModal();
         this.initPreviewPopup();
+        this.switchSource(this.currentSource);
     }
 
     initEventListeners() {
@@ -31,6 +38,58 @@ class JobsApp {
         });
 
         this.themeToggle.addEventListener('click', () => this.toggleTheme());
+        
+        // Source navigation
+        this.navLinks.forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const source = link.getAttribute('data-source');
+                this.switchSource(source);
+            });
+        });
+    }
+
+    switchSource(source) {
+        this.currentSource = source;
+        localStorage.setItem('currentSource', source);
+        
+        // Update active navigation
+        this.navLinks.forEach(link => {
+            if (link.getAttribute('data-source') === source) {
+                link.classList.add('active');
+            } else {
+                link.classList.remove('active');
+            }
+        });
+        
+        // Switch views and hide/show rank filters
+        if (source === 'inspirehep') {
+            this.inspirehepView.classList.add('active');
+            this.ajoView.classList.remove('active');
+            document.getElementById('rankFilters').style.display = 'block';
+        } else {
+            this.ajoView.classList.add('active');
+            this.inspirehepView.classList.remove('active');
+            document.getElementById('rankFilters').style.display = 'none';
+        }
+        
+        // Get jobs from current view
+        const container = source === 'inspirehep' ? 
+            document.getElementById('jobsContainerInspireHEP') : 
+            document.getElementById('jobsContainerAJO');
+        this.allJobs = Array.from(container.querySelectorAll('.job-card'));
+        
+        // Reset filters
+        this.searchInput.value = '';
+        this.filterButtons.forEach(btn => {
+            if (btn.getAttribute('data-filter') === 'all') {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+        
+        this.filterJobs();
     }
 
     initModal() {
@@ -201,20 +260,26 @@ class JobsApp {
         // Check for saved theme preference or default to light mode
         const savedTheme = localStorage.getItem('theme') || 'light';
         this.setTheme(savedTheme);
+        
+        // Remove no-transition class and inline styles after initial render
+        setTimeout(() => {
+            document.documentElement.classList.remove('no-transition');
+            document.documentElement.style.backgroundColor = '';
+        }, 50);
     }
 
     toggleTheme() {
-        const currentTheme = document.body.classList.contains('dark') ? 'dark' : 'light';
+        const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
         const newTheme = currentTheme === 'light' ? 'dark' : 'light';
         this.setTheme(newTheme);
     }
 
     setTheme(theme) {
-        // Apply theme class to body
+        // Apply theme class to html element
         if (theme === 'dark') {
-            document.body.classList.add('dark');
+            document.documentElement.classList.add('dark');
         } else {
-            document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
         }
         
         // Save preference
@@ -239,13 +304,17 @@ class JobsApp {
     filterJobs() {
         const searchTerm = this.searchInput.value.toLowerCase();
         const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
-        const selectedRanks = Array.from(document.querySelectorAll('.rank-filter input[type="checkbox"]:checked'))
-            .map(checkbox => checkbox.value);
+        
+        // Only check rank filters for InspireHEP source
+        const selectedRanks = this.currentSource === 'inspirehep' ? 
+            Array.from(document.querySelectorAll('.rank-filter input[type="checkbox"]:checked'))
+                .map(checkbox => checkbox.value) : [];
         
         this.allJobs.forEach(job => {
             const matchesSearch = this.matchesSearchTerm(job, searchTerm);
             const matchesFilter = this.matchesFilter(job, activeFilter);
-            const matchesRank = this.matchesRankFilter(job, selectedRanks);
+            const matchesRank = this.currentSource === 'inspirehep' ? 
+                this.matchesRankFilter(job, selectedRanks) : true;
             
             if (matchesSearch && matchesFilter && matchesRank) {
                 job.classList.remove('hidden');

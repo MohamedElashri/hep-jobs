@@ -76,6 +76,23 @@
     </script>
     
     <link rel="stylesheet" href="style.css">
+    
+    <!-- Theme initialization - must run before body renders -->
+    <script>
+        (function() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            const html = document.documentElement;
+            if (savedTheme === 'dark') {
+                html.classList.add('dark');
+                html.classList.add('no-transition');
+                // Apply dark background immediately to prevent flash
+                html.style.backgroundColor = '#1a1b26';
+            } else {
+                // Apply light background immediately to prevent flash
+                html.style.backgroundColor = '#f6f8fa';
+            }
+        })();
+    </script>
 </head>
 <body>
     <header class="header">
@@ -86,11 +103,16 @@
                     <span class="theme-icon">🌙</span>
                 </button>
             </div>
-            <p class="subtitle">Latest High Energy Physics Job Opportunities</p>
+            <p class="subtitle" id="pageSubtitle">Latest High Energy Physics Job Opportunities</p>
+            <nav class="source-nav">
+                <a href="#" class="nav-link active" data-source="inspirehep">InspireHEP Jobs</a>
+                <span class="nav-separator">•</span>
+                <a href="#" class="nav-link" data-source="ajo">AcademicJobsOnline</a>
+            </nav>
             <div class="stats">
-                <span class="stat">Total Jobs: {{totalJobs}}</span>
-                <span class="stat">Active: {{activeJobs}}</span>
-                <span class="stat">Last Updated: {{lastUpdated}}</span>
+                <span class="stat" id="totalJobs">Total Jobs: {{totalJobs}}</span>
+                <span class="stat" id="activeJobs">Active: {{activeJobs}}</span>
+                <span class="stat" id="lastUpdated">Last Updated: {{lastUpdated}}</span>
             </div>
         </div>
     </header>
@@ -103,7 +125,7 @@
                 <button class="filter-btn" data-filter="active">Active Only</button>
                 <button class="filter-btn" data-filter="expired">Expired</button>
             </div>
-            <div class="rank-filters">
+            <div class="rank-filters" id="rankFilters">
                 <h4>Filter by Rank:</h4>
                 <div class="rank-filter-buttons">
                     <label class="rank-filter">
@@ -125,11 +147,21 @@
             </div>
         </div>
 
-        <div class="jobs-container" id="jobsContainer">
-            {{jobCards}}
+        <!-- InspireHEP Jobs View -->
+        <div id="inspirehep-view" class="source-view active">
+            <div class="jobs-container" id="jobsContainerInspireHEP">
+                {{inspirehepJobCards}}
+            </div>
+            {{inspirehepNoJobsMessage}}
         </div>
 
-        {{noJobsMessage}}
+        <!-- AcademicJobsOnline Jobs View -->
+        <div id="ajo-view" class="source-view">
+            <div class="jobs-container" id="jobsContainerAJO">
+                {{ajoJobCards}}
+            </div>
+            {{ajoNoJobsMessage}}
+        </div>
     </main>
 
     <footer class="footer">

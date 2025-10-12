@@ -46,13 +46,13 @@ class FileManager {
     }
   }
 
-  writeHTML(html) {
+  writeHTML(html, filename = 'index.html') {
     try {
-      const targetPath = path.join(this.config.docsDir, 'index.html');
+      const targetPath = path.join(this.config.docsDir, filename);
       fs.writeFileSync(targetPath, html);
-      this.log("HTML file written successfully", "success");
+      this.log(`HTML file ${filename} written successfully`, "success");
     } catch (error) {
-      this.log(`Error writing HTML file: ${error.message}`, "error");
+      this.log(`Error writing HTML file ${filename}: ${error.message}`, "error");
       throw error;
     }
   }

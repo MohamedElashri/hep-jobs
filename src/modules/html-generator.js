@@ -59,10 +59,27 @@ class HTMLGenerator {
     );
   }
 
+  stripHTML(htmlText) {
+    if (!htmlText) return "";
+    // Remove HTML tags and decode entities for plain text display
+    return htmlText
+      .replace(/<[^>]*>/g, ' ')  // Remove all HTML tags
+      .replace(/\s+/g, ' ')       // Collapse multiple spaces
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&#39;/g, "'")
+      .trim();
+  }
+
   truncateHTML(htmlText, maxLength, suffix = "...") {
     if (!htmlText) return "";
-    if (htmlText.length <= maxLength) return htmlText;
-    return htmlText.substring(0, maxLength - suffix.length) + suffix;
+    // Strip HTML tags first to prevent broken tag issues
+    const plainText = this.stripHTML(htmlText);
+    if (plainText.length <= maxLength) return this.escapeHtml(plainText);
+    return this.escapeHtml(plainText.substring(0, maxLength - suffix.length)) + suffix;
   }
 
   generateJobCard(job) {
@@ -71,7 +88,14 @@ class HTMLGenerator {
     const hasPostdoc = job.ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
     const cardClass = isExpired ? "job-card expired" : "job-card";
     const postdocClass = hasPostdoc ? " postdoc" : "";
-    const inspireHepUrl = `https://inspirehep.net/jobs/${job.id}`;
+    
+    // Determine job URL based on source
+    const isAJO = job.source === 'AcademicJobsOnline';
+    const jobUrl = isAJO 
+      ? (job.urls && job.urls[0] ? job.urls[0] : '#')
+      : `https://inspirehep.net/jobs/${job.id}`;
+    const jobLinkText = isAJO ? 'View on AJO' : 'View on InspireHEP';
+    
     const ranksData = job.ranks.map(rank => rank.toUpperCase()).join(',');
     
     // Store full job data as JSON in data attribute
@@ -87,14 +111,15 @@ class HTMLGenerator {
       description: job.description || '',
       urls: job.urls,
       contact_email: job.contact_email,
-      inspireHepUrl: inspireHepUrl
+      jobUrl: jobUrl,
+      source: job.source || 'InspireHEP'
     };
 
     return `
       <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${JSON.stringify(jobData).replace(/'/g, "&#39;")}'>
         <div class="job-header">
           <h3 class="job-title">
-            <a href="${inspireHepUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
+            <a href="${jobUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
           </h3>
           <div class="job-institution">${this.escapeHtml(job.institution)}</div>
         </div>
@@ -152,9 +177,9 @@ class HTMLGenerator {
             <button class="btn-view-full" data-job-id="${job.id}">View Full Description</button>`
               : ""
           }
-          <a href="${inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>
+          <a href="${jobUrl}" target="_blank" class="btn-apply">${jobLinkText}</a>
           ${
-            job.contact_email
+            job.contact_email && !isAJO
               ? `
             <a href="mailto:${job.contact_email}" class="btn-contact">Contact</a>`
               : ""
@@ -163,47 +188,60 @@ class HTMLGenerator {
       </div>`;
   }
 
-  loadTemplate() {
-    const templatePath = path.join(__dirname, '../templates/index.html');
+  loadTemplate(templateName = 'index.html') {
+    const templatePath = path.join(__dirname, '../templates', templateName);
     try {
       return fs.readFileSync(templatePath, 'utf8');
     } catch (error) {
-      this.log(`Error loading template: ${error.message}`, "error");
+      this.log(`Error loading template ${templateName}: ${error.message}`, "error");
       throw error;
     }
   }
 
-  generateHTML(jobsData) {
-    const { jobs, lastUpdated, totalJobs } = jobsData;
-    const updateTime = lastUpdated
-      ? new Date(lastUpdated).toLocaleString()
-      : "Never";
-
-    const activeJobs = jobs.filter((job) => !this.isExpired(job.deadline));
-    const expiredJobs = jobs.filter((job) => this.isExpired(job.deadline));
-
-    // Generate job cards
-    const jobCards = [
-      ...activeJobs.map((job) => this.generateJobCard(job)),
-      ...expiredJobs.map((job) => this.generateJobCard(job))
+  generateHTML(inspirehepData, ajoData) {
+    // Process InspireHEP jobs
+    const inspirehepJobs = inspirehepData.jobs || [];
+    const inspirehepActiveJobs = inspirehepJobs.filter((job) => !this.isExpired(job.deadline));
+    const inspirehepExpiredJobs = inspirehepJobs.filter((job) => this.isExpired(job.deadline));
+    const inspirehepJobCards = [
+      ...inspirehepActiveJobs.map((job) => this.generateJobCard(job)),
+      ...inspirehepExpiredJobs.map((job) => this.generateJobCard(job))
     ].join("");
-
-    // Generate no jobs message if needed
-    const noJobsMessage = jobs.length === 0 ? `
+    const inspirehepNoJobsMessage = inspirehepJobs.length === 0 ? `
+      <div class="no-jobs">
+        <h2>No jobs found</h2>
+        <p>Check back later for new opportunities!</p>
+      </div>` : "";
+    
+    // Process AJO jobs
+    const ajoJobs = ajoData.jobs || [];
+    const ajoActiveJobs = ajoJobs.filter((job) => !this.isExpired(job.deadline));
+    const ajoExpiredJobs = ajoJobs.filter((job) => this.isExpired(job.deadline));
+    const ajoJobCards = [
+      ...ajoActiveJobs.map((job) => this.generateJobCard(job)),
+      ...ajoExpiredJobs.map((job) => this.generateJobCard(job))
+    ].join("");
+    const ajoNoJobsMessage = ajoJobs.length === 0 ? `
       <div class="no-jobs">
         <h2>No jobs found</h2>
         <p>Check back later for new opportunities!</p>
       </div>` : "";
 
     // Load and process template
-    const template = this.loadTemplate();
+    const template = this.loadTemplate('index.html');
+    
+    const updateTime = inspirehepData.lastUpdated
+      ? new Date(inspirehepData.lastUpdated).toLocaleString()
+      : "Never";
     
     return template
-      .replace(/\{\{totalJobs\}\}/g, totalJobs)
-      .replace(/\{\{activeJobs\}\}/g, activeJobs.length)
+      .replace(/\{\{totalJobs\}\}/g, inspirehepData.totalJobs)
+      .replace(/\{\{activeJobs\}\}/g, inspirehepActiveJobs.length)
       .replace(/\{\{lastUpdated\}\}/g, updateTime)
-      .replace(/\{\{jobCards\}\}/g, jobCards)
-      .replace(/\{\{noJobsMessage\}\}/g, noJobsMessage);
+      .replace(/\{\{inspirehepJobCards\}\}/g, inspirehepJobCards)
+      .replace(/\{\{inspirehepNoJobsMessage\}\}/g, inspirehepNoJobsMessage)
+      .replace(/\{\{ajoJobCards\}\}/g, ajoJobCards)
+      .replace(/\{\{ajoNoJobsMessage\}\}/g, ajoNoJobsMessage);
   }
 }
 

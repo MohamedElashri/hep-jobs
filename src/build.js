@@ -7,6 +7,7 @@
  */
 
 const DataFetcher = require('./modules/data-fetcher');
+const RSSFetcher = require('./modules/rss-fetcher');
 const DataManager = require('./modules/data-manager');
 const HTMLGenerator = require('./modules/html-generator');
 const FileManager = require('./modules/file-manager');
@@ -15,16 +16,23 @@ class HEPJobsTracker {
   constructor() {
     this.config = {
       apiBase: "https://inspirehep.net/api",
+      rssUrl: "https://academicjobsonline.org/ajo?joblist-1062-0-0-0----rss--",
       dataDir: "./data",
-      docsDir: "./docs",
+      docsDir: "./site",
       jobsFile: "./data/jobs.json",
+      ajoJobsFile: "./data/ajo-jobs.json",
       maxJobs: 200,
       daysBack: 30,
     };
 
-    // Initialize modules
+    // Initialize modules for InspireHEP
     this.dataFetcher = new DataFetcher(this.config);
     this.dataManager = new DataManager(this.config);
+    
+    // Initialize modules for AcademicJobsOnline
+    this.rssFetcher = new RSSFetcher(this.config);
+    this.ajoDataManager = new DataManager({...this.config, jobsFile: this.config.ajoJobsFile});
+    
     this.htmlGenerator = new HTMLGenerator(this.config);
     this.fileManager = new FileManager(this.config);
 
@@ -39,8 +47,8 @@ class HEPJobsTracker {
     console.log(`${emoji} [${timestamp}] ${message}`);
   }
 
-  async build() {
-    this.log("🚀 Starting HEP Jobs Tracker modular build process...");
+  async buildInspireHEP() {
+    this.log("🔬 Building InspireHEP jobs page...");
 
     try {
       // Step 1: Test API connectivity first
@@ -56,9 +64,7 @@ class HEPJobsTracker {
       // Step 4: Save updated data
       this.dataManager.saveJobs(mergedJobs);
 
-      // Step 5: Generate static files
-      this.log("Generating static website files...");
-
+      // Step 5: Generate InspireHEP page
       const jobsData = {
         jobs: mergedJobs,
         lastUpdated: new Date().toISOString(),
@@ -66,25 +72,20 @@ class HEPJobsTracker {
       };
 
       // Generate HTML from template
-      const html = this.htmlGenerator.generateHTML(jobsData);
-      this.fileManager.writeHTML(html);
-
-      // Copy CSS and JavaScript assets
-      this.fileManager.copyAssets();
+      const html = this.htmlGenerator.generateHTML(jobsData, 'index.html');
+      this.fileManager.writeHTML(html, 'index.html');
 
       this.log(
-        `✨ Modular build completed successfully! Generated website with ${mergedJobs.length} jobs`,
+        `✅ InspireHEP page built successfully with ${mergedJobs.length} jobs`,
         "success"
       );
+      return true;
     } catch (error) {
-      this.log(`Build failed: ${error.message}`, "error");
-
+      this.log(`InspireHEP build failed: ${error.message}`, "error");
+      
       // Try to build with existing data as fallback
       try {
-        this.log(
-          "Attempting to build with existing data as fallback...",
-          "warning"
-        );
+        this.log("Attempting InspireHEP fallback build...", "warning");
         const existingData = this.dataManager.loadExistingJobs();
 
         if (existingData.jobs && existingData.jobs.length > 0) {
@@ -94,28 +95,198 @@ class HEPJobsTracker {
             totalJobs: existingData.totalJobs,
           };
 
-          // Generate HTML from template
-          const html = this.htmlGenerator.generateHTML(jobsData);
-          this.fileManager.writeHTML(html);
-
-          // Copy CSS and JavaScript assets
-          this.fileManager.copyAssets();
+          const html = this.htmlGenerator.generateHTML(jobsData, 'index.html');
+          this.fileManager.writeHTML(html, 'index.html');
 
           this.log(
-            `✅ Fallback build completed with ${existingData.totalJobs} existing jobs`,
+            `✅ InspireHEP fallback build completed with ${existingData.totalJobs} jobs`,
             "success"
           );
-        } else {
-          this.log("No existing data available for fallback build", "error");
-          process.exit(1);
+          return true;
         }
       } catch (fallbackError) {
-        this.log(
-          `Fallback build also failed: ${fallbackError.message}`,
-          "error"
-        );
-        process.exit(1);
+        this.log(`InspireHEP fallback build failed: ${fallbackError.message}`, "error");
       }
+      return false;
+    }
+  }
+
+  async buildAcademicJobsOnline() {
+    this.log("🎓 Building AcademicJobsOnline jobs page...");
+
+    try {
+      // Step 1: Load existing data first
+      const existingData = this.ajoDataManager.loadExistingJobs();
+      
+      // Step 2: Check if we should fetch new data (to avoid rate limiting)
+      const shouldFetch = this.shouldFetchAJO(existingData);
+      
+      let mergedJobs;
+      
+      if (shouldFetch) {
+        this.log("Fetching new AcademicJobsOnline jobs...");
+        
+        // Step 3: Test RSS connectivity
+        await this.rssFetcher.testApiConnectivity();
+
+        // Step 4: Fetch jobs from RSS
+        const newJobs = await this.rssFetcher.fetchJobs();
+
+        // Step 5: Merge with existing data and filter by age (keep last 30 days)
+        mergedJobs = this.ajoDataManager.mergeJobs(newJobs, existingData, {
+          filterByAge: true,
+          daysToKeep: 30
+        });
+
+        // Step 6: Save updated data
+        this.ajoDataManager.saveJobs(mergedJobs);
+      } else {
+        this.log("Using cached AcademicJobsOnline data (last fetch was recent)");
+        
+        // Still filter by age to remove old jobs
+        mergedJobs = this.ajoDataManager.mergeJobs([], existingData, {
+          filterByAge: true,
+          daysToKeep: 30
+        });
+        
+        // Save filtered data
+        this.ajoDataManager.saveJobs(mergedJobs);
+      }
+
+      // Step 7: Generate AcademicJobsOnline page
+      const jobsData = {
+        jobs: mergedJobs,
+        lastUpdated: new Date().toISOString(),
+        totalJobs: mergedJobs.length,
+      };
+
+      // Generate HTML from AJO template
+      const html = this.htmlGenerator.generateHTML(jobsData, 'ajo.html');
+      this.fileManager.writeHTML(html, 'ajo.html');
+
+      this.log(
+        `✅ AcademicJobsOnline page built successfully with ${mergedJobs.length} jobs`,
+        "success"
+      );
+      return true;
+    } catch (error) {
+      this.log(`AcademicJobsOnline build failed: ${error.message}`, "error");
+      
+      // Try to build with existing data as fallback
+      try {
+        this.log("Attempting AcademicJobsOnline fallback build...", "warning");
+        const existingData = this.ajoDataManager.loadExistingJobs();
+
+        if (existingData.jobs && existingData.jobs.length > 0) {
+          // Filter old jobs even in fallback
+          const filteredJobs = existingData.jobs.filter((job) => {
+            const cutoffDate = new Date();
+            cutoffDate.setDate(cutoffDate.getDate() - 30);
+            return new Date(job.created) >= cutoffDate;
+          });
+
+          const jobsData = {
+            jobs: filteredJobs,
+            lastUpdated: existingData.lastUpdated,
+            totalJobs: filteredJobs.length,
+          };
+
+          const html = this.htmlGenerator.generateHTML(jobsData, 'ajo.html');
+          this.fileManager.writeHTML(html, 'ajo.html');
+
+          this.log(
+            `✅ AcademicJobsOnline fallback build completed with ${filteredJobs.length} jobs`,
+            "success"
+          );
+          return true;
+        }
+      } catch (fallbackError) {
+        this.log(`AcademicJobsOnline fallback build failed: ${fallbackError.message}`, "error");
+      }
+      return false;
+    }
+  }
+
+  shouldFetchAJO(existingData) {
+    // Don't fetch if we have no last update (first run)
+    if (!existingData.lastUpdated) {
+      return true;
+    }
+
+    // Fetch if last update was more than 24 hours ago
+    const lastUpdate = new Date(existingData.lastUpdated);
+    const hoursSinceUpdate = (new Date() - lastUpdate) / (1000 * 60 * 60);
+    
+    if (hoursSinceUpdate >= 24) {
+      this.log(`Last AJO fetch was ${hoursSinceUpdate.toFixed(1)} hours ago, fetching new data`);
+      return true;
+    }
+    
+    this.log(`Last AJO fetch was ${hoursSinceUpdate.toFixed(1)} hours ago, using cached data`);
+    return false;
+  }
+
+  async build() {
+    this.log("🚀 Starting HEP Jobs Tracker single-page build process...");
+
+    try {
+      // Fetch InspireHEP data
+      this.log("🔬 Fetching InspireHEP jobs...");
+      await this.dataFetcher.testApiConnectivity();
+      const inspireNewJobs = await this.dataFetcher.fetchJobs();
+      const inspireExistingData = this.dataManager.loadExistingJobs();
+      const inspireMergedJobs = this.dataManager.mergeJobs(inspireNewJobs, inspireExistingData);
+      this.dataManager.saveJobs(inspireMergedJobs);
+      
+      const inspirehepData = {
+        jobs: inspireMergedJobs,
+        lastUpdated: new Date().toISOString(),
+        totalJobs: inspireMergedJobs.length,
+      };
+      
+      // Fetch AJO data
+      this.log("🎓 Fetching AcademicJobsOnline jobs...");
+      const ajoExistingData = this.ajoDataManager.loadExistingJobs();
+      const shouldFetch = this.shouldFetchAJO(ajoExistingData);
+      
+      let ajoMergedJobs;
+      if (shouldFetch) {
+        await this.rssFetcher.testApiConnectivity();
+        const ajoNewJobs = await this.rssFetcher.fetchJobs();
+        ajoMergedJobs = this.ajoDataManager.mergeJobs(ajoNewJobs, ajoExistingData, {
+          filterByAge: true,
+          daysToKeep: 30
+        });
+        this.ajoDataManager.saveJobs(ajoMergedJobs);
+      } else {
+        this.log("Using cached AcademicJobsOnline data");
+        ajoMergedJobs = this.ajoDataManager.mergeJobs([], ajoExistingData, {
+          filterByAge: true,
+          daysToKeep: 30
+        });
+        this.ajoDataManager.saveJobs(ajoMergedJobs);
+      }
+      
+      const ajoData = {
+        jobs: ajoMergedJobs,
+        lastUpdated: new Date().toISOString(),
+        totalJobs: ajoMergedJobs.length,
+      };
+      
+      // Generate single HTML with both sources
+      this.log("Generating single-page website with both sources...");
+      const html = this.htmlGenerator.generateHTML(inspirehepData, ajoData);
+      this.fileManager.writeHTML(html, 'index.html');
+      
+      // Copy assets
+      this.fileManager.copyAssets();
+      
+      this.log(`✨ Single-page build completed! InspireHEP: ${inspireMergedJobs.length} jobs, AJO: ${ajoMergedJobs.length} jobs`, "success");
+      
+    } catch (error) {
+      this.log(`Build failed: ${error.message}`, "error");
+      this.log(`Stack: ${error.stack}`, "error");
+      process.exit(1);
     }
   }
 }
