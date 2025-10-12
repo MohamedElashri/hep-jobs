@@ -175,25 +175,45 @@ class DESYFetcher {
   }
 
   extractJobDescription(html) {
-    // Try to find the main content area with job description
-    const patterns = [
-      /<div[^>]*class=["'][^"']*content[^"']*["'][^>]*>(.*?)<\/div>/is,
-      /<div[^>]*class=["'][^"']*description[^"']*["'][^>]*>(.*?)<\/div>/is,
-      /<div[^>]*id=["']content["'][^>]*>(.*?)<\/div>/is,
-      /<article[^>]*>(.*?)<\/article>/is
-    ];
-
-    for (const pattern of patterns) {
-      const match = html.match(pattern);
-      if (match && match[1].trim().length > 100) {
-        return match[1].trim();
-      }
+    let content = html;
+    
+    // Remove breadcrumb container that appears at the beginning
+    content = content.replace(/<div[^>]*class=["']container["'][^>]*>\s*<ol[^>]*class=["']breadcrumb["'][^>]*>.*?<\/ol>\s*<\/div>/gis, '');
+    
+    // Remove section titles
+    content = content.replace(/<section[^>]*class=["']titles["'][^>]*>.*?<\/section>/gis, '');
+    
+    // Extract the article/joboffer content
+    const articleMatch = content.match(/<article[^>]*class=["']joboffer["'][^>]*>(.*?)<\/article>/is);
+    
+    if (articleMatch) {
+      let articleContent = articleMatch[1];
+      
+      // Remove image headers
+      articleContent = articleContent.replace(/<div[^>]*class=["']image_header[^"']*["'][^>]*>.*?<\/div>/gis, '');
+      
+      // Remove redundant location paragraph (e.g., "For our location in Hamburg we are seeking:")
+      articleContent = articleContent.replace(/<p[^>]*class=["']location["'][^>]*>.*?<\/p>/gis, '');
+      
+      // Remove redundant job title h1 (already shown in the card title)
+      articleContent = articleContent.replace(/<h1[^>]*class=["']job_title["'][^>]*>.*?<\/h1>/gis, '');
+      
+      // Remove title_additional (contains metadata already shown)
+      articleContent = articleContent.replace(/<p[^>]*class=["']title_additional["'][^>]*>.*?<\/p>/gis, '');
+      
+      // Remove only the standard DESY intro span (but keep the job-specific desygroup span)
+      articleContent = articleContent.replace(/<span[^>]*class=["']desy description["'][^>]*data-lang_key=["']LgJobOffer\.desy\.intro["'][^>]*>.*?<\/span>\s*<br\s*\/?>\s*<br\s*\/?>/gis, '');
+      
+      // Also remove the standalone DESY boilerplate text if it appears
+      articleContent = articleContent.replace(/<span[^>]*class=["']desy description["'][^>]*>DESY, with more than.*?young scientists\.<\/span>\s*<br\s*\/?>\s*<br\s*\/?>/gis, '');
+      
+      return articleContent.trim();
     }
-
-    // Fallback: extract text after h1
-    const h1Match = html.match(/<h1[^>]*>.*?<\/h1>(.*?)(?:<h2|<div class=["']footer|$)/is);
-    if (h1Match) {
-      return h1Match[1].trim();
+    
+    // Fallback: Try to extract from core section
+    const coreMatch = content.match(/<section[^>]*class=["']core["'][^>]*>(.*?)<\/section>/is);
+    if (coreMatch) {
+      return coreMatch[1].trim();
     }
 
     return '';
