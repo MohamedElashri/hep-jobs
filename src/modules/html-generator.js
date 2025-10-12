@@ -180,7 +180,7 @@ class HTMLGenerator {
           }
           <a href="${jobUrl}" target="_blank" class="btn-apply">${jobLinkText}</a>
           ${
-            job.contact_email && !isAJO
+            job.contact_email && !isAJO && !isDESY
               ? `
             <a href="mailto:${job.contact_email}" class="btn-contact">Contact</a>`
               : ""
