@@ -613,8 +613,8 @@ class HEPJobsTracker {
 
     <footer class="footer">
         <div class="container">
-            <p>Data sourced from <a href="https://inspirehep.net" target="_blank">InspireHEP</a></p>
-            <p>Updated automatically daily via GitHub Actions</p>
+            <p>Data sourced from <a href="https://inspirehep.net" target="_blank">InspireHEP</a> • Updated daily</p>
+            <p>&copy; 2025 <a href="https://melashri.net" target="_blank">Mohamed Elashri</a></p>
         </div>
     </footer>
 
