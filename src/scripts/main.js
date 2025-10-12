@@ -204,13 +204,20 @@ class JobsApp {
     }
 
     toggleTheme() {
-        const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+        const currentTheme = document.body.classList.contains('dark') ? 'dark' : 'light';
         const newTheme = currentTheme === 'light' ? 'dark' : 'light';
         this.setTheme(newTheme);
     }
 
     setTheme(theme) {
-        document.documentElement.setAttribute('data-theme', theme);
+        // Apply theme class to body
+        if (theme === 'dark') {
+            document.body.classList.add('dark');
+        } else {
+            document.body.classList.remove('dark');
+        }
+        
+        // Save preference
         localStorage.setItem('theme', theme);
         
         // Update theme toggle icon

@@ -17,24 +17,25 @@
     --success-color: #1a7f37;
 }
 
-[data-theme="dark"] {
-    /* Dark theme colors - Dracula palette */
-    --bg-primary: #282a36;
-    --bg-secondary: #44475a;
-    --bg-accent: rgba(139, 233, 253, 0.15);
-    --text-primary: #f8f8f2;
-    --text-secondary: #6272a4;
-    --text-accent: #ff5555;
-    --border-color: #6272a4;
-    --shadow-color: rgba(0, 0, 0, 0.3);
-    --shadow-hover: rgba(0, 0, 0, 0.5);
-    --gradient-start: #bd93f9;
-    --gradient-end: #ff79c6;
-    --card-border: #8be9fd;
-    --expired-border: #ff5555;
-    --expired-text: #ff5555;
-    --success-color: #50fa7b;
+.dark {
+    /* Dark theme colors - Tokyo Night inspired, WCAG AA compliant */
+    --bg-primary: #1a1b26;
+    --bg-secondary: #24283b;
+    --bg-accent: rgba(122, 162, 247, 0.15);
+    --text-primary: #c0caf5;
+    --text-secondary: #9aa5ce;
+    --text-accent: #7aa2f7;
+    --border-color: #3b4261;
+    --shadow-color: rgba(0, 0, 0, 0.4);
+    --shadow-hover: rgba(0, 0, 0, 0.6);
+    --gradient-start: #7aa2f7;
+    --gradient-end: #bb9af7;
+    --card-border: #7aa2f7;
+    --expired-border: #f7768e;
+    --expired-text: #f7768e;
+    --success-color: #9ece6a;
 }
+
 
 * {
     margin: 0;
@@ -95,6 +96,7 @@ body {
     cursor: pointer;
     transition: all 0.3s ease;
     font-size: 1.5rem;
+    color: white;
 }
 
 .theme-toggle:hover {
