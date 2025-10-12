@@ -127,9 +127,12 @@ The build system uses the same configuration as before:
 ```javascript
 this.config = {
   apiBase: "https://inspirehep.net/api",
+  rssUrl: "https://academicjobsonline.org/ajo?joblist-1062-0-0-0----rss--",
   dataDir: "./data",
-  docsDir: "./docs",
-  jobsFile: "./data/jobs.json",
+  docsDir: "./site",
+  jobsFile: "./data/ip-jobs.json",
+  ajoJobsFile: "./data/ajo-jobs.json",
+  desyJobsFile: "./data/desy-jobs.json",
   maxJobs: 200,
   daysBack: 30,
 };

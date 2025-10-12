@@ -8,6 +8,7 @@
 
 const DataFetcher = require('./modules/data-fetcher');
 const RSSFetcher = require('./modules/rss-fetcher');
+const DESYFetcher = require('./modules/desy-fetcher');
 const DataManager = require('./modules/data-manager');
 const HTMLGenerator = require('./modules/html-generator');
 const FileManager = require('./modules/file-manager');
@@ -21,6 +22,7 @@ class HEPJobsTracker {
       docsDir: "./site",
       jobsFile: "./data/jobs.json",
       ajoJobsFile: "./data/ajo-jobs.json",
+      desyJobsFile: "./data/desy-jobs.json",
       maxJobs: 200,
       daysBack: 30,
     };
@@ -32,6 +34,10 @@ class HEPJobsTracker {
     // Initialize modules for AcademicJobsOnline
     this.rssFetcher = new RSSFetcher(this.config);
     this.ajoDataManager = new DataManager({...this.config, jobsFile: this.config.ajoJobsFile});
+    
+    // Initialize modules for DESY
+    this.desyFetcher = new DESYFetcher(this.config);
+    this.desyDataManager = new DataManager({...this.config, jobsFile: this.config.desyJobsFile});
     
     this.htmlGenerator = new HTMLGenerator(this.config);
     this.fileManager = new FileManager(this.config);
@@ -226,6 +232,25 @@ class HEPJobsTracker {
     return false;
   }
 
+  shouldFetchDESY(existingData) {
+    // Don't fetch if we have no last update (first run)
+    if (!existingData.lastUpdated) {
+      return true;
+    }
+
+    // Fetch if last update was more than 24 hours ago
+    const lastUpdate = new Date(existingData.lastUpdated);
+    const hoursSinceUpdate = (new Date() - lastUpdate) / (1000 * 60 * 60);
+    
+    if (hoursSinceUpdate >= 24) {
+      this.log(`Last DESY fetch was ${hoursSinceUpdate.toFixed(1)} hours ago, fetching new data`);
+      return true;
+    }
+    
+    this.log(`Last DESY fetch was ${hoursSinceUpdate.toFixed(1)} hours ago, using cached data`);
+    return false;
+  }
+
   async build() {
     this.log("🚀 Starting HEP Jobs Tracker single-page build process...");
 
@@ -247,10 +272,10 @@ class HEPJobsTracker {
       // Fetch AJO data
       this.log("🎓 Fetching AcademicJobsOnline jobs...");
       const ajoExistingData = this.ajoDataManager.loadExistingJobs();
-      const shouldFetch = this.shouldFetchAJO(ajoExistingData);
+      const shouldFetchAJO = this.shouldFetchAJO(ajoExistingData);
       
       let ajoMergedJobs;
-      if (shouldFetch) {
+      if (shouldFetchAJO) {
         await this.rssFetcher.testApiConnectivity();
         const ajoNewJobs = await this.rssFetcher.fetchJobs();
         ajoMergedJobs = this.ajoDataManager.mergeJobs(ajoNewJobs, ajoExistingData, {
@@ -273,15 +298,44 @@ class HEPJobsTracker {
         totalJobs: ajoMergedJobs.length,
       };
       
-      // Generate single HTML with both sources
-      this.log("Generating single-page website with both sources...");
-      const html = this.htmlGenerator.generateHTML(inspirehepData, ajoData);
+      // Fetch DESY data
+      this.log("🔬 Fetching DESY jobs...");
+      const desyExistingData = this.desyDataManager.loadExistingJobs();
+      const shouldFetchDESY = this.shouldFetchDESY(desyExistingData);
+      
+      let desyMergedJobs;
+      if (shouldFetchDESY) {
+        await this.desyFetcher.testApiConnectivity();
+        const desyNewJobs = await this.desyFetcher.fetchJobs();
+        desyMergedJobs = this.desyDataManager.mergeJobs(desyNewJobs, desyExistingData, {
+          filterByAge: true,
+          daysToKeep: 60
+        });
+        this.desyDataManager.saveJobs(desyMergedJobs);
+      } else {
+        this.log("Using cached DESY data");
+        desyMergedJobs = this.desyDataManager.mergeJobs([], desyExistingData, {
+          filterByAge: true,
+          daysToKeep: 60
+        });
+        this.desyDataManager.saveJobs(desyMergedJobs);
+      }
+      
+      const desyData = {
+        jobs: desyMergedJobs,
+        lastUpdated: new Date().toISOString(),
+        totalJobs: desyMergedJobs.length,
+      };
+      
+      // Generate single HTML with all three sources
+      this.log("Generating single-page website with all sources...");
+      const html = this.htmlGenerator.generateHTML(inspirehepData, ajoData, desyData);
       this.fileManager.writeHTML(html, 'index.html');
       
       // Copy assets
       this.fileManager.copyAssets();
       
-      this.log(`✨ Single-page build completed! InspireHEP: ${inspireMergedJobs.length} jobs, AJO: ${ajoMergedJobs.length} jobs`, "success");
+      this.log(`✨ Single-page build completed! InspireHEP: ${inspireMergedJobs.length} jobs, AJO: ${ajoMergedJobs.length} jobs, DESY: ${desyMergedJobs.length} jobs`, "success");
       
     } catch (error) {
       this.log(`Build failed: ${error.message}`, "error");

@@ -1,6 +1,6 @@
 class JobsApp {
     constructor() {
-        // Current source ('inspirehep' or 'ajo')
+        // Current source ('inspirehep', 'ajo', or 'desy')
         this.currentSource = localStorage.getItem('currentSource') || 'inspirehep';
         
         this.searchInput = document.getElementById('searchInput');
@@ -18,6 +18,7 @@ class JobsApp {
         this.navLinks = document.querySelectorAll('.nav-link');
         this.inspirehepView = document.getElementById('inspirehep-view');
         this.ajoView = document.getElementById('ajo-view');
+        this.desyView = document.getElementById('desy-view');
         
         this.initEventListeners();
         this.initTheme();
@@ -66,17 +67,29 @@ class JobsApp {
         if (source === 'inspirehep') {
             this.inspirehepView.classList.add('active');
             this.ajoView.classList.remove('active');
+            this.desyView.classList.remove('active');
             document.getElementById('rankFilters').style.display = 'block';
-        } else {
+        } else if (source === 'ajo') {
             this.ajoView.classList.add('active');
             this.inspirehepView.classList.remove('active');
+            this.desyView.classList.remove('active');
+            document.getElementById('rankFilters').style.display = 'none';
+        } else if (source === 'desy') {
+            this.desyView.classList.add('active');
+            this.inspirehepView.classList.remove('active');
+            this.ajoView.classList.remove('active');
             document.getElementById('rankFilters').style.display = 'none';
         }
         
         // Get jobs from current view
-        const container = source === 'inspirehep' ? 
-            document.getElementById('jobsContainerInspireHEP') : 
-            document.getElementById('jobsContainerAJO');
+        let container;
+        if (source === 'inspirehep') {
+            container = document.getElementById('jobsContainerInspireHEP');
+        } else if (source === 'ajo') {
+            container = document.getElementById('jobsContainerAJO');
+        } else {
+            container = document.getElementById('jobsContainerDESY');
+        }
         this.allJobs = Array.from(container.querySelectorAll('.job-card'));
         
         // Reset filters
@@ -130,11 +143,14 @@ class JobsApp {
         let metaHTML = '';
         metaHTML += `<div><strong>Deadline:</strong> <span class="${jobData.isExpired ? 'expired-text' : ''}">${jobData.deadline}</span></div>`;
         
-        if (jobData.regions && jobData.regions.length > 0) {
+        // Skip regions and ranks for DESY jobs
+        const isDESY = jobData.source === 'DESY';
+        
+        if (!isDESY && jobData.regions && jobData.regions.length > 0) {
             metaHTML += `<div><strong>Regions:</strong> ${jobData.regions.join(', ')}</div>`;
         }
         
-        if (jobData.ranks && jobData.ranks.length > 0) {
+        if (!isDESY && jobData.ranks && jobData.ranks.length > 0) {
             metaHTML += `<div><strong>Ranks:</strong> ${jobData.ranks.join(', ')}</div>`;
         }
         
@@ -151,11 +167,14 @@ class JobsApp {
         // Build actions
         let actionsHTML = '';
         
-        if (jobData.inspireHepUrl) {
+        if (jobData.jobUrl) {
+            const linkText = jobData.source === 'DESY' ? 'View on DESY' : 
+                           jobData.source === 'AcademicJobsOnline' ? 'View on AJO' : 
+                           'View on InspireHEP';
+            actionsHTML += `<a href="${jobData.jobUrl}" target="_blank" class="btn-apply">${linkText}</a>`;
+        } else if (jobData.inspireHepUrl) {
             actionsHTML += `<a href="${jobData.inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>`;
-        }
-        
-        if (jobData.urls && jobData.urls.length > 0) {
+        } else if (jobData.urls && jobData.urls.length > 0) {
             actionsHTML += `<a href="${jobData.urls[0]}" target="_blank" class="btn-apply">External Link</a>`;
         }
         

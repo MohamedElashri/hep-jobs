@@ -48,8 +48,9 @@ This will:
 │   └── build.js          # Main build orchestrator
 ├── site/                  # Generated static site (GitHub Pages)
 ├── data/                  # Job data storage
-│   ├── jobs.json         # InspireHEP jobs
-│   └── ajo-jobs.json     # AcademicJobsOnline jobs
+│   ├── ip-jobs.json      # InspireHEP jobs
+│   ├── ajo-jobs.json     # AcademicJobsOnline jobs
+│   └── desy-jobs.json    # DESY jobs
 └── build-modular.js      # Build entry point
 ```
 

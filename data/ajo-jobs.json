@@ -182,6 +182,10 @@
       "source": "AcademicJobsOnline"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-10-12T23:23:01.146Z",
+=======
+  "lastUpdated": "2025-10-12T23:39:05.524Z",
+>>>>>>> 416036e (feat: add DESY job listings with updated deadlines and new positions)
   "totalJobs": 8
 }
