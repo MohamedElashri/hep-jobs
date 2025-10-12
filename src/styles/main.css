@@ -36,6 +36,28 @@
     --success-color: #9ece6a;
 }
 
+/* Dark mode header override */
+.dark .header {
+    background: linear-gradient(135deg, #16161e 0%, #1a1b26 50%, #1f2335 100%);
+    border-bottom: 1px solid #3b4261;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.dark .theme-toggle {
+    background: rgba(122, 162, 247, 0.2);
+    border-color: rgba(122, 162, 247, 0.4);
+}
+
+.dark .theme-toggle:hover {
+    background: rgba(122, 162, 247, 0.3);
+    border-color: rgba(122, 162, 247, 0.6);
+}
+
+.dark .stat {
+    background: rgba(122, 162, 247, 0.15);
+    border: 1px solid rgba(122, 162, 247, 0.3);
+}
+
 
 * {
     margin: 0;
