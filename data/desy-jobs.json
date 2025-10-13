@@ -21,12 +21,12 @@
       "location": "of DESY has a strong focus on astroparticle and particle physics (gamma-ray and neutrino astronomy, and collider particle physics)",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:18.406Z",
-      "updated": "2025-10-13T00:03:18.406Z",
+      "created": "2025-10-13T00:07:37.313Z",
+      "updated": "2025-10-13T00:07:37.313Z",
       "source": "DESY"
     },
     {
-      "id": "desy-1760313797487",
+      "id": "desy-1760314056833",
       "title": "DESY-Fellowships in Photon Science",
       "institution": "DESY (Deutsches Elektronen-Synchrotron)",
       "deadline": "2026-01-01",
@@ -48,12 +48,12 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:17.487Z",
-      "updated": "2025-10-13T00:03:17.487Z",
+      "created": "2025-10-13T00:07:36.834Z",
+      "updated": "2025-10-13T00:07:36.834Z",
       "source": "DESY"
     },
     {
-      "id": "desy-1760313796621",
+      "id": "desy-1760314056369",
       "title": "Scientific researcher for the development of high frequency synchronization systems",
       "institution": "DESY (Deutsches Elektronen-Synchrotron)",
       "deadline": "2025-12-31",
@@ -78,8 +78,8 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:16.621Z",
-      "updated": "2025-10-13T00:03:16.621Z",
+      "created": "2025-10-13T00:07:36.370Z",
+      "updated": "2025-10-13T00:07:36.370Z",
       "source": "DESY"
     },
     {
@@ -104,8 +104,8 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:15.824Z",
-      "updated": "2025-10-13T00:03:15.824Z",
+      "created": "2025-10-13T00:07:35.890Z",
+      "updated": "2025-10-13T00:07:35.890Z",
       "source": "DESY"
     },
     {
@@ -130,8 +130,8 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:15.018Z",
-      "updated": "2025-10-13T00:03:15.018Z",
+      "created": "2025-10-13T00:07:35.275Z",
+      "updated": "2025-10-13T00:07:35.275Z",
       "source": "DESY"
     },
     {
@@ -158,8 +158,8 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:14.208Z",
-      "updated": "2025-10-13T00:03:14.208Z",
+      "created": "2025-10-13T00:07:34.659Z",
+      "updated": "2025-10-13T00:07:34.659Z",
       "source": "DESY"
     },
     {
@@ -182,8 +182,8 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:13.284Z",
-      "updated": "2025-10-13T00:03:13.284Z",
+      "created": "2025-10-13T00:07:34.043Z",
+      "updated": "2025-10-13T00:07:34.043Z",
       "source": "DESY"
     },
     {
@@ -209,15 +209,11 @@
       "location": "Hamburg, Germany",
       "occupationalGroup": "Science",
       "employmentType": null,
-      "created": "2025-10-13T00:03:13.238Z",
-      "updated": "2025-10-13T00:03:13.238Z",
+      "created": "2025-10-13T00:07:33.564Z",
+      "updated": "2025-10-13T00:07:33.564Z",
       "source": "DESY"
     }
   ],
-<<<<<<< HEAD
-  "lastUpdated": "2025-10-12T23:59:39.329Z",
-=======
-  "lastUpdated": "2025-10-13T00:03:18.407Z",
->>>>>>> 461506f (chore: update job timestamps and remove JUNIOR rank from listings)
+  "lastUpdated": "2025-10-13T00:07:37.313Z",
   "totalJobs": 8
 }
