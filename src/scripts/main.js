@@ -105,6 +105,9 @@ class JobsApp {
         }
         this.allJobs = Array.from(container.querySelectorAll('.job-card'));
         
+        // Update statistics for current view
+        this.updateStats();
+        
         // Reset filters
         this.searchInput.value = '';
         this.filterButtons.forEach(btn => {
@@ -116,6 +119,14 @@ class JobsApp {
         });
         
         this.filterJobs();
+    }
+
+    updateStats() {
+        const totalJobs = this.allJobs.length;
+        const activeJobs = this.allJobs.filter(job => !job.classList.contains('expired')).length;
+        
+        document.getElementById('totalJobs').textContent = `Total Jobs: ${totalJobs}`;
+        document.getElementById('activeJobs').textContent = `Active: ${activeJobs}`;
     }
 
     populateAllView() {

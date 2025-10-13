@@ -1,7 +1,7 @@
 class JobsApp {
     constructor() {
-        // Current source ('inspirehep', 'ajo', or 'desy')
-        this.currentSource = localStorage.getItem('currentSource') || 'inspirehep';
+        // Current source ('all', 'inspirehep', 'ajo', or 'desy')
+        this.currentSource = localStorage.getItem('currentSource') || 'all';
         
         this.searchInput = document.getElementById('searchInput');
         this.filterButtons = document.querySelectorAll('.filter-btn');
@@ -16,6 +16,7 @@ class JobsApp {
         
         // Navigation and views
         this.navLinks = document.querySelectorAll('.nav-link');
+        this.allView = document.getElementById('all-view');
         this.inspirehepView = document.getElementById('inspirehep-view');
         this.ajoView = document.getElementById('ajo-view');
         this.desyView = document.getElementById('desy-view');
@@ -64,17 +65,27 @@ class JobsApp {
         });
         
         // Switch views and hide/show rank filters
-        if (source === 'inspirehep') {
+        if (source === 'all') {
+            this.allView.classList.add('active');
+            this.inspirehepView.classList.remove('active');
+            this.ajoView.classList.remove('active');
+            this.desyView.classList.remove('active');
+            document.getElementById('rankFilters').style.display = 'none';
+            this.populateAllView();
+        } else if (source === 'inspirehep') {
+            this.allView.classList.remove('active');
             this.inspirehepView.classList.add('active');
             this.ajoView.classList.remove('active');
             this.desyView.classList.remove('active');
             document.getElementById('rankFilters').style.display = 'block';
         } else if (source === 'ajo') {
+            this.allView.classList.remove('active');
             this.ajoView.classList.add('active');
             this.inspirehepView.classList.remove('active');
             this.desyView.classList.remove('active');
             document.getElementById('rankFilters').style.display = 'none';
         } else if (source === 'desy') {
+            this.allView.classList.remove('active');
             this.desyView.classList.add('active');
             this.inspirehepView.classList.remove('active');
             this.ajoView.classList.remove('active');
@@ -83,7 +94,9 @@ class JobsApp {
         
         // Get jobs from current view
         let container;
-        if (source === 'inspirehep') {
+        if (source === 'all') {
+            container = document.getElementById('jobsContainerAll');
+        } else if (source === 'inspirehep') {
             container = document.getElementById('jobsContainerInspireHEP');
         } else if (source === 'ajo') {
             container = document.getElementById('jobsContainerAJO');
@@ -91,6 +104,9 @@ class JobsApp {
             container = document.getElementById('jobsContainerDESY');
         }
         this.allJobs = Array.from(container.querySelectorAll('.job-card'));
+        
+        // Update statistics for current view
+        this.updateStats();
         
         // Reset filters
         this.searchInput.value = '';
@@ -103,6 +119,71 @@ class JobsApp {
         });
         
         this.filterJobs();
+    }
+
+    updateStats() {
+        const totalJobs = this.allJobs.length;
+        const activeJobs = this.allJobs.filter(job => !job.classList.contains('expired')).length;
+        
+        document.getElementById('totalJobs').textContent = `Total Jobs: ${totalJobs}`;
+        document.getElementById('activeJobs').textContent = `Active: ${activeJobs}`;
+    }
+
+    populateAllView() {
+        const allContainer = document.getElementById('jobsContainerAll');
+        const inspirehepContainer = document.getElementById('jobsContainerInspireHEP');
+        const ajoContainer = document.getElementById('jobsContainerAJO');
+        const desyContainer = document.getElementById('jobsContainerDESY');
+        
+        // Clear the all container
+        allContainer.innerHTML = '';
+        
+        // Clone and add all jobs from each source
+        const allJobs = [];
+        
+        // Get InspireHEP jobs
+        const inspirehepJobs = Array.from(inspirehepContainer.querySelectorAll('.job-card'));
+        inspirehepJobs.forEach(job => {
+            const clonedJob = job.cloneNode(true);
+            allJobs.push(clonedJob);
+        });
+        
+        // Get AJO jobs
+        const ajoJobs = Array.from(ajoContainer.querySelectorAll('.job-card'));
+        ajoJobs.forEach(job => {
+            const clonedJob = job.cloneNode(true);
+            allJobs.push(clonedJob);
+        });
+        
+        // Get DESY jobs
+        const desyJobs = Array.from(desyContainer.querySelectorAll('.job-card'));
+        desyJobs.forEach(job => {
+            const clonedJob = job.cloneNode(true);
+            allJobs.push(clonedJob);
+        });
+        
+        // Sort all jobs by deadline (non-expired first, then by date)
+        allJobs.sort((a, b) => {
+            const aExpired = a.classList.contains('expired');
+            const bExpired = b.classList.contains('expired');
+            
+            if (aExpired !== bExpired) {
+                return aExpired ? 1 : -1;
+            }
+            
+            // If both expired or both active, sort by deadline
+            const aData = JSON.parse(a.getAttribute('data-job'));
+            const bData = JSON.parse(b.getAttribute('data-job'));
+            const aDeadline = new Date(aData.deadline);
+            const bDeadline = new Date(bData.deadline);
+            
+            return aDeadline - bDeadline;
+        });
+        
+        // Add sorted jobs to container
+        allJobs.forEach(job => {
+            allContainer.appendChild(job);
+        });
     }
 
     initModal() {

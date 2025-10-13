@@ -2028,6 +2028,10 @@
       "updated": "2025-09-18T14:41:08.163250+00:00"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-10-13T00:22:38.256Z",
+=======
+  "lastUpdated": "2025-10-13T00:28:23.256Z",
+>>>>>>> 9c49ba2 (feat: add unified all jobs view with combined sources and dynamic stats)
   "totalJobs": 100
 }

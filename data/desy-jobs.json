@@ -214,6 +214,10 @@
       "source": "DESY"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-10-13T00:22:38.273Z",
+=======
+  "lastUpdated": "2025-10-13T00:28:23.262Z",
+>>>>>>> 9c49ba2 (feat: add unified all jobs view with combined sources and dynamic stats)
   "totalJobs": 8
 }
