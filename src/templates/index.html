@@ -105,7 +105,9 @@
             </div>
             <p class="subtitle" id="pageSubtitle">Latest High Energy Physics Job Opportunities</p>
             <nav class="source-nav">
-                <a href="#" class="nav-link active" data-source="inspirehep">InspireHEP Jobs</a>
+                <a href="#" class="nav-link active" data-source="all">All Jobs</a>
+                <span class="nav-separator">•</span>
+                <a href="#" class="nav-link" data-source="inspirehep">InspireHEP Jobs</a>
                 <span class="nav-separator">•</span>
                 <a href="#" class="nav-link" data-source="ajo">AcademicJobsOnline</a>
                 <span class="nav-separator">•</span>
@@ -149,8 +151,15 @@
             </div>
         </div>
 
+        <!-- All Jobs View (Unified) -->
+        <div id="all-view" class="source-view active">
+            <div class="jobs-container" id="jobsContainerAll">
+                <!-- Jobs from all sources will be populated here -->
+            </div>
+        </div>
+
         <!-- InspireHEP Jobs View -->
-        <div id="inspirehep-view" class="source-view active">
+        <div id="inspirehep-view" class="source-view">
             <div class="jobs-container" id="jobsContainerInspireHEP">
                 {{inspirehepJobCards}}
             </div>
