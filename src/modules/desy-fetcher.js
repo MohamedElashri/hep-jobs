@@ -175,48 +175,36 @@ class DESYFetcher {
   }
 
   extractJobDescription(html) {
-    let content = html;
+    // Extract only the article/joboffer content first
+    const articleMatch = html.match(/<article[^>]*class=["']joboffer["'][^>]*>(.*?)<\/article>/is);
     
-    // Remove breadcrumb container that appears at the beginning
-    content = content.replace(/<div[^>]*class=["']container["'][^>]*>\s*<ol[^>]*class=["']breadcrumb["'][^>]*>.*?<\/ol>\s*<\/div>/gis, '');
-    
-    // Remove section titles
-    content = content.replace(/<section[^>]*class=["']titles["'][^>]*>.*?<\/section>/gis, '');
-    
-    // Extract the article/joboffer content
-    const articleMatch = content.match(/<article[^>]*class=["']joboffer["'][^>]*>(.*?)<\/article>/is);
-    
-    if (articleMatch) {
-      let articleContent = articleMatch[1];
-      
-      // Remove image headers
-      articleContent = articleContent.replace(/<div[^>]*class=["']image_header[^"']*["'][^>]*>.*?<\/div>/gis, '');
-      
-      // Remove redundant location paragraph (e.g., "For our location in Hamburg we are seeking:")
-      articleContent = articleContent.replace(/<p[^>]*class=["']location["'][^>]*>.*?<\/p>/gis, '');
-      
-      // Remove redundant job title h1 (already shown in the card title)
-      articleContent = articleContent.replace(/<h1[^>]*class=["']job_title["'][^>]*>.*?<\/h1>/gis, '');
-      
-      // Remove title_additional (contains metadata already shown)
-      articleContent = articleContent.replace(/<p[^>]*class=["']title_additional["'][^>]*>.*?<\/p>/gis, '');
-      
-      // Remove only the standard DESY intro span (but keep the job-specific desygroup span)
-      articleContent = articleContent.replace(/<span[^>]*class=["']desy description["'][^>]*data-lang_key=["']LgJobOffer\.desy\.intro["'][^>]*>.*?<\/span>\s*<br\s*\/?>\s*<br\s*\/?>/gis, '');
-      
-      // Also remove the standalone DESY boilerplate text if it appears
-      articleContent = articleContent.replace(/<span[^>]*class=["']desy description["'][^>]*>DESY, with more than.*?young scientists\.<\/span>\s*<br\s*\/?>\s*<br\s*\/?>/gis, '');
-      
-      return articleContent.trim();
+    if (!articleMatch) {
+      return '';
     }
     
-    // Fallback: Try to extract from core section
-    const coreMatch = content.match(/<section[^>]*class=["']core["'][^>]*>(.*?)<\/section>/is);
-    if (coreMatch) {
-      return coreMatch[1].trim();
-    }
-
-    return '';
+    let content = articleMatch[1];
+    
+    // Remove image headers
+    content = content.replace(/<div[^>]*class=["']image_header[^"']*["'][^>]*>[\s\S]*?<\/div>/gi, '');
+    
+    // Remove redundant location paragraph (e.g., "For our location in Hamburg we are seeking:")
+    content = content.replace(/<p[^>]*class=["']location["'][^>]*>[\s\S]*?<\/p>/gi, '');
+    
+    // Remove redundant job title h1 (already shown in the card title)
+    content = content.replace(/<h1[^>]*class=["']job_title["'][^>]*>[\s\S]*?<\/h1>/gi, '');
+    
+    // Remove title_additional (contains metadata already shown)
+    content = content.replace(/<p[^>]*class=["']title_additional["'][^>]*>[\s\S]*?<\/p>/gi, '');
+    
+    // Remove intro paragraph with DESY boilerplate
+    // This paragraph contains two spans: the generic DESY intro and job-specific description
+    // We remove only the first span (DESY boilerplate)
+    content = content.replace(/<p[^>]*class=["']intro["'][^>]*>[\s\S]*?<span[^>]*class=["']desy\s+description["'][^>]*>[\s\S]*?<\/span>[\s\S]*?<br\s*\/?>\s*<br\s*\/?>\s*/gi, '<p class="intro">');
+    
+    // Clean up empty intro paragraphs
+    content = content.replace(/<p[^>]*class=["']intro["'][^>]*>\s*<\/p>/gi, '');
+    
+    return content.trim();
   }
 
   extractDeadline(html) {
