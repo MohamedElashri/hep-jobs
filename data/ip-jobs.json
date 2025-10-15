@@ -1,6 +1,152 @@
 {
   "jobs": [
     {
+      "id": "3069133",
+      "title": "Postdoctoral research position within the Einstein Telescope Collaboration",
+      "institution": "Cracow, INP",
+      "deadline": "2025-10-28",
+      "description": "<div>I. Keywords:</div><div><br></div><div>Gravitational wave astrophysics, including experimental instrumentation or analysis</div><div><br></div><div>II. Description:</div><div><br></div><div>The person employed as an assistant professor for a fixed term at the Cosmic Rays and Neutrinos Department – NZ15 at the Institute of Physics of the Polish Academy of Sciences will be required to participate in research topics and projects currently underway and planned for the near future at the NZ15 Department. In particular, they will carry out work related to the study of gravitational waves using experiments aimed at measuring gravitational waves, primarily as part of the Einstein Telescope project currently in preparation. The employed person will also be obliged to disseminate the results of research in the form of publications in leading scientific journals indexed in the JCR and speeches during seminars and conferences, including international ones. This person will also be obliged to apply for external funding for research.</div><div><br></div><div>III.Required qualifications:</div><div><br></div><div>• PhD in astronomy, physical sciences, or a related discipline,</div><div>• solid scientific achievements documented by publications in prestigious international scientific journals,</div><div>• knowledge of gravitational wave research in connection with issues in elementary particle physics, astrophysics, and astronomy,</div><div>• experience in observational gravitational wave astrophysics, including experimental instrumentation or analysis, interpretation, and modeling of observational data, or theoretical modeling of gravitational wave signals from cosmic sources,</div><div>• ability to work in large international collaborations,</div><div>• good knowledge of modern programming languages (Python, C++, or Fortran),</div><div>• very good command of spoken and written English.</div><div><br></div><div>Welcome:</div><div><br></div><div>• knowledge of LIGO or VIRGO experiments, both in terms of instrumentation and data analysis,</div><div>• experience in working on large international scientific projects.</div><div><br></div><div>More information:</div><div><br></div><div><a href=\"https://ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ15-3-Adiunkt_postdoc_AP-II-25-eng-GW.pdf\">https://ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ15-3-Adiunkt_postdoc_AP-II-25-eng-GW.pdf</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "ET"
+      ],
+      "urls": [
+        "https://ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ15-3-Adiunkt_postdoc_AP-II-25-eng-GW.pdf"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T19:46:15.410061+00:00",
+      "updated": "2025-10-14T21:35:18.175516+00:00"
+    },
+    {
+      "id": "3069119",
+      "title": "Quantum Computing Research Scientist",
+      "institution": "LBNL, Berkeley",
+      "deadline": "2025-12-31",
+      "description": "<div><strong>Quantum Computing Research Scientist - 105330</strong></div><div><strong>Division: AM-Applied Mathematics and Computational Research</strong></div><div><br></div><div>Lawrence Berkeley National Lab’s (<a href=\"https://www.lbl.gov/\">LBNL</a>) Applied Mathematics and Computational Research Division has an opening for a Career-Track Quantum Computing Research Scientist to join the team.</div><div><br></div><div>In this exciting role, you will research in quantum computing, with a focus on the development of theoretical approaches and novel quantum algorithms that lead to scientific insights for high energy particle physics. This position will contribute to the development and/or advancement of open-source software tools. This position will be involved in the design and execution of simulations of physical hardware from testbeds and commercial partners. Involvement in the publication of the research and contributions at conferences is expected.</div><div><br></div><div>The position will be part of an integrated team of quantum algorithm developers, physicists, mathematicians and computer scientists that will design and deliver novel algorithms, error mitigation and compiling techniques for DOE relevant science domains that will lead to scientific discovery with quantum computers.</div><div><br></div><div><strong>What You Will Do:</strong></div><ul><li>Lead the development of new, scalable algorithms based on quantum field theories appropriate for Hamiltonian simulation on quantum computers,&nbsp;</li><li>Lead the implementation and large-scale demonstration of quantum field theory algorithms on quantum hardware&nbsp;</li><li>Initiate, cultivate and sustain collaborations with researchers across and outside the laboratory</li><li>Participate in developing new funding initiatives and proposal writing as needed</li><li>Demonstrate ability to work independently, to work collaboratively in an interdisciplinary team, and to contribute to an active intellectual environment</li><li>Publish results in peer reviewed journals and national and international conferences.</li></ul><div><strong>Additional Responsibilities as needed:</strong></div><ul><li>Excellent presentation skills</li><li>Mentoring students&nbsp;</li><li>Contribute to the organization of workshops and conferences&nbsp;</li></ul><div><strong>What is Required:</strong></div><ul><li>PhD degree in physics or a relevant field.</li><li>A minimum of 2 years of documented postdoctoral research.</li><li>Demonstrated experience in novel algorithm development for quantum field theories on quantum computers.</li><li>Demonstrated experience implementing and executing Hamiltonian simulations on quantum hardware and achieving high impact results.</li><li>Deep understanding of quantum field theories, in particular those relevant to high-energy physics.</li><li>Ability to work collaboratively in an interdisciplinary team contributing to an active intellectual environment.</li><li>Excellent written and oral communication skills.</li></ul><div><strong>Desired Qualifications:</strong></div><ul><li>Experience using HPC platforms.</li><li>Strong programming skills in Python.</li></ul><div><strong>Notes:</strong></div><ul><li>This is a full time, 5 year, career-track term appointment and may be converted to career based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs.</li><li>The full salary range of this position is between $94,740 to $227,376 per year and is expected to pay between a targeted range of $126,324 to $176,832 per year depending upon candidates' full skills, knowledge, and abilities, including education, certifications, and years of experience.</li><li>This position is subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment.</li><li>Work may be performed on-site, or hybrid. The primary location for this role is Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. Work must be performed within the United States. A REAL ID or other acceptable form of identification is required to access Berkeley Lab sites.</li></ul><div><strong>Want to learn more about working at Berkeley Lab? Please visit: </strong><a href=\"https://careers.lbl.gov/\"><strong>careers.lbl.gov</strong></a></div><div><br></div><div><strong>How To Apply</strong></div><div><a href=\"http://50.73.55.13/counter.php?id=310679\"><strong>Apply directly online</strong></a> and follow the on-line instructions to complete the application process.</div><div><br></div><div><strong>Equal Employment Opportunity Employer:</strong> The foundation of Berkeley Lab is our Stewardship Values: Team Science, Service, Trust, Innovation, and Respect; and we strive to build community with these shared values and commitments. Berkeley Lab is an Equal Opportunity Employer. We heartily welcome applications from all who could contribute to the Lab's mission of leading scientific discovery, excellence, and professionalism. In support of our rich global community, all qualified applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or other protected categories under State and Federal law.</div><div><br></div><div>Berkeley Lab is a University of California employer. It is the policy of the University of California to undertake affirmative action and anti-discrimination efforts, consistent with its obligations as a Federal and State contractor.</div><div><br></div><div>Misconduct Disclosure Requirement: As a condition of employment, the finalist will be required to disclose if they are subject to any final administrative or judicial decisions within the last seven years determining that they committed any misconduct, are currently being investigated for misconduct, left a position during an investigation for alleged misconduct, or have filed an appeal with a previous employer.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "http://50.73.55.13/counter.php?id=310679"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T17:10:32.830444+00:00",
+      "updated": "2025-10-14T19:33:06.007693+00:00"
+    },
+    {
+      "id": "3069100",
+      "title": "Research Associate in Cosmology and Gravitation (Fixed Term)",
+      "institution": "Cambridge U., DAMTP",
+      "deadline": "2025-12-15",
+      "description": "<div>Applications are invited for a Postdoctoral Research Associate position in cosmology within the Stephen Hawking Centre for Theoretical Cosmology/GR group (<a href=\"http://www.ctc.cam.ac.uk/\">www.ctc.cam.ac.uk</a>) at the Department of Applied Mathematics and Theoretical Physics. Candidates should be qualified to undertake research in the areas of the CMB, large-scale structure and early universe cosmology. Although all qualified candidates will be considered, we are particularly interested in candidates who can undertake work on higher-order correlators from Simons Observatory CMB data, notably CMB bispectra in combination with other cosmological probes, to gain new insights about inflation and fundamental theory.</div><div><br></div><div>The successful candidate will work primarily with Professors James Fergusson and Paul Shellard, as well as academic staff across the Relativity and Gravitation group (Challinor, Gratton, Sherwin, Cranmer, Hartnoll, Moore, Pajer, Reall, Santos, Sperhake, Wall and Warnick) and research staff and PhD students. There are close links with the HEP group and the AI Infosys Lab in DAMTP, and the Kavli Institute for Cosmology (<a href=\"http://www.kicc.cam.ac.uk/\">www.kicc.cam.ac.uk</a>).</div><div><br></div><div>The position is expected to be available on or soon after 1 September 2026, but the start date is flexible. Applicants should have, or be about to obtain, a PhD in a relevant area of theoretical physics, and to have an established track record of original research and experience of working in collaboration.</div><div><br></div><div>Duties will include developing and conducting individual and collaborative research objectives, proposals and projects. For data reduction aspects of this project, you will be expected to have computational experience, preferably on HPC systems with knowledge of parallelisation techniques and GPU programming. You will be expected to plan your own research, with guidance if required, and to assist in the preparation of funding proposals. You must be able to communicate material of a technical nature. You may be asked to assist in the supervision of student projects and development of skills and deliver seminars relating to the research area.</div><div><br></div><div>Further information about CTC can be found at&nbsp;<a href=\"http://www.ctc.cam.ac.uk/\">www.ctc.cam.ac.uk</a>&nbsp;and the GR Group at&nbsp;<a href=\"http://www.damtp.cam.ac.uk/research/gr/\">www.damtp.cam.ac.uk/research/gr/</a></div><div><br></div><div>Fixed-term: The funds for this post are available for 2 years in the first instance.</div><div><br></div><div>Details of how to apply and where to submit informal enquiries can be found here:</div><div><br></div><div><a href=\"https://www.cam.ac.uk/jobs/research-associate-in-cosmology-and-gravitation-fixed-term-le47448\">https://www.cam.ac.uk/jobs/research-associate-in-cosmology-and-gravitation-fixed-term-le47448</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.cam.ac.uk/jobs/research-associate-in-cosmology-and-gravitation-fixed-term-le47448"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T14:07:17.544303+00:00",
+      "updated": "2025-10-14T14:38:06.660019+00:00"
+    },
+    {
+      "id": "3069093",
+      "title": "Fall 2025 PPA Faculty search in Cosmic Frontier",
+      "institution": "Stanford U.",
+      "deadline": "2025-11-13",
+      "description": "<div><strong>Stanford University, SLAC, Departments of Photon Science and of Particle Physics &amp; Astrophysics</strong></div><div><br></div><div><strong>Position ID:</strong> SLAC-SLAC, Departments of Photon Science and of Particle Physics &amp; Astrophysics-SLACPPACF [#30749]</div><div><strong>Position Title:</strong>&nbsp;Fall 2025 PPA Faculty search in Cosmic Frontier</div><div><strong>Position Type:</strong> Open Rank</div><div><strong>Position Location:</strong> Menlo Park, California 95025, United States of America [map]</div><div><strong>Subject Area:</strong>&nbsp;Astrophysics / Astrophysics</div><div><strong>Apply Deadline:</strong> 2025/11/17 11:59PM (posted 2025/10/02, listed until 2026/02/16)</div><div><br></div><div><strong>Position Description</strong></div><div>Fall 2025 PPA Faculty search in Cosmic Frontier</div><div><br></div><div>The Particle Physics &amp; Astrophysics (PPA) Department at SLAC National Accelerator Laboratory/Stanford University seeks applicants for an open-rank faculty appointment in any area of physics pursued by SLAC’s Cosmic Frontier program and the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC). Applicants at the assistant professor level are strongly encouraged to apply. The successful applicant should demonstrate the potential to lead an outstanding experimental, observational, or theoretical research program in one or more of the areas of dark energy, dark matter, inflation, structure formation, or emerging areas in the Cosmic Frontier. Additionally, they should possess strong communication skills and a commitment to effective mentoring</div><div><br></div><div>SLAC’s current program includes a broad theory program in particle astrophysics, cosmology, and fundamental physics; cosmology research with the Vera C. Rubin Observatory’s Legacy Survey of Space &amp; Time (LSST), the Dark Energy Spectroscopic Instrument, South Pole Observatory and Simons Observatory; and dark matter searches with LZ, SuperCDMS, Dark Matter Radio and a future G3 liquid Xenon experiment, XLZD. We welcome candidates who would bring additional dimensions or directions to our program. Scientific utilization of data from LSST is a particular focus area for this search; candidates from all areas consistent with SLAC’s current and future program are encouraged to apply. A broad astrophysics and cosmology program at Stanford and SLAC is pursued under the auspices of the Kavli Institute for Particle Astrophysics and Cosmology; see <a href=\"http://kipac.stanford.edu\">kipac.stanford.edu</a>.</div><div><br></div><div>All applicants must have a Ph.D. in Physics or related subject field and should send materials to the search committee through AcademicJobsOnline. Candidates should upload a cover letter, curriculum vitae (including a publication list), a research statement (three-page maximum), as well as a brief (&lt; 300 word) summary of their expected research program. We encourage applicants, as a component of their research statement, to discuss their experience and approach to mentoring.</div><div><br></div><div>SLAC and Stanford University value faculty who will help foster an open and respectful academic environment for colleagues, students, and staff with a wide range of backgrounds and perspectives. Candidates may choose to include, as part of their research statement, a brief discussion about how their work and experience will further these values.</div><div><br></div><div>At least three and no more than five letters of reference should be submitted as part of the application. Review of applications will begin on November 17, 2025; later applications may be considered at the discretion of the search committee.</div><div><br></div><div>Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law. Stanford welcomes applications from all who would bring additional dimensions to the University’s research, teaching and clinical missions.</div><div><br></div><div>Consistent with its obligations under the law, the University will provide reasonable accommodations to applicants and employees with disabilities. Applicants requiring a reasonable accommodation for any part of the application or hiring process should contact disability.access@stanford.edu.</div><div><br></div><div>The expected base pay range, depending on rank (Assistant Professor, Associate Professor, or Full Professor), is in the range of $180 - $300K per annum based on a 12-month salary.</div><div><br></div><div><strong>Application Materials Required:</strong></div><div>Submit the following items online at this website (<a href=\"https://apptrkr.com/6640384\">https://apptrkr.com/6640384</a>) to complete your application:</div><div>• Cover letter</div><div>• Curriculum Vitae</div><div>• Research statement</div><div>• Three reference letters (to be submitted online by the reference writers on this site )</div><div>And anything else requested in the position description.</div><div><br></div><div>Further Info:</div><div><a href=\"https://faculty.slac.stanford.edu/\">https://faculty.slac.stanford.edu/</a></div><div><br></div><div>&nbsp;2575 Sand Hill Rd., Menlo Park CA 94025</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apptrkr.com/6640384"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T13:12:25.724784+00:00",
+      "updated": "2025-10-14T14:43:41.761323+00:00"
+    },
+    {
+      "id": "3069025",
+      "title": "Doctoral Student (F*M*X) for Physics Analysis with the CMS experiment",
+      "institution": "Vienna, OAW",
+      "deadline": "2025-12-10",
+      "description": "<div><strong>The Marietta Blau Institute of Particle Physics (MBI, formerly </strong><a href=\"http://www.hephy.at/\"><strong>HEPHY</strong></a><strong>) of the Austrian Academy of Sciences, Austria’s leading non-university institution for science and research, is offering a position as</strong></div><div>&nbsp;</div><div><strong>Doctoral student (f*m*x) <em>for Physics Analysis with the CMS experiment</em></strong></div><div>&nbsp;(30 hours per week) JOBID MBI134DOC225</div><div>&nbsp;</div><div>The Mariette Blau Institute performs a rich experimental particle physics program and is participating in accelerator- and non-accelerator-based experiments. The institute has a major involvement in the CMS experiment at CERN and in the Belle II experiment at KEK. An experimental group works on direct Dark Matter detection using the CRESST experiment at LNGS. A theory group completes the research profile of the institute.</div><div>The MBI is one of the founding members of the CMS Collaboration. We have been strongly involved in the design, construction and operation of two of the major components of the experiment: the trigger system and the tracking detector.&nbsp;Our experience in building silicon detectors, the construction of FPGA based hardware and development of the appropriate firmware allow us to play a leading role within the collaboration.&nbsp;MBI is contributing to the high-luminosity upgrade plans for two major components of CMS: the silicon tracker and the high granularity calorimeter.</div><div>MBI has contributed to CMS physics results since the beginning of LHC operation. One of our priorities is the measurement of properties of the top quark, where we develop novel techniques for unbinned data analyses. We are also working on direct searches for signals of a dark sector, searches using displaced leptons, and on measurements of Higgs boson cross sections. Several members of the institute have been entrusted with positions in the CMS physics management.</div><div><strong>&nbsp;</strong></div><div><strong>Main tasks:</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strengthening of our analysis activities with the CMS experiment, in particular, taking a key role in the area of physics of the top quark</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data analysis, including the improvement of existing and the development of novel analysis strategies with novel machine-learning techniques and unbinned methodology</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interpretation of results in the context of SM effective field theory</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contributions to maintenance and development of the reconstruction and the calibration of physics objects</div><div>&nbsp;</div><div><strong>Requirements:</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;an excellent research record and experience in performing analyses in a large international collaboration</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interest in part-time contributions to detector development is welcome but not a strict requirement</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;good communication skills</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ability to work well in a team environment</div><div><strong>&nbsp;</strong></div><div><strong>We offer:</strong></div><div><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interesting and diversified activities in a motivated team of physicists who cover a wide range of expertise from detector design and construction to theoretical physics</strong></div><div><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;being member of a large international collaboration, including participation in working meetings and conferences and interactions with other CMS teams</strong></div><div><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a 75% employment, with an annual gross salary of € 39.208,79 according to the salary scheme of the Austrian Science Fund&nbsp;(</strong><a href=\"https://www.fwf.ac.at/de/forschungsfoerderung/personalkostensaetze/\">FWF</a>)</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The position will be located in Vienna and opened for a period of three years</div><div>The Austrian Academy of Sciences is committed to increase female employment in leading scientist positions. Qualified female applicants are encouraged to apply.</div><div>&nbsp;</div><div>Please submit your application including a CV including a list of relevant publications, a letter of motivation no later than <strong>Dec 10th, 2025</strong> under this link: <a href=\"https://oeawnr.onlyfy.jobs/job/m636onvhmlrl3v54r3z1q5hcbxpfakx\">https://oeawnr.onlyfy.jobs/job/m636onvhmlrl3v54r3z1q5hcbxpfakx</a></div><div><strong>&nbsp;</strong></div><div><strong>Two recommendation letters should be sent separately to mbi-office@oeaw.ac.at</strong></div><div><br></div><div><strong>For further information, please contact Robert SCHÖFBECK</strong> <a href=\"mailto:robert.schoefbeck@oeaw.ac.at\">robert.schoefbeck@oeaw.ac.at</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://oeawnr.onlyfy.jobs/job/m636onvhmlrl3v54r3z1q5hcbxpfakx"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T10:31:44.338353+00:00",
+      "updated": "2025-10-14T14:39:26.775573+00:00"
+    },
+    {
+      "id": "3069000",
+      "title": "Postdoctoral Positions in High Energy Physics",
+      "institution": "Granada U.",
+      "deadline": "2025-11-30",
+      "description": "<div>The High-Energy Physics Group at the University of Granada, Spain, invites applications for several postdoctoral positions, with an expected starting date in autumn 2026 (earlier start dates are also possible). The appointments are for 2+1 years and offer a gross annual salary of about €45,000. Successful applicants will have access to substantial research funds, including generous travel support.</div><div><br></div><div>The group's research interests cover a broad range of topics, including model building beyond the Standard Model; effective field theories; collider physics; higher-order corrections in quantum field theory; thermal phase transitions; cosmology; heavy-ion collisions; flavour, neutrino, and astroparticle physics.</div><div><br></div><div>The group currently includes 15 senior researchers, 13 junior or postdoctoral fellows, and 20 PhD students. Further information is available at <a href=\"https://ftae.ugr.es/index.php\">ftae.ugr.es</a>.</div><div><br></div><div><strong>Applications should be sent through the form in&nbsp;</strong><a href=\"https://ftae.ugr.es/pages/app_post\">ftae.ugr.es/pages/app_post</a> .</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://ftae.ugr.es/"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T09:49:12.028888+00:00",
+      "updated": "2025-10-14T14:44:31.874324+00:00"
+    },
+    {
+      "id": "3068827",
+      "title": "Research Scientist, Senior Research Scientist, Technical Scientist or Senior Technical Scientist",
+      "institution": "Nishina Ctr., RIKEN",
+      "deadline": "2025-11-24",
+      "description": "<div>Successful candidate will be responsible for developing SLOWRI's main device, a large RF ion guide He gas cell system, and implementing it in BigRIPS, as a member of the SLOWRI team.</div><div>The candidate will also develop, operate, maintain, and upgrade the existing RF ion guide systems and&nbsp;MR-TOF sytem, which are used in conjunction with the SLOWRI system.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.riken.jp/en/careers/researchers/20251009_3/index.html"
+      ],
+      "contact_email": null,
+      "created": "2025-10-14T08:33:41.424789+00:00",
+      "updated": "2025-10-14T14:40:47.923596+00:00"
+    },
+    {
       "id": "3068339",
       "title": "Postdoctoral Research Associate in Mathematical Physics",
       "institution": "Edinburgh U., Sch. Math.",
@@ -304,6 +450,24 @@
       "contact_email": null,
       "created": "2025-10-10T08:43:12.891958+00:00",
       "updated": "2025-10-13T15:57:42.603535+00:00"
+    },
+    {
+      "id": "3066239",
+      "title": "high-profile candidate for an international post-doctoral position with the Beams Application Group at the China Spallation Neutron Source (CSNS) in Dongguan",
+      "institution": "CAS, IHEP, Dongguan",
+      "deadline": "2026-01-07",
+      "description": "<div>We are seeking a high-profile candidate for an international post-doctoral position with the Beams Application Group at the China Spallation Neutron Source (CSNS) in Dongguan, China. CSNS is a high-end national laboratory under the Institute of High Energy Physics at the Chinese Academy of Sciences.</div><div>The successful candidate will work in the fields of neutron and muon science, utilizing white neutron sources and muon beams, respectively. Applicants should possess a strong academic background in experimental particle or nuclear physics.</div><div>The annual salary starts at 480,000 CNY. This position includes a comprehensive benefits package with social security provisions comparable to those in Europe.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-10-10T07:55:53.611165+00:00",
+      "updated": "2025-10-14T16:14:16.694417+00:00"
     },
     {
       "id": "3065732",
@@ -2520,6 +2684,6 @@
       "updated": "2025-09-18T14:41:08.163250+00:00"
     }
   ],
-  "lastUpdated": "2025-10-14T08:04:21.765Z",
-  "totalJobs": 124
+  "lastUpdated": "2025-10-15T09:17:35.548Z",
+  "totalJobs": 132
 }
