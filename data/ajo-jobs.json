@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "id": "ajo-30958",
+      "title": "Richard S. Morrison Post-Doctoral (Term) Fellowship",
+      "institution": "Case Western Reserve University",
+      "deadline": null,
+      "description": "Richard S. Morrison Post-Doctoral (Term) Fellowship\n\n   The Particle Physics, Astrophysics and Cosmology group at Case Western\n   Reserve University anticipates offering a Richard S. Morrison\n   Post-Doctoral (Term) Fellowship, open to theoretical and computational\n   cosmologists. The position is expected to start no later than Oct. 1,\n   2026 (earlier/later start date may be negotiated). Information about\n   the research interests of the Particle Physics, Astrophysics and\n   Cosmology group is on the Department of Physics webpage. Questions may\n   be directed to Glenn Starkman at glenn.starkman@case.edu.\n\n   The successful applicant is likely to be interested in close\n   collaboration with him as well as with other colleagues in theoretical\n   and experimental cosmology, especially Craig Copi, Kurt Hinterbichler,\n   Johanna Nagy and John Ruhl, on CMB data analysis, as well as in\n   collaboration with colleagues in the COMPACT Collaboration at Imperial\n   College London, University of Pittsburgh, and Institute for\n   Theoretical Physics (Madrid) and elsewhere on cosmic topology, CMB\n   anomalies and other large-scale properties of the Universe.\n\n   Salary is expected to be in the range of $60k-70k, depending on\n   experience. The fellow will have a research fund available to support\n   travel and other research expenses. The position is expected to be for\n   3 years, and commitment for three years of funding has been obtained,\n   but contracts will be issued on an annual basis and are subject to\n   receipt of committed funding.\n\n   In compliance with the City of Cleveland's Pay Transparency Ordinance\n   (effective October 27, 2025), the annual starting base salary range\n   for this position is $55,000 - $62,652. CWRU considers factors such as\n   (but not limited to) the specific grant funding and the terms of the\n   research grant when extending an offer. Postdocs receive individual\n   and family healthcare benefits, life insurance, and employee\n   assistance.\n\n   Qualifications\n\n   PhD required by date of employment.\n\n   Application Instructions\n\n   Applications with a CV, publication list, statement of research\n   interests, diploma copy, transcripts &#x26; three letters of recommendation\n   should be submitted through Interfolio at\n   https://apply.interfolio.com/176281. Review of applications will begin\n   on a rolling basis Dec 1, 2025. The position will be open until\n   filled.\n\n   Equal Employment Opportunity Statement\n\n   Case Western Reserve University is an equal opportunity employer. All\n   applicants are protected under federal and state laws and university\n   policy from discrimination based on race, color, religion, sex, sexual\n   orientation, gender identity or expression, national or ethnic origin,\n   protected veteran status, disability, age and genetic information.\n\n   Reasonable Accommodation Statement\n\n   Case Western Reserve University complies with the Americans with\n   Disabilities Act regarding reasonable accommodations for applicants\n   with disabilities. Applicants requiring a reasonable accommodation for\n   any part of the application and hiring process should contact the\n   Office of Equity by phone at 216.368.3066 or by email at\n   equity@case.edu. Determinations as to granting reasonable\n   accommodations for any applicant will be made on a case-by-case basis.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/CWRU/Physics/30958?rss"
+      ],
+      "contact_email": "glenn.starkman@case.edu",
+      "created": "2025-10-22T16:00:00.000Z",
+      "updated": "2025-10-22T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
       "id": "ajo-30845",
       "title": "Electrical Engineer - Nuclear and Particle Physics",
       "institution": "University of Illinois at Urbana-Champaign",
@@ -89,8 +111,31 @@
       "created": "2025-10-05T16:00:00.000Z",
       "updated": "2025-10-05T16:00:00.000Z",
       "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-26",
+      "title": "Postdoctoral Fellow/Research Associate",
+      "institution": "University of California, Berkeley",
+      "deadline": "2025-11-22",
+      "description": "The Leinweber Institute for Theoretical Physics at UC Berkeley and the\n   Theoretical Physics Group at Lawrence Berkeley National Laboratory\n   invite applications for several Postdoctoral Fellows to begin in the\n   Fall of 2026. We encourage applications in all areas of theoretical\n   physics, including Cosmology, Quantum Field Theory, Quantum Gravity,\n   Quantum Information Theory, Quantum Matter and Information, Particle\n   physics, and String Theory. The fellowship will be awarded initially\n   for 2-3 years, and may in exceptional circumstances be extended up to\n   5 years. Information about our research group can be obtained from the\n   web sites\n   https://physics.berkeley.edu/research-faculty/leinweber-institute-theoretical-physics\n   and https://www-theory.lbl.gov . In addition to a competitive salary,\n   the position includes benefits and funds for travel. Candidates must\n   have a PhD by the fellowship start date in an area related to particle\n   theory. Interested applicants must send a CV, bibliography and\n   statement of research interests and plans. Please submit application\n   electronically to AcademicJobsOnline at\n   https://academicjobsonline.org/ajo/ . Please have three letters of\n   reference available at the AcademicJobsOnline website. The deadline\n   for applications is November 21, 2025. Please refer potential referees\n   to UC Berkeley's Statement of Confidentiality which can be found\n   online at https://apo.berkeley.edu/ucb-confidentiality-policy . The\n   University of California is an Equal Opportunity/Affirmative Action\n   Employer; women and minorities are encouraged to apply. Application\n   Materials Required: 3 reference letters 1 Cover letter 1 Curriculum\n   Vitae 1 Research statement 1 Publication list all required documents\n   in the description have been checked.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/UCBerkeleyLBNL/LITP&#x26;amp;LBNL/30724?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-10-01T16:00:00.000Z",
+      "updated": "2025-10-01T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
     }
   ],
-  "lastUpdated": "2025-10-25T08:03:50.683Z",
-  "totalJobs": 4
+  "lastUpdated": "2025-10-26T08:03:56.268Z",
+  "totalJobs": 6
 }
