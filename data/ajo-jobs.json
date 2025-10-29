@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "id": "ajo-3",
+      "title": "A3D3 Postbaccalaureate Fellow",
+      "institution": "University of Washington",
+      "deadline": "2026-02-16",
+      "description": "The Accelerated AI Algorithms for Data-Driven Discovery (A3D3)\n   Institute funded by the National Science Foundation (NSF), under the\n   Harnessing the Data Revolution (HDR) program, is seeking\n   postbaccalaureate research fellows to join our interdisciplinary teams\n   of scientists and engineers to develop and deploy artificial\n   intelligence (AI) to accelerate science discoveries in particle\n   physics, astrophysics, biology, and neuroscience.\n\n\n   A3D3 is a multi-disciplinary and geographically distributed entity\n   with the primary mission to lead a paradigm shift in the application\n   of real-time artificial intelligence (AI) at scale to advance\n   scientific knowledge and accelerate discovery. The Institute team\n   reflects a collaborative effort of Principal Investigators from\n   Caltech, Duke University, MIT, Purdue University, University of\n   California San Diego, University of Illinois at Urbana-Champaign,\n   University of Minnesota, University of Washington, University of\n   Wisconsin-Madison, and Georgia Institute of Technology.\n\n\n   Postbac fellows will be assigned to one of the projects listed at &#x200B;&#x200B;https://a3d3.ai/careers/\n   at one of the hosting institutions based on preferences and\n   availability. Postbac fellows will also have access to professional\n   development opportunities including career guidance and graduate\n   school preparation.\n\n\n   The appointment is for a one-year term with a nominal start date of\n   June 1, 2026, although some flexibility will be allowed to potentially\n   start in July or August. This is a full-time, salaried position with\n   benefits.\n\n\n   Application requirements:\n\n     * \n\n       US Citizenship or Permanent Residency\n\n     * \n\n       Bachelor&#x2019;s Degree in Physics, Applied Physics, Astronomy,\n       Astrophysics, Neuroscience, Computer Science, Electrical\n       Engineering, or a related field within the last 24 months or\n       expected by the start date\n\n     * \n\n       CV or resume (up to 2 pages)\n\n     * \n\n       Unofficial academic transcript (no minimum GPA requirement)\n\n     * \n\n       At least 1 and at most 2 letter(s) of recommendation from someone\n       familiar with your capacity for research (e.g. instructor in a lab\n       course, academic advisor, mentor, etc.)\n\n     * \n\n       Responses to the following prompts:\n\n       * \n\n         Please describe your career goals (e.g., do you plan to attend\n         graduate school and/or pursue a career in industry or academia,\n         etc.).\n\n       * \n\n         Please describe any previous experience with leadership (e.g.,\n         coordination of volunteer activities, board member in student\n         organization, residential life, etc.), social justice (e.g.,\n         addressing a systemic inequality through education, organizing,\n         activism, mentorship, counseling, outreach/access, survival and\n         development work, event planning/coordination, community\n         building and development, etc.), or community involvement (e.g.,\n         volunteer service, organizing, activism, teaching, mentoring,\n         counseling, community art production, etc.).\n\n       * \n\n         Please describe any previous research experience if applicable\n         (e.g., undergraduate research, involvement in McNair, REUs, or\n         similar programs, independent or group study with a professor or\n         other researcher, research outside of academia, full-time\n         research after college, etc.).\n\n       * \n\n         [Optional] Please optionally describe any experience overcoming\n         adversity (e.g. overcoming educational, social, cultural,\n         economic barriers, or barriers related to accessibility, etc.).\n\n       * \n\n         Please select at least 3 and up to 5 principal investigator\n         mentors and corresponding research areas/locations from\n         https://a3d3.ai/careers/. Please explain the reasoning behind\n         your choices and indicate any specific preferences.\n\n\n   Location: This position will be physically located one of the hosting\n   institutes: University of California San Diego, University of\n   Minnesota, University of Illinois at Urbana-Champaign, Massachusetts\n   Institute of Technology, Duke University, University of Washington,\n   California Institute of Technology, or Georgia Institute of Technology\n\n   Application deadline: February 15, 2026\n\n   Notification date: April 15, 2026\n\n\n   Applications will be handled through Academic Jobs Online.\n\n\n   Evaluation criteria: Candidates will be evaluated on the basis of a\n   holistic rubric including categories for academic preparation (based\n   on transcript and letters), research potential (based on letters and\n   responses to prompts), social justice and community involvement (based\n   on letters and responses to prompts), noncognitive competencies (such\n   as the ability to collaborate, lead, or overcome adversity), alignment\n   with the program, and potential benefit from the program (e.g., lack\n   of prior access to research opportunities). There is no minimum GPA\n   requirement.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/UW/A3D3/31024?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-10-28T16:00:00.000Z",
+      "updated": "2025-10-28T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-30071",
+      "title": "Postdoctoral Associate",
+      "institution": "Duke University",
+      "deadline": null,
+      "description": "The Duke High Energy Physics (HEP) Neutrino Group (neutrino.phy.duke.edu) is seeking applications to a postdoctoral position. Group members are involved in the COHERENT experiment at the Spallation Neutron Source at Oak Ridge National Laboratory, the Deep Underground Neutrino Experiment, Super Kamiokande, and T2K.\r\n\r\nThis position requires a Ph.D. or equivalent doctorate.\r\n\r\nApplications, including three letters of reference, a research statement, CV and list of publications &#x26; presentations must be submitted to receive full consideration.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Duke/Physics/30071?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-10-28T16:00:00.000Z",
+      "updated": "2025-10-28T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
       "id": "ajo-30958",
       "title": "Richard S. Morrison Post-Doctoral (Term) Fellowship",
       "institution": "Case Western Reserve University",
@@ -136,6 +180,6 @@
       "source": "AcademicJobsOnline"
     }
   ],
-  "lastUpdated": "2025-10-28T08:04:24.208Z",
-  "totalJobs": 6
+  "lastUpdated": "2025-10-29T08:04:26.544Z",
+  "totalJobs": 8
 }
