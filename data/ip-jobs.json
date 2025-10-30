@@ -1,6 +1,90 @@
 {
   "jobs": [
     {
+      "id": "3074499",
+      "title": "Postdoc positions in QCD and heavy-ion physics",
+      "institution": "Jyvaskyla U.",
+      "deadline": "2026-01-06",
+      "description": "<div>The QCD theory group at the Department of Physics of the University of Jyväskylä, Finland, invites applications for several two-year postdoc positions starting September/October 2026 or as agreed. Our main research interests are small-x physics, out-of-equilibrium field theory, parton distributions and perturbative QCD processes, Monte Carlo event generator development, hard and electromagnetic probes and hydrodynamical modeling of heavy ion collisions.</div><div>&nbsp;</div><div>In this call, we plan to fill</div><ul><li>One position with a focus on perturbative QCD and parton distribution functions including Monte Carlo event generator development</li><li>One or more positions with a focus on small-x physics and/or out-of-equilibrium field theory</li></ul><div>Successful candidates will also join the Centre of Excellence in&nbsp;Quark Matter granted by the Research Council of Finland to our&nbsp;local QCD-theory and ALICE groups.</div><div><br></div><div>The required qualification is a Ph.D. or equivalent in theoretical high-energy or nuclear physics, completed prior to the start date.&nbsp;Review of applications will begin on January 7, 2026, but later applications may be considered until the positions are filled.</div><div><br></div><div>Interested applicants should send their curriculum vitae, list of publications, and statement of research interests, and arrange for two or three letters of recommendation to be sent by email to heikki.mantysaari@jyu.fi (cc: ilkka.m.helenius@jyu.fi).</div><div><br></div><div>For further information about the group, see</div><div><a href=\"https://research.hip.fi/qcdtheory/\">https://research.hip.fi/qcdtheory/</a></div><div>and for the Centre of Excellence in Quark Matter, see</div><div><a href=\"https://www.jyu.fi/en/research-groups/centre-of-excellence-in-quark-matter\">https://www.jyu.fi/en/research-groups/centre-of-excellence-in-quark-matter</a></div><div>and about the Department of Physics in Jyväskylä, see</div><div><a href=\"https://www.jyu.fi/science/en/physics\">https://www.jyu.fi/science/en/physics</a></div><div>For more information about Jyväskylä and Finland, see</div><div><a href=\"https://www.jyu.fi/en/about-us/work-with-us\">https://www.jyu.fi/en/about-us/work-with-us</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-10-29T13:05:31.942151+00:00",
+      "updated": "2025-10-30T07:19:56.279189+00:00"
+    },
+    {
+      "id": "3074498",
+      "title": "PhD student - experimental astroparticle physics, gravitational waves",
+      "institution": "U. Zurich (main)",
+      "deadline": "2025-12-01",
+      "description": "<div>The group of Professor Soares-Santos, at the University of Zurich (UZH), invites applications for a PhD student position. The group is engaged in data analysis, instrumentation, software development, and operations in state-of-the-art experiments in the field of cosmology with cosmic surveys and gravitational waves. In addition to carrying out some of the most precise cosmological measurements from galaxy clustering and weak lensing, we have led the most comprehensive searches for the electromagnetic (EM) counterparts of gravitational-wave (GW) events and contributed to the first GW-EM multi-messenger discovery. We are currently leading a multi-messenger cosmology effort, combining GW standard sirens and galaxy catalogs while preparing for discovery of new signals such as the stochastic GW background and its cross-correlation with galaxies.</div><div><br></div><div>At this time, we are seeking exceptional applicants interested in instrumentation science in addition to physics analysis. Thesis research may include developments for gravitational-wave experiments such as LIGO and the next-generation Einstein Telescope. Our lab is currently aiming to improve the discovery potential of GW observatories by improving the quantum efficiency and power-handling capabilities of photodiodes to be used in such interferometers. This R&amp;D is closely related to our program on sensor characterization for cosmic surveys in optical and infrared wavelengths which may also be a thesis topic. Our group is also a member of the LISA Consortium. Candidates interested in contributing to any of these research threads are welcome to apply. The instrument science research, combined with physics analyses using state-of-the-art data, is expected to produce a high-impact thesis that will propel the PhD student towards their next career goals.</div><div><br></div><div>Applicants must hold a Master’s degree, or expect to obtain one before their start date. While specific hardware experience is not required, a good understanding of the experimental methods and techniques used in the field is essential. The successful candidate is expected to have a combination of hard and soft skills, including statistical data analysis and programming in Python, the ability to work independently, self-motivation to go beyond existing experience, good written and oral communication in English, and the willingness to travel.</div><div><br></div><div>To apply, please submit a cover letter, a research statement (3 pages max.), a curriculum vitae, and a copy of your academic transcript via the <a href=\"https://academicjobsonline.org/ajo/jobs/31026\">application system</a>. Also, to complete your application, please arrange for at least two letters of recommendation to be uploaded by the letter writers directly to that same system. Review of complete applications will start on December 1, 2025. Applications received after that date will be considered until the position is filled.</div><div><br></div><div>We aim for a start date of April 1, 2026. This date can be adjusted by mutual agreement. For applicants from outside Switzerland or the EU, the application may be subject to approval from the immigration authorities, a process that takes up to three months. PhD positions are fully funded according to the Swiss National Science Foundation salary requirements, and typically last up to four years.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "LIGO",
+        "ET",
+        "LISA"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31026"
+      ],
+      "contact_email": null,
+      "created": "2025-10-29T12:02:42.516892+00:00",
+      "updated": "2025-10-29T15:57:36.332467+00:00"
+    },
+    {
+      "id": "3074497",
+      "title": "Postdoctoral Research Associate positions",
+      "institution": "King's Coll. London, Dept. Math",
+      "deadline": "2025-11-25",
+      "description": "<div>Applications are invited for two STFC funded Research Associate posts in Theoretical Physics in the Department of Mathematics at King’s College London. These are fixed-term posts for 12 months with the expectation that they will be extended for up to 36 months, subject to funding. The topic of research can overlap with that of any of the permanent members of the group.</div><div><br></div><div>Candidates should have the potential to carry out research which has high levels of originality, innovation and depth that may create significant impact on the field of theoretical physics, including aspects of quantum field theory and gravity.</div><div><br></div><div>To apply, please register with the King’s College London application portal and complete your application online at <a href=\"https://www.kcl.ac.uk/jobs/129345-research-associate-in-theoretical-physics-x2\">https://www.kcl.ac.uk/jobs/129345-research-associate-in-theoretical-physics-x2</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.kcl.ac.uk/jobs/129345-research-associate-in-theoretical-physics-x2"
+      ],
+      "contact_email": null,
+      "created": "2025-10-29T11:32:58.578903+00:00",
+      "updated": "2025-10-29T15:54:11.065129+00:00"
+    },
+    {
+      "id": "3074479",
+      "title": "Postdoctoral Position in Data Analysis for the NA62 Experiment",
+      "institution": "Louvain U., CP3",
+      "deadline": "2025-11-15",
+      "description": "<div>The Center for Cosmology, Particle Physics and Phenomenology (CP3) at Université catholique de Louvain (UCLouvain) invites applications for a postdoctoral position in data analysis for the NA62 experiment.</div><div>This is a full-time, two-year appointment, with the possibility of a one-year extension, available immediately.</div><div>Candidates should hold a PhD in experimental particle physics. The successful candidate will join an international team involved in both the operation of the NA62 experiment at CERN and the analysis of rare kaon decays using the data collected by the experiment. In particular, the candidate will play an active role in the final legacy analysis of the full NA62 data set, focusing on topics such as:</div><ul><li>K+→π+ νν ˉ</li><li>Rare kaon decays</li><li>Beam dump studies</li></ul><div>Research activities at CP3 are strong in both theoretical and experimental physics, with close collaborations between the two encouraged and supported. In addition to NA62, the Center is involved in the CMS experiment, Monte Carlo generator development, and phenomenological studies of fundamental interactions. A dedicated computing team operates a Tier-2 center, providing excellent computational resources for data analysis.</div><div>The selected candidate will be based in Belgium, with the possibility of extended stays at CERN.</div><div>Applications, including a curriculum vitae and two letters of recommendation, should be submitted through the CP3 job portal:</div><div><a href=\"https://www.uclouvain.be/en/research-institutes/irmp/cp3/job-openings\">https://www.uclouvain.be/en/research-institutes/irmp/cp3/job-openings</a></div><div>Review of applications will begin on November 1, 2025, and will continue until the position is filled.</div><div>For further information, please contact:</div><div><br></div><div>Prof. Eduardo Cortina Gil (Eduardo.Cortina@uclouvain.be)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-NA-062"
+      ],
+      "urls": [
+        "https://cp3.irmp.ucl.ac.be/job/116"
+      ],
+      "contact_email": null,
+      "created": "2025-10-29T07:02:33.966738+00:00",
+      "updated": "2025-10-29T15:56:17.024326+00:00"
+    },
+    {
       "id": "3074247",
       "title": "Postdoctoral position in theoretical gravitational physics",
       "institution": "Lyon, Ecole Normale Superieure",
@@ -289,6 +373,24 @@
       "contact_email": null,
       "created": "2025-10-28T00:36:20.227053+00:00",
       "updated": "2025-10-28T00:36:48.961611+00:00"
+    },
+    {
+      "id": "3073714",
+      "title": "Tenure Track Positions in STEMS",
+      "institution": "Univ. of Antioquia",
+      "deadline": "2026-10-29",
+      "description": "<div>The University of Antioquia will open several tenure track positions in STEMS.</div><div>Positions involve a mandatory teaching load of at least one course per semester and the possibility to dedicate the rest of the time to research activities.</div><div>Proficiency in Spanish is required.</div><div><br></div><div>The details of the positions and application instructions will be provided as soon as they will be published on the institutional website, which perspective applicants are encouraged to check independently and periodically.</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-10-28T00:33:06.034237+00:00",
+      "updated": "2025-10-29T23:52:58.153541+00:00"
     },
     {
       "id": "3073701",
@@ -3905,112 +4007,8 @@
       "contact_email": null,
       "created": "2025-09-29T09:12:24.392900+00:00",
       "updated": "2025-10-03T13:20:26.929163+00:00"
-    },
-    {
-      "id": "2974089",
-      "title": "Postdoctoral Programme in Software Development for the Spin Physics Detector Project",
-      "institution": "Dubna, JINR",
-      "deadline": "2025-11-01",
-      "description": "<div><strong>Postdoctoral Programme in Software Development for the Spin Physics Detector Project</strong></div><div><strong>12</strong>-<strong>month contract, </strong>renewable for another max. 24 months</div><div><br></div><div>Your mission</div><div>The main objective of this position is to prepare a software framework for the online data filter for the SPD experiment. The goal of the experiment is to study the spin structure of the proton and deuteron in proton-proton and deuteron-deuteron collisions in the SPD detector of the NICA collider at JINR within the international SPD collaboration. The online data filter is a keystone part of the SPD data processing chain aimed at the fast event reconstruction and event selection of data in realtime. The online filter should be able to cope with the incoming data rate up to 20 GB/s.</div><div>&nbsp;</div><div>Your tasks</div><div>The work includes the following tasks:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Design and development of the online event filter software framework.</div><ul><li>Development and implementation of the fast event reconstruction algorithms.</li><li>Design and implementation of the interface to machine learning tools.</li><li>Performance studies and tests of the online filter prototype.</li></ul><div>Constraints and risks</div><div>Depending on your citizenship, you may need to obtain a visa and this process can last several months. JINR offers all the necessary support for obtaining the entry permit for the Russian Federation.</div><div>&nbsp;</div><div>Your profile</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly motivated candidate with a PhD (obtained less than 5 years ago) in experimental particle physics.</div><ul><li>Age under 40, have not had more than 3 temporary positions.</li><li>Strong background in experimental particle physics and HEP computing.</li><li>Practical experience in the data processing in particle physics, preferably in the trigger or offline computing design and development.</li></ul><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an international intergovernmental research organization, we are particularly keen to ensure that we also attract applicants from outside Russia. You must have a good knowledge of English and be willing to learn Russian (a language course will be paid for by JINR).</div><div>&nbsp;</div><div>What we offer</div><div>&nbsp;</div><div><strong>High quality of life</strong></div><div>Called the \"Island of Stability\", the city of Dubna is ideally located on the bank of Europe's largest waterway — the Volga River (only 2.5 hours from Moscow by train or bus and 1.5 hours by car from Sheremetyevo International Airport). It is important for us that our employees quickly and easily adapt to the new living conditions and have a healthy work-life balance. Therefore, we offer accommodation in comfortable guest-house rooms (for singles), or fully furnished flats owned by JINR, and annual paid leave.</div><div>&nbsp;</div><div><strong>Prospects</strong></div><div>We guarantee you a&nbsp;<strong>12-months postdoctoral contract, renewable for another max. 24 months (36 month in total)</strong>, in a multicultural scientific environment.</div><div>&nbsp;</div><div><strong>Remuneration</strong></div><div> 2300 USD per month (paid in Russian rubles at the planned exchange rate (forecasted year-average, adopted in the JINR budget for the current year, which is fixed on the date of conclusion of the contract and valid throughout its entire term). In 2025, the exchange rate is 96.5 Russian rubles per 1 USD, in 2026 the planned exchange rate will be 92.2 Russian rubles per 1 USD).*</div><div> Income tax of 13% is applied. The employer shall pay no pension insurance.</div><div> *The average per capita income in the Moscow region is 110 thousand rubles.</div><div>&nbsp;</div><div><strong>Benefits</strong></div><div>We offer considerable social benefits: annual paid leave of 42 calendar days&nbsp;with an additional one-time payment of 50&nbsp;% of your monthly salary after one year of work, air fare (except for family members) at the beginning and the end of the employment period in case the terms of the contract are fulfilled, accommodation (50&nbsp;%, without cost of utilities and furniture rental), free local&nbsp;health insurance for you and your family members, relocation assistance (reimbursement of the cost of excess baggage and transfer from/to airport at the beginning and end of the contract for all family members). We also offer free Russian courses and subsidies for the use of JINR sports infrastructure (Olympic swimming pool, stadium, gym, etc.), as well as access to a variety of cultural activities.</div><div><br></div><div><strong>Joint Institute for Nuclear Research (JINR) — operates a large park </strong></div><div><strong> of accelerators and a reactor based intense neutron source in Dubna (Russia). </strong>From the very foundation of the Institute, the implementation</div><div>of the JINR motto “Science brings nations together” has grown into</div><div>a special scientific atmosphere of mutual respect and support. Let's work together to better understand the fundamental properties of matter that might enable a quantum leap in the living standards of our society.</div><div><br></div><div><a href=\"https://indico.jinr.ru/e/postdoc\"><strong><em>Apply now</em></strong></a></div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://indico.jinr.ru/e/postdoc"
-      ],
-      "contact_email": null,
-      "created": "2025-09-29T09:03:31.605242+00:00",
-      "updated": "2025-10-03T13:21:03.212529+00:00"
-    },
-    {
-      "id": "2974088",
-      "title": "Postdoctoral Programme in Analysis of Experimental Data in the BM@N Project at the NICA Complex",
-      "institution": "Dubna, JINR",
-      "deadline": "2025-11-01",
-      "description": "<div><strong>Postdoctoral Programme in Analysis of Experimental Data in the BM@N&nbsp;Project at the NICA Complex</strong></div><div><strong>12</strong>-<strong>month contract, </strong>renewable for another max. 24 months</div><div>Your mission</div><div>The main objective of this position is to study the interactions of relativistic heavy nuclei in the BM@N experiment at the NICA facility.</div><div>The focus of this research will be on the analysis of experimental data collected in interactions of a xenon ion beam with nuclear targets. The research work includes simulation of products of xenon-nucleus interactions in the BM@N experimental set-up. The aim of the research is to get physics results on the production of strange particles and light nuclear fragments in xenon-nucleus interactions.</div><div>&nbsp;</div><div>Your tasks</div><div>You will work with the BM@N physics working group. Your research programme will focus on:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reconstruction and identification of charged strange particles and light nuclear fragments in xenon-nucleus interactions.</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simulation of xenon-nucleus interactions in the BM@N experimental set-up to evaluate the efficiency of the reconstruction of strange charged particles and light nuclear fragments.</div><ul><li>Measurement of the yields of strange charged particles and light nuclear fragments in xenon-nucleus interactions.</li></ul><div>Constraints and risks</div><div>The candidate is expected to participate in shifts during the experimental run of the BM@N experiment. During the experimental run shift work may be required at night and on weekends. The shift work will be carried out at the accelerator facility, whereby the necessary authorizations will be issued following the annual medical examination arranged by the employer.</div><div>Depending on your citizenship, you may need to obtain a visa and this process can last several months. JINR offers all the necessary support for obtaining the entry permit for the Russian Federation.</div><div>&nbsp;</div><div>Your profile</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly motivated candidate with a PhD (obtained less than 5 years ago) in relativistic nuclear physics, high energy physics, experimental methods of nuclear physics or in a similar field.</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Age under 40, have not had more than 3 temporary positions.</div><ul><li>Strong background in experimental relativistic nuclear physics, high energy physics or experimental methods of nuclear physics is a prerequisite.</li><li>Practical experience in experimental methods of data analysis in relativistic nuclear physics or high energy physics would be advantageous.</li></ul><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As an international intergovernmental research organization, we are particularly keen to ensure that we also attract applicants from outside Russia. You must have a good knowledge of English and be willing to learn Russian (a language course will be paid for by JINR).</div><div>&nbsp;</div><div>What we offer</div><div>&nbsp;</div><div><strong>High quality of life</strong></div><div>Called the \"Island of Stability\", the city of Dubna is ideally located on the bank of Europe's largest waterway — the Volga River (only 2.5 hours from Moscow by train or bus and 1.5 hours by car from Sheremetyevo International Airport). It is important for us that our employees quickly and easily adapt to the new living conditions and have a healthy work-life balance. Therefore, we offer accommodation in comfortable guest-house rooms (for singles), or fully furnished flats owned by JINR, and annual paid leave.</div><div>&nbsp;</div><div><strong>Prospects</strong></div><div>We guarantee you a&nbsp;<strong>12-months postdoctoral contract, renewable for another max. 24 months (36 month in total)</strong>, in a multicultural scientific environment.</div><div>&nbsp;</div><div><strong>Remuneration</strong></div><div> 2300 USD per month (paid in Russian rubles at the planned exchange rate (forecasted year-average, adopted in the JINR budget for the current year, which is fixed on the date of conclusion of the contract and valid throughout its entire term). In 2025, the exchange rate is 96.5 Russian rubles per 1 USD, in 2026 the planned exchange rate will be 92.2 Russian rubles per 1 USD).*</div><div> Income tax of 13% is applied. The employer shall pay no pension insurance.</div><div> *The average per capita income in the Moscow region is 110 thousand rubles.</div><div>&nbsp;</div><div><strong>Benefits</strong></div><div>We offer considerable social benefits: annual paid leave of 42 calendar days&nbsp;with an additional one-time payment of 50&nbsp;% of your monthly salary after one year of work, air fare (except for family members) at the beginning and the end of the employment period in case the terms of the contract are fulfilled, accommodation (50&nbsp;%, without cost of utilities and furniture rental), free local&nbsp;health insurance for you and your family members, relocation assistance (reimbursement of the cost of excess baggage and transfer from/to airport at the beginning and end of the contract for all family members). We also offer free Russian courses and subsidies for the use of JINR sports infrastructure (Olympic swimming pool, stadium, gym, etc.), as well as access to a variety of cultural activities.</div><div><br></div><div><strong>Joint Institute for Nuclear Research (JINR) — operates a large park </strong></div><div><strong>of accelerators and a reactor based intense neutron source in Dubna (Russia). </strong>From the very foundation of the Institute, the implementation</div><div>of the JINR motto “Science brings nations together” has grown into</div><div>a special scientific atmosphere of mutual respect and support. Let's work together to better understand the fundamental properties of matter that might enable a quantum leap in the living standards of our society.</div><div><br></div><div><a href=\"https://indico.jinr.ru/e/postdoc\"><strong><em>Apply now</em></strong></a></div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "JINR-NICA"
-      ],
-      "urls": [
-        "https://indico.jinr.ru/e/postdoc"
-      ],
-      "contact_email": null,
-      "created": "2025-09-29T08:54:15.296660+00:00",
-      "updated": "2025-10-03T13:21:49.248075+00:00"
-    },
-    {
-      "id": "2974083",
-      "title": "Full Professor (Particle Physics, Experiment), Univ. of Tsukuba, Japan",
-      "institution": "Tsukuba U., GSPAS",
-      "deadline": "2025-10-31",
-      "description": "<div>The Experimental Particle Physics group at the Department of Physics and the TCHoU, Institute of Pure and Applied Sciences, conducts experimental research in particle physics at the energy frontier (LHC ATLAS experiment) and in neutrino physics (COBAND and PIKACHU experiments). </div><div>We seek outstanding candidates who will conduct research in the above physics areas in cooperation with the present members of the group. The successful candidate is also expected to contribute significantly to administrative roles at the Department and TCHoU, and to education at both graduate and undergraduate levels. </div><div>Existing departments Department of Physics and the Tomonaga Center for the History of the Universe (TCHoU), Institute of Pure and Applied Sciences </div><div><br></div><div>Job type:</div><div>Professor level Research field Natural Science - Experimental studies related to particle-, nuclear-, cosmic ray and astro-physics </div><div><br></div><div>Contact details University of Tsukuba Department of Physics and the Tomonaga Center for the History of the Universe (TCHoU), Institute of Pure and Applied Sciences Akira OZAWA 0298534222 </div><div>ozawa@tac.tsukuba.ac.jp</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D125060350&ln=1"
-      ],
-      "contact_email": null,
-      "created": "2025-09-29T06:44:28.574647+00:00",
-      "updated": "2025-09-29T13:58:13.268522+00:00"
-    },
-    {
-      "id": "2973869",
-      "title": "Postdoctoral positions in Gravitational-Wave Physics and Astrophysics at the Max Planck Institute for Gravitational Physics in Potsdam",
-      "institution": "Max Planck Institute for Gravitational Physics (Potsdam)",
-      "deadline": "2025-11-25",
-      "description": "<div>The \"Astrophysical and Cosmological Relativity\" (ACR) department at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute, AEI) in Potsdam announces the opening of several&nbsp;<strong>postdoctoral appointments</strong>, which will be available at different levels, depending on experience and seniority, and can last from 2 to 5 years. We also have openings as part of the&nbsp;<a href=\"https://gwsky.org/\">ERC-Synergy Grant&nbsp;“Making Sense of the Unexpected in the Gravitational-Wave Sky”</a>, one opening as part of the&nbsp;<a href=\"https://www.aei.mpg.de/1302755/simons-collaboration-on-black-holes-and-strong-gravity\">Simons Collaboration on Black Holes and Strong Gravity</a>, and one opening for a postdoctoral position as part of the&nbsp;<a href=\"https://nbi.ku.dk/english/research/theoretical-particle-physics-and-cosmology/the-center-for-gravity/\">Center of Gravity</a>. For the latter, the successful candidate will spend the first two years at the AEI and the subsequent two years at the Niels Bohr Institute in Copenhagen. The ACR department also offers&nbsp;<strong>Max Planck Fellowships</strong>&nbsp;to non-German scientists. Information on those fellowships and explanations on how to apply are summarized&nbsp;<a href=\"https://www.aei.mpg.de/26182/max-planck-fellowship\">here</a>. We are particularly interested in hiring creative and highly motivated candidates who are at ease working both collaboratively and independently in a vibrant, interdisciplinary, and synergistic group.</div><div><br></div><div>The ACR department, led by Alessandra Buonanno, is composed of about 45 scientists, including three permanent research group leaders, Jonathan Gair, Harald Pfeiffer and Jan Steinhoff, and the five-year research group leader Miguel Zumalacarregui. The department also hosts several long and short-term visitors, and has ties with the Physics Department at the University of Maryland, the Humboldt University in Berlin, and the University of Potsdam.</div><div>The ACR department is interested in&nbsp;many aspects of gravitational-wave astronomy, including (i) analytical modeling of gravitational dynamics and radiation (effective field theory, post-Newtonian and post-Minkowskian expansions, gravitational self-force approach, perturbation theory and effective-one-body formalism), (ii) numerical relativity, most notably simulations in vacuum of compact objects on bound and unbound orbits in general relativity and alternative gravity theories, (iii) observation (including searches and detector characterization) and interpretation of data from gravitational-wave detectors on the ground (LIGO, Virgo, KAGRA, Cosmic Explorer, Einstein Telescope) and in space (LISA), (iv)&nbsp;techniques for the acceleration of gravitational-wave inference, including machine learning, (v) astrophysics of compact objects and bi-nary’s formation scenarios, (vi) cosmography with gravitational waves (including dark energy, dark matter, gravitational lensing), and (vii) tests of gravity in the strong-field and highly dynamical regimes.</div><div><br></div><div>The ACR department participates in many international collaborations: the&nbsp;<a href=\"https://www.black-holes.org/\">Simulating extreme Spacetimes Collaboration</a>&nbsp;(SXS), the LIGO Scientific Collaboration (LSC),&nbsp;the Einstein Telescope (ET) Collaboration, the LISA Consortium, and the LISA Distributed Data Processing Centre (DDPC), where our department plays a leading role in waveform generation and the global fit deep analysis.</div><div><br></div><div>Currently, the ACR department operates a high-performance compute cluster, Urania, with ~6,050 cores, a high-throughput compute cluster, Hypatia, with ~12,000 cores, and two servers, Saraswati and Lakshmi, each with 8 A100 GPUs. Those clusters are in the process of being extended. They are used to run numerical-relativity simulations of gravitational-wave sources, and to carry out source modeling and data-analysis studies for current and future gravitational-wave detectors.</div><div><br></div><div><strong>To apply, please submit your application via our job portal&nbsp;</strong><a href=\"https://jobs.aei.mpg.de/234/acr-postdoc-2026/apply\"><strong>here</strong></a><strong>.</strong></div><div><br></div><div>You will be asked to upload a cover letter, curriculum vitae, list of publications and a statement of past and future research activities of not more than 3 pages (excluding references). Applicants will need to indicate the names of three referees for recommendation letters.&nbsp;<strong>Please&nbsp;</strong><a href=\"https://jobs.aei.mpg.de/register\"><strong>register</strong></a><strong>&nbsp;an account with our job portal and fill in the contact information for the referees well before the deadline, so that reference letters can be received in time.</strong>&nbsp;Referees will receive an email with instructions on how to upload their letters. In case of technical problems with the application form, please contact&nbsp;jobs@aei.mpg.de.</div><div><br></div><div>Candidates are encouraged to apply as soon as possible. The deadline for full consideration is&nbsp;<strong>November 25, 2025</strong>, including reception of reference letters. The anticipated start date of the positions is Fall 2026. Applications will be considered until all positions are filled.</div><div><br></div><div>The salary and social benefits (e.g. health insurance) are based on the collective labor agreement \"TVöD Bund\" for the German public sector, usually at pay grade E13 (if the qualifications according to TVöD are met). A projection of the gross and net salary based on the TVöD regulations will be prepared in case an offer is made.</div><div><br></div><div>The Max Planck Institute for Gravitational Physics is an equal opportunity employer, and is committed to provide employment opportunities to all qualified applicants without regard to race, color, religion, age, gender identity, sexual orientation or national origin. The Max Planck Society is committed to increasing the number of individuals with disabilities in its workforce and therefore encourages applications from such qualified individual. The AEI and the Max Planck Society welcome persons with diverse backgrounds, experiences, and ideas who embrace and value diversity and inclusion (<a href=\"https://www.aei.mpg.de/450712/code-of-conduct.pdf\">Code of Conduct</a>). The institute promotes a healthy work-life balance by offering all employees a family support service, cooperation with a nearby international kindergarten, as well as an in-house parent-child office and nursing room.</div><div><br></div><div>For further information please contact&nbsp;acr-jobs@aei.mpg.de.</div><div><br></div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "LIGO",
-        "LISA",
-        "ET"
-      ],
-      "urls": [
-        "https://www.aei.mpg.de/1302781/acr-postdoc-2026"
-      ],
-      "contact_email": null,
-      "created": "2025-09-28T12:29:49.594460+00:00",
-      "updated": "2025-09-29T12:53:29.459016+00:00"
-    },
-    {
-      "id": "2973847",
-      "title": "ASIoP-NCTS/HETG junior research fellows on theoretical nuclear physics, nuclear astrophysics, astroparticle physics, and cosmology",
-      "institution": "Institute of Physics, Academia Sinica, Taiwan",
-      "deadline": "2026-02-28",
-      "description": "<div>The Institute of Physics, Academia Sinica (ASIoP) High Energy Theory Group (HETG) and the National Center for Theoretical Sciences (NCTS) Physics Division, Nuclear Physics Thematic Group, invite applications for joint ASIoP-NCTS/HETG Junior Research Fellow positions. These positions, at the Research Assistant Professor level, are anticipated to commence in Summer or Fall 2026.&nbsp;</div><div><br></div><div>Successful candidates will be expected to conduct independent research and actively participate in the academic activities of both HETG and NCTS. While collaboration with HETG members and the core members of the NCTS nuclear thematic group is encouraged, it is not mandatory. Two distinct fellowship positions are available. One fellow is sought to conduct research in broadly defined theoretical nuclear physics, encompassing, but not limited to, Quantum Chromodynamics (QCD), hadron physics, nuclear collisions, nuclear structure, and related fields. The second fellow’s research expertise should lie in the field of nuclear astrophysics, astroparticle physics, or cosmology.&nbsp;</div><div><br></div><div>These highly competitive positions offer a salary commensurate with junior faculty appointments in Taiwan, supplemented by additional travel and research grants. Exceptional candidates may be honored by supplemental support from the Shui-Chin Lee Foundation, which includes a more premium salary. The initial appointment for these positions is three years, with the potential for renewal for an additional two years. Fellows will be based at the Institute of Physics, Academia Sinica, and will be actively involved in the academic activities of HETG.&nbsp;</div><div><br></div><div><br></div><div>The HETG's research encompasses a wide range of theoretical areas within astroparticle, particle, and nuclear physics, as well as cosmology. Specific areas of interest include:&nbsp;</div><ul><li>Heavy flavor physics, CP-violation, and perturbative QCD.&nbsp;</li><li>Relativistic kinetic theory, fluid dynamics, and high-energy nuclear collisions.&nbsp;</li><li>High-energy cosmic rays and neutrinos, and high-energy astrophysics.&nbsp;</li><li>Hadronic interactions, extensive air showers, and event generators.&nbsp;</li><li>Neutrinos and heavy element nucleosynthesis in stellar explosions.&nbsp;</li><li>Beyond the Standard Model phenomenology with astrophysical implications.&nbsp;</li><li>Early Universe physics and gravitational waves.&nbsp;</li></ul><div><br></div><div>Fellows are expected to pursue independent research, with a preferred alignment to the research interests of the current HETG research fellows: Anatoli Fedynitch, Hsiang-nan Li, Kin-Wang Ng, Meng-Ru Wu, and Di-Lun Yang. Collaboration with other faculty members at the Institute of Physics, local institutions such as NCTS (Taipei, Taiwan) and ASIAA (Taipei, Taiwan), or international institutes with overlapping or complementary interests is encouraged. More information for HETG :&nbsp;<a href=\"https://www.phys.sinica.edu.tw/group_hep_theory_en.php\">https://www.phys.sinica.edu.tw/group_hep_theory_en.php</a></div><div><br></div><div><br></div><div>Applicants must hold a Ph.D. in physics or astrophysics and possess relevant postdoctoral research experience. A complete application should include a curriculum vitae, a list of publications with three representative works, a statement of research interests and plans, and three letters of reference submitted via the AcademicJobsOnline platform :</div><div><a href=\"https://academicjobsonline.org/ajo/jobs/30624\">https://academicjobsonline.org/ajo/jobs/30624</a></div><div><br></div><div>Review of applications will commence on “January 1st, 2026”, and continue until the positions are filled. The candidates in the shortlist will be asked to give a (remote) seminar as the interview.&nbsp;</div><div>For inquiries, please contact Dr. Di-Lun Yang at dlyang@as.edu.tw.&nbsp;</div><div><br></div><div><br></div><div>Additional Information: Academia Sinica is the premier basic research institution in Taiwan, government-funded, and distinguished by an increasingly international research community. In addition to the High Energy Theory Group, the Medium and High-energy Physics Experimental Group at the Institute of Physics actively conducts experimental and instrumentation programs in collider physics, hadron structure, cosmic rays, neutrinos, dark matter, and beyond the Standard Model physics. The group participates in prominent international collaborations, including AMS, CDEX, ATLAS/LHC, COMPASS/CERN, LEPS/SPring-8, SeaQuest/FNAL, STAR/RHIC, TEXONO, LIGO, and KAGRA.</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-09-27T02:36:02.623246+00:00",
-      "updated": "2025-09-29T12:56:02.437678+00:00"
     }
   ],
-  "lastUpdated": "2025-10-29T08:04:25.810Z",
+  "lastUpdated": "2025-10-30T08:04:10.043Z",
   "totalJobs": 200
 }
