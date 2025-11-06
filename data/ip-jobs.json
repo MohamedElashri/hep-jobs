@@ -1,6 +1,404 @@
 {
   "jobs": [
     {
+      "id": "3079041",
+      "title": "Postdoctoral Fellow in Astrophysics and Data Science",
+      "institution": "ORIGINS, Garching",
+      "deadline": "2026-02-15",
+      "description": "<div><strong>The Excellence Cluster ORIGINS invites applications for a Postdoctoral Fellow in Astrophysics and Data Science </strong>to pursue research in the <strong>ORIGINS Data Science Laboratory </strong>(<strong>ODSL</strong>).</div><div><br></div><div>The Excellence Cluster ‘ORIGINS: From the Origins of the Universe to the first Building Blocks of Life’ (www.origins- <a href=\"http://cluster.de\">cluster.de</a>) starts its second phase in&nbsp;January 2026 and is funded within the framework of the Excellence Strategy of the German Research Foundation (DFG). The interdisciplinary research project is a cooperation of the Ludwig-Maximilians-Universität (LMU) and the Technische Universität München (TUM) as well as the Max Planck Institutes for Astrophysics (MPA), Extraterrestrial Physics (MPE), Physics (MPP), Plasma Physics (IPP), and Biochemistry (MPIB), the European Southern Observatory (ESO), and the Leibniz Supercomputing Centre (LRZ). The Excellence Cluster ORIGINS will study the evolution of the cosmos – from the inception of the Universe to the first building blocks of life.</div><div><br></div><div>The ODSL provides a hub within ORIGINS for the development and dissemination of novel analysis methods, algorithms, and computational tools to fully exploit high-dimensional, complex datasets. Focus points are novel machine-learning techniques, research on the application of differentiable and probabilistic programming methods in physics, as well as the development of data analysis and statistical (incl. Bayesian and simulation-based) inference tools for large-scale datasets. Additionally, the ODSL is engaged in the conceptualization and deployment of data science infrastructure for the next generation of data-intensive research projects in related experiments. Open Science approaches are a priority for ODSL. The ODSL is coordinated by Prof. Lukas Heinrich (Data Science, Particle Physics at TUM) and Prof. Daniel Gruen (Astrophysics, Cosmology, and AI at LMU).</div><div><br></div><div>The postdoctoral researcher will join an interdisciplinary team of researchers with a strong interest and appreciation for data science in physics, as an expert on applications of such techniques to astrophysical and cosmological questions. The position offers an approximately even mix of pursuing independent research and of identifying opportunities to collaborate with other researchers in ORIGINS. Part of your work will be preparing and teaching courses on data science for the ORIGINS community. The successful candidate will be selected in part based on the independent data science research they propose to pursue and the plans for nurturing data science expertise within ORIGINS. The formal requirement for the position is a PhD in Physics or Astrophysics. Salary and benefits are commensurate with the pay scale of public service organizations (TV-L E13). The contract is initially limited to 2 years with the possibility of an extension.</div><div><br></div><div>The advancement of women in the sciences, especially in all areas of physics, is integral to the policy of the Excellence Cluster ORIGINS. We therefore especially encourage applications from women. Disabled persons will be given preference to other equally qualified applicants.</div><div><br></div><div>Further information can be obtained from Prof. Daniel Gruen (daniel.gruen@lmu.de) and from the ORIGINS webpage (</div><div>ht<a href=\"http://www.origins-cluster.de\">tp://www.origins-cluster.de</a>).&nbsp;</div><div><br></div><div>Applicants should prepare a cover letter and the following documents: CV, publication list, and a 3-page statement of research interests and plans, including specific collaborations with ORIGINS researchers you would be excited about. Please apply by </div><div><a href=\"https://cloud.physik.lmu.de/index.php/apps/forms/s/cs7jrKQQk5QHXPceQoCS9kix\">filling this application form</a> and uploading a single PDF with your collected documents to <a href=\"https://cloud.physik.lmu.de/index.php/s/nKaFfFsopXD6cdj\">this cloud folder.</a> We will begin reviewing applications after December 7, 2025, and continue to receive and consider them until the position is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-05T21:51:21.191517+00:00",
+      "updated": "2025-11-05T21:58:35.052082+00:00"
+    },
+    {
+      "id": "3079040",
+      "title": "Postdoctoral Research Associate on ATLAS",
+      "institution": "Michigan State U.",
+      "deadline": "2025-12-01",
+      "description": "<div>The high-energy physics group at the Department of Physics &amp; Astronomy (PA) at Michigan State University (MSU) is seeking to hire a postdoctoral research associate to work on the ATLAS experiment at the Large Hadron Collider (LHC) at CERN.</div><div><br></div><div>The MSU group on ATLAS is active in the Phase II trigger upgrades as well as the tile calorimeter and muon detector upgrades. The physics activities of the group cover a broad range of signatures (leptons, bosons, top and bottom quarks) searching for new physics beyond the Standard Model. The group is also involved with precision measurements (Higgs, High-Mass Drell-Yan) and constraining PDF theory uncertainties.</div><div><br></div><div>The MSU group is also highly active in ATLAS operations and upgrades, with notable contributions the Level-1 Calorimeter Trigger, Level-0 Global Trigger, sMDT muon detector system, and Tile Calorimeter.&nbsp;Postdocs with the group have the opportunity to make strong impacts on these important aspects of the ATLAS experiment.</div><div><br></div><div>The group is always open to new directions that postdoctoral research associates are interested in. In addition to physics and hardware/operations opportunities, postdoctoral research associates will have the opportunity to gain experience in supervising graduate students and travel regularly to workshops and conferences.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://careers.msu.edu/jobs/research-associate-fixed-term-east-lansing-michigan-united-states-991f1e2b-bd26-4d83-ae1d-9ab94605afdf"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T21:50:49.746324+00:00",
+      "updated": "2025-11-05T22:08:16.978818+00:00"
+    },
+    {
+      "id": "3078929",
+      "title": "Assistant/Associate Professor in Experimental High Energy Physics (LHCb)",
+      "institution": "Cambridge U. (main)",
+      "deadline": "2026-01-31",
+      "description": "<div>The Cavendish Laboratory, Department of Physics invites applications for a University Assistant/Associate Professor position in Experimental High Energy Physics (Collider Physics).</div><div><br></div><div>The appointment will strengthen the group's existing international reputation in experimental particle physics on the LHCb experiment at the CERN Large Hadron Collider, and participate in future initiatives in the field (<a href=\"https://www.hep.phy.cam.ac.uk/LHCb\">https://www.hep.phy.cam.ac.uk/LHCb</a>).</div><div><br></div><div>The successful candidate will have a world-class research record in experimental particle physics and is expected to play a leading role in the group's activities on the LHCb experiment, including physics exploitation and/or the ongoing upgrade programme. Candidates may bring expertise that is more physics-analysis-focused or hardware/technology-focused, provided that it offers a complementary direction to the group's existing strengths and contributes to the breadth and vitality of its research portfolio. Engagement with future accelerator or non-accelerator-based particle physics initiatives is also desirable.</div><div><br></div><div>The Assistant/Associate Professorship will be based in the Department of Physics in the High Energy Physics Group, located in the Ray Dolby Centre Building of the Cavendish Laboratory in Cambridge. Applicants should have an undergraduate degree and a PhD in physics (or a cognate discipline), a strong record of relevant research, show evidence of research leadership (or potential to develop it) and the ability to attract research funding. They must show evidence of enthusiasm and ability to teach a wide range of physics courses successfully at both undergraduate and masters level.</div><div><br></div><div>Applicants should submit the following documents with their application:</div><ul><li>Curriculum Vitae (CV);</li><li>A full list of publications to which a significant contribution has been made. Please highlight up to 5 papers where you have made the most significant personal contributions, with up to 4 lines of text for each such paper;</li><li>A research proposal no longer than 3 pages, including a brief description (of not more than half a page) of how your research plans might fit with existing activities at the Department of Physics and the wider University;</li><li>A one-page statement on your approach to teaching and how you believe you can contribute to the Department's teaching programme at undergraduate and graduate level;</li><li>The contact details of three referees.</li></ul><div>The deadline for applications is 31st January 2026. Shortlisted applicants will be informed towards the middle of February 2026. They will be invited to visit Cambridge during March 2026 for informal discussions with faculty, and to give research presentations. A second visit will be arranged towards the end of March 2026 or April 2026, when candidates will give a teaching presentation, as well as attend for the formal interview.</div><div><br></div><div>The position is available from 1st October 2026. There is some flexibility on the start date, which can be negotiated at the appointment stage.</div><div><br></div><div>Register an account with our recruitment system (if you have not already) and apply online.</div><div><br></div><div>For informal enquiries please contact Professor Tina Potter, <a href=\"mailto:cp594@cam.ac.uk\">cp594@cam.ac.uk</a>)</div><div><br></div><div>Please quote reference KA47784 on your application and in any correspondence about this vacancy.</div><div><br></div><div>The University actively supports equality, diversity and inclusion and encourages applications from all sections of society.</div><div><br></div><div>The University has a responsibility to ensure that all employees are eligible to live and work in the UK.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://www.cam.ac.uk/jobs/assistantassociate-professor-in-experimental-high-energy-physics-lhcb-ka47784"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T17:09:02.305114+00:00",
+      "updated": "2025-11-05T21:42:01.920814+00:00"
+    },
+    {
+      "id": "3078544",
+      "title": "Postdoc Position in Gravitational Waves Theory",
+      "institution": "DESY, Hamburg",
+      "deadline": "2025-12-01",
+      "description": "<div>The Gravitational Wave Astrophysics Theory (GWAT) group at DESY announces the opening of a postdoctoral position. The appointment is expected to start in October 2026 and will be for two years, with the possibility of extension for a third year.</div><div><br></div><div>We are particularly interested in candidates whose research focuses on effective field theory approaches to gravitational dynamics, as well as on post-Newtonian and post-Minkowskian approximations. The position is closely integrated with the string theory and high-energy physics groups at DESY, whose research includes the study of scattering amplitudes and Feynman integrals relevant to the binary problem. The research activities are also embedded within the Cluster of Excellence \"Quantum Universe,\" which includes leading scientists from mathematics, particle physics, astrophysics, and cosmology at the University of Hamburg and DESY.</div><div><br></div><div>Applicants must hold a Ph.D. in physics at the time of appointment. Applications can be submitted&nbsp;<a href=\"https://ias.desy.de/pls/apex/f?p=182:1:0:\">via this web interface</a>&nbsp;by selecting the \"Gravitational Waves\" box. It should include a statement of research interests, a curriculum vitae, a list of publications, and the names of three referees who will be asked to upload letters of recommendation. In case of technical difficulties, please contact&nbsp;<strong>pd-app-desyt@desy.de</strong></div><div><br></div><div>Applications received by 1 December, 2025 (23:59 CET)&nbsp;will receive full consideration. The DESY theory groups have approved the High-Energy Theory postdoc deadline accord (the offers, expected to be made before Christmas, will have an acceptance deadline no earlier than Jan. 31, 2026).</div><div><br></div><div>Salary and benefits are commensurate with those of public service organisations in Germany. Classification is based upon qualifications and assigned duties. DESY operates flexible work schemes. Diversity has been an integral part of DESY's constitution. Employing a diverse workforce is central to its success so applications from minorities and under-represented groups are strongly encouraged. Handicapped persons will be given preference to other equally qualified applicants. DESY is an equal opportunity, affirmative action employer and encourages applications from women.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://astroparticle-physics.desy.de/research/theory/gwat/index_eng.html"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T16:33:07.460443+00:00",
+      "updated": "2025-11-05T21:48:45.712138+00:00"
+    },
+    {
+      "id": "3076946",
+      "title": "Postdoctoral fellow, Department of Physics",
+      "institution": "Technion",
+      "deadline": "2025-12-16",
+      "description": "<div>The string theory group at the Technion is accepting applications for postdoctoral positions. The group consists of Oren Bergman, Shlomo S. Razamat, and Amos Yarom. We maintain close ties with the string theory/QFT group at the University of Haifa/Oranim (Dean Carmi, Gilad Lifschytz, Gabi Zafrir) and other theory groups in Israel. Applicants interested in quantum field theory, gravity, holography, and string theory, broadly defined, are encouraged to apply.</div><div><br></div><div>Please submit on an up to date CV, a statement of research interests and plans, and three reference letters. Review of applications will begin December 16, 2025 and will continue until the position(s) are filled.</div><div><br></div><div>Only applications submitted through AJO <a href=\"https://academicjobsonline.org/ajo/jobs/31100\">https://academicjobsonline.org/ajo/jobs/31100</a> will be considered.</div>",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31100"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T13:28:45.230141+00:00",
+      "updated": "2025-11-05T21:42:57.796884+00:00"
+    },
+    {
+      "id": "3076945",
+      "title": "ICTP Postdoc",
+      "institution": "ICTP, Trieste",
+      "deadline": "2025-12-15",
+      "description": "<div>Several postdoctoral positions will be available in ICTP's High Energy, Cosmology and Astroparticle Physics (HECAP) section with an expected starting date in October 2025. Appointments will be for 2+1 years.</div><div><br></div><div>Postdocs working on cosmology and astroparticle physics will also participate in the initiatives of the IFPU (Institute for the Fundamental Physics of the Universe), a collaboration between ICTP, the International School for Advanced Studies (SISSA), the Trieste Observatory and INFN. HECAP members are currently working on: String theory including D-branes, Black Holes, Gauge/string theory duality, Phenomenological String theory/M-theory; Particle Phenomenology including Physics beyond the Standard Model, Dark Matter, Axions, Higgs and Collider physics, Neutrino physics and astrophysics; Cosmology including Large Scale Structures, Physics of the Early Universe, Present Acceleration; Topological field theories and Localization.</div><div><br></div><div>The section presently comprises 8 staff members, 5 emeritus scientists, 17 postdoctoral researchers, a number of associated faculty members from other institutions as well a up to 200 short/long-term visitors per year. Further information can be found at&nbsp;<a href=\"https://www.ictp.it/hecap/people\"><strong>https://www.ictp.it/hecap/people</strong></a>&nbsp;There is also a close collaborations between ICTP scientists and SISSA, the Departments of Theoretical Physics of the Trieste University, the Trieste section of the INFN, the Trieste Observatory and the University of Udine. HECAP is also actively involved in the ATLAS experiment at the CERN LHC.</div><div><br></div><div>Each application should include: Curriculum vitae, statement of research interests, publication list, and three letters of recommendation. For full consideration applications should be sent by 15 December 2025. The ICTP takes seriously its commitment to equal opportunity and diversity in hiring, and its global mission to promote science in the developing world.</div><div><br></div><div>Apply at <a href=\"https://academicjobsonline.org/ajo/jobs/31102\">https://academicjobsonline.org/ajo/jobs/31102</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31102"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T13:28:00.049957+00:00",
+      "updated": "2025-11-05T21:59:37.256007+00:00"
+    },
+    {
+      "id": "3076936",
+      "title": "PhD Studentships in Gravity",
+      "institution": "U. Nottingham",
+      "deadline": "2025-12-20",
+      "description": "<div>We invite applications for PhD positions in gravitational physics at the School of Mathematical Sciences of the University of Nottingham. We are seeking applicants in several areas of research listed below, with one scholarship reserved for AI for gravitational waves.</div><div><br></div><div>Potential supervisors include Dr Miguel Bezares (numerical relativity), Dr Stephen Green (black holes, AI for gravitational waves), Prof Kirill Krasnov (mathematical relativity, differential geometry), Prof Jorma Louko (black holes and quantum field theory), Dr Laura Sberna (gravitational waves including astrophysics, black holes), and Prof Thomas Sotiriou (gravitational waves, black holes, and alternative theories). A complete list of projects is available at <a href=\"https://www.nottingham.ac.uk/Mathematics/Study/Research/PhD-research-opportunities/PhD-research-projects.aspx\">https://www.nottingham.ac.uk/Mathematics/Study/Research/PhD-research-opportunities/PhD-research-projects.aspx</a>.</div><div><br></div><div>Successful applicants will also join the Nottingham Centre of Gravity (NCoG), which unites gravitational physics expertise across the School of Mathematical Sciences and the School of Physics and Astronomy. The Centre comprises 17 permanent staff, as well as typically 7-8 postdocs and 25 students. Staff are active members of the LIGO, LISA, and ET collaborations, providing ample opportunities for international collaboration and impact.</div><div><br></div><div>For more information and to apply, see <a href=\"https://www.nottingham.ac.uk/pgstudy/course/research/mathematics-phd\">https://www.nottingham.ac.uk/pgstudy/course/research/mathematics-phd</a>. Please apply by 20 December for full consideration.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "LIGO",
+        "LISA",
+        "ET"
+      ],
+      "urls": [
+        "https://www.nottingham.ac.uk/pgstudy/course/research/mathematics-phd"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T11:23:57.084835+00:00",
+      "updated": "2025-11-05T21:44:03.085670+00:00"
+    },
+    {
+      "id": "3076916",
+      "title": "Postdoctoral Position in Theoretical Particle Physics Phenomenology",
+      "institution": "DESY",
+      "deadline": "2025-12-01",
+      "description": "<div>The DESY Theory Group announces an opening for a Postdoc position within the Emmy Noether Research Group “Cornering New Physics with Generic Precision Calculations” led by Dr. Johannes Braathen. The group investigates precision calculations – in particular of Higgs-boson properties – as well as early-Universe evolution as complementary means to search for New Physics with data from colliders and cosmological observations. The successful applicant is expected to contribute to the research activities of the group, and should have experience with higher-order perturbative calculations and/or phase transition dynamics.</div><div><br></div><div>The position will run for two years, with a possible extension to three years, and is meant to start in Autumn 2026. Applicants must hold a Ph.D in Theoretical Physics at the time of appointment.</div><div><br></div><div>The research group is part of the DESY Theory group, which is a leading center for theoretical High Energy Physics in Europe (<a href=\"http://theory-hamburg.desy.de/\">http://theory-hamburg.desy.de/</a>). Its research programme includes collider phenomenology (in particular Higgs and electroweak physics, physics beyond the Standard Model, flavour physics, QCD, Monte Carlo generators), particle cosmology, axions and other non-standard light particles, gravitational waves, string theory and mathematical physics (in particular gauge-string dualities, conformal field theories, scattering amplitudes and integrable models). The research activities are embedded within the Cluster of Excellence \"Quantum Universe\" and the Collaborative Research Center “Higher structures, moduli spaces and integrability”. These include leading scientists from mathematics, particle physics, astrophysics, and cosmology at the University of Hamburg and DESY. Postdoctoral research associates will become members of the Quantum Universe Research School (QURS), which provides academic and key skills training, as well as career planning support.</div><div><br></div><div>Applications can be submitted via this web interface and should include a statement of research interests, CV, list of publications, as well as the names of three referees who will be asked to upload letters of recommendation. Applicants are encouraged to tick the box “Precision Calculation for New Physics (J. Braathen’s Emmy Noether group)’’ among the groups they want to apply to.</div><div><br></div><div><em>Note: Applications already submitted to the general Fellowship Program through the same web interface will be automatically considered for the above position. In this case, please do not submit</em></div><div><em>another application.</em></div><div><br></div><div>In case of technical problems, you may contact: pd-app-desyt@desy.de.</div><div><br></div><div><strong>Applications received by 1 December, 2025 (23:59 CET) will receive full consideration</strong>.</div><div>The DESY Theory Group has approved the High-Energy Theory postdoc deadline accord (the offers, expected to be made before Christmas, will have an acceptance deadline no earlier than Jan. 31, 2026).</div><div><br></div><div>Salary and benefits are commensurate with those of public service organisations in Germany. Classification is based upon qualifications and assigned duties. DESY operates flexible work schemes. Diversity has been an integral part of DESY's constitution. Employing a diverse workforce is central to its success so applications from minorities and under-represented groups are strongly encouraged. Handicapped persons will be given preference to other equally qualified applicants. DESY is an equal opportunity, affirmative action employer and encourages applications from women.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://ias.desy.de/pls/apex/f?p=182:1:0:"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T11:13:26.732557+00:00",
+      "updated": "2025-11-05T21:50:35.162766+00:00"
+    },
+    {
+      "id": "3076912",
+      "title": "Postdoctoral position in Particle Physics Phenomenology",
+      "institution": "Cracow, INP",
+      "deadline": "2025-12-21",
+      "description": "<div>Applications are invited for a postdoctoral position in particle physics phenomenology at the Theory Division of the Institute of Nuclear Physics, Polish Academy of Sciences in Kraków, available from October 2026 (earlier starting dates from April 2026 are also possible). The position is offered in the first instance for 2 years with a possibility of an extension to a third year.&nbsp;</div><div><br></div><div>The successful applicant should have, or be about to obtain, a PhD in theoretical particle physics.&nbsp;Applicants with expertise in collider phenomenology, particularly in QCD, higher-order computations, and the physics of EW bosons, are particularly encouraged to apply. The position will be supported by the NCN project P3EWSB of Rene Poncelet. Some information on the project can be found here: <a href=\"https://th.ifj.edu.pl/poncelet/projects/p3ewsb\">https://th.ifj.edu.pl/poncelet/projects/p3ewsb</a></div><div><br></div><div>Applications should be submitted as a single PDF file containing 1) your full CV, 2) a brief research statement (1-page), and 3) a list of publications in an email (indicating the position by P3EWSB-PostDoc) sent to rene.poncelet@ifj.edu.pl . You should also arrange for two letters of recommendation to be sent by email to the same email address by the closing date.</div><div><br></div><div>The closing date for applications is 21/12/2025. The application process has two stages, and shortlisted candidates of the first round are forwarded to the second stage with deadlines in mid-January.</div><div><br></div><div>For more information about the positions, please do not hesitate to contact Dr. Rene Poncelet (rene.poncelet@ifj.edu.pl)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-05T09:42:18.977467+00:00",
+      "updated": "2025-11-05T21:45:47.997702+00:00"
+    },
+    {
+      "id": "3076911",
+      "title": "Postdoctoral position(s) in Particle Physics Phenomenology (ERC project STAPLE)",
+      "institution": "Cracow, INP",
+      "deadline": "2025-12-21",
+      "description": "<div>Applications are invited for postdoctoral position(s) in particle physics phenomenology at the Theory Division of the Institute of Nuclear Physics, Polish Academy of Sciences in Cracow, available from October 2026 (earlier starting dates from April 2026 are also possible). The position(s) are offered in the first instance for 2 years, with the possibility of an extension to a third year.&nbsp;</div><div><br></div><div>The successful applicant should have, or be about to obtain, a PhD in theoretical particle physics.&nbsp;Applicants with expertise in collider phenomenology, QCD, parton-showers and higher order computations are particularly encouraged to apply. The position will be supported by the ERC Starting Grant STAPLE of Rene Poncelet. Some information on the project can be found here: <a href=\"https://th.ifj.edu.pl/poncelet/projects/staple/\">https://th.ifj.edu.pl/poncelet/projects/staple/</a></div><div><br></div><div>Applications should be submitted as a single PDF file containing 1) your full CV, 2) a brief research statement (1-page) and 3) a list of publications in an email (indicating the position by STAPLE-PostDoc) sent to rene.poncelet@ifj.edu.pl . You should also arrange for two letters of recommendation to be sent by email to the same email address by the closing date.</div><div><br></div><div>The closing date for applications is 21/12/2025. The application process has two stages, and shortlisted candidates of the first round are forwarded to the second stage with deadlines in mid January.</div><div><br></div><div>For more information about the positions please do not hesitate to contact Dr. Rene Poncelet (rene.poncelet@ifj.edu.pl)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-05T09:37:34.044887+00:00",
+      "updated": "2025-11-05T21:53:56.665880+00:00"
+    },
+    {
+      "id": "3076910",
+      "title": "Post-doc positions -- Quantum Gravity Group",
+      "institution": "Westlake University",
+      "deadline": "2025-12-22",
+      "description": "<div>The Quantum Gravity Group at the Institute for Theoretical Sciences at Westlake University, Hangzhou, China, led by Prof. Hongguang Liu, is seeking highly motivated postdoctoral researchers to join us.</div><div><br></div><div>We are a dynamic group focused on fundamental problems in quantum gravity, quantum field theory, and their mathematical structures. Our work leverages a combination of non-perturbative methods, including advanced analytic techniques, numerical simulations, and insights from quantum information theory.</div><div><br></div><div>The group currently comprises 4 (visiting) postdocs and PhD students, fostering a collaborative and supportive atmosphere. We maintain active collaborations with other leading groups within Westlake University and all over China and have a strong network of international partners. The detailed information about our research can be found on our website:&nbsp;<a href=\"https://qg.lab.westlake.edu.cn/\"><strong>https://qg.lab.westlake.edu.cn/</strong></a>.</div><div><br></div><div>Position: Postdoctoral Fellow (no. of vacancies: 1 or 2)</div><div>Start date: Flexible, ideally before January 1st, 2027.</div><div>Requirements:</div><div>1) Hold or expect to hold a Ph.D. degree in Theoretical Physics or a related field.</div><div>2) A strong research background in one or more of the following core areas: quantum field theory, quantum gravity, mathematical physics, or numerical methods.</div><div>3) Demonstrated research experience in non-perturbative approaches to quantum gravity and QFT. Ideal candidates will have expertise in areas including, but not limited to: loop quantum gravity, non-perturbative renormalization group methods, algebraic QFT, topological field theory, or low-dimensional gravitational models.</div><div>4) Aged under 35.</div><div><br></div><div>Compensation and Benefits</div><div>1. The research team offers a competitive and negotiable compensation package commensurate with the candidate's qualifications and experience. Applications for relevant projects and programs will be encouraged and supported.</div><div>2. The university assists with enrolling children in child care and school.</div><div>3. The university boasts comprehensive postdoctoral training, with programs including the Westlake University Outstanding Postdoctoral Fellows and Westlake Postdoctoral Fellowship for Women.</div><div><br></div><div>Funding</div><div>1. Postdocs receive a living allowance and research funding from the Hangzhou municipal government.</div><div>2. Recipients of funding from the China Postdoctoral Science Foundation or the Zhejiang Province Selected Funding for Postdoctoral Research Projects are entitled to supplementary funding of the same amount from the Hangzhou municipal government.</div><div>3. Postdocs who work full-time in Hangzhou after completing their postdoctoral research qualify for an allowance of 400,000 RMB from the Hangzhou municipal government.</div><div>4. Eligible new university graduates holding a doctoral degree or equivalent who work full time in Hangzhou (including those who studied abroad and returned to China within 5 years of graduation as well as foreign talent) can apply to the Hangzhou municipal government for a living allowance of 100,000 RMB.</div><div>5. Postdocs recognized as high-level talent in Hangzhou enjoy corresponding preferential policies.</div><div><br></div><div>Application Materials Required: - Cover Letter - Curriculum vitae - Research Statement - 3 letters of reference</div><div><br></div><div>For primary consideration, please submit all materials by <strong>December 22, 2025</strong>. Applications arriving later than this will be considered until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31099"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T09:10:21.201617+00:00",
+      "updated": "2025-11-05T21:47:18.641406+00:00"
+    },
+    {
+      "id": "3076909",
+      "title": "“Juan de la Cierva” postdoctoral fellowships in Fundamental Physics",
+      "institution": "Murcia U.",
+      "deadline": "2025-11-23",
+      "description": "<div>The FISPAC group at the University of Murcia welcomes candidates who wish to apply for a Juan de la Cierva fellowship from the Government of Spain. These fellowships are intended for researchers who recently finished their PhD and have a duration of 3 years, covering salary plus research expenses.&nbsp;</div><div>In order to apply, candidates need to be supported by a host institution and our group is looking to support a few applicants. We especially welcome researchers with a background on gravity, string theory or quantum field theory (see the research lines of our group below).</div><div><br></div><div>Interested candidates should send their CV to <a href=\"mailto:pablcano@um.es\">pablocano@um.es</a> before November 23.&nbsp;Please include inside the CV a short research statement.</div><div><br></div><div>Information about the call can be found here:&nbsp;</div><div><a href=\"https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2025/convocatoria\">https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2025/convocatoria</a></div><div><br></div><div><strong>Important condition:</strong> candidates must have defended their PhD thesis between 01/01/2024 and 31/12/2025.&nbsp;</div><div><br></div><div>Our group:</div><div>---------------</div><div>In addition to various predoctoral fellows, our research team comprises the following permanent members:</div><ul><li>César A. Agón</li><li>Federico Bonetti</li><li>Pablo A. Cano</li><li>José J. Fernández-Melgarejo</li><li>Kostas Glampedakis</li><li>Javier Molina-Vilaplana</li><li>Luca Romano</li><li>Emilio Torrente-Luján</li></ul><div>Our research lines include:&nbsp;</div><ul><li>Gravity beyond GR, black holes and gravitational waves</li><li>Holography</li><li>Non-Lorentzian gravity</li><li>String theory, supergravity and compactifications</li><li>Quantum field theories and generalized symmetries</li><li>Quantum information and entanglement</li></ul><div>Job conditions:</div><div>--------------------</div><div>- 3-year contract</div><div>- Salary will be within the University of Murcia scale, including social security and institutional benefits.</div><div>- Starting date: Fall 2026</div><div><br></div><div>Universidad de Murcia is an equal opportunity employer committed to diversity in the workplace. We especially encourage women to apply.</div><div><br></div><div>The environment:</div><div>------------------------</div><div>Murcia is the capital city of its Region, located in the south-east of Spain, 40 km from the Mediterranean Sea. The weather in Murcia is good year round and the area offers plenty of outdoor and cultural recreation opportunities. Universidad de Murcia is a large university which offers a very pleasant environment for research and is very well connected with the rest of Spain and Europe.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2025/convocatoria"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T08:54:10.392469+00:00",
+      "updated": "2025-11-05T21:55:29.703059+00:00"
+    },
+    {
+      "id": "3076905",
+      "title": "Joint European Postdoc Application in Theoretical High Energy Physics",
+      "institution": "35 institutions in Europe",
+      "deadline": "2025-12-17",
+      "description": "<div>This is the application procedure that combines the postdoc applications of a group of European institutes with research in theoretical high-energy physics related to the unification of fundamental interactions, in particular inspired by string theory, with relations to quantum gravity, supersymmetry and formal QFT in general. It is the direct successor of the common postdoc application hosted at KULeuven until 2025.</div><div><br></div><div>The deadline for applications is December 17, 2025, at 23:59 CET. It concerns postdoc positions starting autumn 2026.&nbsp;Applicants can apply with a single application to 35 institutes in Europe that may have openings in this call.</div><div><br></div><div>The topics of the positions advertised in these institutes are generally the following: Applied holography, Holography, CFT, String phenomenology and string cosmology, Supergravity, Amplitudes, Black holes, Worldsheet string theory, Swampland, Asymptotic symmetries, Symmetries and dualities, Supersymmetric field theories, Integrability in string and field theory, Higher spin, Nonperturbative QFT, Quantum information and gravity.</div><div><br></div><div>Application link (AJO): <a href=\"https://academicjobsonline.org/ajo/jobs/30903\">https://academicjobsonline.org/ajo/jobs/30903</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/30903"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T08:39:39.037700+00:00",
+      "updated": "2025-11-05T22:12:33.392193+00:00"
+    },
+    {
+      "id": "3076904",
+      "title": "Theory postdoc position at Department of Theoretical Physics",
+      "institution": "Stefan Inst., Ljubljana",
+      "deadline": "2025-12-15",
+      "description": "<div>The particle theory group at the Jožef Stefan Institute in Ljubljana, Slovenia invites outstanding young</div><div>researchers to apply for a post-doctoral position(s).</div><div><br></div><div>The areas of interest include grand unification, supersymmetric and extra-dimensional models, flavor physics and CP violation, baryon and lepton number violation, Higgs physics, particle dynamics in the early Universe, collider phenomenology, applications of machine learning to particle phenomenology, and lattice QCD, both within the Standard Model and beyond.</div><div><br></div><div>The particle physics phenomenology group members are: J. F. Kamenik (head), B. Bajc, S. Fajfer, N. Košnik, L. Leskovec, M. Nemevšek, S. Prelovšek Komelj, A. Smolkovič, L. Ubaldi.</div><div><br></div><div>The two-year position starts in the fall of 2026 and lasts until the fall of 2028, with a possible one-year extension. Actual number of positions depends on the approved project funding. Eligible candidates should hold a PhD degree in Theoretical Particle Physics at the time of the position start.</div><div><br></div><div>Applications must include a CV, a list of publications, a statement of research interests and recommendation letters of at least two senior scientists.</div><div><br></div><div>The application has to be submitted until December 15, 2025 via <a href=\"https://academicjobsonline.org/ajo/jobs/31085\">Academic Jobs Online</a>. We will follow \"The January 31 High Energy Theory Postdoc Accord”.</div><div><br></div><div>For further information please write directly to hep-th@ijs.si.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31085"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T08:27:53.394958+00:00",
+      "updated": "2025-11-05T21:56:31.478566+00:00"
+    },
+    {
+      "id": "3076903",
+      "title": "Postdoctoral position in Theoretical Particle Physics",
+      "institution": "IPhT, Saclay",
+      "deadline": "2025-12-12",
+      "description": "<div>The Institut de Physique Théorique (IPhT) of the CEA/Saclay and the Laboratoire de Physique Théorique des Hautes Energies (LPTHE) of the Sorbonne Université invite applications for a postdoctoral research position in Theoretical Particle Physics, funded by the ANR P2S2 project.</div><div><br></div><div>The position is available initially for a fixed-term duration of 2 years, with the possibility of extension for 1 further year.</div><div><br></div><div>The P2S2 project aims at developing parton-shower algorithms with unprecedented (logarithmic) accuracy for jet substructure at the LHC. The project also has connections with analytic resummations and studies of jet substructure observables.&nbsp;</div><div><br></div><div>The selected candidate will work with Gregory Soyez at the IPhT and Matteo Cacciari at the LPTHE, both in the Paris area. Both institutes have a strong QCD and particle physics group and the postdoc will be able to spend time at both locations.&nbsp;</div><div><br></div><div>Applicants should hold a PhD in Physics, or be close to completion, and ideally have a strong background in perturbative quantum chromodynamics (QCD) at particle colliders. Candidates are expected to demonstrate a capacity for independent research work and should have a publication record commensurate with their career stage.&nbsp;</div><div><br></div><div>Applications are to be submitted through Academic Jobs Online via <a href=\"https://academicjobsonline.org/ajo/jobs/31067\">this link</a>. The application consists of</div><ul><li>&nbsp;a cover letter,&nbsp;</li><li>a CV and a list of publications,</li><li>a description of the research achievements,</li><li>3 reference letters.</li></ul><div>All the documents submitted should be in PDF format. Only applications received by Friday the 12th of December 2025 will be considered. Please direct inquiries about the position to Gregory Soyez (<a href=\"mailto:gregory.soyez@ipht.fr\">gregory.soyez@ipht.fr</a>) and/or Matteo Cacciari (<a href=\"mailto:cacciari@lpthe.jussieu.fr\">cacciari@lpthe.jussieu.fr</a>).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31067"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T08:16:31.762633+00:00",
+      "updated": "2025-11-05T22:00:41.701809+00:00"
+    },
+    {
+      "id": "3076896",
+      "title": "PhD position in theoretical cosmology",
+      "institution": "RWTH Aachen U.",
+      "deadline": "2025-12-15",
+      "description": "<div>The Institute for Theoretical Particle Physics and Cosmology (TTK) at RWTH Aachen University invites applications for a PhD position in cosmology under the supervision of Julien Lesgourgues (salary scale: 75% of E13 TVL). The appointment is for three years, starting on the 1st of October 2026.</div><div><br></div><div>Description: The position is dedicated to developing a robust and efficient framework that incorporates a broad range of neutrino and dark-matter models, assessing their effects on large-scale-structure (LSS) statistics as measured by the power spectrum and bispectrum of galaxies or intensity maps. The project emphasizes spectroscopic galaxy surveys—in particular the analysis of data from the ESA Euclid mission—and 21-cm intensity mapping, especially from the SKA Observatory (SKAO). Our goal is to generalize existing analytic methods—particularly the Effective Field Theory of Large-Scale Structure (EFTofLSS)—to include the effects of massive neutrinos and non-standard dark matter, validate theoretical predictions against simulated datasets, forecast expected constraints from Euclid and SKAO, and ultimately analyze the Euclid spectroscopic galaxy sample in its second data release.</div><div><br></div><div>Collaboration Framework: This position is funded by DarkES, a joint ANR–DFG research project supported by the French and German national science foundations, co-led by Azadeh Moradinezhad (LAPTh, Annecy) and Julien Lesgourgues. In addition to the PhD student based in Aachen, the collaboration will include a postdoctoral researcher based at LAPTh, ensuring close and regular interaction between the Annecy and Aachen teams through joint meetings and short visits. Collaborations are also forseen with the group of Mathias Garny (TUM, Munich). The selected student will also have the opportunity to join the Euclid Consortium within the framework of the project.</div><div><br></div><div>Qualifications and Team : The selected student should hold their Master degree on the first day of employement. We seek for students having already acquires some good knowledge of general relativity, quantum field theory, and cosmology during their Master studies. Experience on cosmological perturbations and the theory of large-scale structure acquired through a research project is a plus. We strongly encourage applications from qualified women and underrepresented minorities. Applicants should provide a curriculum vitae, as well as a brief research statement (up to one page, outlining past research projects, future plans, and fit to the position). Applications should be send to the email address: ttkphd@physik.rwth<a href=\"http://-aachen.de\">-aachen.de</a> before December 15, 2025. In the subject field, please include at least the word 'darkes 2025' and your family name (e.g.: 'darkes 2025 Lemaitre'). In addition, the applicant should arrange for two to three letters of recommendation to be sent to the same address.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.particle-theory.rwth-aachen.de/cms/Particle-Theory/Das-Institut/~gfla/offene-Stellen/lidx/1/"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T07:47:07.671566+00:00",
+      "updated": "2025-11-05T21:57:06.032350+00:00"
+    },
+    {
+      "id": "3076895",
+      "title": "Postdoctoral position, hadron theory, Institute of Modern Physics, Huizhou campus, Chinese Academy of Sciences",
+      "institution": "Hui Zhou, Inst. Modern Phys.",
+      "deadline": "2025-12-14",
+      "description": "<div>Postdoctoral position, hadron theory, Institute of Modern Physics, Chinese Academy of Sciences, Huizhou</div><div><br></div><div>We announce the opening of a postdoc position starting in 2026 with a flexible stating date at the Huizhou campus of the Institute of Modern Physics (IMP), Chinese Academy of Sciences. The position is for two years. The base salary is about 300k RMB/year including taxes. Candidates should have a Ph.D degree at the starting date and they should be under 35 years old.</div><div><br></div><div>Successful applicants are expected to work on theoretical hadron physics and related fields with Shunzo Kumano at the IMP, especially on structure functions of hadrons at high energies. Applicants with broad interests in related particle and nuclear physics fields are also welcome to apply.</div><div><br></div><div>The Huizhou campus is a new campus of IMP and it started a few years ago (<a href=\"https://english.imp.cas.cn/about/multimedia/videos/202501/t20250127_899464.html\">https://english.imp.cas.cn/about/multimedia/videos/202501/t20250127_899464.html</a>). It is becoming one of world's activity centers in hadron physics by hosting domestic and international conferences. The High-Intensity Heavy Ion Accelerator Facility (HIAF) will be ready soon. There are large international airports nearby in Guangzhou, Shenzhen, and Hong Kong, so that access is easy from major cities in China and foreign countries.&nbsp;</div><div><br></div><div>An applicant should send a curriculum vitae including date of birth and Ph.D date, a list of publications, and a research plan. One also needs to arrange at least two reference letters to be sent directly by the referees. The review will start with receiving the application documents and will continue until the positions are filled.&nbsp;</div><div><br></div><div>Contact: Prof. Shunzo Kumano (kumanos2025@gmail.com)</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-05T07:21:22.376683+00:00",
+      "updated": "2025-11-05T22:10:16.233075+00:00"
+    },
+    {
+      "id": "3076894",
+      "title": "Postdoctoral position, hadron theory",
+      "institution": "Hui Zhou, Inst. Modern Phys.",
+      "deadline": "2025-12-14",
+      "description": "<div>Postdoctoral position, hadron theory, SCNT, Institute of Modern Physics, Huizhou campus, Chinese Academy of Sciences</div><div><br></div><div>Applications are invited for postdoctoral positions at the Southern Center for Nuclear-Science Theory (SCNT), Institute of Modern Physics, Chinese Academy of Sciences, Huizhou city, Guangdong province, China. The center was founded in 2022. Its current interest covers most physics topics related to the High-Intensity Heavy-ion Accelerator Facility (HIAF) and future upgrades. In particular, postdoctoral positions are opened for applicants in the areas of QCD, hadron physics, nucleon structure physics, muon physics, neutrino physics, vortex states physics, new physics, et. al. (both theory and experiment).</div><div><br></div><div>The appointment is for two years，and it is expected to start from now on or be negotiable on request. Successful postdocs will be paid on an internationally competitive level, ca. 300k RMB per annum, and will also get support for traveling and attending workshops. All postdocs are eligible and encouraged to apply for grants to the China Postdoctoral Science Foundation and the National Natural Science Foundation of China.</div><div><br></div><div>Applicants should send a curriculum vitae (including date of birth and Ph.D. date), a list of publications, and a research plan, and arrange for at least two reference letters to be sent directly by the referees. The review will start with receiving the application documents and continue until the positions are filled.</div><div><br></div><div>There are also visiting professor and professor positions are available.</div><div><br></div><div>Contact: Prof. Shunzo Kumano (kumanos2025@gmail.com), Prof. Xurong Chen (xchen@impcas.ac.cn)</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-05T07:14:01.482226+00:00",
+      "updated": "2025-11-05T22:02:40.530145+00:00"
+    },
+    {
+      "id": "3076868",
+      "title": "Postdoctoral Research Associate Positions",
+      "institution": "IBS, Gyeongsangbuk, CGP",
+      "deadline": "2025-11-28",
+      "description": "<div><strong>2025-3 Recruitment Announcement for Postdoctoral Research Associate Positions at the Center for Geometry and Physics&nbsp;</strong></div><div><br></div><div>Institute for Basic Science (IBS) is a national research institute established in accordance with Article 14 of the Special Act on Establishment of and Support for International Science and Business Belts. IBS aims to discover creative knowledge and secure original technologies through world-class basic science research.</div><div>&nbsp;The Center for Geometry and Physics at the Institute for Basic Science invites researchers to join the project “M-brane Network and Quantum Integrability”, led by IBS Junior Chief Investigator Saebyeok Jeong.&nbsp;</div><div>&nbsp;The project seeks to explore the mathematical structures underlying quantum field theory and string theory, including quantum integrability, vertex algebras, the geometry of moduli spaces, and enumerative invariants. We invite creative and highly motivated researchers who wish to pursue research in these areas or in related topics at the intersection of mathematics and theoretical physics. Detailed research objectives and directions can be found on the webpage (<a href=\"https://www.ibs.re.kr/cgp/\"><strong>https://www.ibs.re.kr/cgp/</strong></a>).&nbsp;</div><div><br></div><div>There are 1 categories for the opening positions.&nbsp;</div><div>&nbsp;Category 1) Postdoctoral research associate&nbsp;</div><div>- Mathematical Physics</div><div><br></div><div>※ Important: The deadline is 18:00 in KST time, 28th November 2025</div><div>※ Detailed recruitment page:&nbsp;<a href=\"https://ibs.re.kr/prog/recruit/kor/sub04_01/view.do?pageIndex=1&amp;searchCondition=&amp;searchKeyword=&amp;idx=1993\"><strong>https://ibs.re.kr/prog/recruit/kor/sub04_01/view.do?pageIndex=1&amp;searchCondition=&amp;searchKeyword=&amp;idx=1993</strong></a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.ibs.re.kr/prog/recruit/eng/sub04_01/view.do?pageIndex=1&searchCondition=&searchKeyword=&idx=1993"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T05:50:21.417170+00:00",
+      "updated": "2025-11-05T22:11:16.983353+00:00"
+    },
+    {
+      "id": "3076621",
+      "title": "Post-Doctoral Researcher Position in Theoretical Cosmology",
+      "institution": "Annecy, LAPTH",
+      "deadline": "2025-12-19",
+      "description": "<div><strong>Description: </strong>The LAPTh (CNRS/USMB) invites expressions of interest for a postdoctoral researcher position in theoretical cosmology. The position is dedicated to developing a robust and efficient framework that incorporates a broad range of neutrino and dark-matter models, assessing their effects on large-scale-structure (LSS) statistics as measured by the power spectrum and bispectrum of galaxies or intensity maps. The project emphasizes spectroscopic galaxy surveys—in particular the analysis of data from the ESA Euclid mission—and 21-cm intensity mapping, especially from the SKA Observatory (SKAO). Our goal is to generalize existing analytic methods—particularly the Effective Field Theory of Large-Scale Structure (EFTofLSS)—to include the effects of massive neutrinos and non-standard dark matter, validate theoretical predictions against simulated datasets, forecast expected constraints from Euclid and SKAO, and ultimately analyze the Euclid spectroscopic galaxy sample in its second data release.</div><div><br></div><div><strong>Collaboration Framework and Funding: </strong>This position is funded by DarkES, a joint ANR–DFG research project supported by the French and German national science foundations, co-led by Dr. Azadeh Moradinezhad (LAPTh) and Prof. Julien Lesgourgues (RWTH Aachen University). In addition to the postdoctoral researcher based at LAPTh, the collaboration will include a PhD student and several Master’s students in Aachen, ensuring close and regular interaction between the Annecy and Aachen teams through joint meetings and short visits. Collaborations with the group of Prof. Mathias Garny at Technical University of Munich (TUM) on particle physics modeling of nonstandard neutrino and dark matter components as well as applications to Lyman-alpha forest also foreseen. The selected postdoc will also have the opportunity to join the Euclid Consortium within the framework of the project.</div><div><br></div><div><strong>Qualifications and Team :</strong> We seek a researcher with demonstrated experience in perturbative modeling of LSS (in particular biased tracers of dark matter), analysis of simulated datasets, and strong programming in Python and C. Familiarity with galaxy-redshift survey or 21-cm data analysis is a plus. The successful candidate will join the cosmology and astroparticle team at LAPTh under the supervision of Dr. Moradinezhad. The position offers access to CNRS/LAPTh computing resources and travel support, as well as rich interactions with collaborators at RWTH Aachen and TUM and with the broader regional community (including the University of Geneva and CERN).</div><div><br></div><div><strong>Terms of Employment :</strong> The appointment is for two years, renewable for a third year subject to performance and funding, with salary set by the CNRS scale and commensurate with experience. A PhD in cosmology, astrophysics, or theoretical physics is required by the start date. The start date is October 1st- 2026.</div><div><br></div><div><strong>Application Procedure: </strong>Applications should be submitted in English via <a href=\"https://academicjobsonline.org/ajo/jobs/31091\">AcademicJobsOnline</a> and include: (i) a cover letter; (ii) a CV with publications; (iii) a research statement (up to four pages) outlining past work, future plans, and fit to the position; and (iv) three letters of recommendation to be arranged by the applicant. Shortlisted candidates will be invited to a remote interview. For questions, please contact Dr. Moradinezhad.</div><div><br></div><div><strong>About LAPTh </strong>(<a href=\"https://lapth.cnrs.fr\">https://lapth.cnrs.fr</a>): LAPTh is a mixed research unit (UMR) of CNRS and Université Savoie Mont Blanc (USMB). Its scientific activities span cosmology and astroparticles, particle physics, and mathematical physics. The cosmology and astroparticle team (<a href=\"https://astrocosmolapth.com\">https://astrocosmolapth.com</a>) conducts research on cosmic large-scale structure, cosmic microwave and infrared backgrounds, cross-correlations between cosmological datasets, early-Universe physics, cosmic-ray propagation and dark matter, gamma-ray bursts, and astrophysical probes of neutrinos.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31091"
+      ],
+      "contact_email": null,
+      "created": "2025-11-04T22:34:30.866566+00:00",
+      "updated": "2025-11-05T22:06:17.719181+00:00"
+    },
+    {
       "id": "3076603",
       "title": "Professor and Chair, Department of Physics",
       "institution": "Arizona State U.",
@@ -3585,415 +3983,8 @@
       "contact_email": null,
       "created": "2025-10-12T17:27:36.397368+00:00",
       "updated": "2025-10-13T16:01:38.056010+00:00"
-    },
-    {
-      "id": "3066409",
-      "title": "Tenure-track Research associate professor positions - Theoretical Physics Division",
-      "institution": "Beijing, Inst. High Energy Phys.",
-      "deadline": "2026-01-31",
-      "description": "<div><strong>Tenure-track Research associate professor positions at Theoretical Physics Division of IHEP</strong></div><div><br></div><div>The Theoretical Physics Division of IHEP invites applications to fill one or two tenure-track research positions in 2026. Candidates with a PhD degree and at least three years of postdoctoral experience in theoretical particle physics, hadron physics, nuclear physics, particle astrophysics, cosmology and quantum gravity are encouraged to apply.</div><div><br></div><div>Applicants should send their curriculum vitae (including a list of publications and a research plan) and arrange three letters of recommendation to be sent to the following address:&nbsp;</div><div><br></div><div>Ms. Li CHEN&nbsp;</div><div>Theoretical Physics Division,&nbsp;</div><div>Institute of High Energy Physics, Chinese Academy of Sciences&nbsp;</div><div>P.O. Box 918-4, Beijing 100049, China&nbsp;</div><div>Email:&nbsp;<a href=\"mailto:chenli@ihep.ac.cn\">chenli@ihep.ac.cn</a></div><div><br></div><div><strong>Deadline date:&nbsp;Jan&nbsp;31st, 2026</strong></div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "JUNIOR"
-      ],
-      "experiments": [],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-10-11T01:46:42.065883+00:00",
-      "updated": "2025-10-13T15:54:38.274316+00:00"
-    },
-    {
-      "id": "3066395",
-      "title": "Assistant Professor",
-      "institution": "Louisiana State U.",
-      "deadline": "2025-11-09",
-      "description": "<div><strong>Assistant Professor (Tenure Track)</strong></div><div>Experimental Low Temperature and Quantum Device Physics</div><div>Department of Physics and Astronomy</div><div>Louisiana State University</div><div><br></div><div>The Louisiana State University (LSU) College of Science and the Department of Physics and Astronomy seek to hire an outstanding academic researcher and educator at the rank of tenure-track Assistant Professor in the field of Experimental Low Temperature Quantum Device Physics. We invite applicants with a strong track record of research in experimental low-temperature physics, solid-state physics and/or quantum device physics with potential applications in quantum computing and sensing. The ideal candidate’s research will complement and enhance the activities of the Experimental and Theoretical Condensed Matter and Quantum Science and Technology groups within the department.</div><div><br></div><div>The successful candidate will be expected to lead a vibrant research program funded by external grants with high visibility, and to mentor young scientists (undergraduates, PhD students, and Post Docs). In addition, the candidate should effectively teach the LSU physics curriculum at both undergraduate and graduate levels.</div><div><br></div><div>The Department of Physics and Astronomy is a dynamic, innovative department on the beautiful LSU campus in Baton Rouge with modern teaching and research facilities. Our faculty and students conduct internationally recognized research in Astrophysics, Atomic Physics and Quantum Optics, Condensed Matter Physics of Quantum Materials, Gravitational Physics and General Relativity, Nuclear and Particle Physics, as well as Medical Physics. The Hearne Institute of Theoretical Physics spans all subfields of Astrophysics and Cosmology, Atomic, Nuclear and Particle Physics, Gravity and General Relativity, and Quantum Theory of Matter, Fields and Information. The Department of Physics and Astronomy is part of the College of Science, and is also affiliated with the Center for Computational Technologies, providing excellent opportunities for collaboration and interdisciplinary research with faculty/researchers from Biological Sciences, Chemistry, Geology and Geophysics, and Mathematics.</div><div><br></div><div>Please see the link below to view the full job description and to apply for this position:</div><div><a href=\"https://lsu.wd1.myworkdayjobs.com/LSU/job/0233C-JW-Nicholson-Hall/Assistant-Professor_R00110109\">https://lsu.wd1.myworkdayjobs.com/LSU/job/0233C-JW-Nicholson-Hall/Assistant-Professor_R00110109</a></div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "JUNIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://lsu.wd1.myworkdayjobs.com/LSU/job/0233C-JW-Nicholson-Hall/Assistant-Professor_R00110109"
-      ],
-      "contact_email": null,
-      "created": "2025-10-10T19:51:02.735488+00:00",
-      "updated": "2025-10-13T16:32:37.047491+00:00"
-    },
-    {
-      "id": "3066388",
-      "title": "Postdoctoral fellowship in astroparticle theory",
-      "institution": "Queen's U., Kingston",
-      "deadline": "2025-12-05",
-      "description": "<div>Queen’s University and the Arthur B McDonald Canadian Astroparticle Physics Research Institute (McDonald Institute) are accepting applications for a McDonald Institute-CITA Theory Fellowship at Queen's University in astroparticle theory, particle phenomenology, cosmology, the astrophysics of dark matter and high energy theory beginning in the 2026-2027 academic year. Applicants will be selected based on their ability to conduct independent theory research and their potential to collaborate with astroparticle experimentalists and astrophysicists at Queen’s University. Postdoctoral fellows will join the High Energy and Astroparticle Theory group at Queen’s University, with faculty Joseph Bramante, Aaron Vincent, Larry Widrow, Kristine Spekkens, and other postdoctoral fellows. A full description, along with application procedures, can be found on AJO: <a href=\"https://academicjobsonline.org/ajo/jobs/30840\">https://academicjobsonline.org/ajo/jobs/30840</a></div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/jobs/30840"
-      ],
-      "contact_email": null,
-      "created": "2025-10-10T17:23:25.918849+00:00",
-      "updated": "2025-10-13T15:55:20.855336+00:00"
-    },
-    {
-      "id": "3066382",
-      "title": "Perimeter Postdoctoral Program",
-      "institution": "Perimeter Inst. Theor. Phys.",
-      "deadline": "2025-11-01",
-      "description": "<div>Each year Perimeter Institute for Theoretical Physics invites applications for postdoctoral positions, including&nbsp;<a href=\"https://perimeterinstitute.ca/named-postdoctoral-fellowships\">named fellowships</a>, from new and recent PhDs working in fundamental theoretical physics.</div><div><br></div><div>Our areas of research include:</div><ul><li><a href=\"https://perimeterinstitute.ca/cosmology\">Cosmology</a></li><li><a href=\"https://perimeterinstitute.ca/mathematical-physics\">Mathematical physics</a></li><li><a href=\"https://perimeterinstitute.ca/particle-physics\">Particle physics</a></li><li><a href=\"https://perimeterinstitute.ca/quantum-fields-and-strings\">Quantum fields and strings</a></li><li><a href=\"https://perimeterinstitute.ca/quantum-foundations\">Quantum foundations</a></li><li><a href=\"https://perimeterinstitute.ca/quantum-information\">Quantum information</a></li><li><a href=\"https://perimeterinstitute.ca/quantum-gravity\">Quantum gravity</a></li><li><a href=\"https://perimeterinstitute.ca/quantum-matter\">Quantum matter</a></li><li><a href=\"https://perimeterinstitute.ca/strong-gravity\">Strong gravity</a></li></ul><div><br></div><div>Importantly, research at Perimeter focuses on the intersections of those research areas. Most postdoctoral positions are offered for a period of three years. You may be eligible to hold a named four year postdoctoral fellowship. Senior five-year fellowships are also available. Fellowships may, in addition, be offered jointly between Perimeter and partner institutes and universities.</div><div><br></div><div>Perimeter Institute offers a dynamic, multi-disciplinary environment with maximum research freedom and opportunity to collaborate within and across fields. We welcome applications from highly creative and intellectually adventurous theorists.</div><div><br></div><div>Perimeter offers:</div><ul><li>comprehensive support including a generous research and travel fund</li><li>opportunities to invite visiting collaborators</li><li>help and support for organizing workshops and conferences</li><li>a mentoring system that provides you with feedback and support to flourish as an independent researcher</li></ul><div>Applications are due&nbsp;<strong>November 1, 2025</strong>&nbsp;however, applications submitted after this date will be considered until all positions are filled. Referees may also continue to submit their references past this deadline.&nbsp;</div><div><br></div><div>Perimeter Institute is committed to diversity within its community and especially welcomes applications from racialized persons, women, Indigenous/Aboriginal People of North America, persons with disabilities, LGBTQ2S+ persons, and others who may contribute to the further diversification of ideas.&nbsp;Perimeter Institute provides support throughout the application process for applicants with disabilities. We work with you to understand the impact of your disability to appropriately accommodate you during the application/interview process. Please contact&nbsp;<a href=\"mailto:accessibility@perimeterinstitute.ca\">accessibility@perimeterinstitute.ca</a>&nbsp;for assistance.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://bit.ly/3zVVxUa"
-      ],
-      "contact_email": null,
-      "created": "2025-10-10T15:57:11.584789+00:00",
-      "updated": "2025-10-13T16:07:30.156873+00:00"
-    },
-    {
-      "id": "3066340",
-      "title": "Research Scientist, Senior Research Scientist, Technical Scientist or Senior Technical Scientist",
-      "institution": "Nishina Ctr., RIKEN",
-      "deadline": "2025-11-24",
-      "description": "<div>The successful candidate will be assigned to one of the following teams and will be engaged in research and development as well as operation and maintenance in the corresponding area:</div><div><br></div><div>&nbsp;&nbsp;A.Liquid helium cooling system for the Superconducting Ring Cyclotron (Cryogenic Technology Team)</div><div>&nbsp;&nbsp;B.Beam monitors for high-intensity heavy-ion beams (Beam Dynamics and Diagnostics Team)</div><div>&nbsp;&nbsp;C.Radio-frequency systems of the RI Beam Factory (Cyclotron Team)</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://www.riken.jp/en/careers/researchers/20251009_2/index.html"
-      ],
-      "contact_email": null,
-      "created": "2025-10-10T11:53:20.786310+00:00",
-      "updated": "2025-10-13T15:56:19.122719+00:00"
-    },
-    {
-      "id": "3066321",
-      "title": "Society of Science Fellows Postdoctoral Fellowship",
-      "institution": "Notre Dame U.",
-      "deadline": "2025-12-15",
-      "description": "<div>The&nbsp;<strong>Department of Physics and Astronomy at the University of Notre Dame</strong>&nbsp;invites applications for the<strong>&nbsp;Society&nbsp;of&nbsp;Science&nbsp;Fellows&nbsp;Postdoctoral&nbsp;Fellowship</strong>.&nbsp;This&nbsp;fellowship&nbsp;was established to support highly motivated and accomplished individuals who represent the best of the next generation of&nbsp;scientists.&nbsp;Society&nbsp;of&nbsp;Science&nbsp;fellows&nbsp;benefit from additional research freedom, funding, mentoring and teaching opportunities beyond those normally available to a postdoctoral&nbsp;fellow.&nbsp;&nbsp;</div><div><br></div><div>The high energy group at Notre Dame consists of 9 experimental and 4 theoretical faculty.&nbsp;The experimental group conducts research with CMS, DUNE, EMPHATIC, and NA61, along with instrumentation and computing R&amp;D.&nbsp;&nbsp;Our theory group is at the forefront of studying effective field theories using geometric and on-shell methods to connect to collider data, understanding the subtle effects of particle physics models on early cosmological perturbations and observables, and applying generalized symmetries to particle physics, among many topics in physics Beyond the Standard Model.&nbsp;Successful candidates will be expected to join either the theory group or our experimental efforts on the CMS experiment or in neutrino physics.&nbsp;</div><div><br></div><div>For further information about this position, please contact Laura Fields (neutrino physics,&nbsp;<a href=\"mailto:lfields2@nd.edu\">lfields2@nd.edu</a>), Colin Jessop (CMS,&nbsp;<a href=\"mailto:cjessop@nd.edu\">cjessop@nd.edu</a>), or&nbsp;Yuhsin Tsai (theory,&nbsp;<a href=\"mailto:ytsai3@nd.edu\">ytsai3@nd.edu</a>).&nbsp;</div><div><br></div><div>Qualifications</div><div>A PhD in particle physics and a strong track record of recent accomplishments in high energy physics are required.</div><div><br></div><div>Application Instructions</div><div>Applicants should submit a cover letter, curriculum vitae, research statement, and the names and email addresses of three references via the&nbsp;<a href=\"https://apply.interfolio.com/173132\">application form</a>.&nbsp;&nbsp;<strong>Applications are due December 15th, 2025.</strong></div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "CERN-LHC-CMS",
-        "Fermilab-MI-DUNE",
-        "Fermilab-FNAL-Booster-SBND",
-        "EMPHATIC",
-        "CERN-NA-061"
-      ],
-      "urls": [
-        "https://sciencepostdocs.nd.edu/jobs/university-of-notre-dames-society-of-science-fellows/"
-      ],
-      "contact_email": null,
-      "created": "2025-10-10T10:07:23.610238+00:00",
-      "updated": "2025-10-13T19:16:29.360626+00:00"
-    },
-    {
-      "id": "3066268",
-      "title": "Postdoctoral Position",
-      "institution": "Cracow, INP",
-      "deadline": "2025-11-05",
-      "description": "<div>A person employed as an adjunct (post-doc) for a define period up to 33 Months at the Department of</div><div>Nuclear Reactions and Hadronic Processes - NZ24 at IFJ PAN will be obliged to participate in work on</div><div>research topics and projects implemented and planned for the nearest period at the NZ24 Department.</div><div>The basic tasks of the employed person will include: preparation of the conceptual design of a Cosmic-</div><div>Veto detector for the experiment searching for neutron-antineutron oscillations at European Spallation</div><div>Source (ESS) in Lund; implementation of this detector to the model for Monte-Carlo simulation, currently</div><div>under development; participation in the design, construction and performance tests of the detector</div><div>prototype; participation in the construction of the final detector and its integration with other</div><div>components of the detection system; analysis of the data obtained on each stage of the work.</div><div>The employed person will also be obliged to disseminate the results of research in the form of</div><div>publications in leading scientific journals indexed in the JCR and speeches during seminars and</div><div>conferences, including international ones. This person will also be obliged to apply for external funding for</div><div>research.</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2025/NZ24-Adiunkt_postdoc_AP-II-25-eng.pdf"
-      ],
-      "contact_email": null,
-      "created": "2025-10-10T08:43:12.891958+00:00",
-      "updated": "2025-10-13T15:57:42.603535+00:00"
-    },
-    {
-      "id": "3066239",
-      "title": "high-profile candidate for an international post-doctoral position with the Beams Application Group at the China Spallation Neutron Source (CSNS) in Dongguan",
-      "institution": "CAS, IHEP, Dongguan",
-      "deadline": "2026-01-07",
-      "description": "<div>We are seeking a high-profile candidate for an international post-doctoral position with the Beams Application Group at the China Spallation Neutron Source (CSNS) in Dongguan, China. CSNS is a high-end national laboratory under the Institute of High Energy Physics at the Chinese Academy of Sciences.</div><div>The successful candidate will work in the fields of neutron and muon science, utilizing white neutron sources and muon beams, respectively. Applicants should possess a strong academic background in experimental particle or nuclear physics.</div><div>The annual salary starts at 480,000 CNY. This position includes a comprehensive benefits package with social security provisions comparable to those in Europe.</div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-10-10T07:55:53.611165+00:00",
-      "updated": "2025-10-14T16:14:16.694417+00:00"
-    },
-    {
-      "id": "3065732",
-      "title": "Postdoctoral Research Fellow – Experimental High Energy Physics",
-      "institution": "U. Miss, Oxford",
-      "deadline": "2025-10-31",
-      "description": "<div>The Experimental High Energy Physics group at the University of Mississippi invites applicants for a Postdoctoral Research Fellow position to work on the DUNE experiment. The successful candidate is expected to take leading roles in detector installation and in preparations for data analysis including, but not limited to, low energy astrophysics and BSM searches. There will also be opportunities to participate in an EPSCoR implementation project focused on developing distributed computing and analysis infrastructure for DUNE and other Intensity Frontier experiments. Mentoring of graduate and undergraduate students will also be expected.</div><div>The DUNE experiment, based at Fermilab (Batavia, IL) and SURF (Lead, South Dakota), is currently entering a phase of Far Site (SURF) detector construction. DUNE is targeting commissioning and first collection of astrophysical and atmospheric neutrino data by the beginning of the next decade. The position will be based in Oxford, MS, with travel to SURF and Fermilab as needed.</div><div>A Ph.D. in experimental particle physics is required by the time of the initial appointment. Candidates must have experience with scientific programming languages such as Python and C++.</div><div>Applicants should submit all application materials as a single PDF document to <a href=\"mailto:heppostdoc@phy.olemiss.edu\">heppostdoc@phy.olemiss.edu</a>; the application should include a cover letter, a statement detailing research interests and experience, a curriculum vitae, and a publication list indicating significant contributions by the applicant. Applicants should also arrange for three letters of reference to be sent electronically to <a href=\"mailto:heppostdoc@phy.olemiss.edu\">heppostdoc@phy.olemiss.edu</a>/.</div><div>All correspondence should have “<em>UM DUNE Postdoc</em>” included in the subject line.</div><div><br></div><div>The position is available immediately and is renewable annually, contingent on satisfactory performance and available funding. We will <strong>begin reviewing applications on October 31,</strong> <strong>2025</strong> and continue until the position is filled.</div><div><br></div><div>For more information, please contact Prof. Breese Quinn at: quinn@phy.olemiss.edu.</div><div><br></div><div>EEO Statement</div><div>The University of Mississippi provides equal opportunity in any employment practice, education program, or education activity to all qualified persons. The University complies with all applicable laws regarding equal opportunity and does not unlawfully discriminate against any employee or applicant for employment based upon race, color, gender, sex, pregnancy, sexual orientation, gender identity or expression, religion, national origin, ethnicity, citizenship, age, disability, military status, protected veteran status, genetic information, or any other legally protected status.</div><div><br></div><div>Background Check Statement</div><div>The University of Mississippi is committed to providing a safe campus community. UM conducts background investigations for applicants being considered for employment. Background investigations include a criminal history record check, and when appropriate, a financial (credit) report or driving history check.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "Fermilab-MI-DUNE"
-      ],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-10-10T03:46:19.195744+00:00",
-      "updated": "2025-10-13T15:58:26.219811+00:00"
-    },
-    {
-      "id": "3065727",
-      "title": "Postdoctoral Research Fellow – Experimental High Energy Physics",
-      "institution": "U. Miss, Oxford",
-      "deadline": "2025-10-31",
-      "description": "<div>The Experimental High Energy Physics group at the University of Mississippi invites applications for two Postdoctoral Research Fellows, with a primary focus on distributed computing for the DUNE and Belle II experiments.&nbsp;</div><div>The successful candidates are expected to take significant roles in the development and support of distributed computing and analysis infrastructure for DUNE and/or Belle II, with opportunities to contribute to physics data analyses with the DUNE, NOvA, EMPHATIC, and/or Belle II experiments. Mentoring of graduate and undergraduate students will also be expected. Preference will be given to candidates with prior expertise in the analysis of particle physics datasets and software development.</div><div>A Ph.D. in experimental particle physics or an equivalent degree is required by the time of the initial appointment. Candidates must have experience with scientific programming languages such as Python and C++. The position is expected to be based at the University of Mississippi.</div><div><br></div><div>Applicants should submit all application materials as a single PDF document to <a href=\"mailto:heppostdoc@phy.olemiss.edu\">heppostdoc@phy.olemiss.edu</a>; the application should include a cover letter, a statement detailing research interests and experience, a curriculum vitae, and a publication list indicating significant contributions by the applicant. Applicants should also arrange for three letters of reference to be sent electronically to <a href=\"mailto:heppostdoc@phy.olemiss.edu\">heppostdoc@phy.olemiss.edu</a>/.</div><div>All correspondence should have “<em>UM Computing Postdoc</em>” included in the subject line.</div><div><br></div><div>The position is available immediately and is renewable annually, contingent on satisfactory performance and available funding. We will <strong>begin reviewing applications on October 31,</strong> <strong>2025</strong> and continue until the positions are filled.</div><div>For more information, please contact:</div><div>- Dr. Jake Bennett, <a href=\"mailto:jvbennet@olemiss.edu\">jvbennet@olemiss.edu</a> (Belle II)</div><div>- Dr. Gavin S. Davies, <a href=\"mailto:gsdavies@olemiss.edu\">gsdavies@olemiss.edu</a> (DUNE)</div><div><br></div><div>EEO Statement</div><div>The University of Mississippi provides equal opportunity in any employment practice, education program, or education activity to all qualified persons. The University complies with all applicable laws regarding equal opportunity and does not unlawfully discriminate against any employee or applicant for employment based upon race, color, gender, sex, pregnancy, sexual orientation, gender identity or expression, religion, national origin, ethnicity, citizenship, age, disability, military status, protected veteran status, genetic information, or any other legally protected status.</div><div>Background Check Statement</div><div>The University of Mississippi is committed to providing a safe campus community. UM conducts background investigations for applicants being considered for employment. Background investigations include a criminal history record check, and when appropriate, a financial (credit) report or driving history check.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "Fermilab-MI-DUNE",
-        "KEK-BF-BELLE-II"
-      ],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-10-10T03:43:28.151114+00:00",
-      "updated": "2025-10-13T16:33:30.055702+00:00"
-    },
-    {
-      "id": "3065722",
-      "title": "Postdoctoral Scholar on the PIONEER Experiment",
-      "institution": "Washington U., Seattle",
-      "deadline": "2025-12-15",
-      "description": "<div>The Department of Physics at the University of Washington invites applications for a post-doctoral scholar position starting in Winter 2026. This position offers a unique opportunity to contribute to forefront research at the Center for Nuclear Physics and Astrophysics (CENPA) in alignment with the NSAC 2023 Long Range Plan for Nuclear Science. The successful candidate will join a vibrant research environment on the UW Seattle campus, collaborating closely with scientists, engineers, technicians, and students at CENPA. This position is primarily associated with the PIONEER experiment, a next-generation rare pion decay spectrometer, which aims to test flavor universality up to the PeV scale. The University of Washington’s group, led by Quentin Buat, David Hertzog and Peter Kammel, is developing the active target and the calorimeter, employing cutting edge detector technologies (LGADs &amp; LYSO) and fast electronics. Our team also carries a host of simulations to prototype the experiment and develop the event reconstruction of the experiment.</div><div><br></div><div>The base salary range for this position will be $5705–$6500 per month, commensurate with experience and qualifications.&nbsp;The position is a full-time, 12-month (one-year) appointment, which may be extended (upon successful performance), subject to funding and mutual agreement. The Postdoctoral Scholar title is limited to five years, including postdoctoral experience(s) at UW and other institutions. Postdoctoral Scholars are represented by UAW 4121 and are subject to the collective bargaining agreement, unless agreed exclusion criteria apply. For more information, please visit the University of Washington&nbsp;<a href=\"https://hr.uw.edu/labor/2019/06/03/agreement-reached-with-uaw-postdoctoral-scholars-on-2019-2021-contract\">Labor Relations website</a>.&nbsp;</div><div><br></div><div><strong>About CENPA</strong></div><div>CENPA is a DOE Office of Nuclear Physics Center of Excellence, dedicated to advancing research in fundamental symmetries and neutrinos with an emphasis on discovering physics beyond the Standard Model. The Center hosts a broad program including LEGEND, He6-CRES, Project 8, Selena, PIONEER, and others. Our professional engineering and technical teams provide world-class expertise in instrumentation, prototyping, detector development, and experiment execution. For more information about CENPA and its research programs, please see the CENPA Annual Reports.</div><div>&nbsp;</div><div><strong>Qualifications</strong></div><div>The successful applicant should have a Ph.D., or foreign equivalent, by the time they start at the University of Washington.&nbsp;</div><div>&nbsp;</div><div><strong>Application Instructions</strong></div><div>Applications should be submitted in Interfolio and consist of a cover letter, a CV with list of publications, a research statement, and three letters of recommendation. Applications received by December 15, 2025, will receive full consideration. For questions about the position, please contact Prof. Quentin Buat (qbuat@uw.edu).&nbsp;&nbsp;</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "PIONEER"
-      ],
-      "urls": [
-        "https://apply.interfolio.com/175476"
-      ],
-      "contact_email": null,
-      "created": "2025-10-09T22:48:22.765263+00:00",
-      "updated": "2025-10-13T15:59:24.368637+00:00"
-    },
-    {
-      "id": "3065718",
-      "title": "Postdoctoral Research Scientist",
-      "institution": "Columbia U.",
-      "deadline": "2025-11-30",
-      "description": "<div>The High Energy Theory group at Columbia University has an opening for a postdoctoral position beginning in the Fall of 2026. We encourage applicants with expertise in theoretical high-energy physics, including scattering amplitudes, quantum field theory, gravitational physics, effective field theory, and string theory.</div><div><br></div><div>Applications should be submitted through AcademicJobsOnline. They should include a CV with a list of publications, a research statement (up to three pages), and three letters of recommendation.</div><div><br></div><div>The annual salary for this position will be at least $72,116. For additional inquiries about the position, please contact Sebastian Mizera (sebastian.mizera@columbia.edu).</div><div><br></div><div>Review of applications will begin on December 1, 2025. All applications submitted before this date will be given equal consideration. Columbia University is an equal opportunity employer and encourages applications from women and minority candidates.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/jobs/30833"
-      ],
-      "contact_email": null,
-      "created": "2025-10-09T21:27:26.498250+00:00",
-      "updated": "2025-10-13T16:10:57.314734+00:00"
-    },
-    {
-      "id": "3065551",
-      "title": "Postdoctoral position on ATLAS at the LHC (M/F)",
-      "institution": "L2IT, Toulouse",
-      "deadline": "2025-10-30",
-      "description": "<div>The Particle Physics team at the Laboratoire des 2 Infinis - Toulouse (L2IT) is offering a post-doctoral contract to reinforce its activities on the ATLAS experiment at the Large Hadron Collider (LHC) at CERN. The successful candidate will work at L2IT. His or her work will focus on the development of deep learning methods for reconstruction and physics analysis of the ATLAS experiment data.</div><div><br></div><div>The successful candidate will develop innovative analysis methods for the reconstruction or the physics analysis of data from the ATLAS experiment. The L2IT team plays a leading role within the ATLAS collaboration in the reconstruction of charged particle tracks using geometric deep learning (GDL). The person joining us can contribute to this effort, for example by applying GDL to novel signatures not yet explored in existing studies (electrons or tracks produced far away from the centre of the detector), by using this technique for the first time on Run 3 collision data, or by evaluating its performance achieved at the physics analysis level. Additionally, the L2IT effort on physics analysis focuses on understanding the dynamics of the scalar sector of the SM, by considering both the Higgs boson and the Nambu-Goldstone states. The successful candidate may contribute to the studies on di-Higgs production.</div><div><br></div><div>We are looking for a colleague with a PhD in particle physics. Experience with machine learning and/or experience with reconstruction algorithms for particle physics would be a plus.</div><div><br></div><div>The Laboratoire des 2 Infinis - Toulouse (L2IT) is a laboratory created in 2020 to conduct research in fundamental physics with new numerical and theoretical approaches to data analysis. The laboratory's research focuses on particle physics, gravitational waves and the equation of state of nuclear matter, and is supported by the concurrent development of data science and analysis methodologies. L2IT is operated by CNRS/IN2P3 and Université Toulouse III - Paul Sabatier. The L2IT Particle Physics team contributes to understanding the dynamics of the scalar sector of the Standard Model through studies of the Higgs boson and of the polarisation of vector bosons. It contributes to the development of data reconstruction software for the new tracker (ITk) that the ATLAS collaboration will install for the high-luminosity phase of the LHC. The successful candidate will work in close collaboration with other members of the Particle Physics team, and with members of the Computing, Algorithms and Data team at L2IT.</div><div><br></div><div>The position is initally for two years, potentially extendable. A starting date as early as December 1st, 2025 is possible. The position is based in Toulouse, with the possibility to travel to CERN as needed.</div><div><br></div><div>More details on the application procedure at: </div><div><a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR5033-ALEVAL-002/Default.aspx?lang=EN\">https://emploi.cnrs.fr/Offres/CDD/UMR5033-ALEVAL-002/Default.aspx?lang=EN</a></div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [
-        "CERN-LHC-ATLAS"
-      ],
-      "urls": [
-        "https://emploi.cnrs.fr/Offres/CDD/UMR5033-ALEVAL-002/Default.aspx?lang=EN"
-      ],
-      "contact_email": null,
-      "created": "2025-10-09T13:11:42.464408+00:00",
-      "updated": "2025-10-13T16:30:43.986061+00:00"
-    },
-    {
-      "id": "3065448",
-      "title": "PhD student position in CMS on Standard Model at Ultimate Precision",
-      "institution": "DESY",
-      "deadline": "2025-11-30",
-      "description": "<div><strong>About the lab:</strong></div><div>DESY, with more than 2900 employees at its two locations in Hamburg and Zeuthen, is one of the world's leading research centres. Its research focuses on decoding the structure and function of matter, from the smallest particles of the universe to the building blocks of life. In this way, DESY contributes to solving the major questions and urgent challenges facing science, society and industry. With its ultramodern research infrastructure, its interdisciplinary research platforms and its international networks, DESY offers a highly attractive working environment in the fields of science, technology and administration as well as for the education of highly qualified young scientists.</div><div><br></div><div>The CMS DESY group is based in Hamburg and is one of the largest groups worldwide participating in the CMS Experiment at CERN.&nbsp;Within DESY CMS, the group \"Standard Model at Ultimate Precision\" lead by Prof. K. Lipka focuses on high-precision tests of the model of our microcosm, the Standard Model of particle physics, and indirect search for fundamentally new, yet not known&nbsp;interactions by means of Standard Model Effective Field Theory (SMEFT). We perform dedicated measurements of top quark, jet and electroweak boson production in pp collisions at the LHC and interpret those in terms of fundamental parameters of the Standard Model - strong coupling constant,&nbsp;quark and boson masses, electroweak mixing angle, and, at the same time, imposing constraints on couplings of New Physics. We work closely together with leading theorists in the field and collaborate with ATLAS teams in the context of data combinations.</div><div><br></div><div><strong>The DESY CMS group is seeking to hire a PhD student to strengthen our team in precise measurements of top quark pair production and SMEFT interpretation of collider data.</strong></div><div><br></div><div><strong>About your role:</strong></div><ul><li>Contributions to an ongoing publication of global SMEFT interpretation of top quark, jet, and electroweak boson production in CMS</li><li>Analysis of CMS Run 3 data with a focus on top quark-antiquark pair production.</li><li>Selection and training of suitable machine learning/AI algorithms, for event reconstruction and classification</li><li>Interpretation in theoretical models</li><li>Contribution to a technical project</li><li>Contributions to data-taking and production (shifts)</li><li>Participation in schools and presentations at international workshops and conferences</li></ul><div><strong>About you:</strong></div><ul><li>Master of Science degree in physics with excellent grades</li><li>Applicants who have not yet completed their <a href=\"http://M.Sc\">M.Sc</a>. degree but are expected to obtain it soon are also encouraged to apply</li><li>Strong software skills in software packages used in experimental particle physics (ROOT, C++, Python)</li><li>Teamwork skills</li><li>Excellent English language and communication skills</li><li>Experience in LHC physics analysis is of advantage</li></ul><div><strong>How to apply:</strong></div><div>Letters of reference will only be requested for a limited number of candidates, your application should also include the names and email addresses of at least two references that will be contacted directly. Please submit your CV, academic grades, relevant certificates (if already available),&nbsp;university track of records, and a letter of motivation to Prof. K. Lipka. If you are still finishing your McS degree, don't hesitate to apply.</div><div><br></div><div><strong>Other info:</strong></div><div>PhD students receive a monthly salary of 67% of the payment of the remuneration group 13 TVöD (German Federal Government). German PhDs are targeted to take three years. The position is based in Hamburg. PhD is attained at the University of Wuppertal. Participation in teaching is possible, but not mandatory. DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position.&nbsp;</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "PHD"
-      ],
-      "experiments": [
-        "CERN-LHC-CMS"
-      ],
-      "urls": [
-        "https://standup.desy.de/"
-      ],
-      "contact_email": null,
-      "created": "2025-10-09T12:27:18.811752+00:00",
-      "updated": "2025-10-13T16:12:20.788797+00:00"
-    },
-    {
-      "id": "3065429",
-      "title": "Ph.D. in Theoretical Physics: Quantum Many Body Systems — out-of-equilibrium dynamics and transport properties",
-      "institution": "Shiv Nadar U.",
-      "deadline": "2025-11-09",
-      "description": "<div>Are you fascinated by how quantum systems maintain order in a noisy world?</div><div>We are building a group that explores how quantum coherence, dissipation, and driving combine to create stable quantum behavior in real systems. We use a mix of analytical theory and advanced computational methods to understand quantum coherence, transport, and spin selectivity across platforms ranging from quantum materials to molecular systems.</div><div><strong>Research Directions</strong></div><ol><li><strong>Quantum Coherence under Dissipation</strong>—Exploring driven–dissipative many-body systems using Lindblad master equations and tensor-network (MPS/TDVP) simulations to uncover emergent order and time-crystalline behavior.</li><li><strong>Microscopic Theory of Chirality-Induced Spin Selectivity (CISS)</strong>—Developing theoretical frameworks that connect molecular chirality, spin-orbit coupling, and quantum coherence to spin-selective transport phenomena.</li><li><strong>Quantum Transport and Non-Markovian Dynamics</strong>—Investigating energy and spin currents in open fermionic systems and spin chains, revealing how memory effects and long-range correlations shape steady states.</li><li><strong>Quantum and Optical Dynamics of Time-Varying Materials</strong>—Modelling nonlinear and ultrafast optical responses in low-electron-density Drude (LEDD) materials driven by few-cycle laser pulses.</li></ol><div>Our research bridges quantum theory, computation, and materials physics, offering opportunities to work on questions at the interface of quantum technology, spintronics, and nonlinear optics.</div><div><strong>Collaborative and Computational Environment</strong></div><div>Students will have access to high-performance computing clusters of SNIoE and group-specific high-memory workstations.</div><div><br></div><div>Students will be encouraged to engage with international collaborators working on quantum coherence and molecular spin transport, and nonlinear optics.</div><div><br></div><div>Depending on project fit and availability of travel support, Internations collaborations may be encouraged.</div><div>&nbsp;</div><div><strong>Eligibility and Application</strong></div><div>Applicants must satisfy the eligibility criteria listed in the <a href=\"https://snu.edu.in/admissions/graduate-programs/ph.d-physics-admissions-announcement-spring-2026/\">SNU Physics Ph.D. Admissions Announcement (Spring 2026)</a>.</div><div>Theoretical Physics candidates with a strong background in quantum mechanics, statistical physics, or condensed matter theory are especially encouraged to apply. Familiarity with numerical computation (Python, Julia, or MATLAB) is desirable but not mandatory.</div><div><br></div><div><strong>Financial Support</strong></div><div>All full-time Ph.D. students receive a <strong>monthly fellowship of ₹45,000 (first two years)</strong> and <strong>₹50,000 (next three years)</strong>, along with <strong>tuition and hostel fee waivers</strong> as per university policy. Additional support includes a <strong>research travel grant of up to ₹1.5 lakhs</strong> for conferences.</div><div><strong>&nbsp;</strong></div><div><strong>How to Apply</strong></div><div>Apply online through the SNU website before November 9, 2025.</div><div><br></div><div>While filling the application form, please indicate your preferred research area: <strong>Theoretical Physics</strong>, and mention your interest in <strong>Quantum many-body systems—out-of-equilibrium dynamics and transport properties. </strong></div><div><br></div><div><strong>Interested candidates can send their CV and cover letter to me.</strong></div><div>For academic queries about this position, contact:</div><div>Subhajit Sarkar</div><div>Assistant Professor, Department of Physics</div><div>Shiv Nadar Institution of Eminence, Delhi–NCR</div><div>📧 <em>subhajit.sarkar@snu.edu.in</em></div>",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "PHD"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://snu.edu.in/admissions/graduate-programs/ph.d-physics-admissions-announcement-spring-2026/"
-      ],
-      "contact_email": null,
-      "created": "2025-10-09T12:11:18.558098+00:00",
-      "updated": "2025-10-13T16:35:15.369056+00:00"
-    },
-    {
-      "id": "3064719",
-      "title": "Assistant Professor in Cosmology",
-      "institution": "U. Texas, Austin (main)",
-      "deadline": "2025-12-05",
-      "description": "<div><strong>Description</strong></div><div>The Department of Physics at The University of Texas at Austin invites applications for a tenure-track faculty position in Cosmology and related areas at the rank of Assistant Professor, to begin in Fall 2026.</div><div><br></div><div>The successful candidate will be a member of the Texas Center for Cosmology &amp; Astroparticle Physics (TCCAP) within the Weinberg Institute for Theoretical Physics, joining a vibrant research community with opportunities for collaboration within the Weinberg Institute (including the Center for Gravitational Physics, the High Energy Physics Theory Group), the Department of Astronomy, and the Oden Institute for Computational Engineering and Sciences. UT Austin also hosts the Texas Advanced Computing Center (TACC), home to some of the world’s most powerful supercomputing resources.</div><div>&nbsp;</div><div><strong>Qualifications</strong></div><div>Applicants must hold a Ph.D. in Physics or a closely related&nbsp;field<em>&nbsp;</em>by the start date of the appointment.<strong><em>&nbsp;</em>&nbsp;</strong></div><div>&nbsp;</div><div><strong>Application Instructions</strong></div><div>Applications must be submitted through Interfolio and should include: 1) a cover letter, 2) a complete Curriculum Vitae, 3) a research statement (up to 3 pages) describing past accomplishments and future plans, 4) a teaching statement (up to 2 pages), and 5) a list of publications.&nbsp;In addition, applicants must arrange for at least&nbsp;<strong>three letters of recommendation</strong>&nbsp;to be uploaded to Interfolio.</div><div><br></div><div>For full consideration, all application materials should be received by&nbsp;<strong>11:59 p.m. CST on December 5, 2025</strong>. Inquiries regarding the position or application process may be directed to faculty.search@physics.utexas.edu.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "JUNIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://apply.interfolio.com/175261"
-      ],
-      "contact_email": null,
-      "created": "2025-10-08T22:31:04.843922+00:00",
-      "updated": "2025-10-13T16:12:56.997429+00:00"
-    },
-    {
-      "id": "3064718",
-      "title": "Assistant Professor of Theoretical High-Energy Physics",
-      "institution": "UNC, Chapel Hill",
-      "deadline": "2025-12-05",
-      "description": "<div>The Department of Physics and Astronomy at the University of North Carolina at Chapel Hill seeks to hire a tenure-track Assistant Professor working in theoretical high-energy physics with an emphasis on particle physics beyond the Standard Model, quantum field theory in curved spacetime, or nonperturbative field theory.&nbsp;We seek an outstanding physicist who is prepared to lead a broad and ambitious research program that will enhance fundamental theoretical physics at UNC while complementing our department’s existing strengths in areas such as cosmology, gravitational physics, quantum field theory, and neutrino physics. We are particularly interested in candidates who would contribute to the mission of UNC’s <a href=\"https://cosms.unc.edu/\">CoSMS Institute</a>.</div><div><br></div><div>We seek someone who is eager to teach and mentor students in a way that promotes student success at a public university with a growing undergraduate student body and a significant proportion of<a href=\"https://www.unc.edu/story/first-generation-students-at-carolina/\"> first-generation college students</a>. The successful candidate will be comfortable teaching courses at both the undergraduate and graduate levels as part of our departmental <a href=\" https://physics.unc.edu/community/.\">community</a>.</div><div><br></div><div><strong>Educational requirements: </strong>Ph.D. in physics or related field</div><div><strong>Preferred Qualifications and Experience: </strong>At least two years of postdoctoral experience working in theoretical physics is preferred.</div><div><strong>Application materials:</strong></div><div>Applicants must provide a full CV including a publication list, a cover letter, a research statement and a teaching/mentoring statement. Applicants should also arrange for three reference letters to be submitted with their application. Candidates selected as finalists will be asked to provide the contact information for a fourth reference who can also provide a recommendation letter. Click <a href=\"https://unc.peopleadmin.com/postings/307644\">here</a> to apply.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "JUNIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://unc.peopleadmin.com/postings/307644"
-      ],
-      "contact_email": null,
-      "created": "2025-10-08T22:23:50.432743+00:00",
-      "updated": "2025-10-13T16:34:21.208156+00:00"
-    },
-    {
-      "id": "3064674",
-      "title": "Postdoctoral Researcher in Theory and Simulation of 2D Quantum Materials",
-      "institution": "U. Kansas, Lawrence",
-      "deadline": "2025-11-01",
-      "description": "<div>Applications are invited for a postdoctoral researcher in computational and theoretical condensed matter physics at the University of Kansas (KU). The postdoc will be co-supervised by Dr. Qunfei Zhou at KU and Dr. Kirill Belashchenko at the University of Nebraska-Lincoln (UNL), and work within a collaborated team of experimental and computational experts from KU and UNL.</div><div><br></div><div>The Materials Theory and Simulation group at the University of Kansas is focused on materials theory and simulation by using and developing advanced computational approaches. The group has strong interests in understanding and exploring emergent properties in two-dimensional (2D) materials and their heterostructures. The postdoctoral researcher would be expected to contribute to experiment-computation collaborated research projects that study exotic magnetic and topological states in 2D van der Waals materials. Candidates with experience in Density Functional Theory (DFT) calculations, tight-binding modeling, and machine learning are strongly encouraged to apply. The person would be expected to interact with and mentor students, and to disseminate scientific results via publications and presentations at international conferences.</div><div><br></div><div>The University of Kansas welcomed its first class 1866, and is now the state’s flagship institution and a public university classified as “R1: Doctoral Universities – Very high research activity” in the <a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcarnegieclassifications.acenet.edu%2F&amp;data=05%7C02%7Ctatekris%40ku.edu%7Cfad7ebdef63e4dc6a5cb08de063cc4af%7C3c176536afe643f5b96636feabbe3c1a%7C0%7C0%7C638955055263831440%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=QafJzoG1kh3qXASw7NUPIJIcaofIaLlan55fhDmcjTc%3D&amp;reserved=0\">Carnegie Classification framework</a>.&nbsp;Lawrence was founded as an abolitionist haven, and today it is a vibrant, diverse and welcoming community with about one hundred thousand residents. With a lively, quirky and walkable town center, numerous restaurants, 54 city parks, 30+ music venues, 100+ miles of trails and paths, bike-friendly roads, a free bus system, and scenic surrounding nature, Lawrence ranks among the <a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivability.com%2Fbest-places%2F2024-top-100-best-places-to-live-in-the-us%2F&amp;data=05%7C02%7Ctatekris%40ku.edu%7Cfad7ebdef63e4dc6a5cb08de063cc4af%7C3c176536afe643f5b96636feabbe3c1a%7C0%7C0%7C638955055263845947%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=Yq356iI%2FrOue8QrgQngs6%2FjUhE%2BPukm%2F8arL9i8CsEI%3D&amp;reserved=0\">Top 100 Best Places to Live in the U.S.</a> and the <a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.travelandleisure.com%2Fbest-college-towns-and-cities-6560620&amp;data=05%7C02%7Ctatekris%40ku.edu%7Cfad7ebdef63e4dc6a5cb08de063cc4af%7C3c176536afe643f5b96636feabbe3c1a%7C0%7C0%7C638955055263859908%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=1%2BIJGEU0vnQeL0VzoPH8dzTM0VtTShtquFhOYdB1Ad8%3D&amp;reserved=0\">25 Best College Towns and Cities in the U.S.</a></div><div><br></div><div>For more information and to apply go to <a href=\"http://employment.ku.edu/staff/31506BR\">http://employment.ku.edu/staff/31506BR</a>&nbsp;Initial review of applications will begin November 1st 2025, and will continue until the position is filled. For full consideration please ensure all application materials and recommendation letters arrive by this date.&nbsp;Candidates should submit a (1) Cover Letter, (2) Curriculum Vitae (including publications list), and should arrange for at least two recommendation letters to be sent to Prof. Qunfei Zhou, <a href=\"mailto:qunfei.zhou@ku.edu\">qunfei.zhou@ku.edu</a>.&nbsp;</div><div><br></div><div>Candidates stationed in the U.S. must be eligible to work in the U.S. by the effective date of the appointment.&nbsp;</div><div><br></div><div>The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university's programs and activities. Retaliation is also prohibited by university policy. The following person has been designated to handle inquiries regarding the nondiscrimination policies and is the Title IX coordinator for all KU and KUMC campuses: Associate Vice Chancellor for Civil Rights and Title IX, <a href=\"mailto:civilrights@ku.edu\">civilrights@ku.edu</a>, Room 1082, Dole Human Development Center, 1000 Sunnyside Avenue, Lawrence, KS 66045, 785-864-6414, 711 TTY.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "http://employment.ku.edu/staff/31506BR"
-      ],
-      "contact_email": null,
-      "created": "2025-10-08T16:08:26.613980+00:00",
-      "updated": "2025-10-08T20:18:54.006533+00:00"
-    },
-    {
-      "id": "3064668",
-      "title": "Assistant Professor of Experimental High-Energy Physics",
-      "institution": "Colorado State U., Fort Collins",
-      "deadline": "2025-11-09",
-      "description": "<div>The&nbsp;<strong>Department of Physics, Colorado State University</strong>, Fort Collins, Colorado, seeks to hire a tenure-track faculty member at the rank of Assistant Professor with research interests in&nbsp;<strong>experimental</strong>&nbsp;<strong>high-energy physics</strong>&nbsp;and/or<strong>&nbsp;experimental particle astrophysics</strong>. Candidates with research experience in these areas or related fields are encouraged to apply, especially those whose research interests complement the&nbsp;CSU&nbsp;program in high-energy physics and particle astrophysics.</div><div><br></div><div>Applications should be submitted online at&nbsp;<a href=\"https://jobs.colostate.edu/postings/166292\"><strong>https://jobs.colostate.edu/postings/166292</strong></a><strong>.</strong></div><div><br></div><div>Applications completed by&nbsp;<strong>November 9, 2025 by 11:59 pm (MT)&nbsp;</strong>will receive full consideration, but applications will be accepted and considered until the position is filled. Applications must be submitted electronically and should include:</div><ul><li>A cover letter which addresses how professional experiences align with identified required and preferred qualifications of the position.</li><li>A professional CV.</li><li>A statement of teaching experience and interests (2 page limit).</li><li>A statement of research experience and interests (3 page limit).</li><li>Names and contact information for three references. These references will be contacted to request letters of recommendation immediately upon application submission. The letters of recommendation should be received within one week after the full consideration date.</li><li>The application materials, including the full list of publications provided in the CV, will be reviewed by the search committee and the application materials for semi-finalists will be shared with the full Department of Physics faculty.</li></ul><div>If you have questions about the position, please contact the search chair, Prof. Mike Mooney (<a href=\"mailto:mrmooney@colostate.edu\">mrmooney@colostate.edu</a>).</div><div>If you have questions about the application process, please contact Kristin McLaughlin (<a href=\"mailto:Kristin.Mclaughlin@colostate.edu\">Kristin.Mclaughlin@colostate.edu</a>).</div><div><br></div><div>CSU&nbsp;is an EO employer and conducts background checks on all final candidates.</div>",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://jobs.colostate.edu/postings/166292"
-      ],
-      "contact_email": null,
-      "created": "2025-10-08T15:21:34.175475+00:00",
-      "updated": "2025-10-08T20:21:43.614581+00:00"
-    },
-    {
-      "id": "3064627",
-      "title": "Post-doctoral position in neutrino physics",
-      "institution": "Boskovic Inst., Zagreb",
-      "deadline": "2025-12-15",
-      "description": "<div>We are looking for a candidate for a post-doctoral position in neutrino oscillation phenomenology. The position is for 2 years.</div><div><br></div><div>The candidate will work mainly on the multilateral project \"MAPS\" funded by Swiss National Science Foundation (SNSF) Croatian Science Foundation (HRZZ). The other partner institutes of the project are University of Geneva, Switzerland and University of Silesia in Katowice, Poland. The candidate will closely work with these institutes. The research topics include: understanding the results of T2K and NOvA, probing symmetry models in neutrino experiments, distinguishing new physics and systematics etc.</div><div><br></div><div>The formal call is expected to open around 3rd week of November, 2025 and the call will remain open for a month. In order to be eligible for this position, the applicant will require the final PhD diploma i.e., the one obtained in the graduation ceremony (for non-EU applicants) or the confirmation of completion of PhD (for EU applicants) before the deadline of the application.</div><div><br></div><div>Interested candidates are requested to contact Monojit Ghosh (mghosh@irb.hr) for more details.</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [],
-      "contact_email": null,
-      "created": "2025-10-08T13:44:41.204715+00:00",
-      "updated": "2025-10-08T20:20:00.886523+00:00"
     }
   ],
-  "lastUpdated": "2025-11-05T08:04:20.619Z",
+  "lastUpdated": "2025-11-06T08:04:26.825Z",
   "totalJobs": 200
 }
