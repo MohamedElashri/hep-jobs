@@ -1,6 +1,94 @@
 {
   "jobs": [
     {
+      "id": "ajo-31141",
+      "title": "Joint Postdoctoral Position in AI for Theoretical Physics at Perimeter Institute and UW Madison",
+      "institution": "University of Wisconsin - Madison",
+      "deadline": "2025-12-09",
+      "description": "The University of Wisconsin-Madison Physics Department (https://www.physics.wisc.edu/)\n   and the Perimeter Institute for Theoretical Physics (https://perimeterinstitute.ca/)\n   invite applications for a joint 3-year postdoctoral position in AI for\n   theoretical physics. The selected postdoc will spend the first year at\n   UW Madison and the following two years at Perimeter Institute, with\n   frequent travels in both directions. We are looking for candidates\n   with a background in any area of theoretical physics and a strong\n   interest in AI Reasoning. Prior publications in AI for physics are a\n   bonus but not required. We are broadly interested in doing theoretical\n   physics with AI Reasoning models. Topics of interest include: -\n   Agentic approaches and test-time scaling methods. - Symbolic\n   verification and tool usage. - Methods for novel research in\n   theoretical physics with LLMs (e.g. combining LLMs with tree search or\n   evolutionary algorithms). - Developing training and benchmarking data\n   (e.g. https://tpbench.org/). - Fine-tuning of models with\n   Reinforcement learning. In Madison, the postdoc will work in\n   particular with the groups of Moritz M&#xFC;nchmeyer (https://munchmeyer.physics.wisc.edu/)\n   and Gary Shiu (https://shiu.physics.wisc.edu/), and join an ongoing\n   collaboration between physicists and computer scientists. At Perimeter\n   Institute, the postdoc will be free to work with any faculty member.\n   For questions about the position, please contact Moritz M&#xFC;nchmeyer at\n   UW Madison (muenchmeyer@wisc.edu) or Kendrick Smith at Perimeter\n   Institute (kmsmith@perimeterinstitute.ca). To apply, please submit a\n   Research Statement, CV, Publication List and three reference letters\n   by 2025/12/08 here on this website.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/UWMadison/Physics/31141?rss"
+      ],
+      "contact_email": "muenchmeyer@wisc.edu",
+      "created": "2025-11-06T17:00:00.000Z",
+      "updated": "2025-11-06T17:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "Postdoc",
+      "institution": "National Yang Ming Chiao Tung University",
+      "deadline": null,
+      "description": "The Taiwan Electron-Ion Collider Physics Project is soliciting\n   applications for one experimental postdoc position. The successful\n   candidate will work on developing the ZDC detector in the U.S. EIC\n   far-forward detector system, applying the machine learning technique\n   to the detector simulation as well as the relevant global analyses of\n   the pion/kaon PDFs and proton TMDs. The duration of this position is\n   initially two years, with the possibility of extending into the third\n   year depending on performance. The position will be co-hosted by\n   Academia Sinica and National Central University, and the successful\n   candidate will be expected to start as soon as possible. To apply,\n   please visit the academicjobsonline page at\n   https://academicjobsonline.org/ajo/jobs/31117 or send an email\n   directly to Prof. C.-J. David Lin, dlin@nycu.edu.tw For inquiry,\n   please contact any of the senior members on the project: * Prof.\n   Wen-Chen Chang, changwc@phys.sinica.edu.tw * Prof. Chia-Ming Kuo,\n   cmkuo@phy.ncu.edu.tw * Prof. Po-Ju Lin, pjlin@cc.ncu.edu.tw",
+      "regions": [],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/IOPNYCU/Taiwan%20Electron-Ion%20Collider%20Physics%20Project/31117?rss"
+      ],
+      "contact_email": "dlin@nycu.edu.tw",
+      "created": "2025-11-06T17:00:00.000Z",
+      "updated": "2025-11-06T17:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "Postdoctoral Fellow",
+      "institution": "Tohoku University",
+      "deadline": "2025-12-22",
+      "description": "The Particle Theory and Cosmology Group at the Department of Physics,\n   Tohoku University, invites applications for a postdoctoral position in\n   the areas of quantum field theory, string theory and mathematical\n   physics. In particular, candidates who are interested in topological\n   aspects of quantum field theory and string theory are strongly\n   encouraged to apply.\n   The position will be funded by JST FOREST Program (Grant Number\n   JPMJFR2030, Japan). Term of employment is up to 18 months from the\n   date of appointment; however, employment will not be extended beyond\n   March 31, 2028\n   The applications should include(1) curriculum vitae, (2) research\n   statement, (3) publication list, (4) two or more letters of\n   recommendation. They should be uploaded via Academic Jobs Online.\n   Application documents can be either in English or Japanese. Please\n   submit the applications and letters by December 21, 2025.",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Tohoku%20University/Particle%20Theory%20and%20Cosmology%20Group%2C%20Department%20of%20Physics/31116?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T17:00:00.000Z",
+      "updated": "2025-11-05T17:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "McDonald Institute - CITA Postdoctoral Fellow at the University of Winnipeg",
+      "institution": "University of Winnipeg",
+      "deadline": "2025-11-22",
+      "description": "The Winnipeg Particle Theory Group is inviting applications for a\n   three-year MI-CITA Theory Postdoctoral Fellowship in the field of\n   particle cosmology, to work with Evan McDonough. Top-ranked\n   applications will be sent to the MI-CITA Theory Evaluation committee,\n   who will allocate fellowships. First round offers will be made in\n   December. The Winnipeg Particle Theory Group is committed to\n   diversity, equity, and inclusion, and especially welcomes applications\n   from racialized persons/persons of colour, women,\n   Indigenous/Aboriginal People of North America, persons with\n   disabilities, LGBTQ2S+ persons, and others who may contribute to the\n   further diversification of ideas. Prof. McDonough is an Associate\n   Professor at the University of Winnipeg. McDonough is an active\n   researcher and an active member of the research community: he is\n   currently serving a 4-year term on the Council of the Canadian\n   Institute for Theoretical Astrophysics (CITA), recently completed a\n   two-year term as the Director of the Winnipeg Institute for\n   Theoretical Physics, and recently completed a 3-year term on the\n   Scientific Council of the Canadian national Institute for Particle\n   Physics. McDonough is very invested in the success of students and\n   postdocs, and works actively and deliberately to support both their\n   professional success and personal happiness. You can find more about\n   Evan, including recordings of research presentations, here:\n   https://www.evanmcdonoughphysics.com/. An up-to-date list of papers by\n   Evan can be found here: https://inspirehep.net/authors/1272159 . The\n   MI-CITA Postdoc will play an integral role in all activities of the\n   group, including leading high-profile projects, mentorship and\n   research supervision of students across all levels (undergraduate,\n   MSc, PhD), and will have many opportunities for professional\n   development. Applicants are requested to identify their expertise in\n   at least two of the following areas: -- Data analysis, in particular\n   MCMC analyses of cosmological models (dark matter, dark energy) and\n   data sets (CMB, LSS, etc). -- Cosmic Inflation model building and\n   phenomenology, in particular inflation with connections to dark matter\n   production mechanisms, such as gravitational particle production and\n   primordial black hole dark matter production. -- Dark Matter model\n   building, particularly novel dark matter production mechanisms --\n   Ultralight dark matter model building and phenomenology, including\n   axions and fuzzy dark matter -- String theory and supergravity\n   cosmological model building Interested candidates should submit their\n   application via academic jobs online. A complete application will\n   consist of: -- a brief cover letter which identifies two or more of\n   the above mentioned topics as areas of expertise. -- research\n   statement. -- CV -- three letters of recommendation to be submitted on\n   Academic Jobs Online. The deadline for applications is November 21,\n   2025. The McDonald Institute expects applicants to complete a short,\n   voluntary demographic survey to support the McDonald Institute's\n   Equity, Diversity, Inclusion, and Indigenization (EDII) efforts.\n   Information collected will support future efforts to promote MI\n   opportunities to diverse communities. Your individual responses will\n   be kept confidential and will have no impact on your candidacy.\n   https://queensu.qualtrics.com/jfe/form/SV_6FPUBsNJGXrnyPc",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/University%20of%20Winnipeg/Department%20of%20Physics/31111?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-11-05T17:00:00.000Z",
+      "updated": "2025-11-05T17:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
       "id": "ajo-31067",
       "title": "Postdoctoral position in Theoretical Particle Physics at the IPhT (CNRS/CEA Saclay) and LPTHE (Sorbonne Universit&#233;/CNRS)",
       "institution": "CEA-Saclay",
@@ -67,6 +155,28 @@
       "source": "AcademicJobsOnline"
     },
     {
+      "id": "ajo-20",
+      "title": "Postdoctoral positions",
+      "institution": "Johannes Gutenberg University Mainz",
+      "deadline": "2025-12-16",
+      "description": "The Theoretical High Energy Physics Group at the Institute for Physics at\n   Johannes Gutenberg-University Mainz offers several positions at the\n   postdoctoral level (TV-L E13).\n\n   The group consists of Marzia Bordone, Julia Harz, Tobias Hurth, Hans\n   Jockers, Joachim Kopp, Matthias Neubert, Pedro Schwaller, Carlos\n   Tamarit, Stefan Weinzierl, Felix Yu, and Jens Erler, as well as a\n   significant number of postdoctoral fellows, PhD and master students.\n   The interests of the group cover a wide range of topics in particle\n   and astroparticle physics, cosmology, field theory, string theory, and\n   mathematical physics. More detailed information about the group can be\n   found here: www.thep.physik.uni-mainz.de/. Interested candidates in\n   all related fields are invited to apply and should indicate their\n   previous experience and topical preference in their application\n   material. Applicants for the ERC advanced grant &#x22;Effective field\n   theory for non-global observable at hadron colliders&#x22; led by Matthias\n   Neubert should specifically indicate their previous experience with\n   SCET and collider physics.\n\n   Our research activities are integrated with the Excellence Cluster\n   &#x22;Precision Physics, Fundamental Interactions and Structure of Matter&#x22;\n   (PRISMA++) in Mainz (www.prisma.uni-mainz.de). The proximity to the\n   Mainz Institute for Theoretical Physics (mitp.uni-mainz.de/) ensures\n   excellent opportunities for international collaboration. In addition,\n   postdocs can profit from exchange agreements with ICTP/SAIFR (Sao\n   Paulo), Fermilab, and the Tata Institute (TIFR, Mumbai).\n\n   The deadline for applications and related materials is December 15,\n   2025. Later applications will be considered until the positions are\n   filled.",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Johannes%20Gutenberg%20University%20Mainz/Institute%20for%20Physics%20-%20Theoretical%20High%20Energy%20Physics%20Group/31036?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-10-30T16:00:00.000Z",
+      "updated": "2025-10-30T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
       "id": "ajo-31029",
       "title": "Postdoctoral Positions in Theoretical Physics at IFIC (CSIC, UNIVERSITY OF VALENCIA)",
       "institution": "IFIC, Univ. Valencia-CSIC",
@@ -84,6 +194,52 @@
         "https://academicjobsonline.org/ajo/IFIC/Physics/31029?rss"
       ],
       "contact_email": null,
+      "created": "2025-10-29T16:00:00.000Z",
+      "updated": "2025-10-29T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "Call of interest for Postdoctoral Research Associate",
+      "institution": "Sapienza University",
+      "deadline": "2025-12-11",
+      "description": "Call of interest for Postdoctoral Research Associate\r\n\r\nThe High Energy Theory Group at Sapienza University of Rome invites applications for multiple postdoc positions. The research fellowships will be particularly focused on the study of new methods to search for light feebly interacting particles, especially in connection with low energy physics, such as carbon based materials,  and the use of effective field theories for condensed matter systems. Nonetheless, the successful candidates will be strongly encouraged to work with any of the members of the High Energy Theory Group.\r\n\r\nThe Physics Department at Sapienza is a vibrant work environment, involved in several areas of physics. The High Energy Theory Group includes Marco Bonvini, Andrea Caputo, Roberto Contino, Angelo Esposito, Marco Nardecchia, Paolo Pani, Mauro Papinutto, Antonello Polosa, Luca Silvestrini, Alfredo Urbano and Mauro Valli, as well as a number of postdocs and Ph.D. students.\r\nWe have close ties with our neighboring institutions (University of Roma Tre, University of Tor Vergata and INFN Frascati Labs).\r\n\r\nCandidates with expertise in dark matter direct and indirect detection, beyond the Standard Model physics, low energy effective field theories, as well as the condensed matter aspects of material response, are particularly encouraged to apply.\r\n\r\nApplications should include a CV with a list of publications, a short research statement (max 3 pages), and a minimum of two and a maximum of three recommendation letters.\r\n\r\nThe appointments are expected to be for 2+1 years (extension subject to funding renewal and performance), with a net salary competitive with international standards. All candidates must hold (or soon be completing) a Ph.D. in Physics.",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Sapienza%20University/HighEnergyPhysicsGro/31034?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-10-29T16:00:00.000Z",
+      "updated": "2025-10-29T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "Postdoctoral Researcher",
+      "institution": "Pennsylvania State University",
+      "deadline": "2025-12-16",
+      "description": "The Department of Physics at The Pennsylvania State University is seeking to fill multiple post-doctoral positions in theoretical high energy physics, to start between July 2026 and October 2026. These positions are primarily for work on scattering amplitudes in gauge and gravity theories&#8212;understanding their mathematical form, developing tools for their computation and representation, and applying new results to particle physics, gravitational wave physics, gauge/string duality, integrability or various related topics.\r\n\r\nThe elementary-particle theory faculty at Penn State consists of Carlos Blanco, Jacob Bourjaily, John Collins (emeritus), Murat Gunaydin (emeritus), Irina Mocioiu, Kohta Murase, Radu Roiban, Sarah\r\nShandera, Anna Stasto and Mark Strikman. There are experimental groups active in astroparticle\r\nphysics, dark matter and neutrino mass measurement. There are also active programs in theoretical\r\ngravitational physics, gravitational wave physics and cosmology. Postdoctoral scholars will be members of the Institute for Gravitation and the Cosmos at Penn State.\r\n\r\nRequirements include a PhD in Physics. Applications must be submitted electronically and include a\r\ncover letter, CV and statement of research interests. Applicants should arrange for three reference\r\nletters to be submitted to physicsapply@psu.edu indicating the appropriate job number in the subject\r\nline. &#xE2;&#x80;&#xAF;This is a fixed-term appointment funded for three years from date of hire.\r\n\r\nApplicants questions may be sent to: Prof. Jacob Bourjaily or Prof. Radu Roiban, Physics Department,\r\nThe Pennsylvania State University, 104 Davey Laboratory, University Park, PA 16802, U.S.A.\r\n\r\nE-mail: bourjaily@psu.edu or radu@phys.psu.edu\r\n\r\nApplications should be received by December 15, 2025 for full consideration. However, applications will be considered until the positions is filled.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Pennsylvania%20State%20University/High%20Energy%20Particle%20Theory/31028?rss"
+      ],
+      "contact_email": "physicsapply@psu.edu",
       "created": "2025-10-29T16:00:00.000Z",
       "updated": "2025-10-29T16:00:00.000Z",
       "source": "AcademicJobsOnline"
@@ -128,6 +284,28 @@
         "https://academicjobsonline.org/ajo/Duke/Physics/30071?rss"
       ],
       "contact_email": null,
+      "created": "2025-10-28T16:00:00.000Z",
+      "updated": "2025-10-28T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "McDonald Institute (MI) Theory Fellowships",
+      "institution": "York University",
+      "deadline": "2025-12-02",
+      "description": "The High Energy Physics group at York University is inviting applications\n   for McDonald Institute (MI) Theory Fellowships in the field the areas\n   of theoretical particle physics, astro-particle physics, and\n   phenomenology, to work with Professors Sean Tulin and Nikita Blinov.\n   Candidates with interests in dark matter physics are especially\n   encouraged to apply. Top-ranked applications will be sent to the MI\n   Theory Evaluation committee, who will allocate fellowships. First\n   round offers will be made in December. Applicants must have completed\n   a Ph.D. in theoretical physics by the start of the appointment and\n   have a record of research excellence. The appointment is for two\n   years, beginning fall 2026, with an extension to a third year upon\n   mutual agreement. As part of the application process, we expect\n   applicants to complete a short, voluntary demographic survey to\n   support the McDonald Institute's Equity, Diversity, Inclusion, and\n   Indigenization (EDII) efforts. Information collected will support\n   future efforts to promote our opportunities to diverse communities.\n   Your individual responses will be kept confidential and will have no\n   impact on your candidacy. (https://queensu.qualtrics.com/jfe/form/SV_6FPUBsNJGXrnyPc)\n   York University is in Toronto, Canada, near the University of Toronto,\n   Canadian Institute for Theoretical Astrophysics (CITA), Perimeter\n   Institute, Institute for Quantum Computing (IQC) and several other\n   leading research institutions. Current HEP theory faculty include\n   professors Nikita Blinov, Matthew Johnson, Randy Lewis, Kim Maltman\n   and Sean Tulin. The Department also features vibrant ATLAS, neutrino\n   physics and astronomy groups. Information on research activities\n   within the Physics and Astronomy Department at York can be found at:\n   yorku.ca/science/physics/ yorku.ca/science/research/hep/ To guarantee\n   full consideration, candidates should apply through Academic Jobs\n   Online by December 1, 2025. However, applications will continue to be\n   accepted until the position is filled. Please submit a cover letter,\n   curriculum vitae (with publication list), a research statement of no\n   more than 2 pages which outlines one of your major research\n   achievements and your future research plans, and arrange for three\n   referees to upload their letters through Academic Jobs Online. For\n   further questions, contact Nikita Blinov (nblinov@yorku.ca) or Sean\n   Tulin (stulin@yorku.ca). York University is committed to employment\n   equity and diversity, and a positive and supportive environment.\n   Candidates from underrepresented groups in physics, especially women,\n   visible minorities, Indigenous peoples, and persons with disabilities\n   are strongly encouraged to apply.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/YU/Department%20of%20Physics%20and%20Astronomy/30994?rss"
+      ],
+      "contact_email": "nblinov@yorku.ca",
       "created": "2025-10-28T16:00:00.000Z",
       "updated": "2025-10-28T16:00:00.000Z",
       "source": "AcademicJobsOnline"
@@ -201,28 +379,52 @@
       "source": "AcademicJobsOnline"
     },
     {
-      "id": "ajo-30845",
-      "title": "Electrical Engineer - Nuclear and Particle Physics",
-      "institution": "University of Illinois at Urbana-Champaign",
-      "deadline": "2025-11-08",
-      "description": "Electrical Engineer Department of Physics The Grainger College of\n   Engineering University of Illinois Urbana-Champaign\n   The Department of Physics in The Grainger College of Engineering seeks\n   applicants for an Electrical Engineer position to work in several\n   areas within the department. This position is responsible for the\n   development of electronics and instrumentation needed for nuclear\n   physics and other physics group's research projects. They will\n   collaborate with engineers, researchers, students, and faculty to\n   solve highly complex technical problems to enable research in nuclear\n   physics and other fields. The incumbent will train students in aspects\n   of modern analog and digital electronics and is expected to bring\n   creativity and design capabilities to the tasks. This position will\n   require travel to offsite laboratories and research facilities,\n   including international locations.\n   Please visit https://go.physics.illinois.edu/EEUIUC to view the\n   complete position announcement, which includes salary and benefits\n   information and application instructions. Applications must be\n   received by 6:00 pm (CST) on November 7, 2025.\n   The U of I is an EEO Employer/Vet/Disabled that participates in the\n   federal E-Verify program and participates in a background check\n   program focused on prior criminal or sexual misconduct history.\n   Applicants with disabilities are encouraged to apply and may request a\n   reasonable accommodation under the Americans with Disabilities Act\n   (2008) to complete the application and/or interview process.\n   Accommodations may also be requested on the basis of pregnancy,\n   childbirth, and related conditions, or religion. Requests may be\n   submitted through the reasonable accommodations portal, or by\n   contacting the Accessibility &#x26; Accommodations Division of the Office\n   for Access and Equity at 217-333-0885, or by emailing\n   accessibility@illinois.edu.",
+      "id": "ajo-20",
+      "title": "POSTDOCTORAL POSITION IN THEORETICAL PHYSICS",
+      "institution": "University of Heidelberg",
+      "deadline": null,
+      "description": "POSTDOCTORAL POSITIONS IN THEORETICAL PHYSICS\n\n   INSTITUTE FOR THEORETICAL PHYSICS AT THE UNIVERSITY OF HEIDELBERG\n\n   The particle physics and cosmology division of the Institute for\n   Theoretical Physics at the University of Heidelberg invites\n   applications for postdoctoral positions in theoretical physics. The\n   positions are expected to be filled in the fall of 2026.\n\n   The appointment is for a period of two years. (Later extension to\n   three years is possible.)\n\n   The particle physics and cosmology division consists of the faculty\n   members L. Amendola, M. Bartelmann,\n   J. Berges, A. Eichhorn, A. Hebecker, L. Heisenberg, J. Jaeckel, J.\n   Pawlowski, T. Plehn, C. Wetterich and J. Walcher as a partner at the\n   Mathematical Institute. Junior research group leaders at our Institute\n   include S. Bosman, A. Butter, S. Diefenbacher, C. Heneka and A.\n   Mazeliauskas.\n\n   In addition, several associated professors, about 20 junior scientists\n   and postdocs, and 35 postgraduate students work in the division.\n\n   The division runs a lively international visitor program. The research\n   covers a wide range of topics in particle theory, including in\n   particular particle-cosmology, cosmic structure formation, particle\n   phenomenology, quantum chromodynamics, heavy ion collisions, physics\n   beyond the standard model, quantum gravity, string theory,\n   non-perturbative and non-equilibrium quantum field theory, with\n   applications to ultracold quantum gases.\n\n   For more information see our www page:\n   http://www.thphys.uni-heidelberg.de/.\n\n   Applicants should submit the following items\n\n   &#xB7; Cover Letter\n\n   &#xB7; Curriculum Vitae\n\n   &#xB7; Research Statement\n\n   &#xB7; Publication List\n\n   &#xB7; Two or three Reference Letters (to be submitted by the reference\n   writer)\n\n   In the Cover Letter you should refer to one of the above listed\n   members of the institute.\n\n   All materials should be submitted online using the Academic Jobs\n   Online website,\n\n   ${JobURL}\n\n   We will begin reviewing applications on January 02, 2026.",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/University%20of%20Heidelberg/Theoretical%20Physics/30948?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-10-22T16:00:00.000Z",
+      "updated": "2025-10-22T16:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
+      "id": "ajo-20",
+      "title": "Postdoctoral Research Associate",
+      "institution": "University of Toronto",
+      "deadline": "2025-12-02",
+      "description": "The theoretical high energy physics group at the University of Toronto\n   aims to fill one or more 3-year postdoctoral research positions\n   starting in the Fall of 2026. Highly qualified candidates with broad\n   interests in the areas of particle physics phenomenology, cosmology\n   and astroparticle physics, and physics of machine learning are invited\n   to apply. Current faculty working in this research area are David\n   Curtin, Yonatan Kahn and Michael Luke. Collaboration with CITA, the\n   local ATLAS or SuperCDMS groups, the Vector Institute for Artificial\n   Intelligence, the formal theory faculty (A.W. Peet and Erich Poppitz),\n   and neighbouring institutions including York University and Perimeter\n   Institute will be highly encouraged. Applicants with interests in\n   astroparticle physics may be considered for a McDonald Institute\n   Theory Fellowship. Applicants with interests at the intersection of\n   physics and machine learning, who bring innovative approaches that\n   integrate modern statistical sciences with the tools of theoretical\n   physics, may be considered for potential joint positions with the\n   Department of Statistical Sciences at the University of Toronto, or\n   the Perimeter Institute. Applicants should include a cover letter, CV,\n   a statement of research interests (3 pages maximum plus references),\n   and a list of publications. Applicants should arrange for at least\n   three letters of recommendation to be submitted at AcademicJobsOnline.\n   For full consideration, especially for fellowship and joint position\n   opportunities, applicants should submit all materials by the\n   application deadline of Dec. 1, 2025. Consideration of applications\n   will continue until the position(s) are filled. The University of\n   Toronto is strongly committed to diversity within its community and\n   especially welcomes applications from Indigenous Persons, Racialized\n   Persons, Women, Persons with Disabilities invisible or apparent,\n   Members of the 2SLGBTQ+ Community and others who may contribute to the\n   further diversification of ideas. The Department of Physics adopted\n   the following statement on inclusivity, which the high energy theory\n   group strongly supports and strives to implement in its practice:\n   https://www.physics.utoronto.ca/physics-at-uoft/idea/inclusivity-statement/.",
       "regions": [
         "North America"
       ],
       "ranks": [
-        "SENIOR",
-        "JUNIOR"
+        "POSTDOC",
+        "PHD",
+        "SENIOR"
       ],
       "experiments": [],
       "urls": [
-        "https://academicjobsonline.org/ajo/UIUC/Physics/30845?rss"
+        "https://academicjobsonline.org/ajo/University%20of%20Toronto/High%20energy%20phenomenology%20group/30914?rss"
       ],
-      "contact_email": "accessibility@illinois.edu",
-      "created": "2025-10-10T16:00:00.000Z",
-      "updated": "2025-10-10T16:00:00.000Z",
+      "contact_email": null,
+      "created": "2025-10-17T16:00:00.000Z",
+      "updated": "2025-10-17T16:00:00.000Z",
       "source": "AcademicJobsOnline"
     }
   ],
-  "lastUpdated": "2025-11-09T08:03:45.506Z",
-  "totalJobs": 10
+  "lastUpdated": "2025-11-10T08:05:11.950Z",
+  "totalJobs": 19
 }
