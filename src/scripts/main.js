@@ -149,26 +149,39 @@ class JobsApp {
         
         // Clone and add all jobs from each source
         const allJobs = [];
+        const seenIds = new Set();
         
         // Get InspireHEP jobs
         const inspirehepJobs = Array.from(inspirehepContainer.querySelectorAll('.job-card'));
         inspirehepJobs.forEach(job => {
-            const clonedJob = job.cloneNode(true);
-            allJobs.push(clonedJob);
+            const jobId = job.getAttribute('data-id');
+            if (!seenIds.has(jobId)) {
+                const clonedJob = job.cloneNode(true);
+                allJobs.push(clonedJob);
+                seenIds.add(jobId);
+            }
         });
         
         // Get AJO jobs
         const ajoJobs = Array.from(ajoContainer.querySelectorAll('.job-card'));
         ajoJobs.forEach(job => {
-            const clonedJob = job.cloneNode(true);
-            allJobs.push(clonedJob);
+            const jobId = job.getAttribute('data-id');
+            if (!seenIds.has(jobId)) {
+                const clonedJob = job.cloneNode(true);
+                allJobs.push(clonedJob);
+                seenIds.add(jobId);
+            }
         });
         
         // Get DESY jobs
         const desyJobs = Array.from(desyContainer.querySelectorAll('.job-card'));
         desyJobs.forEach(job => {
-            const clonedJob = job.cloneNode(true);
-            allJobs.push(clonedJob);
+            const jobId = job.getAttribute('data-id');
+            if (!seenIds.has(jobId)) {
+                const clonedJob = job.cloneNode(true);
+                allJobs.push(clonedJob);
+                seenIds.add(jobId);
+            }
         });
         
         // Sort all jobs by deadline (non-expired first, then by date)

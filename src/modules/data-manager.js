@@ -37,6 +37,17 @@ class DataManager {
 
     // Combine all jobs
     let allJobs = [...existingJobs, ...uniqueNewJobs];
+    
+    // Deduplicate by ID (safeguard against any duplicate IDs)
+    const seenIds = new Set();
+    allJobs = allJobs.filter((job) => {
+      if (seenIds.has(job.id)) {
+        this.log(`Removing duplicate job with ID: ${job.id}`, "warning");
+        return false;
+      }
+      seenIds.add(job.id);
+      return true;
+    });
 
     // Filter by age if specified (for AJO to avoid rate limiting)
     if (options.filterByAge) {

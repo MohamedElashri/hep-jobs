@@ -308,8 +308,9 @@ class RSSFetcher {
   }
 
   generateIdFromUrl(url) {
-    // Extract numeric ID from URL if possible
-    const match = url.match(/(\d+)/);
+    // Extract the job ID from the end of the URL (before query params)
+    // AJO URLs format: https://academicjobsonline.org/ajo/.../JOBID?rss
+    const match = url.match(/\/(\d+)(?:\?|$)/);
     return match ? `ajo-${match[1]}` : `ajo-${Date.now()}`;
   }
 
