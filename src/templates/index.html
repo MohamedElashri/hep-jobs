@@ -102,43 +102,36 @@
                     <h1 class="clickable-title" onclick="window.location.reload()">🔬 HEP Jobs Tracker</h1>
                     <p class="subtitle" id="pageSubtitle">High Energy Physics Career Opportunities</p>
                 </div>
-                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
-                    <span class="theme-icon">🌙</span>
-                </button>
+                <div class="header-right">
+                    <div class="header-stats-inline">
+                        <div class="stat-inline">
+                            <span class="stat-value-inline" id="totalJobs">{{totalJobs}}</span>
+                            <span class="stat-label-inline">Total</span>
+                        </div>
+                        <div class="stat-inline">
+                            <span class="stat-value-inline" id="activeJobs">{{activeJobs}}</span>
+                            <span class="stat-label-inline">Active</span>
+                        </div>
+                    </div>
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                        <span class="theme-icon">🌙</span>
+                    </button>
+                </div>
             </div>
             
-            <div class="header-content">
-                <div class="header-info">
-                    <div class="info-section">
-                        <h3 class="info-title">📊 Data Sources</h3>
-                        <p class="info-text">Aggregated daily from leading HEP job platforms including InspireHEP, AcademicJobsOnline, and DESY.</p>
-                    </div>
-                    <nav class="source-nav">
-                        <a href="#" class="nav-link active" data-source="all">All Jobs</a>
-                        <span class="nav-separator">•</span>
-                        <a href="#" class="nav-link" data-source="inspirehep">InspireHEP</a>
-                        <span class="nav-separator">•</span>
-                        <a href="#" class="nav-link" data-source="ajo">AcademicJobsOnline</a>
-                        <span class="nav-separator">•</span>
-                        <a href="#" class="nav-link" data-source="desy">DESY</a>
-                    </nav>
-                    <div class="last-updated">
-                        <span class="update-icon">🔄</span>
-                        <span id="lastUpdated">Last updated: {{lastUpdated}}</span>
-                    </div>
-                </div>
-                
-                <div class="header-stats">
-                    <div class="stats-grid">
-                        <div class="stat-card">
-                            <div class="stat-value" id="totalJobs">{{totalJobs}}</div>
-                            <div class="stat-label">Total Positions</div>
-                        </div>
-                        <div class="stat-card">
-                            <div class="stat-value" id="activeJobs">{{activeJobs}}</div>
-                            <div class="stat-label">Active Jobs</div>
-                        </div>
-                    </div>
+            <div class="header-bottom">
+                <nav class="source-nav">
+                    <a href="#" class="nav-link active" data-source="all">All Jobs</a>
+                    <span class="nav-separator">•</span>
+                    <a href="#" class="nav-link" data-source="inspirehep">InspireHEP</a>
+                    <span class="nav-separator">•</span>
+                    <a href="#" class="nav-link" data-source="ajo">AcademicJobsOnline</a>
+                    <span class="nav-separator">•</span>
+                    <a href="#" class="nav-link" data-source="desy">DESY</a>
+                </nav>
+                <div class="last-updated">
+                    <span class="update-icon">🔄</span>
+                    <span id="lastUpdated">{{lastUpdated}}</span>
                 </div>
             </div>
         </div>

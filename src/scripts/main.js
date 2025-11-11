@@ -134,13 +134,13 @@ class JobsApp {
         const totalJobs = this.allJobs.length;
         const activeJobs = this.allJobs.filter(job => !job.classList.contains('expired')).length;
         
-        // Update new stat card structure if it exists
+        // Update stat elements
         const totalJobsEl = document.getElementById('totalJobs');
         const activeJobsEl = document.getElementById('activeJobs');
         
         if (totalJobsEl) {
-            // Check if it's the new stat-value structure or old stat structure
-            if (totalJobsEl.classList.contains('stat-value')) {
+            // Check if it's the new inline stat structure, stat-value structure, or old stat structure
+            if (totalJobsEl.classList.contains('stat-value-inline') || totalJobsEl.classList.contains('stat-value')) {
                 totalJobsEl.textContent = totalJobs;
             } else {
                 totalJobsEl.textContent = `Total Jobs: ${totalJobs}`;
@@ -148,7 +148,7 @@ class JobsApp {
         }
         
         if (activeJobsEl) {
-            if (activeJobsEl.classList.contains('stat-value')) {
+            if (activeJobsEl.classList.contains('stat-value-inline') || activeJobsEl.classList.contains('stat-value')) {
                 activeJobsEl.textContent = activeJobs;
             } else {
                 activeJobsEl.textContent = `Active: ${activeJobs}`;
