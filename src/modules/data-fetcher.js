@@ -50,18 +50,18 @@ class DataFetcher {
       const excludeCategories = ['hep-th', 'hep-ph', 'hep-lat', 'nucl-th'];
       const excludeQuery = excludeCategories.map(cat => `NOT arxiv_categories:${cat}`).join(' AND ');
       
-      // Add date filter for last 30 days
-      const daysBack = this.config.daysBack || 30;
-      const cutoffDate = new Date();
-      cutoffDate.setDate(cutoffDate.getDate() - daysBack);
-      const dateQuery = `deadline_date:>${cutoffDate.toISOString().split('T')[0]}`;
+      // Add date filter based on posting date to avoid hitting API's 10k limit
+      // We fetch a bit more than needed (45 days) to ensure we don't miss jobs at the boundary
+      // Note: InspireHEP API doesn't support filtering by 'created' date in queries
+      // So we fetch all results and filter during processing
+      // To avoid the 10k limit, we rely on the 'mostrecent' sort to get recent jobs first
       
       // Combine all queries
-      const fullQuery = `(${categoryQuery}) AND ${excludeQuery} AND ${dateQuery}`;
+      const fullQuery = `(${categoryQuery}) AND ${excludeQuery}`;
       
       this.log(`Filtering by categories: ${categories.join(', ')}`);
       this.log(`Excluding theory categories: ${excludeCategories.join(', ')}`);
-      this.log(`Fetching jobs with deadlines after: ${cutoffDate.toISOString().split('T')[0]}`);
+      this.log(`Note: Will filter to jobs posted in last ${this.config.daysBack || 30} days during processing`);
       
       // Fetch all pages (returns raw API responses)
       const rawJobs = await this.fetchAllPages(fullQuery);
@@ -84,10 +84,11 @@ class DataFetcher {
   async fetchAllPages(query) {
     const allJobs = [];
     const pageSize = 250; // API max per request
+    const maxPages = 20; // Limit to 20 pages (5000 jobs) to avoid hitting 10k limit
     let page = 1;
     let hasMore = true;
     
-    while (hasMore) {
+    while (hasMore && page <= maxPages) {
       const params = new URLSearchParams({
         q: query,
         sort: "mostrecent",
@@ -142,7 +143,7 @@ class DataFetcher {
         page++;
         
         // Add a small delay to avoid rate limiting
-        if (hasMore) {
+        if (hasMore && page <= maxPages) {
           await new Promise(resolve => setTimeout(resolve, 500));
         }
       } else {
@@ -150,7 +151,11 @@ class DataFetcher {
       }
     }
     
-    this.log(`Total pages fetched: ${page - 1}`);
+    if (page > maxPages) {
+      this.log(`Reached maximum page limit (${maxPages} pages), stopping fetch`, "warning");
+    }
+    
+    this.log(`Total pages fetched: ${Math.min(page - 1, maxPages)}`);
     this.log(`Total jobs retrieved: ${allJobs.length}`);
     
     return allJobs;
@@ -162,7 +167,14 @@ class DataFetcher {
       return [];
     }
 
-    return jobs
+    // Calculate cutoff date for filtering old jobs
+    const daysBack = this.config.daysBack || 30;
+    const cutoffDate = new Date();
+    cutoffDate.setDate(cutoffDate.getDate() - daysBack);
+    
+    this.log(`Filtering jobs posted after: ${cutoffDate.toISOString().split('T')[0]}`);
+
+    const processedJobs = jobs
       .map((job, index) => {
         try {
           const metadata = job.metadata || job;
@@ -216,6 +228,20 @@ class DataFetcher {
         }
       })
       .filter((job) => job !== null);
+    
+    // Filter out jobs posted more than daysBack ago
+    const beforeFilter = processedJobs.length;
+    const filteredJobs = processedJobs.filter((job) => {
+      const jobCreatedDate = new Date(job.created);
+      return jobCreatedDate >= cutoffDate;
+    });
+    
+    const filtered = beforeFilter - filteredJobs.length;
+    if (filtered > 0) {
+      this.log(`Filtered out ${filtered} jobs posted more than ${daysBack} days ago`, "info");
+    }
+    
+    return filteredJobs;
   }
 
   extractDescription(metadata) {
