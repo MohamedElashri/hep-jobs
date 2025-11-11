@@ -30,13 +30,26 @@ class DataManager {
 
   mergeJobs(newJobs, existingData, options = {}) {
     const existingJobs = existingData.jobs || [];
-    const existingIds = new Set(existingJobs.map((job) => job.id));
+    
+    // Filter out old jobs with theory categories (but keep jobs with null/empty categories)
+    const theoryCategories = ['hep-th', 'hep-ph', 'hep-lat', 'nucl-th'];
+    const filteredExistingJobs = existingJobs.filter((job) => {
+      // Keep jobs with null/undefined categories (might be experimental jobs without metadata)
+      if (!job.arxiv_categories || job.arxiv_categories.length === 0) {
+        return true;
+      }
+      // Remove jobs with any theory categories
+      const hasTheoryCategory = job.arxiv_categories.some(cat => theoryCategories.includes(cat));
+      return !hasTheoryCategory;
+    });
+    
+    const existingIds = new Set(filteredExistingJobs.map((job) => job.id));
 
     // Add new jobs that don't exist
     const uniqueNewJobs = newJobs.filter((job) => !existingIds.has(job.id));
 
     // Combine all jobs
-    let allJobs = [...existingJobs, ...uniqueNewJobs];
+    let allJobs = [...filteredExistingJobs, ...uniqueNewJobs];
     
     // Deduplicate by ID (safeguard against any duplicate IDs)
     const seenIds = new Set();

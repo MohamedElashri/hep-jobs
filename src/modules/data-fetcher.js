@@ -189,6 +189,7 @@ class DataFetcher {
             description: this.extractDescription(metadata),
             regions: metadata.regions || [],
             ranks: metadata.ranks || [],
+            arxiv_categories: metadata.arxiv_categories || [],
             experiments:
               metadata.accelerator_experiments?.map(
                 (exp) => exp.name || exp.value || exp
