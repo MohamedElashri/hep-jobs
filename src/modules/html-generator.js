@@ -292,7 +292,8 @@ class HTMLGenerator {
       .replace(/\{\{ajoJobCards\}\}/g, ajoJobCards)
       .replace(/\{\{ajoNoJobsMessage\}\}/g, ajoNoJobsMessage)
       .replace(/\{\{desyJobCards\}\}/g, desyJobCards)
-      .replace(/\{\{desyNoJobsMessage\}\}/g, desyNoJobsMessage);
+      .replace(/\{\{desyNoJobsMessage\}\}/g, desyNoJobsMessage)
+      .replace(/<%=\s*new Date\(\)\.getFullYear\(\)\s*%>/g, new Date().getFullYear());
   }
 }
 
