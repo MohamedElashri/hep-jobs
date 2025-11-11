@@ -3964,6 +3964,10 @@
       "updated": "2025-10-17T21:26:02.143262+00:00"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-11-11T00:43:29.331Z",
+=======
+  "lastUpdated": "2025-11-11T01:00:30.541Z",
+>>>>>>> 49c802a (feat: redesign header with improved layout and timezone display)
   "totalJobs": 200
 }

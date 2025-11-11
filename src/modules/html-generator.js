@@ -258,7 +258,15 @@ class HTMLGenerator {
     const template = this.loadTemplate('index.html');
     
     const updateTime = inspirehepData.lastUpdated
-      ? new Date(inspirehepData.lastUpdated).toLocaleString()
+      ? new Date(inspirehepData.lastUpdated).toLocaleString('en-US', {
+          timeZone: 'Europe/Zurich',
+          year: 'numeric',
+          month: 'short',
+          day: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit',
+          timeZoneName: 'short'
+        })
       : "Never";
     
     return template

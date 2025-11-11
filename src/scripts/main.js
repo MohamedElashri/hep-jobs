@@ -134,8 +134,26 @@ class JobsApp {
         const totalJobs = this.allJobs.length;
         const activeJobs = this.allJobs.filter(job => !job.classList.contains('expired')).length;
         
-        document.getElementById('totalJobs').textContent = `Total Jobs: ${totalJobs}`;
-        document.getElementById('activeJobs').textContent = `Active: ${activeJobs}`;
+        // Update new stat card structure if it exists
+        const totalJobsEl = document.getElementById('totalJobs');
+        const activeJobsEl = document.getElementById('activeJobs');
+        
+        if (totalJobsEl) {
+            // Check if it's the new stat-value structure or old stat structure
+            if (totalJobsEl.classList.contains('stat-value')) {
+                totalJobsEl.textContent = totalJobs;
+            } else {
+                totalJobsEl.textContent = `Total Jobs: ${totalJobs}`;
+            }
+        }
+        
+        if (activeJobsEl) {
+            if (activeJobsEl.classList.contains('stat-value')) {
+                activeJobsEl.textContent = activeJobs;
+            } else {
+                activeJobsEl.textContent = `Active: ${activeJobs}`;
+            }
+        }
     }
 
     populateAllView() {

@@ -939,6 +939,10 @@
       "source": "DESY"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-11-11T00:43:29.341Z",
+=======
+  "lastUpdated": "2025-11-11T01:00:30.553Z",
+>>>>>>> 49c802a (feat: redesign header with improved layout and timezone display)
   "totalJobs": 34
 }
