@@ -1,6 +1,6 @@
 # HEP Jobs Tracker - Modular Architecture
 
-This document describes the new modular architecture of the HEP Jobs Tracker, which replaces the previous monolithic `build.js` file.
+This document describes the new modular architecture of the HEP Jobs Tracker, which replaces the previous monolithic `build.js` file that I had before.
 
 ## 📁 Project Structure
 
@@ -137,13 +137,3 @@ this.config = {
   daysBack: 30,
 };
 ```
-
-## 🚀 Future Enhancements
-
-The modular structure makes it easier to add new features:
-
-- **Template Engine**: Could easily add a more sophisticated templating system
-- **Multiple Templates**: Support for different page layouts
-- **Plugin System**: Add new data sources or output formats
-- **Testing Framework**: Add unit tests for each module
-- **Build Pipeline**: Add linting, minification, or other build steps

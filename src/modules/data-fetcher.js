@@ -84,9 +84,14 @@ class DataFetcher {
   async fetchAllPages(query) {
     const allJobs = [];
     const pageSize = 250; // API max per request
-    const maxPages = 20; // Limit to 20 pages (5000 jobs) to avoid hitting 10k limit
+    const maxPages = 10; // Reasonable limit to avoid excessive API calls
     let page = 1;
     let hasMore = true;
+    
+    // Calculate cutoff date for early stopping
+    const daysBack = this.config.daysBack || 30;
+    const cutoffDate = new Date();
+    cutoffDate.setDate(cutoffDate.getDate() - daysBack);
     
     while (hasMore && page <= maxPages) {
       const params = new URLSearchParams({
@@ -135,16 +140,34 @@ class DataFetcher {
       
       if (data.hits && data.hits.hits && data.hits.hits.length > 0) {
         this.log(`Page ${page}: Retrieved ${data.hits.hits.length} jobs`);
-        allJobs.push(...data.hits.hits);
         
-        // Check if there are more pages
-        const totalFetched = page * pageSize;
-        hasMore = data.hits.hits.length === pageSize && totalFetched < data.hits.total;
-        page++;
+        // Check if we've reached jobs older than our cutoff date
+        // Since jobs are sorted by mostrecent, we can stop early
+        let oldJobsCount = 0;
+        for (const job of data.hits.hits) {
+          const jobCreatedDate = new Date(job.created || job.metadata?.creation_date || new Date());
+          if (jobCreatedDate < cutoffDate) {
+            oldJobsCount++;
+          }
+        }
         
-        // Add a small delay to avoid rate limiting
-        if (hasMore && page <= maxPages) {
-          await new Promise(resolve => setTimeout(resolve, 500));
+        // If most jobs on this page are old, stop fetching
+        if (oldJobsCount > data.hits.hits.length * 0.8) {
+          this.log(`Page ${page}: ${oldJobsCount}/${data.hits.hits.length} jobs are older than ${daysBack} days, stopping fetch`);
+          allJobs.push(...data.hits.hits);
+          hasMore = false;
+        } else {
+          allJobs.push(...data.hits.hits);
+          
+          // Check if there are more pages
+          const totalFetched = page * pageSize;
+          hasMore = data.hits.hits.length === pageSize && totalFetched < data.hits.total;
+          page++;
+          
+          // Add a small delay to avoid rate limiting
+          if (hasMore && page <= maxPages) {
+            await new Promise(resolve => setTimeout(resolve, 500));
+          }
         }
       } else {
         hasMore = false;

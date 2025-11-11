@@ -240,6 +240,10 @@
       "source": "DESY"
     }
   ],
+<<<<<<< HEAD
   "lastUpdated": "2025-11-11T06:24:49.131Z",
+=======
+  "lastUpdated": "2025-11-11T06:29:23.382Z",
+>>>>>>> bf70002 (docs: simplify README and clarify project purpose)
   "totalJobs": 9
 }

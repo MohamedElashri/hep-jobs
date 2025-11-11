@@ -286,6 +286,7 @@ class HTMLGenerator {
       .replace(/\{\{totalJobs\}\}/g, inspirehepData.totalJobs)
       .replace(/\{\{activeJobs\}\}/g, inspirehepActiveJobs.length)
       .replace(/\{\{lastUpdated\}\}/g, updateTime)
+      .replace(/\{\{daysBack\}\}/g, this.config.daysBack || 30)
       .replace(/\{\{inspirehepJobCards\}\}/g, inspirehepJobCards)
       .replace(/\{\{inspirehepNoJobsMessage\}\}/g, inspirehepNoJobsMessage)
       .replace(/\{\{ajoJobCards\}\}/g, ajoJobCards)
