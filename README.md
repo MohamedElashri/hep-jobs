@@ -1,6 +1,6 @@
 # HEP Jobs Tracker
 
-A job aggregator for High Energy Physics positions, pulling from InspireHEP, AcademicJobsOnline, and DESY. The site updates daily via GitHub Actions and displays only jobs posted in the last 30 days, filtering out stale postings even when deadlines remain open.
+A job aggregator for Experimental High Energy Physics positions, pulling from InspireHEP, AcademicJobsOnline, and DESY. The site updates daily via GitHub Actions and displays only jobs posted in the last 30 days, filtering out stale postings even when deadlines remain open.
 
 **Live site:** [melashri.net/hep-jobs](http://melashri.net/hep-jobs/)
 
