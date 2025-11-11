@@ -202,7 +202,7 @@ class JobsApp {
             }
         });
         
-        // Sort all jobs by deadline (non-expired first, then by date)
+        // Sort all jobs by updated date (non-expired first, then by most recently updated)
         allJobs.sort((a, b) => {
             const aExpired = a.classList.contains('expired');
             const bExpired = b.classList.contains('expired');
@@ -211,13 +211,13 @@ class JobsApp {
                 return aExpired ? 1 : -1;
             }
             
-            // If both expired or both active, sort by deadline
+            // If both expired or both active, sort by updated date (newest first)
             const aData = this.decodeJsonAttribute(a.getAttribute('data-job'));
             const bData = this.decodeJsonAttribute(b.getAttribute('data-job'));
-            const aDeadline = new Date(aData.deadline);
-            const bDeadline = new Date(bData.deadline);
+            const aUpdated = new Date(aData.updated);
+            const bUpdated = new Date(bData.updated);
             
-            return aDeadline - bDeadline;
+            return bUpdated - aUpdated;
         });
         
         // Add sorted jobs to container

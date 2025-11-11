@@ -214,8 +214,13 @@ class HTMLGenerator {
   generateHTML(inspirehepData, ajoData, desyData = null) {
     // Process InspireHEP jobs
     const inspirehepJobs = inspirehepData.jobs || [];
-    const inspirehepActiveJobs = inspirehepJobs.filter((job) => !this.isExpired(job.deadline));
-    const inspirehepExpiredJobs = inspirehepJobs.filter((job) => this.isExpired(job.deadline));
+    // Sort by updated date (newest first) and separate active/expired
+    const inspirehepActiveJobs = inspirehepJobs
+      .filter((job) => !this.isExpired(job.deadline))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
+    const inspirehepExpiredJobs = inspirehepJobs
+      .filter((job) => this.isExpired(job.deadline))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
     const inspirehepJobCards = [
       ...inspirehepActiveJobs.map((job) => this.generateJobCard(job)),
       ...inspirehepExpiredJobs.map((job) => this.generateJobCard(job))
@@ -228,8 +233,12 @@ class HTMLGenerator {
     
     // Process AJO jobs
     const ajoJobs = ajoData.jobs || [];
-    const ajoActiveJobs = ajoJobs.filter((job) => !this.isExpired(job.deadline));
-    const ajoExpiredJobs = ajoJobs.filter((job) => this.isExpired(job.deadline));
+    const ajoActiveJobs = ajoJobs
+      .filter((job) => !this.isExpired(job.deadline))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
+    const ajoExpiredJobs = ajoJobs
+      .filter((job) => this.isExpired(job.deadline))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
     const ajoJobCards = [
       ...ajoActiveJobs.map((job) => this.generateJobCard(job)),
       ...ajoExpiredJobs.map((job) => this.generateJobCard(job))
@@ -242,8 +251,12 @@ class HTMLGenerator {
 
     // Process DESY jobs
     const desyJobs = desyData ? (desyData.jobs || []) : [];
-    const desyActiveJobs = desyJobs.filter((job) => !this.isExpired(job.deadline));
-    const desyExpiredJobs = desyJobs.filter((job) => this.isExpired(job.deadline));
+    const desyActiveJobs = desyJobs
+      .filter((job) => !this.isExpired(job.deadline))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
+    const desyExpiredJobs = desyJobs
+      .filter((job) => this.isExpired(job.deadline))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
     const desyJobCards = [
       ...desyActiveJobs.map((job) => this.generateJobCard(job)),
       ...desyExpiredJobs.map((job) => this.generateJobCard(job))

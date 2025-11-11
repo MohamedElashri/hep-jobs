@@ -41,16 +41,66 @@ class DataFetcher {
     this.log("Fetching jobs from InspireHEP API...");
 
     try {
+      // Build query to filter by specific categories
+      // Categories: hep-ex (experimental HEP), nucl-ex (nuclear experiment), cs (computer science)
+      const categories = ['hep-ex', 'nucl-ex', 'cs'];
+      const categoryQuery = categories.map(cat => `arxiv_categories:${cat}`).join(' OR ');
+      
+      // Exclude theory categories
+      const excludeCategories = ['hep-th', 'hep-ph', 'hep-lat', 'nucl-th'];
+      const excludeQuery = excludeCategories.map(cat => `NOT arxiv_categories:${cat}`).join(' AND ');
+      
+      // Add date filter for last 30 days
+      const daysBack = this.config.daysBack || 30;
+      const cutoffDate = new Date();
+      cutoffDate.setDate(cutoffDate.getDate() - daysBack);
+      const dateQuery = `deadline_date:>${cutoffDate.toISOString().split('T')[0]}`;
+      
+      // Combine all queries
+      const fullQuery = `(${categoryQuery}) AND ${excludeQuery} AND ${dateQuery}`;
+      
+      this.log(`Filtering by categories: ${categories.join(', ')}`);
+      this.log(`Excluding theory categories: ${excludeCategories.join(', ')}`);
+      this.log(`Fetching jobs with deadlines after: ${cutoffDate.toISOString().split('T')[0]}`);
+      
+      // Fetch all pages (returns raw API responses)
+      const rawJobs = await this.fetchAllPages(fullQuery);
+      
+      // Log category statistics from raw jobs before processing
+      this.logCategoryStats(rawJobs);
+      
+      // Process the raw jobs
+      const processedJobs = this.processJobs(rawJobs);
+      this.log(`Processed ${processedJobs.length} jobs`, "success");
+      
+      return processedJobs;
+    } catch (error) {
+      this.log(`Error fetching jobs: ${error.message}`, "error");
+      this.log(`Error stack: ${error.stack}`, "error");
+      throw error;
+    }
+  }
+
+  async fetchAllPages(query) {
+    const allJobs = [];
+    const pageSize = 250; // API max per request
+    let page = 1;
+    let hasMore = true;
+    
+    while (hasMore) {
       const params = new URLSearchParams({
+        q: query,
         sort: "mostrecent",
-        size: 500,
+        size: pageSize,
+        page: page,
       });
-
-      this.log(`API URL: ${this.config.apiBase}/jobs?${params}`);
-      const response = await fetch(`${this.config.apiBase}/jobs?${params}`);
-
+      
+      const url = `${this.config.apiBase}/jobs?${params}`;
+      this.log(`Fetching page ${page}: ${url}`);
+      
+      const response = await fetch(url);
       this.log(`HTTP Status: ${response.status} ${response.statusText}`);
-
+      
       if (!response.ok) {
         const errorText = await response.text();
         this.log(`Response body: ${errorText}`, "error");
@@ -58,16 +108,11 @@ class DataFetcher {
           `HTTP error! status: ${response.status} - ${errorText}`
         );
       }
-
+      
       const data = await response.json();
-      this.log(
-        `Raw API response structure: ${JSON.stringify(Object.keys(data))}`
-      );
-
-      if (data.hits && data.hits.hits) {
+      
+      if (page === 1) {
         this.log(`Total jobs available: ${data.hits.total}`);
-        this.log(`Jobs in this response: ${data.hits.hits.length}`);
-
         if (data.hits.hits.length > 0) {
           const firstJob = data.hits.hits[0];
           this.log(`First job keys: ${JSON.stringify(Object.keys(firstJob))}`);
@@ -76,23 +121,39 @@ class DataFetcher {
               Object.keys(firstJob.metadata || {})
             )}`
           );
+          // Log date fields for debugging
+          const metadata = firstJob.metadata || {};
+          this.log(`First job date fields:`);
+          this.log(`  created: ${firstJob.created}`);
+          this.log(`  updated: ${firstJob.updated}`);
+          this.log(`  metadata.creation_date: ${metadata.creation_date}`);
+          this.log(`  metadata.update_date: ${metadata.update_date}`);
+          this.log(`  metadata.deadline_date: ${metadata.deadline_date}`);
         }
-
-        const processedJobs = this.processJobs(data.hits.hits);
-        this.log(`Fetched ${processedJobs.length} jobs from API`, "success");
-        return processedJobs;
-      } else {
-        this.log(
-          `Unexpected response structure: ${JSON.stringify(data)}`,
-          "warning"
-        );
-        throw new Error("Unexpected API response structure");
       }
-    } catch (error) {
-      this.log(`Error fetching jobs: ${error.message}`, "error");
-      this.log(`Error stack: ${error.stack}`, "error");
-      throw error;
+      
+      if (data.hits && data.hits.hits && data.hits.hits.length > 0) {
+        this.log(`Page ${page}: Retrieved ${data.hits.hits.length} jobs`);
+        allJobs.push(...data.hits.hits);
+        
+        // Check if there are more pages
+        const totalFetched = page * pageSize;
+        hasMore = data.hits.hits.length === pageSize && totalFetched < data.hits.total;
+        page++;
+        
+        // Add a small delay to avoid rate limiting
+        if (hasMore) {
+          await new Promise(resolve => setTimeout(resolve, 500));
+        }
+      } else {
+        hasMore = false;
+      }
     }
+    
+    this.log(`Total pages fetched: ${page - 1}`);
+    this.log(`Total jobs retrieved: ${allJobs.length}`);
+    
+    return allJobs;
   }
 
   processJobs(jobs) {
@@ -135,14 +196,14 @@ class DataFetcher {
             urls: this.extractUrls(metadata),
             contact_email: this.extractContactEmail(metadata),
             created:
+              job.created ||
               metadata.creation_date ||
               metadata.created ||
-              job.created ||
               new Date().toISOString(),
             updated:
+              job.updated ||
               metadata.update_date ||
               metadata.updated ||
-              job.updated ||
               new Date().toISOString(),
           };
         } catch (error) {
@@ -205,6 +266,44 @@ class DataFetcher {
   cleanJobTitle(title) {
     if (!title) return "Untitled Position";
     return title.replace(/\s+/g, " ").trim();
+  }
+
+  logCategoryStats(jobs) {
+    this.log("📊 Category Statistics:");
+    
+    const categoryCount = {};
+    const targetCategories = ['hep-ex', 'physics', 'nucl-ex', 'cs'];
+    
+    jobs.forEach(job => {
+      const metadata = job.metadata || job;
+      const categories = metadata.arxiv_categories || [];
+      
+      categories.forEach(cat => {
+        categoryCount[cat] = (categoryCount[cat] || 0) + 1;
+      });
+    });
+    
+    // Log target categories
+    this.log("  Target categories:");
+    targetCategories.forEach(cat => {
+      const count = categoryCount[cat] || 0;
+      this.log(`    ${cat}: ${count} jobs`);
+    });
+    
+    // Log other categories found
+    const otherCategories = Object.keys(categoryCount)
+      .filter(cat => !targetCategories.includes(cat))
+      .sort((a, b) => categoryCount[b] - categoryCount[a]);
+    
+    if (otherCategories.length > 0) {
+      this.log("  Other categories found:");
+      otherCategories.slice(0, 10).forEach(cat => {
+        this.log(`    ${cat}: ${categoryCount[cat]} jobs`);
+      });
+      if (otherCategories.length > 10) {
+        this.log(`    ... and ${otherCategories.length - 10} more`);
+      }
+    }
   }
 
 }

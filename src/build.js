@@ -23,7 +23,7 @@ class HEPJobsTracker {
       jobsFile: "./data/ip-jobs.json",
       ajoJobsFile: "./data/ajo-jobs.json",
       desyJobsFile: "./data/desy-jobs.json",
-      maxJobs: 200,
+      maxJobs: 10000, // Allow up to 10k jobs (effectively unlimited for 30 days)
       daysBack: 30,
     };
 

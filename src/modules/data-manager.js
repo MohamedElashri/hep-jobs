@@ -66,9 +66,9 @@ class DataManager {
       }
     }
 
-    // Sort by creation date (newest first) and limit
+    // Sort by updated date (newest first) to match API's "mostrecent" sort, and limit
     allJobs = allJobs
-      .sort((a, b) => new Date(b.created) - new Date(a.created))
+      .sort((a, b) => new Date(b.updated) - new Date(a.updated))
       .slice(0, this.config.maxJobs);
 
     this.log(
