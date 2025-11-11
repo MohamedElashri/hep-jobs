@@ -65,7 +65,9 @@ class HEPJobsTracker {
 
       // Step 3: Load existing data and merge
       const existingData = this.dataManager.loadExistingJobs();
-      const mergedJobs = this.dataManager.mergeJobs(newJobs, existingData);
+      const mergedJobs = this.dataManager.mergeJobs(newJobs, existingData, {
+        filterTheoryJobs: true
+      });
 
       // Step 4: Save updated data
       this.dataManager.saveJobs(mergedJobs);
@@ -260,7 +262,9 @@ class HEPJobsTracker {
       await this.dataFetcher.testApiConnectivity();
       const inspireNewJobs = await this.dataFetcher.fetchJobs();
       const inspireExistingData = this.dataManager.loadExistingJobs();
-      const inspireMergedJobs = this.dataManager.mergeJobs(inspireNewJobs, inspireExistingData);
+      const inspireMergedJobs = this.dataManager.mergeJobs(inspireNewJobs, inspireExistingData, {
+        filterTheoryJobs: true
+      });
       this.dataManager.saveJobs(inspireMergedJobs);
       
       const inspirehepData = {

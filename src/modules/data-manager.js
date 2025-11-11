@@ -31,17 +31,21 @@ class DataManager {
   mergeJobs(newJobs, existingData, options = {}) {
     const existingJobs = existingData.jobs || [];
     
-    // Filter out old jobs with theory categories (but keep jobs with null/empty categories)
-    const theoryCategories = ['hep-th', 'hep-ph', 'hep-lat', 'nucl-th'];
-    const filteredExistingJobs = existingJobs.filter((job) => {
-      // Keep jobs with null/undefined categories (might be experimental jobs without metadata)
-      if (!job.arxiv_categories || job.arxiv_categories.length === 0) {
-        return true;
-      }
-      // Remove jobs with any theory categories
-      const hasTheoryCategory = job.arxiv_categories.some(cat => theoryCategories.includes(cat));
-      return !hasTheoryCategory;
-    });
+    // Filter out old jobs with theory categories (only for InspireHEP jobs)
+    let filteredExistingJobs = existingJobs;
+    if (options.filterTheoryJobs) {
+      const theoryCategories = ['hep-th', 'hep-ph', 'hep-lat', 'nucl-th'];
+      filteredExistingJobs = existingJobs.filter((job) => {
+        // Remove jobs with null/undefined categories (old data without proper filtering)
+        // New jobs from the API will always have categories
+        if (!job.arxiv_categories || job.arxiv_categories.length === 0) {
+          return false;
+        }
+        // Remove jobs with any theory categories
+        const hasTheoryCategory = job.arxiv_categories.some(cat => theoryCategories.includes(cat));
+        return !hasTheoryCategory;
+      });
+    }
     
     const existingIds = new Set(filteredExistingJobs.map((job) => job.id));
 
