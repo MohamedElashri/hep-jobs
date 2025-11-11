@@ -43,7 +43,7 @@ class DataFetcher {
     try {
       const params = new URLSearchParams({
         sort: "mostrecent",
-        size: 100,
+        size: 500,
       });
 
       this.log(`API URL: ${this.config.apiBase}/jobs?${params}`);
