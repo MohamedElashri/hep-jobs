@@ -51,6 +51,18 @@ class HTMLGenerator {
       .replace(/'/g, "&#x27;");
   }
 
+  escapeJsonForAttribute(obj) {
+    // Convert object to JSON string
+    // For HTML attributes, we need to escape the attribute delimiter (single quote)
+    // and HTML special characters, but keep the JSON structure intact
+    const jsonString = JSON.stringify(obj);
+    // Only escape single quotes and ampersands to avoid breaking the HTML attribute
+    // The JSON itself already has properly escaped double quotes
+    return jsonString
+      .replace(/&/g, "&amp;")
+      .replace(/'/g, "&#x27;");
+  }
+
   truncateText(text, maxLength, suffix = "...") {
     if (!text) return "";
     if (text.length <= maxLength) return this.escapeHtml(text);
@@ -117,7 +129,7 @@ class HTMLGenerator {
     };
 
     return `
-      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${JSON.stringify(jobData).replace(/'/g, "&#39;")}'>
+      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${this.escapeJsonForAttribute(jobData)}'>
         <div class="job-header">
           <h3 class="job-title">
             <a href="${jobUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>

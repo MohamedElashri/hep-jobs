@@ -28,6 +28,15 @@ class JobsApp {
         this.switchSource(this.currentSource);
     }
 
+    // Helper function to decode HTML entities in JSON strings
+    decodeJsonAttribute(attrValue) {
+        // Decode only the entities we escaped: &amp; and &#x27;
+        const decoded = attrValue
+            .replace(/&#x27;/g, "'")
+            .replace(/&amp;/g, "&");
+        return JSON.parse(decoded);
+    }
+
     initEventListeners() {
         this.searchInput.addEventListener('input', () => this.filterJobs());
         
@@ -172,8 +181,8 @@ class JobsApp {
             }
             
             // If both expired or both active, sort by deadline
-            const aData = JSON.parse(a.getAttribute('data-job'));
-            const bData = JSON.parse(b.getAttribute('data-job'));
+            const aData = this.decodeJsonAttribute(a.getAttribute('data-job'));
+            const bData = this.decodeJsonAttribute(b.getAttribute('data-job'));
             const aDeadline = new Date(aData.deadline);
             const bDeadline = new Date(bData.deadline);
             
@@ -192,7 +201,7 @@ class JobsApp {
             if (e.target.classList.contains('btn-view-full')) {
                 const jobCard = e.target.closest('.job-card');
                 if (jobCard) {
-                    const jobData = JSON.parse(jobCard.getAttribute('data-job'));
+                    const jobData = this.decodeJsonAttribute(jobCard.getAttribute('data-job'));
                     this.showModal(jobData);
                 }
             }
@@ -281,7 +290,7 @@ class JobsApp {
             if (e.target.closest('.job-description')) {
                 const jobCard = e.target.closest('.job-card');
                 if (jobCard) {
-                    const jobData = JSON.parse(jobCard.getAttribute('data-job'));
+                    const jobData = this.decodeJsonAttribute(jobCard.getAttribute('data-job'));
                     this.showPreview(jobData);
                 }
             }
