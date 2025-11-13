@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3082152",
+      "title": "PhD Position in Deep Learning and Uncertainty Quantification for Nucleon Tomography",
+      "institution": "Coll. William and Mary",
+      "deadline": "2026-01-01",
+      "description": "<div><strong>The School of Computing, Data Sciences, and Physics at William &amp; Mary (</strong><a href=\"https://cdsp.wm.edu\">https://cdsp.wm.edu/</a><strong>) invites applications for a PhD position in Deep Learning and Uncertainty Quantification for Nucleon Tomography.</strong></div><div><br></div><div>This research lies at the intersection of&nbsp;<strong>nuclear physics</strong>,&nbsp;<strong>machine learning</strong>, and&nbsp;<strong>data science</strong>, focusing on developing deep learning and Bayesian methods to extract three-dimensional images of the nucleon from experimental data. The successful candidate will develop and deploy AI models for the analysis of data from&nbsp;<strong>Jefferson Lab</strong>&nbsp;and the future&nbsp;<strong>Electron–Ion Collider</strong>.</div><div><br></div><div><strong>Research Topics:</strong></div><ul><li>Deep learning and Bayesian neural networks for physics analysis</li><li>Uncertainty quantification in experimental data</li><li>Physics event simulation and reconstruction</li><li>Integration of ML workflows with Jefferson Lab and EIC experiments</li></ul><div><br></div><div><strong>Requirements:</strong></div><ul><li>Bachelor’s or Master’s degree in Physics, Data Science, Computer Science, or a related field</li><li>Strong programming skills (Python, PyTorch, or TensorFlow)</li><li>Interest in both fundamental physics and AI/ML methodology</li><li>Experience with Bayesian methods, HPC environments, or experimental software frameworks is an advantage.</li></ul><div><br></div><div><strong>Salary:</strong></div><div>We offer a competitive stipend for this position in addition to tuition and health insurance.</div><div><br></div><div><strong>Application Instructions:</strong></div><div>Please submit the following materials in a single PDF file:</div><ul><li>Curriculum Vitae (CV)</li><li>Academic transcript (an unofficial copy is acceptable for the initial application)</li><li>1–2 page statement of research interests and motivation</li><li>Contact information for two reference letter writers</li></ul><div><br></div><div><strong>Environment:</strong></div><div>The successful candidate will join an interdisciplinary research group within the&nbsp;<strong>School of Computing, Data Sciences, and Physics</strong>, working at the frontier of AI for nuclear physics. The position is anchored in&nbsp;<strong>Data Science and Artificial Intelligence</strong>, with opportunities to engage in physics-focused coursework and research. Collaborations with&nbsp;<strong>Jefferson Lab</strong>&nbsp;and&nbsp;<strong>Brookhaven National Laboratory</strong>&nbsp;provide unique opportunities for cross-institutional research, access to high-performance computing resources, and participation in collaborative research activities.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex",
+        "physics",
+        "physics.ins-det",
+        "stat",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-12T19:31:36.887884+00:00",
+      "updated": "2025-11-12T23:50:15.058579+00:00"
+    },
+    {
       "id": "3071010",
       "title": "Fermilab Wilson Fellowship",
       "institution": "Fermilab",
@@ -1155,6 +1181,6 @@
       "updated": "2025-10-13T17:24:17.740456+00:00"
     }
   ],
-  "lastUpdated": "2025-11-12T08:04:49.546Z",
-  "totalJobs": 47
+  "lastUpdated": "2025-11-13T08:04:51.545Z",
+  "totalJobs": 48
 }
