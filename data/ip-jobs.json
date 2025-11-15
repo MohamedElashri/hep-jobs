@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "id": "3082923",
+      "title": "Postdoctoral position in experimental particle physics",
+      "institution": "Beijing, Inst. High Energy Phys.",
+      "deadline": "2026-02-28",
+      "description": "<div>The Prof. Ostrovskiy's group at the Institute of High Energy Physics (IHEP) of the Chinese Academy of Sciences (CAS) is continuously looking for active, self-motivated postdoctoral researchers with background in high-energy, astroparticle, or nuclear physics.</div><div><br></div><div>The group is playing a leading role in the searches for magnetic monopoles in Pb-Pb collisions at the LHC with the MoEDAL experiment and participates in searches for other exotics in p-p collisions. The group is also involved in the installation and commissioning of the MoEDAL’s Apparatus for Penetrating Particles (MAPP) that will search for long-lived and milli-charged particles. The group members are involved in the simulations, analysis, and installation activities, as well as serving in leadership roles in the MoEDAL/MAPP collaboration.</div><div><br></div><div>The successful candidate will be expected to take charge of one or several of the above activities. Experience with Geant4 Monte Carlo simulations and data analysis using ROOT and Python is required.</div><div><br></div><div>Candidates will need to have completed their Ph.D.&nbsp;in Physics or a related field at the start of appointment.</div><div><br></div><div>The position comes with attractive starting salary and anticipated further increases based on annual review performance. Opportunities exist to apply for competitive fellowships and extra funds from the CAS/IHEP during the appointment. Outstanding postdocs may eventually be promoted to a tenure-track faculty position at IHEP. The position is initially for two years, with potential extensions for 2-4 more years.</div><div><br></div><div>Applicants should send their CV and a statement of purpose (explaining your scientific goals and how your qualifications will allow you to achieve them) to Prof. Igor Ostrovskiy (igor.ostrovskiy@ihep.ac.cn). Please also provide the names and contact information of three references who will supply letters of recommendation upon request.</div><div><br></div><div>Review of the applications will begin immediately and continue until the positions are filled. Email Prof. Igor Ostrovskiy with any questions.&nbsp;</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "CERN-LHC-MOEDAL"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-14T10:17:31.840170+00:00",
+      "updated": "2025-11-14T15:32:12.109944+00:00"
+    },
+    {
       "id": "3082152",
       "title": "PhD Position in Deep Learning and Uncertainty Quantification for Nucleon Tomography",
       "institution": "Coll. William and Mary",
@@ -1181,6 +1205,6 @@
       "updated": "2025-10-13T17:24:17.740456+00:00"
     }
   ],
-  "lastUpdated": "2025-11-14T08:04:31.953Z",
-  "totalJobs": 48
+  "lastUpdated": "2025-11-15T08:03:50.861Z",
+  "totalJobs": 49
 }
