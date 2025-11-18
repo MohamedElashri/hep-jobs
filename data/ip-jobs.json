@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3083380",
+      "title": "Experimental Particle Physics Postdoctoral Position",
+      "institution": "U. Minnesota, Minneapolis (main)",
+      "deadline": "2025-12-01",
+      "description": "<div>The Intensity Frontier group at the University of Minnesota has an available postdoc position for the Mu2e experiment.&nbsp;Mu2e is a sensitive probe of physics beyond the standard model. It is now being installed at Fermilab and getting ready for commissioning. Please submit applications to <a href=\"https://hr.umn.edu/jobs\">https://hr.umn.edu/jobs</a> and click on the appropriate box to enter the job search.&nbsp;Next enter “mu2e” in the search box.&nbsp;This gives brief information about the position. Click the top right box to apply.</div><div>Interviews will begin December 1, 2025 and applications will continue to be accepted until the position is filled.</div><div>For more information about the position email Ken Heller <a href=\"mailto:heller@umn.edu\">heller@umn.edu</a>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "FNAL-E-0973"
+      ],
+      "urls": [
+        "https://hr.myu.umn.edu/"
+      ],
+      "contact_email": null,
+      "created": "2025-11-14T22:06:04.362357+00:00",
+      "updated": "2025-11-17T18:11:19.972794+00:00"
+    },
+    {
       "id": "3082923",
       "title": "Postdoctoral position in experimental particle physics",
       "institution": "Beijing, Inst. High Energy Phys.",
@@ -1205,6 +1230,6 @@
       "updated": "2025-10-13T17:24:17.740456+00:00"
     }
   ],
-  "lastUpdated": "2025-11-17T08:05:23.090Z",
-  "totalJobs": 49
+  "lastUpdated": "2025-11-18T08:04:15.390Z",
+  "totalJobs": 50
 }
