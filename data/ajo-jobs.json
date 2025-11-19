@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "id": "ajo-31238",
+      "title": "Assistant Professor",
+      "institution": "Tsinghua University",
+      "deadline": "2026-01-01",
+      "description": "The Particle Physics, Nuclear Physics, and Astrophysics Group in the Department of Physics at Tsinghua University invites applications for tenure-track faculty positions in particle physics, nuclear physics, and cosmology.\r\n\r\nFaculty members in the Department of Physics at Tsinghua University are expected to conduct independent, forefront research and supervise both Ph.D. and undergraduate students. The positions are open to researchers of all nationalities and offer an internationally competitive salary, housing subsidy, and start-up funds. The expected start date is September 2026, with flexibility.\r\n\r\nApplications should be submitted via AcademicJobsOnline (AJO). For full consideration, all application materials should be received by December 31, 2025. The search will remain open until the positions are filled.",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "PHD",
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Tsinghua/Physics/31238?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-11-18T17:00:00.000Z",
+      "updated": "2025-11-18T17:00:00.000Z",
+      "source": "AcademicJobsOnline"
+    },
+    {
       "id": "ajo-31192",
       "title": "Postdoc in theoretical high-energy physics and astroparticle physics",
       "institution": "University of Utah",
@@ -449,6 +472,6 @@
       "source": "AcademicJobsOnline"
     }
   ],
-  "lastUpdated": "2025-11-18T08:04:15.393Z",
-  "totalJobs": 20
+  "lastUpdated": "2025-11-19T08:04:30.855Z",
+  "totalJobs": 21
 }
