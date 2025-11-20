@@ -1,6 +1,83 @@
 {
   "jobs": [
     {
+      "id": "3084707",
+      "title": "Accelerator Physicist",
+      "institution": "Acceleron Fusion",
+      "deadline": "2026-01-30",
+      "description": "<div><strong>About us</strong></div><div>Acceleron Fusion is developing muon‑catalyzed fusion—a path to clean, abundant energy. Building on research sponsored by the U.S. DOE, we have recently raised a $24M Series A venture capital round and have already logged 100+ hours of muon-catalyzed fusion in tests at the Paul Scherrer Institute. Our collaborators include PSI, Oak Ridge, Argonne, Fermilab, and several universities. Join a team where fundamental physics meets application-oriented engineering, and your designs could help move our technology from the laboratory to a commercial energy source.</div><div>We have an opening for an Accelerator Physicist who will play a key role in the design and optimization of muon production systems for our fusion technology.</div><div><br></div><div><strong>What you'll do:</strong></div><ul><li>Design and optimize particle accelerator systems and beamlines for muon production</li><li>Develop simulation models of accelerators and beams to analyze beam dynamics and particle interactions</li><li>Collaborate cross-functionally to integrate accelerator designs into our fusion system</li><li>Contribute to experimental planning and data analysis</li><li>Help establish technical specifications for system components</li><li>Author technical papers and contribute to the company's scientific publications, presenting research at scientific conferences</li></ul><div><strong>What we're looking for:</strong></div><ul><li>PhD in Physics, Electrical Engineering, or a related field, preferably with a focus on accelerator physics</li><li>Strong understanding of beam dynamics and accelerator systems</li><li>Demonstrated understanding of accelerator physics principles for beamlines, synchrotrons, and storage rings, including the theory of polarized beams</li><li>Experience with particle accelerator simulation tools</li><li>Track record of working successfully with other scientists and engineers to solve complex technical challenges</li><li>Excellent analytical and problem-solving abilities</li><li>Strong communication and collaboration skills, and ability to work in a fast-paced team</li></ul><div><strong>Preferred Qualifications (not required)</strong></div><ul><li>Post-doctoral research experience in accelerator physics</li><li>Hands-on experience with physics/particle accelerator operations or development</li><li>Background in muon physics or muon beamline design</li><li>Familiarity with high-frequency electronics or RF accelerator components.</li><li>Experience with safety systems for high-power or high-voltage electronics.</li><li>Programming skills in Python, MATLAB, or similar tools</li><li>CAD software proficiency (e.g. SolidWorks, AutoCAD)</li></ul><div><strong>Details and Logistics:</strong></div><ul><li>This is a full-time, onsite role working from our facility in Cambridge, MA. Preference will be given to candidates already living in the Greater Boston area.</li><li>Travel (including international) for several weeks per year is required.</li><li>Our benefits package includes health &amp; dental insurance, retirement savings with company contribution, stock options, paid time off, and 11 company holidays.</li><li>The salary range for this role is $110,000 to $150,000. This range represents the minimum and maximum base compensation Acceleron Fusion reasonably expects to pay for this position. The specific salary offered will be determined based on relevant factors including skills, experience, qualifications, and location. This position may also be eligible for additional compensation such as bonuses, equity, or other benefits.&nbsp;</li></ul>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "physics.acc-ph",
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.acceleron.energy/"
+      ],
+      "contact_email": null,
+      "created": "2025-11-19T19:36:30.127536+00:00",
+      "updated": "2025-11-19T21:59:20.040490+00:00"
+    },
+    {
+      "id": "3084682",
+      "title": "Postdoctoral position in charm-baryon physics with the Belle II experiment",
+      "institution": "Marseille, CPPM",
+      "deadline": "2025-12-17",
+      "description": "<div><strong>General information:</strong></div><div>Workplace: Marseille, France</div><div>Type of contract: CDD contract</div><div>Contract period: 2 years</div><div>Expected date of employment: between February 1st and April 1st 2026</div><div>Renumeration: 3081...4291 EUR per month, depending on the experience</div><div>Desired level of education: PhD</div><div>Deadline for application: 17/December/2025</div><div>Apply through: <a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR7346-ANNPOR-171/Default.aspx?lang=EN\"><strong>https://emploi.cnrs.fr/Offres/CDD/UMR7346-ANNPOR-171/Default.aspx?lang=EN</strong></a></div><div><br></div><div><strong>Project description:</strong></div><div>Decays of heavy-quark hadrons allow to perform indirect searches for effects beyond the Standard Model, by comparing the measured decay properties to their Standard Model predictions. Although our world is made of baryons, most such studies in heavy-flavour physics to date are performed with mesons, and our knowledge of heavy-quark baryon properties remains very limited.&nbsp;</div><div>Although the baryons that contain a charm quark and at least one strange quark have been studied for more than 40 years, there are still significant gaps in our knowledge of their properties and decays. Notably, the absolute branching fractions of the Xi_c baryon decays are known to a very limited precision, while for the Omega_c, only relative decay rates have been measured. This is a significant limitation for any searches for physics beyond the Standard Model involving charm-baryon decays, or beauty baryons decays into charm baryons.&nbsp;</div><div><br></div><div>The Belle II detector at KEK (Japan) is aimed at precision measurements of properties of beauty and charm hadrons, as well as tau leptons (<a href=\"https://inspirehep.net/literature/1692393\">https://inspirehep.net/literature/1692393</a>). The Belle II collaboration consists of more than 1000 scientists and is taking data since 2019. The key feature of the Belle II detector is the nearly 4pi angular acceptance, which allows to perform the full reconstruction of the visible collision products and calculation of the missing energy. Combined with conservation laws in e+e--&gt;ccbar process (baryon number, electric charge, quark flavours), this allows to fully reconstruct only one charm hadron and deduce the properties of the other one.&nbsp;This, together with the powerful algorithms for full event interpretation and B-tagging, opens several opportunities to improve our knowledge of the strange-charm-baryon decay rates. The techniques for inclusive reconstruction of charm baryons developed in <a href=\"https://inspirehep.net/literature/1275621\">https://inspirehep.net/literature/1275621</a> will be extended to strange-charm baryons and improved during this project. This technique can then be extended to other measurements, such as semileptonic decays of charm baryons.</div><div><br></div><div><strong>Activities:</strong></div><div>Data analysis, participation to the Belle II data taking and detector operation, outreach and dissemination, student supervision.&nbsp;</div><div><br></div><div><strong>Work context:</strong></div><div>The successful candidate will be based at CPPM, Marseille (<a href=\"https://www.cppm.in2p3.fr\">https://www.cppm.in2p3.fr</a>). Travels to KEK (Japan) for collaboration meetings, and longer stays for participation to the data taking, are foreseen. The funding for this position comes from the ANR grant StrangeCharm.</div><div><br></div><div>Located in the heart of the Parc National des Calanques, on the Luminy campus, the CPPM is a joint research laboratory of the CNRS and Aix-Marseille University, with around 180 researchers, engineers and PhD students. The laboratory studies subjects ranging from particle physics to astroparticle physics and cosmology, with a strong technological focus on electronics, mechanics, instrumentation and computing, enabling the design and construction of cutting-edge detection systems, often called upon to operate under extreme conditions: in the depths of the sea, in space or underground. Most of our research is carried out as part of leading international scientific collaborations, and our contributions are recognized worldwide. CPPM is committed to ethical research and promotes diversity and inclusion in the workplace, and provides administrative and logistical support to newcomers, particularly PhD students.</div><div><br></div><div><strong>Skills:</strong></div><div>PhD in experimental particle physics.</div><div>Excellent skills in data analysis and software (python, ROOT, C++), teamwork abilities and proficiency in English.</div><div>Experience in Belle II data analysis is appreciated but not mandatory.</div><div><br></div><div><strong>Additional information:</strong></div><div>Interested researchers are invited to submit their application that includes: a motivation letter, curriculum vitae, list of publications and a copy of their latest university degree. <strong>The applications must be submitted through the CNRS web portal </strong><a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR7346-ANNPOR-171/Default.aspx?lang=EN\"><strong>https://emploi.cnrs.fr/Offres/CDD/UMR7346-ANNPOR-171/Default.aspx?lang=EN</strong></a>. Three letters of recommendation are requested as a part of this procedure.&nbsp;</div><div><br></div><div>For more information, contact Vitalii Lisovskyi (lisovskyi@cppm.in2p3.fr)</div><div><br></div><div><strong>Further references:</strong></div><div><a href=\"https://arxiv.org/abs/1312.7826&nbsp;\">https://arxiv.org/abs/1312.7826&nbsp;</a></div><div><a href=\"https://arxiv.org/abs/1811.09738\">https://arxiv.org/abs/1811.09738</a></div><div><a href=\"https://arxiv.org/abs/1904.12093\">https://arxiv.org/abs/1904.12093</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "KEK-BF-BELLE-II"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR7346-ANNPOR-171/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2025-11-19T17:45:36.471620+00:00",
+      "updated": "2025-11-19T17:55:33.650583+00:00"
+    },
+    {
+      "id": "3084634",
+      "title": "PhD student position in experimental astroparticle physics",
+      "institution": "Ecole Polytechnique, Lausanne",
+      "deadline": "2025-12-02",
+      "description": "<div>The&nbsp;<strong>Laboratory of Cosmic Particles</strong>&nbsp;(<strong>LCP</strong>) of&nbsp;<strong>EPFL</strong>, the Swiss Federal Institute of Technology in Lausanne, invites applications for a PhD student position in experimental astroparticle physics.&nbsp;</div><div><br></div><div>The successful candidate will join the&nbsp;<strong>DAMPE</strong>&nbsp;and&nbsp;<strong>HERD</strong>&nbsp;international collaborations, dedicated to high-energy cosmic-ray and gamma-ray observations from space.</div><div><br></div><div>The main focus of the PhD project will be&nbsp;<strong>Monte Carlo simulations</strong>&nbsp;for HERD, used to model particle interactions in the detector and to estimate the expected electron + positron flux. The work will involve developing the analysis framework for the HERD data expected from 2028, and the candidate will later take a leading role in their<strong>&nbsp;analysis</strong>&nbsp;once the data become available. Depending on the candidate’s interests, there will also be opportunities to contribute to the&nbsp;<strong>development and testing of scintillating-fibre tracking detectors</strong>&nbsp;for space applications.</div><div><br></div><div>The position, which includes&nbsp;<strong>teaching duties</strong>&nbsp;at the Bachelor’s or Master’s level, will start at the earliest convenient date for the selected candidate, and preferably no later than&nbsp;<strong>March 1, 2026</strong>.</div><div><br></div><div>The selected PhD student will be required to enrol in the&nbsp;<strong>Physics program (EDPY) of the EPFL Doctoral School</strong>, and employment is offered for a total duration of up to four years. Information on the doctoral school and employment conditions at EPFL can be found online [1–3]. Applicants are expected to hold a&nbsp;<strong>Master’s degree (or equivalent) in Physics</strong>&nbsp;at the start of employment. The ideal candidate is strongly motivated for fundamental research and has a solid background in particle physics. Experience in data analysis, detector simulations, and scientific programming is an asset.</div><div><br></div><div>Candidates should submit a&nbsp;<strong>single PDF file</strong>&nbsp;containing the following documents, in the order listed below:</div><ol><li>A motivation letter,</li><li>A curriculum vitae,</li><li>The names and email addresses of two referees who have agreed to provide reference letters,</li><li>A transcript of grades for both the Bachelor’s and Master’s degrees.</li></ol><div>The compiled PDF should be sent to Prof. Chiara Perrina at&nbsp;<a href=\"mailto:Chiara.Perrina@epfl.ch\"><strong>Chiara.Perrina@epfl.ch</strong></a>&nbsp;by&nbsp;<strong>December 2, 2025</strong>.</div><div><br></div><div>Applicants are encouraged to inform their referees in advance so that the referees can send their letters to Prof. Chiara Perrina at&nbsp;<a href=\"mailto:Chiara.Perrina@epfl.ch\"><strong>Chiara.Perrina@epfl.ch</strong></a>&nbsp;by&nbsp;<strong>December 2, 2025</strong>.</div><div><br></div><div>[1]&nbsp;<a href=\"https://www.epfl.ch/education/phd/programs/edpy-physics\">https://www.epfl.ch/education/phd/programs/edpy-physics</a></div><div>[2]&nbsp;<a href=\"https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary\">https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary</a></div><div>[3]&nbsp;<a href=\"https://www.epfl.ch/about/working/working-at-epfl/employment-conditions\">https://www.epfl.ch/about/working/working-at-epfl/employment-conditions</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "HERD",
+        "DAMPE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-19T11:41:13.981286+00:00",
+      "updated": "2025-11-19T17:31:20.436804+00:00"
+    },
+    {
       "id": "3083925",
       "title": "Ph.D. Positions in Dark Matter & Neutrino Experiments",
       "institution": "Westlake University",
@@ -1304,6 +1381,6 @@
       "updated": "2025-10-13T17:24:17.740456+00:00"
     }
   ],
-  "lastUpdated": "2025-11-19T08:04:29.077Z",
-  "totalJobs": 53
+  "lastUpdated": "2025-11-20T08:05:07.162Z",
+  "totalJobs": 56
 }
