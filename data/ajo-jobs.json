@@ -21,7 +21,9 @@
       "contact_email": null,
       "created": "2025-11-18T17:00:00.000Z",
       "updated": "2025-11-18T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31192",
@@ -44,7 +46,9 @@
       "contact_email": null,
       "created": "2025-11-12T17:00:00.000Z",
       "updated": "2025-11-12T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31163",
@@ -68,7 +72,9 @@
       "contact_email": "oeo@tufts.edu",
       "created": "2025-11-10T17:00:00.000Z",
       "updated": "2025-11-10T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31141",
@@ -91,7 +97,9 @@
       "contact_email": "muenchmeyer@wisc.edu",
       "created": "2025-11-06T17:00:00.000Z",
       "updated": "2025-11-06T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31117",
@@ -110,7 +118,9 @@
       "contact_email": "dlin@nycu.edu.tw",
       "created": "2025-11-06T17:00:00.000Z",
       "updated": "2025-11-06T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31116",
@@ -132,7 +142,9 @@
       "contact_email": null,
       "created": "2025-11-05T17:00:00.000Z",
       "updated": "2025-11-05T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31111",
@@ -156,7 +168,9 @@
       "contact_email": null,
       "created": "2025-11-05T17:00:00.000Z",
       "updated": "2025-11-05T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31067",
@@ -178,7 +192,9 @@
       "contact_email": "gregory.soyez@ipht.fr",
       "created": "2025-11-03T17:00:00.000Z",
       "updated": "2025-11-03T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31046",
@@ -200,7 +216,9 @@
       "contact_email": null,
       "created": "2025-11-03T17:00:00.000Z",
       "updated": "2025-11-03T17:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31052",
@@ -222,7 +240,9 @@
       "contact_email": "ayers1@illinois.edu",
       "created": "2025-10-31T16:00:00.000Z",
       "updated": "2025-10-31T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31036",
@@ -244,7 +264,9 @@
       "contact_email": null,
       "created": "2025-10-30T16:00:00.000Z",
       "updated": "2025-10-30T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31034",
@@ -266,7 +288,9 @@
       "contact_email": null,
       "created": "2025-10-29T16:00:00.000Z",
       "updated": "2025-10-29T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31029",
@@ -288,7 +312,9 @@
       "contact_email": null,
       "created": "2025-10-29T16:00:00.000Z",
       "updated": "2025-10-29T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31028",
@@ -312,7 +338,9 @@
       "contact_email": "physicsapply@psu.edu",
       "created": "2025-10-29T16:00:00.000Z",
       "updated": "2025-10-29T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31024",
@@ -334,7 +362,9 @@
       "contact_email": null,
       "created": "2025-10-28T16:00:00.000Z",
       "updated": "2025-10-28T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-30994",
@@ -356,7 +386,9 @@
       "contact_email": "nblinov@yorku.ca",
       "created": "2025-10-28T16:00:00.000Z",
       "updated": "2025-10-28T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-30071",
@@ -378,7 +410,9 @@
       "contact_email": null,
       "created": "2025-10-28T16:00:00.000Z",
       "updated": "2025-10-28T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31015",
@@ -401,7 +435,9 @@
       "contact_email": null,
       "created": "2025-10-27T16:00:00.000Z",
       "updated": "2025-10-27T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-31000",
@@ -424,7 +460,9 @@
       "contact_email": null,
       "created": "2025-10-24T16:00:00.000Z",
       "updated": "2025-10-24T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-30958",
@@ -446,7 +484,9 @@
       "contact_email": "glenn.starkman@case.edu",
       "created": "2025-10-22T16:00:00.000Z",
       "updated": "2025-10-22T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     },
     {
       "id": "ajo-30948",
@@ -469,9 +509,11 @@
       "contact_email": null,
       "created": "2025-10-22T16:00:00.000Z",
       "updated": "2025-10-22T16:00:00.000Z",
-      "source": "AcademicJobsOnline"
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-20T11:12:26.534Z",
+      "isNew": false
     }
   ],
-  "lastUpdated": "2025-11-20T08:05:08.315Z",
+  "lastUpdated": "2025-11-20T11:12:26.534Z",
   "totalJobs": 21
 }

@@ -25,7 +25,9 @@
       "employmentType": null,
       "created": "2025-11-20T08:05:26.666Z",
       "updated": "2025-11-20T08:05:26.666Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763625925406",
@@ -55,7 +57,9 @@
       "employmentType": null,
       "created": "2025-11-20T08:05:25.406Z",
       "updated": "2025-11-20T08:05:25.406Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763539477798",
@@ -82,7 +86,9 @@
       "employmentType": null,
       "created": "2025-11-19T08:04:37.799Z",
       "updated": "2025-11-19T08:04:37.799Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763539477334",
@@ -112,7 +118,9 @@
       "employmentType": null,
       "created": "2025-11-19T08:04:37.334Z",
       "updated": "2025-11-19T08:04:37.334Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-304189",
@@ -138,7 +146,9 @@
       "employmentType": null,
       "created": "2025-11-19T08:04:33.221Z",
       "updated": "2025-11-19T08:04:33.221Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763366768302",
@@ -165,7 +175,9 @@
       "employmentType": null,
       "created": "2025-11-17T08:06:08.303Z",
       "updated": "2025-11-17T08:06:08.303Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763366767141",
@@ -195,7 +207,9 @@
       "employmentType": null,
       "created": "2025-11-17T08:06:07.141Z",
       "updated": "2025-11-17T08:06:07.141Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763280259333",
@@ -222,7 +236,9 @@
       "employmentType": null,
       "created": "2025-11-16T08:04:19.333Z",
       "updated": "2025-11-16T08:04:19.333Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1763280258108",
@@ -252,7 +268,9 @@
       "employmentType": null,
       "created": "2025-11-16T08:04:18.108Z",
       "updated": "2025-11-16T08:04:18.108Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-304076",
@@ -277,7 +295,9 @@
       "employmentType": null,
       "created": "2025-11-16T08:04:05.891Z",
       "updated": "2025-11-16T08:04:05.891Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1762934703637",
@@ -304,7 +324,9 @@
       "employmentType": null,
       "created": "2025-11-12T08:05:03.637Z",
       "updated": "2025-11-12T08:05:03.638Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1762934702433",
@@ -334,7 +356,9 @@
       "employmentType": null,
       "created": "2025-11-12T08:05:02.433Z",
       "updated": "2025-11-12T08:05:02.433Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-270935",
@@ -359,7 +383,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:36:01.168Z",
       "updated": "2025-11-11T06:36:01.168Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1762842959885",
@@ -386,7 +412,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:59.885Z",
       "updated": "2025-11-11T06:35:59.885Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-1762842958643",
@@ -416,7 +444,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:58.643Z",
       "updated": "2025-11-11T06:35:58.643Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-297080",
@@ -442,7 +472,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:57.389Z",
       "updated": "2025-11-11T06:35:57.389Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-300594",
@@ -470,7 +502,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:56.008Z",
       "updated": "2025-11-11T06:35:56.008Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-302987",
@@ -494,7 +528,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:54.785Z",
       "updated": "2025-11-11T06:35:54.785Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-303510",
@@ -521,7 +557,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:53.362Z",
       "updated": "2025-11-11T06:35:53.362Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-303675",
@@ -547,7 +585,9 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:52.125Z",
       "updated": "2025-11-11T06:35:52.125Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     },
     {
       "id": "desy-303691",
@@ -573,9 +613,11 @@
       "employmentType": null,
       "created": "2025-11-11T06:35:50.081Z",
       "updated": "2025-11-11T06:35:50.081Z",
-      "source": "DESY"
+      "source": "DESY",
+      "addedAt": "2025-11-20T11:12:26.536Z",
+      "isNew": false
     }
   ],
-  "lastUpdated": "2025-11-20T08:05:27.935Z",
+  "lastUpdated": "2025-11-20T11:12:26.536Z",
   "totalJobs": 21
 }
