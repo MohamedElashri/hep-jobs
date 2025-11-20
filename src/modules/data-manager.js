@@ -30,6 +30,7 @@ class DataManager {
 
   mergeJobs(newJobs, existingData, options = {}) {
     const existingJobs = existingData.jobs || [];
+    const currentTimestamp = new Date().toISOString();
     
     // Filter out old jobs with theory categories (only for InspireHEP jobs)
     let filteredExistingJobs = existingJobs;
@@ -49,11 +50,22 @@ class DataManager {
     
     const existingIds = new Set(filteredExistingJobs.map((job) => job.id));
 
-    // Add new jobs that don't exist
-    const uniqueNewJobs = newJobs.filter((job) => !existingIds.has(job.id));
+    // Add new jobs that don't exist, marking them with addedAt timestamp
+    const uniqueNewJobs = newJobs.filter((job) => !existingIds.has(job.id)).map((job) => ({
+      ...job,
+      addedAt: currentTimestamp,
+      isNew: true
+    }));
+
+    // Preserve addedAt for existing jobs, mark them as not new
+    const preservedExistingJobs = filteredExistingJobs.map((job) => ({
+      ...job,
+      addedAt: job.addedAt || currentTimestamp, // Preserve existing timestamp or add one
+      isNew: false
+    }));
 
     // Combine all jobs
-    let allJobs = [...filteredExistingJobs, ...uniqueNewJobs];
+    let allJobs = [...preservedExistingJobs, ...uniqueNewJobs];
     
     // Deduplicate by ID (safeguard against any duplicate IDs)
     const seenIds = new Set();

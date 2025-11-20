@@ -98,8 +98,11 @@ class HTMLGenerator {
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
     const hasPostdoc = job.ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
-    const cardClass = isExpired ? "job-card expired" : "job-card";
+    const isNew = job.isNew === true; // Check if this job was just added
+    
+    let cardClass = isExpired ? "job-card expired" : "job-card";
     const postdocClass = hasPostdoc ? " postdoc" : "";
+    const newJobClass = isNew ? " new-job" : "";
     
     // Determine job URL based on source
     const isAJO = job.source === 'AcademicJobsOnline';
@@ -129,7 +132,8 @@ class HTMLGenerator {
     };
 
     return `
-      <div class="${cardClass}${postdocClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${this.escapeJsonForAttribute(jobData)}'>
+      <div class="${cardClass}${postdocClass}${newJobClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${this.escapeJsonForAttribute(jobData)}'>
+        ${isNew ? '<div class="new-job-badge">NEW</div>' : ''}
         <div class="job-header">
           <h3 class="job-title">
             <a href="${jobUrl}" target="_blank" class="job-title-link">${this.escapeHtml(job.title)}</a>
