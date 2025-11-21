@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3085017",
+      "title": "Postdoctoral Fellow in Experimental Particle Physics",
+      "institution": "U. Michigan, Ann Arbor",
+      "deadline": "2026-01-31",
+      "description": "<div><strong>Postdoctoral&nbsp;Fellow in Experimental Particle Physics at the University of Michigan</strong></div><div><strong>&nbsp;</strong></div><div>The experimental particle physics group at the University of Michigan invites applications for a&nbsp;postdoctoral&nbsp;fellow position to work on the ATLAS experiment at the Large Hadron Collider (LHC) and on R&amp;D for a future electron-positron Higgs factory. The Michigan ATLAS team is actively engaged in the operation, maintenance, and upgrade of the ATLAS muon detector, along with its performance studies. Our group also leads a broad physics program at the LHC, with emphasis on electroweak physics, Higgs boson studies, and searches for physics beyond the Standard Model. Recently, we have launched several major detector R&amp;D initiatives, including the development of a straw tracker and muon detector for the proposed Higgs factory.</div><div>&nbsp;</div><div>The successful candidate has the option to be based in Ann Arbor, Michigan (US) or at CERN (Switzerland), and will work closely with group members to support our ATLAS muon detector commitments, lead major physics analysis--particularly those targeting rare Higgs boson decays and Higgs boson pair production--and contribute to R&amp;D for FCC-ee. Interested applicants should submit their curriculum vitae and a statement of research to&nbsp;<a href=\"mailto:umatlas-postdoc-search@umich.edu\">umatlas-postdoc-search@umich.edu</a>, and arrange for three letters of reference to be sent, preferably before January 31, 2026. Review of applications will begin as soon as they are complete. Preference will be given to candidates with strong experience in machine learning. A PhD in experimental particle physics is required.</div><div>&nbsp;</div><div>The initial appointment is for one year, renewable annually for up to five years, contingent on performance and funding availability.</div><div><br></div><div><strong><em>Legal Information</em></strong></div><div>The University of Michigan conducts background checks on all job candidates upon acceptance of a contingent offer and may use a third-party administrator for this process. Background checks are performed in compliance with the Fair Credit Reporting Act. If based in Ann Arbor, the candidate must be eligible for employment in the United States at the time of the start date. Continued employment is contingent on maintaining valid immigration status. The University of Michigan is an equal opportunity/affirmative action employer.</div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-11-20T21:16:34.379359+00:00",
+      "updated": "2025-11-20T21:18:42.575271+00:00",
+      "addedAt": "2025-11-21T08:04:50.062Z",
+      "isNew": true
+    },
+    {
       "id": "3084707",
       "title": "Accelerator Physicist",
       "institution": "Acceleron Fusion",
@@ -1493,6 +1519,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-11-20T11:12:26.531Z",
-  "totalJobs": 56
+  "lastUpdated": "2025-11-21T08:04:50.062Z",
+  "totalJobs": 57
 }
