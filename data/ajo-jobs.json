@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "id": "ajo-31265",
+      "title": "Postdoc position in theoretical particle physics",
+      "institution": "Eotvos University",
+      "deadline": "2026-01-01",
+      "description": "A 2+1 year postdoctoral position is open in the field of theoretical particle physics. The research project aims\r\nat providing high-precision theoretical predictions for Today's and Tomorrow's particle accelerators.\r\nTo do so the framework of quantum field theory would be used, in particular perturbative Quantum Chromodynamics.\r\n\r\nThe position will take place at the Eotvos University (ELTE) in Budapest, Hungary.\r\n\r\nOur research group seeks its new postdoc with strong foundation in theoretical particle physics. The\r\npostdoc should also be fluent in English. PhD in perturbative QCD or electroweak corrections takes precedence.\r\n\r\nThe selected postdoc would receive the following benefits:\r\n- Participating in state-of-art calculations important for the field\r\n- Being part of a young, motivated and energetic research group and also part of a large, impactful international\r\n  collaboration\r\n- The position is research only (no teaching nor administrative duties)\r\n- Competitive salary\r\n\r\nThe starting date is flexible it can be as early as March, 2026.",
+      "regions": [],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Eotvos%20University/Particle%20Physics%20Research%20Group/31265?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-11-23T17:00:00.000Z",
+      "updated": "2025-11-23T17:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-11-24T08:05:07.273Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31238",
       "title": "Assistant Professor",
       "institution": "Tsinghua University",
@@ -438,33 +460,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-11-20T11:12:26.534Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31000",
-      "title": "Postdoctoral Scholar",
-      "institution": "University of California, Irvine",
-      "deadline": "2025-12-02",
-      "description": "The University of California, Irvine Department of Physics and Astronomy\n   anticipates making up to two offers for Postdoctoral Scholar positions\n   in both theoretical particle and astroparticle physics beginning in\n   September 2026. We are seeking candidates whose expertise lies in\n   astroparticle physics, beyond the Standard Model physics, collider\n   physics, cosmology, and neutrino physics. The theory group faculty\n   members include Kevork Abazajian, Mu-Chun Chen, Jonathan Feng, Manoj\n   Kaplinghat, Shirley Li, Arvind Rajaraman, Michael Ratz, Yuri Shirman,\n   and Tim Tait. The group is complemented by large and diverse\n   experimental particle physics and astrophysics groups; see\n   https://ps.uci.edu/~theory/ for additional information. The successful\n   applicant(s) will have a Ph.D. degree; salary will be commensurate\n   with experience and qualifications. Applicants should submit a\n   curriculum vitae, a statement of research interests, a list of\n   publications, and at least three letters of reference. Applications\n   will be reviewed starting Dec 1, 2025 and the position will remain\n   open until filled. The University of California, Irvine is an Equal\n   Opportunity/Affirmative Action Employer advancing inclusive\n   excellence. All qualified applicants will receive consideration for\n   employment without regard to race, color, religion, sex, national\n   origin, disability, age, protected veteran status, or other protected\n   categories covered by the UC nondiscrimination policy. As a condition\n   of employment, the finalist will be required to disclose if they are\n   subject to any final administrative or judicial decisions within the\n   last seven years determining that they committed any misconduct.\n   &#x201C;Misconduct&#x201D; means any violation of the policies or laws governing\n   conduct at the applicant&#x2019;s previous place of employment, including,\n   but not limited to, violations of policies or laws prohibiting sexual\n   harassment, sexual assault, or other forms of harassment or\n   discrimination, as defined by the employer. UC Sexual Violence and\n   Sexual Harassment Policy: https://policy.ucop.edu/doc/4000385/SVSH UC\n   Anti-Discrimination Policy for Employees, Students and Third Parties:\n   https://policy.ucop.edu/doc/1001004/Anti-Discrimination APM - 035:\n   Affirmative Action and Nondiscrimination in Employment:\n   https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-035.pdf\n   As a University employee, you will be required to comply with all\n   applicable University policies and/or collective bargaining\n   agreements, as may be amended from time to time. Federal, state, or\n   local government directives may impose additional requirements.",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC",
-        "PHD",
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/UCI/Physics&#x26;amp;Astronomy/31000?rss"
-      ],
-      "contact_email": null,
-      "created": "2025-10-24T16:00:00.000Z",
-      "updated": "2025-10-24T16:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-11-20T11:12:26.534Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2025-11-23T08:03:50.475Z",
+  "lastUpdated": "2025-11-24T08:05:07.273Z",
   "totalJobs": 19
 }
