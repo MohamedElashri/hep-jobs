@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3086227",
+      "title": "Postdoctoral Appointee – Cosmology (SPHEREx Galaxy Clusters)",
+      "institution": "Argonne (main)",
+      "deadline": "2026-01-16",
+      "description": "<div>The Cosmological Physics and Advanced Computing (CPAC) group at Argonne National Laboratory invites applications for a postdoctoral researcher to work closely with Dr. Lindsey Bleem on the development of the SPHEREx Legacy Galaxy Clusters Catalog. The successful candidate will lead analyses to characterize galaxy populations in clusters using SPHEREx data in combination with complementary wide-field survey datasets. This position offers the opportunity to collaborate extensively with CPAC colleagues and the broader SPHEREx science team.</div><div><br></div><div><strong>Collaborative Environment and Resources</strong></div><div>The cosmology effort at Argonne includes staff members from CPAC, the Computational Science division, and the HEP Detector group. It includes a vibrant community of postdoctoral researchers, graduate students, and undergraduates. Postdocs benefit from strong interactions with experts in applied mathematics, computer science, device physics, materials science, and statistics, as well as access to world-leading supercomputing facilities. Collaboration with researchers at Fermilab, the University of Chicago, and Northwestern University is strongly encouraged.</div><div><br></div><div><strong>Applicants should submit</strong></div><ul><li>Curriculum vitae</li><li>Brief statement of research interests</li><li>Three letters of reference</li></ul><div>More details on the CPAC group can be found on our website: <a href=\"https://cpac.hep.anl.gov/\">https://cpac.hep.anl.gov</a>&nbsp;</div><div><br></div><div>Completed applications will be reviewed as received, with all applications submitted by January 16th, 2026, given full consideration. The position will remain open until filled.</div><div><br></div><div><strong>Position Requirements</strong></div><ul><li>Recent or soon-to-be-completed PhD (within the last 0-5 years) in Astronomy, Astrophysics, Physics, Cosmology, or a related quantitative field (e.g., Applied Mathematics, Computer Science, Statistics, Data Science)</li><li>Demonstrated research experience in observational cosmology or wide-field survey analysis</li><li>Ability to model Argonne’s core values of impact, safety, respect, integrity, and teamwork</li></ul><div><strong>Preferred Qualifications</strong></div><ul><li>Background in observational cosmology, galaxy clusters, or wide-field imaging surveys</li><li>Experience with computational astrophysics, including Python-based data analysis workflows</li></ul><div><strong>Appointment Details</strong></div><div>The position is available beginning June 1, 2026, or earlier by mutual agreement.</div><div><br></div><div>Please click on the link below to apply:</div><div><br></div><div><a href=\"https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1\">ARGONNE CAREERS</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1"
+      ],
+      "contact_email": null,
+      "created": "2025-11-25T20:21:13.316740+00:00",
+      "updated": "2025-11-25T21:10:13.393783+00:00",
+      "addedAt": "2025-11-26T08:04:43.983Z",
+      "isNew": true
+    },
+    {
       "id": "3085017",
       "title": "Postdoctoral Fellow in Experimental Particle Physics",
       "institution": "U. Michigan, Ann Arbor",
@@ -1519,6 +1544,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-11-25T08:05:10.403Z",
-  "totalJobs": 57
+  "lastUpdated": "2025-11-26T08:04:43.984Z",
+  "totalJobs": 58
 }
