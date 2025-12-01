@@ -267,32 +267,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-11-20T11:12:26.534Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31052",
-      "title": "Postdoctoral Research Associate in HEP/QIS Theory",
-      "institution": "University of Illinois at Urbana-Champaign",
-      "deadline": "2025-12-16",
-      "description": "Postdoctoral Research AssociateHigh Energy/Quantum Information Science\n   Theory Department of Physics University of Illinois Urbana-Champaign\n   The Department of Physics at the University of Illinois\n   Urbana-Champaign invites applications for a postdoctoral research\n   position in the HEP/QIS theory group. Areas of interest include, but\n   are not limited to:\n\n     * Formulating digital and analog simulations of lattice gauge\n       theories on quantum hardware\n\n     * Developing general-purpose algorithms and optimizations for\n       Hamiltonian simulation\n\n     * Developing new applications of quantum computing to HEP\n\n   The successful applicant will collaborate with HEP/QIS group leaders\n   Patrick Draper and Aida El-Khadra and students in the group on\n   research related to the areas above. The hired candidate will also be\n   a member of IQUIST, a large quantum research center at Illinois\n   facilitating collaboration across all areas of quantum research.\n\n   Candidates should have a Ph.D. awarded within the last 10 years, and\n   must apply via Academic Jobs Online (AJO) by December 15, 2025 to\n   receive full consideration. Candidates should submit a curriculum\n   vitae including a list of publications, a research statement, and\n   arrange to have at least three reference letters sent through AJO. If\n   you have any questions or concerns, please contact Tonya Ayers (ayers1@illinois.edu).\n   The University of Illinois offers a competitive benefits portfolio,\n   depending on the position. Click for a complete list of Employee\n   Benefits. The U of I is an EEO Employer/Vet/Disabled that participates\n   in the federal e-Verify program and participates in a background check\n   program focused on prior criminal or sexual misconduct history.\n   Applicants with disabilities are encouraged to apply and may request a\n   reasonable accommodation under the Americans with Disabilities Act\n   (2008) to complete the application and/or interview process. Requests\n   may be submitted through the reasonable accommodations portal, or by\n   contacting the Accessibility &#x26; Accommodations Division of the Office\n   for Access and Equity at 217-333-0885, or by emailing\n   accessibility@illinois.edu.\n   *Note that there is a second HEP/QIS position at Illinois, focused on\n   dark matter and other new physics searches enabled by quantum sensing:\n   ${JobURL}.",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC",
-        "PHD"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/UIUC/Physics/31052?rss"
-      ],
-      "contact_email": "ayers1@illinois.edu",
-      "created": "2025-10-31T16:00:00.000Z",
-      "updated": "2025-10-31T16:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-11-20T11:12:26.534Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2025-11-30T08:04:05.033Z",
-  "totalJobs": 12
+  "lastUpdated": "2025-12-01T08:05:26.741Z",
+  "totalJobs": 11
 }
