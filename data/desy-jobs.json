@@ -27,7 +27,7 @@
       "updated": "2025-12-01T08:05:45.206Z",
       "source": "DESY",
       "addedAt": "2025-12-01T08:05:46.456Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1764317102918",
@@ -819,6 +819,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-01T08:05:46.457Z",
+  "lastUpdated": "2025-12-02T08:04:31.813Z",
   "totalJobs": 28
 }

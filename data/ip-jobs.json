@@ -1,6 +1,121 @@
 {
   "jobs": [
     {
+      "id": "3086921",
+      "title": "Postdoctoral Fellows in Real-Time AI on Embedded Processors",
+      "institution": "KIT, Karlsruhe, ETP",
+      "deadline": "2025-12-19",
+      "description": "<div>The Joint Real-Time Reconstruction AI Team of the Institute of Experimental Particle Physics (ETP) and the Institute for Information Processing Technology (ITIV) at the Karlsruhe Institute of Technology (KIT) invites applications for postdoctoral positions in real-time track reconstruction and the deployment of machine learning algorithms on embedded processors. As part of the ErUM-Data DEEP consortium (<a href=\"http://erumdata-deep.de/\">erumdata-deep.de</a>&nbsp;), you will prototype real-time Graph Neural Network algorithms for the Belle II tracking detectors, implement them on heterogeneous hardware including AMD Versal SoCs and Coarse Grain Reconfigurable Architecture AI cores, and contribute to a common transpiler toolchain based on ONNX and MLIR. Successful candidates will have the opportunity to spend part of their time working on accelerated ML applications on GPUs or other hardware, or the Belle II physics program.</div><div><br></div><div><strong>Your profile</strong></div><ul><li>PhD in Electrical Engineering, Computer Science, Particle Physics, or a related field preferred</li><li>Experience in applying machine learning beyond basic data analysis</li><li>Experience with HDL languages (VHDL/Verilog), FPGA toolchains (Vivado), PCIe/AXI interfaces, and hardware-software co-design</li><li>Excellent English communication&nbsp;and&nbsp;presentation&nbsp;skills, and publication record</li><li>Experience supervising undergraduate students</li><li>Experience documenting project progress</li><li>Willingness and ability to travel as required, including to Japan</li></ul><div><strong>This is what we offer</strong></div><div>Become a member of staff of the only German University of Excellence that conducts largescale research on the national level. Work under excellent working conditions in an international environment and be active in research and academic education for our future. Benefit from specific training when starting your job and from a wide range of further qualification offers. Use our flexible working time models (flexitime, work from home), our sports and leisure offers, as well as our child and holiday care services. We also pay a share of EUR 25/month in the Job Ticket Baden-Württemberg. Enjoy a large variety of dishes, snacks, and beverages at our canteens.</div><div><br></div><div><strong>Application documents, combined into one pdf:</strong></div><ul><li>Cover letter</li><li>Curriculum vitae (CV)</li><li>List of up to ten publications (with contribution statements for multi-author papers)</li><li>Names and contact details of two referees, one of which must not be from your current institute (reference letters will be requested by us for shortlisted candidates)</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "eess"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.pse.kit.edu/english/karriere/joboffer.php?id=165604/"
+      ],
+      "contact_email": null,
+      "created": "2025-11-27T15:29:14.752998+00:00",
+      "updated": "2025-12-01T17:15:18.491232+00:00",
+      "addedAt": "2025-12-02T08:04:31.807Z",
+      "isNew": true
+    },
+    {
+      "id": "3086900",
+      "title": "PhD Studentships in Experimental Particle Physics",
+      "institution": "Sussex U.",
+      "deadline": "2026-02-28",
+      "description": "<div>The University of Sussex Experimental Particle Physics group plays a critically important role in a number of experiments at the frontiers of our knowledge of particle physics. We expect to be able to offer one or more studentships for September 2026 admission in our research areas:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the ATLAS experiment and its upgrades and FASER(2) at the CERN Large Hadron Collider,</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the SNO+ neutrinoless double beta decay experiment at SNOLAB (Canada),</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the NOvA, DUNE, and SBND neutrino oscillation experiments at Fermilab (USA), and</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the XLZD dark matter observatory.</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The group is also very active in detector development R&amp;D for future experiments, particularly developing novel opaque&nbsp;scintillator detectors (LiquidO).</div><div><br></div><div>Funding is available for studentships in all of our research areas for a September 2026 start which includes a tax-free bursary (£20,780 per annum in 2025/26) and fully paid tuition fees for 3.5 years at the home-student level (£5,006 per annum in 2025). Additional financial support is provided to cover short-term and long-term travel. Interviews of shortlisted candidates will be held in March initially and will continue until positions are filled. Applications from self-funded students interested in our research are also welcome at any time of the year.</div><div><br></div><div>For examples of PhD current projects, please visit: <a href=\"https://www.sussex.ac.uk/epp/vacancies/postgraduate\">https://www.sussex.ac.uk/epp/vacancies/postgraduate</a>.</div><div>For academic questions please contact the coordinator of EPP PhD admissions, Dr. Elisabeth Falk: <a href=\"mailto:E.Falk@sussex.ac.uk\">E.Falk@sussex.ac.uk</a>.</div><div>For practical questions about applications and/or eligibility for funding, please contact: <a href=\"mailto:FoSEM-PGR@sussex.ac.uk\">FoSEM-PGR@sussex.ac.uk</a>.</div><div><br></div><div>Applications: <a href=\"https://www.sussex.ac.uk/study/phd/apply\">https://www.sussex.ac.uk/study/phd/apply</a></div><div>Please state in the Finance section of the online form that you are applying for STFC EPP studentships.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-LHC-FASER",
+        "SNO+",
+        "FNAL-E-0929",
+        "LiquidO",
+        "CLOUD",
+        "Fermilab-MI-DUNE",
+        "Fermilab-FNAL-Booster-SBND",
+        "XLZD"
+      ],
+      "urls": [
+        "https://www.sussex.ac.uk/epp/"
+      ],
+      "contact_email": null,
+      "created": "2025-11-27T04:37:42.801405+00:00",
+      "updated": "2025-12-01T17:05:25.161967+00:00",
+      "addedAt": "2025-12-02T08:04:31.807Z",
+      "isNew": true
+    },
+    {
+      "id": "3086688",
+      "title": "Postdoctoral Research Associate – AI in Nuclear Physics",
+      "institution": "Brookhaven Natl. Lab.",
+      "deadline": "2026-01-01",
+      "description": "<div>Brookhaven National Laboratory is committed to employee success and we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Review more information at <a href=\"https://www.bnl.gov/hr/benefits/\">BNL | Benefits Program</a></div><div>The primary research focus of the Brookhaven Physics Department is the exploration of hot and cold QCD using the Relativistic Heavy Ion Collider (RHIC) and the future Electron-Ion Collider (EIC).&nbsp;The sPHENIX Group in the BNL Physics Department plays a central role in the sPHENIX experiment at RHIC, which has been taking physics data since 2023.&nbsp;The group also plays a strong role in developing the sPHENIX physics program, with particular emphasis on jets, photons, heavy flavor, and quarkonium, and in developing the future ePIC detector at the EIC.</div><div><br></div><div>The Physics Department has an opening for a Postdoctoral Research Associate. The selected candidate will join an interdisciplinary team, working closely with scientists in the Physics Department and BNL Computing and Data Science (CDS) to develop the application of cutting-edge generative AI, such as Foundation Models, to the sPHENIX experiment with an eye towards future use at the EIC. The successful candidate could also take a significant role in existing research activities in which the department has a strong presence, such as the sPHENIX physics program, and EIC detector R&amp;D.&nbsp;</div><div><br></div><div><strong>Essential Duties and Responsibilities:</strong></div><ul><li>Research in applying cutting-edge generative AI, such as Foundation Models, to the sPHENIX experiment</li><li>Perform physics analysis using sPHENIX data</li><li>Collaborate with physicists and computer scientists on publishing research findings</li></ul><div><strong>Required Knowledge, Skills, and Abilities:</strong></div><ul><li>Ph.D. in Particle or Nuclear Physics</li><li>Clear and concise oral and written communication and presentation skills</li></ul><div><strong>Preferred Knowledge, Skills, and Abilities:</strong></div><ul><li>Working knowledge of tracking reconstruction and tracking performance evaluation</li><li>Knowledge and programming experience in scientific Machine Learning</li><li>Working knowledge of large-scale data processing</li><li>Programming experience in C++, ROOT, and GEANT</li><li>Working knowledge of Linux Operating System</li><li>Experience in scientific and technical development towards the Electron Ion Collider</li></ul><div><strong>Other Information: </strong></div><ul><li>Requires travel, including foreign travel (typically a few trips per year.)</li><li>BNL policy requires that after obtaining a PhD, eligible candidates for research associate appointments may not exceed a combined total of 5 years of relevant work experience as a post-doc and/or in an R&amp;D position, excluding time associated with family planning, military service, illness or other life-changing events</li><li>Candidates must have completed all degree requirements by the commencement of the employment.</li><li>Brookhaven National Laboratory is committed to providing fair, equitable and competitive compensation. The full salary range for this position is $78500 - $81500 / year. Salary offers will be commensurate with the final candidate’s qualification, education and experience and considered with the internal peer group.</li><li>Initial 2-year term appointment subject to 1-year extension contingent on performance and funding.</li><li>Candidate selection will start by Jan 1st&nbsp;2026 and the position will be open until fulfilled.&nbsp;</li></ul><div>Brookhaven National Laboratory requires all non-badged personnel including visitors to produce a REAL-ID or REAL-ID compliant documentation to access Brookhaven National Laboratory – view more information at&nbsp;<a href=\"http://www.bnl.gov/real-id\">www.bnl.gov/real-id</a>.&nbsp;This is due to nationwide identification requirements for federal site access as required by the federal&nbsp;<a href=\"https://www.congress.gov/bill/109th-congress/house-bill/418\">REAL ID Act</a>.&nbsp;Those not in possession of a REAL ID-compliant document will not be permitted to access the site which includes access to the Laboratory for interviews.&nbsp;</div><div><br></div><div><strong>About Us</strong></div><div>Brookhaven National Laboratory (<a href=\"http://www.bnl.gov\">www.bnl.gov</a>) delivers discovery science and transformative technology to power and secure the nation’s future. Brookhaven Lab is a multidisciplinary laboratory with seven Nobel Prize-winning discoveries, 37 R&amp;D 100 Awards, and more than 70 years of pioneering research. The Lab is primarily supported by the U.S. Department of Energy’s (DOE) Office of Science. Brookhaven Science Associates (BSA) operates and manages the Laboratory for DOE. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University. BSA salutes our veterans and active military members with careers that leverage the skills and unique experience they gained while serving our country, learn more at <a href=\"https://www.bnl.gov/hr/careers/veterans/\">BNL | Opportunities for Veterans at Brookhaven National Laboratory</a>.</div><div><br></div><div>Equal Opportunity/Affirmative Action Employer</div><div><br></div><div>Brookhaven Science Associates is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class.&nbsp;BSA takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.&nbsp;*VEVRAA Federal Contractor</div><div><br></div><div>BSA employees are subject to restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation at the time of hire for review by Brookhaven. The full text of the Order may be found at:<a href=\"https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file\">&nbsp;https://www.directives.doe.gov/directives-documents/400-series/0486.1-BOrder-a/@@images/file</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex",
+        "stat"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://bnl.wd1.myworkdayjobs.com/en-US/Externa/details/Postdoctoral-Research-Associate---AI-in-Nuclear-Physics_JR102149?q=JR102149"
+      ],
+      "contact_email": null,
+      "created": "2025-11-26T21:17:28.031361+00:00",
+      "updated": "2025-12-01T17:03:53.627453+00:00",
+      "addedAt": "2025-12-02T08:04:31.807Z",
+      "isNew": true
+    },
+    {
+      "id": "3086551",
+      "title": "Research Associate for the Project “DEmocratizing MOdelS (DEMOS): Cross-discipline Platform for Exchange of Research Models",
+      "institution": "Hamburg U.",
+      "deadline": "2025-12-31",
+      "description": "<div>The DEMOS (<a href=\"https://democratizingmodels.github.io/\">https://democratizingmodels.github.io/</a>) project aims to develop state-of-the-art technology that will make it possible to publish, combine, and preserve statistical models for physics experiments and beyond, and to make them usable across programming languages (C++, Python, and Julia). DEMOS is a new, federally funded consortium of German research institutions and will work in collaboration with international partners to make portable statistical models a reality.</div><div><br></div><div><strong>Your responsibilities</strong></div><div>Duties include academic services in the project named above. Research associates may also pursue independent research and further academic qualifications.</div><div>The project DEMOS develops a federated, interoperable platform for sharing and re-using probabilistic models across the ErUM research domains (particle, nuclear, hadron, neutrino, astro-, and laser physics).</div><div>The successful candidate will work within the Particle Physics branch of the consortium at the University of Hamburg and will:</div><ul><li>contribute to the development of the backend engines for the DEMOS model standard, building upon the existing HS³ framework</li><li>design and implement serialization, parsing, and validation tools for complex statistical models</li><li>develop interoperability mechanisms to connect DEMOS with existing infrastructures such as HEPData and Zenodo</li><li>coordinate with national partners (Bochum, Munich, Mainz, Dresden-Rossendorf) on standard definition, cross-language validation, and containerization workflows</li><li>participate in outreach and community-engagement efforts, including documentation, workshops, and model-showcase preparation for ATLAS/CMS models</li></ul><div>Independent research in related areas (e.g. statistical modeling, data analysis, or software development for HEP) is encouraged and supported.</div><div><br></div><div><strong>Your profile</strong></div><div>A university degree in a relevant field.</div><ul><li>completed university degree (Master or equivalent)</li><li>proven experience in scientific software development (C++ and/or Python) and data analysis frameworks such as ROOT, RooFit, or PyHF</li><li>familiarity with statistical modeling, likelihood-based inference, or research data management</li><li>ability to work collaboratively in a highly interdisciplinary and multi-institutional and international environment</li><li>strong communication skills and interest in open-science practices and standardization initiatives</li></ul><div>Desirable:</div><ul><li>experience with open standards for software or data formats</li><li>experience with JSON-based data formats, continuous integration, containerization (Docker/Podman), or open-source software maintenance</li><li>further qualifications such as a PhD in physics or computer science, or any other applications related to data science are advantageous</li></ul><div><strong>What we offer</strong></div><div>Our team is leading such experiments as part of the CMS collaboration at CERN’s LHC. In particular, we aim to improve previous measurements through advanced statistical methods, quantitative machine learning and additional data. Our group consists of more than 60 members and is deeply involved in Higgs analyses, top physics, searches for physics beyond the standard model, detector R&amp;D and construction, computing, as well as calibration and trigger development of the CMS experiment.</div><div><br></div><div>A close collaboration exists with other research groups in experimental and theoretical physics of the University and of DESY located on the same campus. Our group is part of the Cluster of Excellence “Quantum Universe” which performs research to understand mass and gravity at the interface between quantum physics and cosmology. This research team includes leading scientists from mathematics, particle physics, astrophysics and cosmology at the University of Hamburg and DESY.</div><div><br></div><div>Universität Hamburg—University of Excellence is one of the strongest research educational institutions in Germany. Our work in research, teaching, educational and knowledge exchange activities is fostering the next generation of responsible global citizens ready to tackle the global challenges facing us. Our guiding principle “Innovating and Cooperating for a Sustainable Future in a digital age” drives collaboration with academic and nonacademic partner institutions in the Hamburg Metropolitan Region and around the world. We would like to invite you to be part of our community to work with us in creating sustainable and digital change for a dynamic and pluralist society.</div><div>The University of Hamburg is committed to equity. Diversity enriches our university life, whether in our studies, research, teaching, education, or workplace. We therefore welcome all applications, regardless of gender, gender identity, sexual orientation, ethnic or social background, age, religion or belief, disability, or chronic illness.</div><div>The University of Hamburg strives to increase the number of women in academia, and encourages qualified female academics to apply.</div><div>Severely disabled and disabled applicants with the same status will receive preference over equally qualified non-disabled applicants.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "stat",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.uni-hamburg.de/en/stellenangebote/ausschreibung.html?jobID=e52345bf4ce5a372672e2e7a667ae77418034335"
+      ],
+      "contact_email": null,
+      "created": "2025-11-26T14:11:15.959094+00:00",
+      "updated": "2025-12-01T16:58:43.918981+00:00",
+      "addedAt": "2025-12-02T08:04:31.807Z",
+      "isNew": true
+    },
+    {
       "id": "3086227",
       "title": "Postdoctoral Appointee – Cosmology (SPHEREx Galaxy Clusters)",
       "institution": "Argonne (main)",
@@ -1544,6 +1659,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-01T08:05:25.684Z",
-  "totalJobs": 58
+  "lastUpdated": "2025-12-02T08:04:31.807Z",
+  "totalJobs": 62
 }
