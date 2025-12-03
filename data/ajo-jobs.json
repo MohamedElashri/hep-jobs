@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "ajo-31309",
+      "title": "Postdoctoral Fellow",
+      "institution": "Hong Kong University of Science and Technology",
+      "deadline": "2026-02-01",
+      "description": "The IAS Center for Fundamental Physics (IAS CFP) (http://cfp.ust.hk) of\n   The Hong Kong University of Science and Technology (HKUST) invites\n   applications for postdoctoral positions in the areas of theoretical\n   particle physics, particle astrophysics and gravitational wave\n   astronomy (LIGO-Virgo-KAGRA and Pulsar-Timing-Array programs\n   preferred), and cosmology (duration: 2 years, renewable upon good\n   performance and mutual agreement). The faculty members of the IAS CFP\n   are affiliated with the Department of Physics and/or the Jockey Club\n   Institute for Advanced Study (IAS) at HKUST, including Andrew Cohen,\n   Tao Liu, Kam-Biu Luk, Kirill Prokofiev, Henry Tye (Emeritus), Yi Wang\n   and Yue Zhao. The salary of the position is highly competitive and\n   will be commensurate with the appointee&#x2019;s qualifications and\n   experience. Fringe benefits including annual leave, medical and dental\n   benefits will be provided. For truly exceptional cases, appointment as\n   non-tenure-track research assistant professor may be possible.\n   Application including curriculum vitae, list of publications, research\n   statement, and at least three letters of reference must be submitted\n   via Academic Jobs Online. Review of applications will begin on 15\n   December 2025, and will continue until the positions are filled.",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/HKUST/Institute%20for%20Advanced%20Study/31309?rss"
+      ],
+      "contact_email": null,
+      "created": "2025-12-02T17:00:00.000Z",
+      "updated": "2025-12-02T17:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-12-03T08:04:42.991Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31269",
       "title": "Postdoc Positions in Particle Physics",
       "institution": "Nanjing Normal University",
@@ -269,6 +294,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-02T08:04:31.811Z",
-  "totalJobs": 11
+  "lastUpdated": "2025-12-03T08:04:42.991Z",
+  "totalJobs": 12
 }

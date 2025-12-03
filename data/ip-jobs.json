@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3088387",
+      "title": "PhD positions in Experimental Particle and Astroparticle Physics",
+      "institution": "Shandong U.",
+      "deadline": "2026-02-28",
+      "description": "<div>The AMS group in Shandong University (SDU), Jinan, China, invites applications for PhD student positions on the AMS experiment at International Space Station.</div><div><br></div><div>SDU is one of the major institutes in the AMS experiment, and actively involved in the physics analysis, computing, experiment operation, and detector upgrade.</div><div><br></div><div>Candidates are expected to contribute to AMS physics analysis (searches of antimatter in the universe, probe the origin of cosmic isotopes and heavy nuclei, precision study of space radiation, and the development of machine learning tools for cosmic ray physics) or detector R&amp;D for space application.</div><div><br></div><div>The&nbsp;candidate&nbsp;needs&nbsp;to&nbsp;have&nbsp;a&nbsp;BSc&nbsp;and&nbsp;postgraduate&nbsp;degree&nbsp;in&nbsp;physics or electronics engineering.</div><div>Interested candidates should send their application materials (curriculum vitae, a brief description of research interests, university transcripts, and contact information of two referrers) to Prof. Weiwei Xu (Weiwei.Xu@email.sdu.edu.cn). Please include “AMS PhD Student Application” in the e-mail subject line.</div><div><br></div><div>Applications should be sent before&nbsp;<strong>February 28, 2025</strong>.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "AMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-12-02T08:26:51.719944+00:00",
+      "updated": "2025-12-02T16:39:08.326635+00:00",
+      "addedAt": "2025-12-03T08:04:41.627Z",
+      "isNew": true
+    },
+    {
       "id": "3086921",
       "title": "Postdoctoral Fellows in Real-Time AI on Embedded Processors",
       "institution": "KIT, Karlsruhe, ETP",
@@ -24,7 +50,7 @@
       "created": "2025-11-27T15:29:14.752998+00:00",
       "updated": "2025-12-01T17:15:18.491232+00:00",
       "addedAt": "2025-12-02T08:04:31.807Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3086900",
@@ -59,7 +85,7 @@
       "created": "2025-11-27T04:37:42.801405+00:00",
       "updated": "2025-12-01T17:05:25.161967+00:00",
       "addedAt": "2025-12-02T08:04:31.807Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3086688",
@@ -86,7 +112,7 @@
       "created": "2025-11-26T21:17:28.031361+00:00",
       "updated": "2025-12-01T17:03:53.627453+00:00",
       "addedAt": "2025-12-02T08:04:31.807Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3086551",
@@ -113,7 +139,7 @@
       "created": "2025-11-26T14:11:15.959094+00:00",
       "updated": "2025-12-01T16:58:43.918981+00:00",
       "addedAt": "2025-12-02T08:04:31.807Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3086227",
@@ -1659,6 +1685,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-02T08:04:31.807Z",
-  "totalJobs": 62
+  "lastUpdated": "2025-12-03T08:04:41.628Z",
+  "totalJobs": 63
 }
