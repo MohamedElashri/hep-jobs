@@ -1,6 +1,36 @@
 {
   "jobs": [
     {
+      "id": "3088942",
+      "title": "Assistant Professor of Physics",
+      "institution": "Black Hills State U.",
+      "deadline": "2026-01-09",
+      "description": "<div>The School of Natural Sciences at Black Hills State University invites applications for a tenure-track Assistant Professor position in Physics, beginning August 2026. This position is part of the recently awarded&nbsp;NSF&nbsp;EPSCoR Ge-STAR&nbsp;Project (Germanium Science and Technology for Advanced Research –&nbsp;<a href=\"https://ge-star.org/\"><strong>https://ge-star.org</strong></a>&nbsp;) and offers an outstanding opportunity to join a nationally recognized research program in germanium-based science and technology.</div><div><br></div><div>We seek a candidate with expertise in experimental or computational physics, particularly in one or more of the following areas:</div><div>·Applications of AI/ML in experimental physics, data analysis, or instrumentation.</div><div>·Radiation detection and instrumentation, including development and characterization of Ge-based detectors.</div><div>·Low-background measurements for rare-event searches or environmental applications.</div><div><br></div><div>Black Hills State University is a primarily undergraduate University located in the beautiful Black Hills of South Dakota. The School of Natural Sciences at Black Hills State University is a vibrant, growing division with approximately 23 faculty members in biology, chemistry, geology, and physics. Faculty emphasize undergraduate teaching, mentoring, research, and service. Research projects are funded through a variety of state and federal agencies, and partnership grants.</div><div><br></div><div>As the closest institution to the Sanford Underground Research Facility (SURF),&nbsp;BHSU&nbsp;is uniquely positioned with easy access to the exciting underground science occurring on its 4850L. Currently,&nbsp;BHSU&nbsp;is a member of the world-leading direct dark matter detection&nbsp;LUX-ZEPLIN&nbsp;(LZ) experiment and also runs the low-background counting facility at&nbsp;SURF, the&nbsp;BHSU&nbsp;Underground Campus (BHUC).</div><div><br></div><div><strong>DUTIES:</strong></div><div>The successful candidate is expected to teach undergraduate courses, build a strong, externally funded research program, and mentor and advise undergraduate students in research. Teaching modalities may include face-to-face, online and at our extension campus in Rapid City. The candidate will also participate in the full range of faculty responsibilities, including academic advising, service on committees, sustained scholarly research, and outreach activities. Individuals with expertise in particle/astroparticle research are especially encouraged to apply.</div><div><br></div><div><strong>REQUIRED&nbsp;QUALIFICATIONS:</strong></div><div>·PhD in Physics or closely related field</div><div>·Strong collegial and collaborative skills.</div><div>·Excellent written, verbal and interpersonal communication skills.</div><div><br></div><div><strong>PREFERRED&nbsp;QUALIFICATIONS:</strong></div><div>·Post-doctoral research and/or teaching experience</div><div>·Past publication record.</div><div>·Have expertise in AI/ML applications for scientific and/or engineering challenges.</div><div><br></div><div><strong>SPECIAL&nbsp;COMMENTS:</strong></div><div>·This position is partially grant funded. Continued employment is contingent upon the availability of funding.</div><div>·Sponsorship is not available for this position.</div><div><br></div><div><strong>TO&nbsp;APPLY:</strong></div><div>Applications must be made online at <a href=\"http://Yourfuture.sdbor.edu\">http://Yourfuture.sdbor.edu</a>. To apply, complete the online application and attach a letter of application, vita, copies of transcripts, evidence of teaching effectiveness (including class evaluations, if available) and the names and contact information for three references. Letters of reference/recommendation are not accepted. This position is open until filled with a first review date of January 2, 2026 at 11 pm mountain time. For application assistance, please contact Human Resources at 605.642.6549. Inquiries specific to the position should be directed to Dr. Brianna Mount, Associate Professor of Physics,&nbsp;<a href=\"mailto:Brianna.Mount@bhsu.edu\"><strong>Brianna.Mount@bhsu.edu</strong></a>.</div><div><br></div><div>Arrangements for accommodations required by disabilities can be made by contacting Cassie Maser at 605-642-6545 or&nbsp;<a href=\"mailto:Cassie.Maser@bhsu.edu\"><strong>Cassie.Maser@bhsu.edu</strong></a>. Employment is dependent upon a satisfactory background check.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "nucl-ex",
+        "physics",
+        "cs",
+        "cond-mat"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://yourfuture.sdbor.edu/postings/46268"
+      ],
+      "contact_email": null,
+      "created": "2025-12-03T23:42:21.139676+00:00",
+      "updated": "2025-12-04T15:52:41.797704+00:00",
+      "addedAt": "2025-12-05T08:04:31.541Z",
+      "isNew": true
+    },
+    {
       "id": "3088911",
       "title": "Postdoctoral Scholar Neutrino Physics (Project 8)",
       "institution": "Penn State U., University Park (main)",
@@ -28,7 +58,7 @@
       "created": "2025-12-03T16:27:07.317276+00:00",
       "updated": "2025-12-03T18:55:15.401204+00:00",
       "addedAt": "2025-12-04T08:04:38.470Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3088917",
@@ -53,7 +83,7 @@
       "created": "2025-12-03T17:25:24.541125+00:00",
       "updated": "2025-12-03T18:49:57.518492+00:00",
       "addedAt": "2025-12-04T08:04:38.470Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3088387",
@@ -1740,6 +1770,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-04T08:04:38.471Z",
-  "totalJobs": 65
+  "lastUpdated": "2025-12-05T08:04:31.542Z",
+  "totalJobs": 66
 }
