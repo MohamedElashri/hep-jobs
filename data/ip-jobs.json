@@ -1,6 +1,135 @@
 {
   "jobs": [
     {
+      "id": "3089590",
+      "title": "PhD scholarships for TAMBO (Tau Air-shower Mountain-Based Observatory)",
+      "institution": "Lima, Pont. U. Catolica",
+      "deadline": "2026-01-26",
+      "description": "<div>The High Energy Physics (HEP) group at Pontificia Universidad Católica del Perú (PUCP), in collaboration with Prof. Carlos Argüelles’ group at Harvard, invites applications for <strong>two PhD scholarships</strong> beginning in <strong>March 2026</strong>. We seek outstanding candidates with demonstrated research experience and strong motivation to contribute to experimental neutrino astronomy.</div><div><br></div><div><strong>PhD Thesis Project</strong></div><div>The successful candidates will join the TAMBO (Tau Air-shower Mountain-Based Observatory) collaboration. TAMBO is a next-generation neutrino observatory designed to identify high-energy astrophysical neutrino sources by detecting multi-PeV, Earth-skimming tau neutrinos that can be distinguished from the atmospheric background. Using the topography of deep mountain valleys—such as the Colca Valley in Arequipa, Peru— to deploy an array of approximately 5,000 scintillator panels, TAMBO aims to observe air showers initiated by tau leptons emerging from the Earth’s crust, enabling precise reconstruction of neutrino energy and direction.</div><div><br></div><div>During the first year, the PhD work will focus on hardware development, optimization, and assembly of scintillator panels at the newly established HEP Laboratory at PUCP. This includes contributing to the deployment of a fully funded TAMBO prototype in the Colca Valley. The second and third years will center on simulation and reconstruction improvements, as well as data analysis of the prototype, which will provide unique measurements of cosmic-ray air showers in this new geographical configuration.</div><div><br></div><div><strong>Candidate Profile</strong></div><div>Applicants must hold a Master’s degree in Physics or a related discipline, have previous research experience, and should preferably demonstrate familiarity with one or more of the following areas:</div><div>1) Detector development or hardware experience</div><div>2) Data analysis, simulations, and/or machine learning</div><div>3) Particle physics phenomenology</div><div>Priority will be given to candidates with specific experience in topics 1 or 2.&nbsp;</div><div><br></div><div><strong>Fellowship Details</strong></div><div>Successful candidates will receive fellowship support with a monthly stipend of S/4,000 (approx. US$1,200). Renewal each year will depend on satisfactory research performance and the availability of funding. Tuition fees and health insurance will be fully covered. Students will also receive the Harvard University affiliation on publications resulting from their research.</div><div><br></div><div><strong>About the HEP Group at PUCP\t</strong></div><div>PUCP hosts Peru’s leading particle physics research group and is recognized as one of the country’s top academic institutions. The HEP group carries out theoretical and experimental research across a wide range of topics. The phenomenology branch studies heavy neutrino phenomenology, tests of physics beyond the Standard Model through neutrino oscillations and interactions, cosmic-ray propagation, characterization of air showers, and searches for long-lived particles. While the experimental branch is involved in ALICE, DUNE, SWGO, and TAMBO, contributing to diffractive cross-section studies in ALICE, BSM neutrino physics in DUNE simulations, gamma/hadron separation and energy reconstruction for SWGO, and prototype development and simulation efforts for TAMBO. Additional activities include low-cost particle detection using CMOS technology and GEANT4-based detector studies.</div><div><br></div><div>The selected PhD students will conduct their research in the new HEP Laboratory within the Physics Section of PUCP's Department of Sciences.</div><div><br></div><div><strong>Application Procedure</strong></div><div>Applicants should submit the following documents electronically to <a href=\"mailto:grupo.altas.energias@pucp.edu.pe\">grupo.altas.energias@pucp.edu.pe</a> :</div><ul><li>A 2-page statement describing research experience, interests, motivation, and broader academic goals</li><li>Curriculum Vitae</li><li>Master’s degree certificate in Physics or related field</li><li>Undergraduate and Master’s academic transcripts</li></ul><div><br></div><div>Additionally, candidates must arrange for at least two letters of recommendation to be sent directly to the same email address.</div><div><br></div><div>Applications submitted by January 26, 2026, will receive full consideration. Eligible candidates will be interviewed on a rolling basis before February 2026 and are encouraged to apply early.</div><div><br></div><div>The official PUCP PhD program application deadline is February 18, 2026. The semester starts on March 23rd and the PhD program lasts for 3 years.&nbsp;</div><div><br></div><div>The program welcomes applications from candidates of all nationalities and academic and personal backgrounds.</div><div><br></div><div>More Information:&nbsp;</div><div>HEP Group at PUCP: <a href=\"https://investigacion.pucp.edu.pe/grupos/hep/\">https://investigacion.pucp.edu.pe/grupos/hep/</a>&nbsp;</div><div>PhD in Physics Program at PUCP: <a href=\"https://posgrado.pucp.edu.pe/doctorados/doctorado-fisica/\">https://posgrado.pucp.edu.pe/doctorados/doctorado-fisica/</a></div><div>TAMBO official website: <a href=\"https://tambo.hsites.harvard.edu/overview\">https://tambo.hsites.harvard.edu/overview</a></div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-12-05T21:23:39.516639+00:00",
+      "updated": "2025-12-05T22:20:37.078294+00:00",
+      "addedAt": "2025-12-06T08:03:57.869Z",
+      "isNew": true
+    },
+    {
+      "id": "3089525",
+      "title": "Postdoc Position in ErUM-Data Project DEMOS",
+      "institution": "Munich, Tech. U.",
+      "deadline": "2026-01-15",
+      "description": "<div><strong>The TUM invites applications for a Postdoctoral Researcher (TV-L E13, Full-time) – Project “DEMOS”</strong></div><div><br></div><div><strong>Employer:</strong> Technical University of Munich (TUM)</div><div><strong>Location:</strong> Garching (near Munich), Germany</div><div><strong>Contract:</strong> Full-time (100%), TV-L E13; fixed-term for 2 years, possibility of extension</div><div><strong>Start Date:</strong> Early 2026</div><div><strong>Application Deadline:</strong> Applications received by January 15th will receive full consideration; later applications may be reviewed until the position is filled.</div><div><strong>Project:</strong> <em>DEmocratizing MOdelS (DEMOS): Cross-discipline Platform for Exchange of Research Models</em></div><div><strong>Principal Investigators:</strong> Prof. Dr. Lukas Heinrich, Dr. Philipp Eller</div><div><br></div><div>The <a href=\"https://democratizingmodels.github.io/\">DEMOS </a>project develops a federated, interoperable platform for sharing and re-using probabilistic models across ErUM research domains (particle, nuclear, hadron, neutrino, astro-, and laser physics).</div><div>Our groups specialize in novel data science methods for frontier experiments in fundamental physics. We are active in large-scale particle and astro-particle experiments (ATLAS, IceCube, etc.) and integrated into collaborative research grants such as <a href=\"https://www.sfb1258.de/\">SFB1258</a>: Neutrinos, Dark Matter, Messengers and the <a href=\"https://www.origins-cluster.de/\">ORIGINS </a>Cluster of Excellence.</div><div><br></div><div><strong>Position:</strong></div><div>We seek a postdoctoral researcher to advance standardized, interoperable statistical modeling for data analysis in astro-particle and particle physics.</div><div>Key tasks include:</div><ul><li>Further developing the pyhf toolset to comply with the new HS3 standard.</li><li>Develop interfaces for neural simulation-based inference&nbsp;</li><li>Extending HS3 to support more complex models.</li><li>Implementing and publishing selected physics analyses within this framework.</li></ul><div><strong>Qualifications:</strong></div><ul><li>PhD in physics or a related field.</li><li>Proven experience in data analysis, statistical modeling, or inference.</li><li>Strong programming and software development skills.</li><li>Ability to work collaboratively in an interdisciplinary, international environment.</li><li>Good communication skills and interest in open-science practices and standardization.</li></ul><div><strong>What We Offer:</strong></div><ul><li>Full-time postdoctoral position at a leading European research university.</li><li>Dynamic environment at the interface of particle physics, machine learning, simulation, and HPC.</li><li>Access to large-scale computing facilities (MPCDF, LRZ).</li><li>Opportunities for collaboration within major international experiments and local institutions.</li></ul><div><strong>Application Documents:</strong></div><ul><li>Cover Letter</li><li>Short CV including up to 5 key publications.</li><li>Rresearch statement (1 page) on past work, interests, and potential contributions.</li><li>Contact details of three references.</li></ul><div>Send applications as a <strong>single PDF</strong> to <a href=\"mailto:petra.regenscheit@tum.de\">petra.regenscheit@tum.de</a> with subject:</div><div>DEMOS PD Application &lt;Your Name&gt;</div><div><br></div><div>TUM is an equal opportunity employer. We encourage applications from all qualified candidates regardless of gender, disability, nationality, ethnic or social origin, religion or belief, age, sexual orientation, or identity. Applicants with severe disabilities will be given preference if equally qualified.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://democratizingmodels.github.io/"
+      ],
+      "contact_email": null,
+      "created": "2025-12-05T08:10:42.562481+00:00",
+      "updated": "2025-12-05T18:31:36.209361+00:00",
+      "addedAt": "2025-12-06T08:03:57.869Z",
+      "isNew": true
+    },
+    {
+      "id": "3089259",
+      "title": "Postdoctoral Positions in Neutrino Physics",
+      "institution": "Hui Zhou, Inst. Modern Phys.",
+      "deadline": "2026-01-31",
+      "description": "<div>The <a href=\"https://english.imp.cas.cn/research/rc/qmrc/npg/\">Neutrino Group</a> at the Institute of Modern Physics (IMP), Chinese Academy of Sciences (CAS), invites applications for <strong>one to two postdoctoral research positions</strong>. The successful candidate will contribute to hardware and software development, as well as data analysis, for the <strong>NvDEx</strong> and <strong>JUNO</strong> experiments. The postdoc will work primarily with <strong>Prof. Wenjie Wu</strong> and other members of the neutrino group. The position is based mainly at the <strong>Huizhou campus in Guangdong</strong>, in the vibrant Greater Bay Area, within about one hour’s travel of Hong Kong, Guangzhou, and Shenzhen.</div><div><br></div><div>Our group is developing a <strong>neutrinoless double-beta decay (0νββ) experiment</strong>, NvDEx, to be located at CJPL, and is heavily involved in reconstruction and data analysis for <strong>JUNO</strong>. Current research topics include:</div><ol><li>R&amp;D of a high-pressure gaseous TPC for NvDEx.</li><li>Software development for negative-ion TPCs based on NvDEx.</li><li>Event reconstruction technologies in JUNO.</li><li>Data analysis aimed at determining the neutrino mass ordering and exploring new physics.</li></ol><div>The neutrino group currently consists of <strong>3 experimentalists and 4 theorists</strong>. Group members work collaboratively to explore new physics and novel detection technologies. A postdoctoral researcher in our group is expected to contribute to:</div><ol><li>Measurements of gas properties.</li><li>Development of readout electronics for an ion TPC.</li><li>Machine-learning-based reconstruction software development.</li><li>Data analysis for JUNO.</li></ol><div>The candidate must be able to travel as needed to <strong>Lanzhou (IMP main campus)</strong>, <strong>CJPL</strong>, and <strong>Jiangmen (JUNO site)</strong>.</div><div><br></div><div>We are seeking candidates with a <strong>Ph.D. in experimental particle physics or nuclear physics</strong>. Experience with gaseous detectors and machine-learning–based software development is <strong>preferred but not required</strong>.</div><div><br></div><div><strong>Appointment Terms &amp; Benefits</strong></div><ul><li>Initial two-year contract, with the possibility of extension to a third year.</li><li>Competitive salary, commensurate with experience, plus opportunities to apply for supplemental grants.</li><li>Access to IMP’s high-performance computing facilities and extensive collaborative networks.</li><li>Exceptional performers may be considered for permanent positions at IMP after completion of the postdoctoral appointment.</li></ul><div><strong>Application Process</strong></div><div>Applicants should submit the following materials as a <strong>single PDF</strong> to <a href=\"mailto:wenjie.wu@impcas.ac.cn\">wenjie.wu@impcas.ac.cn</a> with the subject line: <strong>“Postdoc Application – [Your Name]”</strong></div><ul><li>Curriculum vitae (including publication list).</li><li>Research statement outlining past work and future interests.</li><li>Three reference letters, including one from the Ph.D. supervisor. These letters should be sent <strong>directly by the referees</strong> to the same email address, with the applicant’s name clearly indicated in the subject line.</li></ul><div>Review of applications will begin immediately and will continue until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "NvDEx",
+        "JUNO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-12-05T03:38:10.284422+00:00",
+      "updated": "2025-12-05T18:28:51.787942+00:00",
+      "addedAt": "2025-12-06T08:03:57.869Z",
+      "isNew": true
+    },
+    {
+      "id": "3089572",
+      "title": "Research Associate/Senior Research Associate in LHCb experiment",
+      "institution": "U. Bristol (main)",
+      "deadline": "2026-01-05",
+      "description": "<div>The Particle Physics group of the University of Bristol (<a href=\"http://tinyurl.com/particle-bristol\">tinyurl.com/particle-bristol</a>), UK, seeks a Research Associate to join its LHCb group (<a href=\"https://tinyurl.com/BristolLHCb\">https://tinyurl.com/BristolLHCb</a>). The group places a high value on diversity and inclusivity and looks forward to applications from all backgrounds and communities. The position is funded through the STFC Consolidated Grant, until September 2027, with good prospects for further funding in the future. Applicants should ideally hold a PhD in particle physics or a related field, or be about to obtain one. The postholder will work on the so called “flavour anomalies” in beauty hadron decays and measurements of CP violation. The group’s speciality lies in the detailed analysis of multibody decays of beauty and charm hadrons, by developing sophisticated amplitude analysis techniques to maximise sensitivity to new physics phenomena. The group also has important responsibilities for future LHCb detector upgrades, the development of trigger and particle identification technologies using novel hardware accelerators, and the development of fast simulations using generative machine learning techniques. Depending on the successful candidate’s experience and track record in particle physics research, the appointment will be made either at a Research Associate (Grade I) or Senior Research Associate (Grade J) level.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://www.bristol.ac.uk/jobs/find/details/?jobId=383141&jobTitle=Senior%20Research%20Associate%20in%20LHCb%20experiment%20with%20the%20Particle%20Physics%20group"
+      ],
+      "contact_email": null,
+      "created": "2025-12-05T15:59:55.651089+00:00",
+      "updated": "2025-12-05T18:21:01.763746+00:00",
+      "addedAt": "2025-12-06T08:03:57.869Z",
+      "isNew": true
+    },
+    {
+      "id": "3089530",
+      "title": "Senior Systems Administrator",
+      "institution": "Royal Holloway, U. of London",
+      "deadline": "2026-01-16",
+      "description": "<div>Applications are invited for the post of a Senior Systems Administrator for the Centre for Particle Physics and Astronomy.&nbsp;</div><div><br></div><div>The successful candidate will become a key member of the Research IT System Administration Team of the Centre for Particle Physics &amp; Astronomy, which provides support for Linux platforms and services.&nbsp;They will have responsibility for the HTCondor Linux cluster and will be responsible for ensuring the availability, security and stability of this and other related services through monitoring, maintenance, automation, change management, participation in incident management and continued input to constructive thought around how best to improve our services. This post will also be responsible for services arising from our participation in the GridPP collaboration and ensuring they meet the requirements set by GridPP.&nbsp;</div><div><br></div><div>The successful applicant will have a degree level qualification in a Science/Engineering subject or relevant equivalent experience and knowledge of IT service delivery in support of large-scale Linux-based computing infrastructure. The post holder will also have strong communication skills and a proven ability to work as part of a team and support colleagues as well as a readiness to work on their own initiative and be proactive.</div><div><br></div><div>For more information see the detailed job description and person specification.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobs.royalholloway.ac.uk/Vacancy.aspx?ref=1125-300"
+      ],
+      "contact_email": null,
+      "created": "2025-12-05T11:09:59.024715+00:00",
+      "updated": "2025-12-05T18:20:18.838739+00:00",
+      "addedAt": "2025-12-06T08:03:57.869Z",
+      "isNew": true
+    },
+    {
       "id": "3088942",
       "title": "Assistant Professor of Physics",
       "institution": "Black Hills State U.",
@@ -28,7 +157,7 @@
       "created": "2025-12-03T23:42:21.139676+00:00",
       "updated": "2025-12-04T15:52:41.797704+00:00",
       "addedAt": "2025-12-05T08:04:31.541Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3088911",
@@ -1770,6 +1899,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-05T08:04:31.542Z",
-  "totalJobs": 66
+  "lastUpdated": "2025-12-06T08:03:57.870Z",
+  "totalJobs": 71
 }
