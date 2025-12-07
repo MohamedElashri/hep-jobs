@@ -148,54 +148,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-11-20T11:12:26.534Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31141",
-      "title": "Joint Postdoctoral Position in AI for Theoretical Physics at Perimeter Institute and UW Madison",
-      "institution": "University of Wisconsin - Madison",
-      "deadline": "2025-12-09",
-      "description": "The University of Wisconsin-Madison Physics Department (https://www.physics.wisc.edu/)\n   and the Perimeter Institute for Theoretical Physics (https://perimeterinstitute.ca/)\n   invite applications for a joint 3-year postdoctoral position in AI for\n   theoretical physics. The selected postdoc will spend the first year at\n   UW Madison and the following two years at Perimeter Institute, with\n   frequent travels in both directions. We are looking for candidates\n   with a background in any area of theoretical physics and a strong\n   interest in AI Reasoning. Prior publications in AI for physics are a\n   bonus but not required. We are broadly interested in doing theoretical\n   physics with AI Reasoning models. Topics of interest include: -\n   Agentic approaches and test-time scaling methods. - Symbolic\n   verification and tool usage. - Methods for novel research in\n   theoretical physics with LLMs (e.g. combining LLMs with tree search or\n   evolutionary algorithms). - Developing training and benchmarking data\n   (e.g. https://tpbench.org/). - Fine-tuning of models with\n   Reinforcement learning. In Madison, the postdoc will work in\n   particular with the groups of Moritz M&#xFC;nchmeyer (https://munchmeyer.physics.wisc.edu/)\n   and Gary Shiu (https://shiu.physics.wisc.edu/), and join an ongoing\n   collaboration between physicists and computer scientists. At Perimeter\n   Institute, the postdoc will be free to work with any faculty member.\n   For questions about the position, please contact Moritz M&#xFC;nchmeyer at\n   UW Madison (muenchmeyer@wisc.edu) or Kendrick Smith at Perimeter\n   Institute (kmsmith@perimeterinstitute.ca). To apply, please submit a\n   Research Statement, CV, Publication List and three reference letters\n   by 2025/12/08 here on this website.",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC",
-        "PHD",
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/UWMadison/Physics/31141?rss"
-      ],
-      "contact_email": "muenchmeyer@wisc.edu",
-      "created": "2025-11-06T17:00:00.000Z",
-      "updated": "2025-11-06T17:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-11-20T11:12:26.534Z",
-      "isNew": false
-    },
-    {
-      "id": "ajo-31117",
-      "title": "Postdoc",
-      "institution": "National Yang Ming Chiao Tung University",
-      "deadline": null,
-      "description": "The Taiwan Electron-Ion Collider Physics Project is soliciting\n   applications for one experimental postdoc position. The successful\n   candidate will work on developing the ZDC detector in the U.S. EIC\n   far-forward detector system, applying the machine learning technique\n   to the detector simulation as well as the relevant global analyses of\n   the pion/kaon PDFs and proton TMDs. The duration of this position is\n   initially two years, with the possibility of extending into the third\n   year depending on performance. The position will be co-hosted by\n   Academia Sinica and National Central University, and the successful\n   candidate will be expected to start as soon as possible. To apply,\n   please visit the academicjobsonline page at\n   https://academicjobsonline.org/ajo/jobs/31117 or send an email\n   directly to Prof. C.-J. David Lin, dlin@nycu.edu.tw For inquiry,\n   please contact any of the senior members on the project: * Prof.\n   Wen-Chen Chang, changwc@phys.sinica.edu.tw * Prof. Chia-Ming Kuo,\n   cmkuo@phy.ncu.edu.tw * Prof. Po-Ju Lin, pjlin@cc.ncu.edu.tw",
-      "regions": [],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/IOPNYCU/Taiwan%20Electron-Ion%20Collider%20Physics%20Project/31117?rss"
-      ],
-      "contact_email": "dlin@nycu.edu.tw",
-      "created": "2025-11-06T17:00:00.000Z",
-      "updated": "2025-11-06T17:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-11-20T11:12:26.534Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-06T08:03:57.873Z",
-  "totalJobs": 8
+  "lastUpdated": "2025-12-07T08:03:56.204Z",
+  "totalJobs": 6
 }
