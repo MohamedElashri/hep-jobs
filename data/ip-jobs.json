@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3091950",
+      "title": "Investigation of quantum effects with atomic simulators in the T2K and Hyper-Kamiokande neutrino experiments (NEAT – Neutrino with atoms)",
+      "institution": "Barcelona, Autonoma U.",
+      "deadline": "2026-02-28",
+      "description": "<div>Neutrino physics has gained significant relevance due to the numerous important measurements currently being carried out and that will be performed in the coming years. In particular, the study of neutrino oscillations [1,2] and the determination of important neutrino properties are fundamental goals of the T2K and Hyper-Kamiokande experiments.</div><div>Neutrino oscillations are purely quantum phenomena with a very attractive window to study them in atomic quantum simulators. Systems like ultracold atoms in optical lattices [3] can be used both as analogue quantum computers used as a platform to engineer synthetic materials. We will consider artificial Dirac materials built of fermionic atoms that, similarly to graphene, host relativistic quasi-particles that behave like neutrinos, whose flavors correspond to atoms’ internal states [4].</div><div>With these quantum simulators, we can study decoherence phenomena in neutrino oscillations. We will use these artificial quantum systems as playground to evaluate sensitivity to theories beyond the Standard Model. Finally, we will investigate higher-order quantum correlations, which have not been considered until now in neutrino experiments, to characterize neutrino oscillations.</div><div>[1] “Measurement of atmospheric neutrino oscillation parameters by Super-Kamiokande I”, Phys. Rev. D 71, 112005 (2005).</div><div>[2] “Measurements of neutrino oscillation parameters from the T2K experiment using 3.6×1021 protons on target”, Eur. Phys. J. C No. (2023) 83:782.</div><div>[3] “Ultracold Atoms in Optical Lattices: Simulating quantum many-body systems”, Oxford University press, 2012.</div><div>[4] “Tunable multiple layered Dirac cones in optical lattices”, Phys. Rev. Lett. 107, 253001 (2011).</div><div><br></div><div>Eligibility conditions:</div><div>- The candidates must not have resided or carried out their main activity (work, studies, etc.) in Spain for more than 12 months in the 36 months immediately preceding the deadline for the program call.&nbsp;</div><div>- The candidates must not be in the possession of a doctoral degree.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "HYPER-KAMIOKANDE",
+        "T2K"
+      ],
+      "urls": [
+        "https://webs.uab.cat/phynest/2025/11/12/investigation-of-quantum-effects-with-atomic-simulators-in-the-t2k-and-hyper-kamiokande-neutrino-experiments-neat-neutrino-with-atoms/"
+      ],
+      "contact_email": null,
+      "created": "2025-12-11T06:56:01.549966+00:00",
+      "updated": "2025-12-11T15:38:20.971377+00:00",
+      "addedAt": "2025-12-12T08:04:53.093Z",
+      "isNew": true
+    },
+    {
       "id": "3090808",
       "title": "Postdoctoral Fellow (ATLAS)",
       "institution": "U. Victoria (main)",
@@ -2145,6 +2173,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-11T08:05:01.030Z",
-  "totalJobs": 80
+  "lastUpdated": "2025-12-12T08:04:53.093Z",
+  "totalJobs": 81
 }

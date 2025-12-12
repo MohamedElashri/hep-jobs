@@ -23,7 +23,7 @@
       "updated": "2025-12-10T17:00:00.000Z",
       "source": "AcademicJobsOnline",
       "addedAt": "2025-12-11T08:05:01.788Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ajo-31340",
@@ -199,6 +199,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-11T08:05:01.789Z",
+  "lastUpdated": "2025-12-12T08:04:53.097Z",
   "totalJobs": 8
 }
