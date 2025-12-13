@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3092371",
+      "title": "Postdoctoral Positions in the CMS Experiment at CERN",
+      "institution": "Beijing, Inst. High Energy Phys.",
+      "deadline": "2026-01-15",
+      "description": "<div>The Institute of High Energy Physics (IHEP), Chinese Academy of Sciences (CAS), invites applications for three postdoctoral research positions associated with the CMS (Compact Muon Solenoid) Experiment at the CERN Large Hadron Collider (LHC).</div><div><br></div><div>The IHEP CMS group has strong and broad involvement in physics analyses, including single- and double-Higgs boson analyses and top-quark physics, covering both precision Standard Model measurements and searches for new phenomena. IHEP also plays a major role in the CMS detector through construction, upgrades, and long-term operations, with key responsibilities in the ECAL, HGCAL system, and the Level-1 trigger upgrade projects.</div><div><br></div><div>We are seeking outstanding candidates holding a Ph.D. in experimental particle physics. Ideal applicants will have solid expertise in data analysis, computing, and programming, along with the ability to conduct independent research and work effectively within large international collaborations. Successful candidates are expected to take significant responsibilities in Higgs, double Higgs or top analyses, contribute to new-physics searches, and actively strengthen IHEP’s scientific impact and visibility within the CMS collaboration.</div><div><br></div><div>The positions may be based either at CERN or at IHEP in Beijing, depending on the candidate’s profile and project needs. Regular travel between CERN and IHEP is expected. Appointments are initially for two years, with the possibility of annual extensions subject to performance and funding availability. A competitive salary and benefits package will be offered, commensurate with qualifications and experience.</div><div><br></div><div>Applicants should submit a curriculum vitae (including a publication list), a statement of research interests, and three letters of recommendation directly to Prof. Jin Wang at <a href=\"mailto:jin.wang@cern.ch\">jin.wang@cern.ch</a>.</div><div>&nbsp;</div><div>The application deadline is 15 January. Review of applications will begin immediately upon receipt and will continue after the deadline until the positions are filled.</div>",
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-12-12T10:46:24.721432+00:00",
+      "updated": "2025-12-12T15:42:49.404300+00:00",
+      "addedAt": "2025-12-13T08:04:02.215Z",
+      "isNew": true
+    },
+    {
+      "id": "3092070",
+      "title": "PhD Studentship on the SBND Neutrino Experiment",
+      "institution": "U. Sussex (main)",
+      "deadline": "2026-02-28",
+      "description": "<div>Applications are invited from talented and creative students for a PhD place in Experimental Particle Physics, to join the Sussex group working on the SBND experiment under the supervision of Dr Clark Griffith. A number of experiments have shown anomalies in neutrino oscillation results, hinting at a possible additional neutrino state beyond the three present in the Standard Model. The Short Baseline Neutrino (SBN) programme at Fermilab aims to settle the question of whether or not the anomalies are real or not, with a set of three large liquid argon TPC neutrino detectors: ICARUS, MicroBooNE, and the Short Baseline Near Detector (SBND). SBND began taking physics data recently and is poised to publish first results imminently. In this project you will have the opportunity to analyse new SBND data towards searches for Beyond the Standard Model signatures. The liquid argon detection technology used in SBND is also the basis for the DUNE experiment currently under construction. DUNE will make use of the world’s most intense neutrino beam generated at Fermilab, which will travel to a far detector 1300 km away in the Sanford Lab in South Dakota, which will use tens of kilotons of liquid argon as the detector medium. The analysis techniques used in SBND will also be applicable to DUNE and the project will also involve studying the physics reach of DUNE and contributing to the installation of this next generation experiment.</div><div><br></div><div>Funding is available for a September 2026 start which includes a tax-free bursary (£20,780 per annum in 2025/26) and fully paid tuition fees for 3.5 years at the home-student level (£5,006 per annum in 2025). Additional financial support is provided to cover short-term and long-term travel. Interviews of shortlisted candidates will be held in March initially and will continue until positions are filled. Applications from self-funded students interested in our research are also welcome at any time of the year.</div><div><br></div><div>For more details about the project, please contact Dr W Clark Griffith: <a href=\"mailto:W.C.Griffith@sussex.ac.uk\">W.C.Griffith@sussex.ac.uk</a>.</div><div>For practical questions about applications and/or eligibility for funding, please contact <a href=\"mailto:FoSEM-PGR@sussex.ac.uk\">FoSEM-PGR@sussex.ac.uk</a>.</div><div>For academic questions please contact the coordinator of EPP PhD admissions, Dr Elisabeth Falk: <a href=\"mailto:E.Falk@sussex.ac.uk?subject=EPP%20PhD%20enquiry\">E.Falk@sussex.ac.uk</a>.</div><div><br></div><div>Applications: <a href=\"mailto:https://www.sussex.ac.uk/study/phd/apply\">https://www.sussex.ac.uk/study/phd/apply</a></div><div>Please state in the Finance section of the online form that you are applying for STFC EPP studentships.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-FNAL-Booster-SBND"
+      ],
+      "urls": [
+        "https://www.sussex.ac.uk/epp/"
+      ],
+      "contact_email": null,
+      "created": "2025-12-12T00:32:28.689614+00:00",
+      "updated": "2025-12-12T15:41:12.782093+00:00",
+      "addedAt": "2025-12-13T08:04:02.215Z",
+      "isNew": true
+    },
+    {
       "id": "3091950",
       "title": "Investigation of quantum effects with atomic simulators in the T2K and Hyper-Kamiokande neutrino experiments (NEAT – Neutrino with atoms)",
       "institution": "Barcelona, Autonoma U.",
@@ -26,7 +79,7 @@
       "created": "2025-12-11T06:56:01.549966+00:00",
       "updated": "2025-12-11T15:38:20.971377+00:00",
       "addedAt": "2025-12-12T08:04:53.093Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3090808",
@@ -2173,6 +2226,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-12T08:04:53.093Z",
-  "totalJobs": 81
+  "lastUpdated": "2025-12-13T08:04:02.216Z",
+  "totalJobs": 83
 }
