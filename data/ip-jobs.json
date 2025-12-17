@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3093113",
+      "title": "PhD student position: Assessment of dissociation of molecular hydrogen/tritium for future neutrino mass experiments",
+      "institution": "U. Mainz, PRISMA",
+      "deadline": "2026-01-15",
+      "description": "<div>To strengthen its neutrino research program, the Johannes Gutenberg University</div><div>Mainz invites applications for</div><div><br></div><div><strong>1 PhD position (66% EG13 TV-L)</strong></div><div><br></div><div>to work on the Project 8 experiment (<a href=\"https://www.project8.org/\">https://www.project8.org/</a>).</div><div><br></div><div>The Project 8 collaboration is pursuing the method of single-electron Cyclotron Radiation Emission Spectroscopy (CRES) as a new avenue towards the next-generation neutrino mass experiment. The electron’s kinetic energy is determined from the frequency of the microwave-range cyclotron radiation emitted by the electron when gyrating in the precision field of a magnetic bottle. We have extracted a very first frequency-based antineutrino mass limit. Because of ro-vibrational broadening of the final state, any next-generation experiment requires an ensemble of spin-polarized and</div><div>ultra-cold tritium atoms confined as a high-brilliance source of decay electrons to reach</div><div>a sensitivity beyond the inverted mass ordering. To investigate the suitability of commercially available hydrogen crackers a test stand was commissioned at Johannes Gutenberg University Mainz to investigate the cracking efficiency, beam temperature and angular distribution. This setup is used to explore the operational limits of atomic hydrogen sources and serves as the prototype test bed for a setup compatible with tritium operation. In the next step, this setup will be replicated at Germany’s premier Tritium Laboratory Karlsruhe (TLK).</div><div><br></div><div>The PhD student will develop approaches for determining the degree of dissociation</div><div>of atom sources using quadrupole mass spectrometry as well as auxiliary methods.</div><div>These methods will be applied to various designs of thermal dissociation sources and</div><div>plasma sources, allowing to choose the most efficient source concept and guide the</div><div>optimization of its design. The results provide key input parameters for the size and</div><div>performance specifications of a closed tritium re-circulation loop at TLK. Embedded within the stimulating environment of the PRISMA++ Cluster of Excellence, outstanding working conditions are provided, including e.g. access to a detector development laboratory or various soft-skill development opportunities.</div><div><br></div><div>Highly motivated candidates send their application material, including a cover letter</div><div>including a research statement regarding past and current research experience (2</div><div>page max., 12 pt, single line spacing), a CV, copies of relevant certificates and grades,</div><div>and transcripts of records to <a href=\"mailto:project8jobs@lists.uni-mainz.de\">project8jobs@lists.uni-mainz.de</a>. Please suggest the</div><div>names and email address of two providers of a letter of reference (no letters initially</div><div>required).</div><div><br></div><div>Review of the received application will start on January 15th, 2026, but the position will</div><div>remain open until filled. The candidate must hold a master’s degree in physics equiv-</div><div>alent to a “good” grade in the JGU system. A very good command of spoken and</div><div>written English is required for this position. Please do not hesitate to contact Prof. Dr.</div><div>Sebastian Böser (<a href=\"mailto:sboeser@uni-mainz.de\">sboeser@uni-mainz.de</a>) in case of any questions.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics"
+      ],
+      "experiments": [
+        "PROJECT-8"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-12-16T12:54:05.397285+00:00",
+      "updated": "2025-12-16T21:03:11.506887+00:00",
+      "addedAt": "2025-12-17T08:05:13.213Z",
+      "isNew": true
+    },
+    {
+      "id": "3093163",
+      "title": "Research Fellow on LHCb experiment",
+      "institution": "Warwick U.",
+      "deadline": "2026-01-07",
+      "description": "<div>We are seeking to appoint a Research Fellow to undertake research in the LHCb experiment, specifically to work on development of particle identification detectors for LHCb Upgrade 2, to carry out research and development on photon detectors in the context of the DRD4 collaboration, and to contribute to our programme of LHCb data analysis. We are looking for someone with a PhD in experimental particle physics or another relevant subject, and a proven track record of research in instrumentation and/or data analysis.&nbsp;Experience in software and modern data analysis techniques would be valuable for the role, as would good working knowledge of C++ and Python. Candidates should have excellent communication and collaborative working skills, as well as demonstrated experience of planning and time management to deliver research goals effectively. We will consider applications for employment on a part-time or other flexible working basis (e.g. job share), despite the position being advertised as full-time.</div><div>Note that the current deadline of 7 January may be extended, but candidates should apply by then if possible.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://warwick-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-11595/xf-287774c8e052/candidate/so/pm/1/pl/3/opp/3618-Research-Fellow-111151-1225/en-GB"
+      ],
+      "contact_email": null,
+      "created": "2025-12-16T18:18:53.471855+00:00",
+      "updated": "2025-12-16T20:42:07.907996+00:00",
+      "addedAt": "2025-12-17T08:05:13.213Z",
+      "isNew": true
+    },
+    {
       "id": "3089589",
       "title": "Postdoctoral Appointee – Advanced Detector Design and Simulation (HEP/NP)",
       "institution": "Argonne (main)",
@@ -23,7 +76,7 @@
       "created": "2025-12-05T20:45:21.169944+00:00",
       "updated": "2025-12-15T17:54:29.889297+00:00",
       "addedAt": "2025-12-16T08:05:25.036Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3092683",
@@ -48,7 +101,7 @@
       "created": "2025-12-15T12:27:50.254321+00:00",
       "updated": "2025-12-15T16:37:33.119407+00:00",
       "addedAt": "2025-12-16T08:05:25.036Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3092682",
@@ -77,7 +130,7 @@
       "created": "2025-12-15T12:09:28.459869+00:00",
       "updated": "2025-12-15T16:31:53.401325+00:00",
       "addedAt": "2025-12-16T08:05:25.036Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3092455",
@@ -106,7 +159,7 @@
       "created": "2025-12-14T23:15:59.401766+00:00",
       "updated": "2025-12-15T16:28:51.953319+00:00",
       "addedAt": "2025-12-16T08:05:25.036Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3092437",
@@ -134,7 +187,7 @@
       "created": "2025-12-13T02:16:07.380508+00:00",
       "updated": "2025-12-15T16:19:18.988433+00:00",
       "addedAt": "2025-12-16T08:05:25.036Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3092371",
@@ -2362,6 +2415,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-16T08:05:25.036Z",
-  "totalJobs": 88
+  "lastUpdated": "2025-12-17T08:05:13.214Z",
+  "totalJobs": 90
 }
