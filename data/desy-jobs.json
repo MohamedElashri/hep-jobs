@@ -27,7 +27,7 @@
       "updated": "2025-12-19T08:05:40.308Z",
       "source": "DESY",
       "addedAt": "2025-12-19T08:05:41.635Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-306295",
@@ -57,7 +57,7 @@
       "updated": "2025-12-19T08:04:57.809Z",
       "source": "DESY",
       "addedAt": "2025-12-19T08:05:41.635Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-306150",
@@ -86,7 +86,7 @@
       "updated": "2025-12-19T08:04:55.546Z",
       "source": "DESY",
       "addedAt": "2025-12-19T08:05:41.635Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-306709",
@@ -113,7 +113,7 @@
       "updated": "2025-12-19T08:04:54.263Z",
       "source": "DESY",
       "addedAt": "2025-12-19T08:05:41.635Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1765785960732",
@@ -1221,6 +1221,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-19T08:05:41.636Z",
+  "lastUpdated": "2025-12-20T08:04:03.940Z",
   "totalJobs": 42
 }
