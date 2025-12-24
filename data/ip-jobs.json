@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3095203",
+      "title": "tSPECT postdoctoral scholar: Neutron lifetime Analysis and Monte-Carlo simulations",
+      "institution": "U. Mainz, PRISMA",
+      "deadline": "2026-01-30",
+      "description": "<div>To strengthen its neutron physics research program, the Johannes Gutenberg</div><div>University Mainz offers one</div><div>&nbsp;</div><div><strong>postdoctoral position (100 % EG13)</strong></div><div>&nbsp;</div><div>to work on the 𝜏SPECT experiment (<a href=\"https://ag-fertl.physik.uni-mainz.de/tspect/\">https://ag-fertl.physik.uni-mainz.de/tspect/</a>) to measure the free neutron lifetime 𝜏n. This key observable of the Standard Model of Particle Physics (SM) is one of only three experimentally accessible parameters that are required for a high-precision description of the free neutron decay: The CKM matrix element Vud, the ratio of axial-vector and vector coupling strength gA/gV, and 𝜏n. A precise determination of all three parameters allows for a very stringent test of the SM consistency. Experimental tensions like the Cabibbo angle anomaly can be interpreted as tantalizing hints for beyond SM physics.</div><div>&nbsp;</div><div>The 𝜏SPECT experiment measures the fraction of ultracold neutrons (UCNs) surviving after a variable storage time in a so-called neutron bottle. This bottle is formed by a region of a magnetic field minimum surrounded by strong positive magnetic field gradients. Through their electromagnetic interaction, UCNs in the low-field-seeking (LFS) spin state get trapped without contact to material walls where spurious absorption could occur. To “open” and “close” the UCN-bottle for filling, 𝜏SPECT is using the unique spin-flip approach. Using a sequence of resonant radio-frequency pulses, LFS UCNs are first decelerated and trapped in a minimum in the potential energy landscape. This way the magnetic bottle is closed contact-less and without the need to physically move magnet arrangements. The 𝜏SPECT experiment is installed at the UCN source of the Paul Scherrer Institute, Villigen, Switzerland and is in science data taking mode with an anticipated uncertainty on the neutron lifetime of 0.3-0.5 s.</div><div>&nbsp;</div><div>The postdoctoral scholar will regularly participate on-site in the data collection during beam times, will coordinate the shifts and will lead the efforts for detailed Monte-Carlo simulations of the current experiment to further the understanding of possible systematic biases on 𝜏n. The up-scaling of the 𝜏SPECT concepts towards a much deeper and larger-volume trap will be studied based on the initial results. These simulation studies shall include the optimal matching of the UCN source phase space to the acceptance of a future large scale UCN trap. The research program is part of the ERC consolidator grant NuLife and the research group is embedded in the Cluster of Excellence PRISMA++. Prior experience with UCN-specific MC frameworks is a desirable pre-qualification.</div><div>&nbsp;</div><div>Your application should consist of a cover letter, a CV, a research statement about previous and current research experience (1-page max.), the names and email addresses of two providers of letters of reference (no letter initially required) and copies of relevant certificates sent in one file to Prof. Dr. Martin Fertl (<a href=\"mailto:jobs-agfertl@uni-mainz.de\">jobs-agfertl@uni-mainz.de</a>). Review of applications will start after January 30th, 2026, but the position will remain open until filled. Please do not hesitate to contact Prof. Dr. Martin Fertl in case of any questions.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [
+        "tSPECT"
+      ],
+      "urls": [
+        "https://ag-fertl.physik.uni-mainz.de/tspect/"
+      ],
+      "contact_email": null,
+      "created": "2025-12-23T15:03:55.913236+00:00",
+      "updated": "2025-12-23T15:24:10.858830+00:00",
+      "addedAt": "2025-12-24T08:04:55.911Z",
+      "isNew": true
+    },
+    {
       "id": "3094211",
       "title": "Professorship (W2) Experimental Flavor Physics",
       "institution": "Tech. U., Dortmund (main)",
@@ -2547,6 +2574,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-23T08:04:45.735Z",
-  "totalJobs": 95
+  "lastUpdated": "2025-12-24T08:04:55.911Z",
+  "totalJobs": 96
 }

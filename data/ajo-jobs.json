@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "id": "ajo-31460",
+      "title": "postdoctoral position in theoretical particle physics",
+      "institution": "Fudan University",
+      "deadline": "2026-05-02",
+      "description": "The theoretical particle physics group at the Department of Physics,\n   Fudan University (Shanghai, China) invites applications for one or\n   more postdoctoral positions starting from Fall 2026. The positions are\n   for two years, with a possible extension for one additional year upon\n   mutual agreement. Candidates are expected to have a Ph.D. in\n   theoretical particle physics or related areas prior to the time of\n   employment. Preferences will be given to those with experiences in\n   collider phenomenology, machine learning, effective field theories,\n   positivity bounds, scattering amplitudes and their applications to\n   classical gravitational systems. Review of applications will begin in\n   January 2026 and continue until the positions are filled. For more\n   information, please contact Jiayin Gu at jiayin_gu@fudan.edu.cn and\n   Fei Teng at f_teng@fudan.edu.cn. General information about\n   postdoctoral positions at the Department of Physics, Fudan University\n   can also be found at http://phys.fudan.edu.cn/7564/list.htm (in\n   Chinese).",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Fudan/ParticlePhysics/31460?rss"
+      ],
+      "contact_email": "jiayin_gu@fudan.edu.cn",
+      "created": "2025-12-24T17:00:00.000Z",
+      "updated": "2025-12-24T17:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2025-12-24T08:04:57.151Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31415",
       "title": "Postdoctoral Researcher",
       "institution": "Bonn University",
@@ -150,30 +174,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-11-28T08:04:43.133Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31265",
-      "title": "Postdoc position in theoretical particle physics",
-      "institution": "Eotvos University",
-      "deadline": "2026-01-01",
-      "description": "A 2+1 year postdoctoral position is open in the field of theoretical particle physics. The research project aims\r\nat providing high-precision theoretical predictions for Today's and Tomorrow's particle accelerators.\r\nTo do so the framework of quantum field theory would be used, in particular perturbative Quantum Chromodynamics.\r\n\r\nThe position will take place at the Eotvos University (ELTE) in Budapest, Hungary.\r\n\r\nOur research group seeks its new postdoc with strong foundation in theoretical particle physics. The\r\npostdoc should also be fluent in English. PhD in perturbative QCD or electroweak corrections takes precedence.\r\n\r\nThe selected postdoc would receive the following benefits:\r\n- Participating in state-of-art calculations important for the field\r\n- Being part of a young, motivated and energetic research group and also part of a large, impactful international\r\n  collaboration\r\n- The position is research only (no teaching nor administrative duties)\r\n- Competitive salary\r\n\r\nThe starting date is flexible it can be as early as March, 2026.",
-      "regions": [],
-      "ranks": [
-        "POSTDOC",
-        "PHD"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/Eotvos%20University/Particle%20Physics%20Research%20Group/31265?rss"
-      ],
-      "contact_email": null,
-      "created": "2025-11-23T17:00:00.000Z",
-      "updated": "2025-11-23T17:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-11-24T08:05:07.273Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-23T08:04:45.739Z",
+  "lastUpdated": "2025-12-24T08:04:57.152Z",
   "totalJobs": 7
 }
