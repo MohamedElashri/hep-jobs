@@ -22,7 +22,7 @@
       "updated": "2025-12-24T17:00:00.000Z",
       "source": "AcademicJobsOnline",
       "addedAt": "2025-12-24T08:04:57.151Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ajo-31415",
@@ -148,34 +148,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-12-03T08:04:42.991Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31269",
-      "title": "Postdoc Positions in Particle Physics",
-      "institution": "Nanjing Normal University",
-      "deadline": "2026-02-01",
-      "description": "The Center for Particle Physics, Astrophysics, and Cosmology (NNU-PP) at\n   Nanjing Normal University invites applications for 1-2 postdoctoral\n   research positions. We seek outstanding candidates to join our group\n   in one or more of the following areas, including but not limited to:\n\n     * Higgs Physics\n\n     * Cosmological Phase Transition\n\n     * Gravitational Wave\n\n     * Baryogenesis\n\n     * AI4Science\n\n   About NNU-PP\n   Our research center hosts an active and dynamic group of researchers,\n   including faculty members Ariel Arza, Peter Athron, Ning Liu,\n   Chih-Ting Lu, Lei Wu, and Yongcheng Wu. We offer a collaborative\n   environment with ample opportunities for academic growth and\n   interdisciplinary research.\n   Position Details\n\n     * Appointment: Initial term of 2 years, with a possibility of\n       renewal for a third year based on performance.\n\n     * Salary and Benefits:\n\n       * Competitive salary commensurate with qualifications and\n         experience.\n\n       * Subsidized housing options through the university.\n\n       * Exceptional candidates will be nominated for the prestigious\n         China/Jiangsu Province Postdoctoral Innovative Talent Support\n         Program. Successful nominees will receive enhanced benefits,\n         including a significantly increased stipend and a dedicated\n         travel budget, with the total annual salary package reaching up\n         to 600,000 RMB/year.\n\n   Application Requirements\n   Interested candidates should prepare the following documents:\n\n     1. Curriculum Vitae (CV)\n\n     2. Publication List\n\n     3. Research Statement (outlining past work and future plans)\n\n   Applicants should also arrange for three reference letters to be\n   submitted directly through Academic Jobs Online (AJO).\n   Application Deadline\n   All applications should be submitted no later than 2026/01/31. We look\n   forward to receiving your application and welcoming you to our dynamic\n   team at NNU-PP. For further information about the center and the\n   position, please contact us via ycwu@njnu.edu.cn",
-      "regions": [
-        "Asia"
-      ],
-      "ranks": [
-        "POSTDOC",
-        "PHD",
-        "SENIOR",
-        "JUNIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/Nanjing%20Normal%20University/Department%20of%20Physics/31269?rss"
-      ],
-      "contact_email": "ycwu@njnu.edu.cn",
-      "created": "2025-11-24T17:00:00.000Z",
-      "updated": "2025-11-24T17:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-11-28T08:04:43.133Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-24T08:04:57.152Z",
-  "totalJobs": 7
+  "lastUpdated": "2025-12-25T08:05:00.214Z",
+  "totalJobs": 6
 }
