@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3095718",
+      "title": "Postdoctoral position in CMS",
+      "institution": "Vrije U., Brussels",
+      "deadline": "2026-01-31",
+      "description": "<div>The CMS group at the Vrije Universiteit Brussel (part of the VUB+ULB Interuniversity Institute for High Energies - <a href=\"https://www.iihe.ac.be/\">https://www.iihe.ac.be/</a>) has an immediate opening at the level of postdoctoral researcher to join their team in searches for rare and exotic SM and BSM physics. We seek an outstanding candidate who has obtained (or is about to obtain) a PhD in experimental particle physics, with excellence in hep-ex data analysis. Experience with supervision of undergraduate and graduate students is a plus.</div><div><br></div><div>A position for initially two years is available, with possible extension. The hiring is not bound to particular project deliverables, which leaves the opportunity to adapt to personal interests and opportunities. However, engaging in support of or leading activities of the PhD students present is expected, in particular regarding our search for fractionally charged particles in CMS. Participating in the group's activities in the CMS tracker upgrade or the milliQan experiment are options as well.</div><div><br></div><div>The position is open to candidates of any nationality. You will be based in the very international city of Brussels, with travel expected to CERN as well as elsewhere, as opportunities arise.</div><div><br></div><div>Applicants should send their curriculum vitae, a list of 5 main achievements and/or publications indicating their personal contributions, and a statement of research interests (all in one pdf file), and arrange for 3 references to be sent to: Prof. Steven Lowette (steven.lowette@vub.be).</div><div>The review of applications will start on January 22, 2025.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2025-12-26T08:42:24.653604+00:00",
+      "updated": "2025-12-29T16:26:45.088692+00:00",
+      "addedAt": "2025-12-30T08:05:04.570Z",
+      "isNew": true
+    },
+    {
       "id": "3095203",
       "title": "tSPECT postdoctoral scholar: Neutron lifetime Analysis and Monte-Carlo simulations",
       "institution": "U. Mainz, PRISMA",
@@ -2574,6 +2599,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2025-12-29T08:05:27.166Z",
-  "totalJobs": 96
+  "lastUpdated": "2025-12-30T08:05:04.571Z",
+  "totalJobs": 97
 }
