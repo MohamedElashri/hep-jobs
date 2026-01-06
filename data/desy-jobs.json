@@ -24,7 +24,7 @@
       "updated": "2026-01-05T08:05:58.737Z",
       "source": "DESY",
       "addedAt": "2026-01-05T08:05:58.737Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1767600347136",
@@ -56,7 +56,7 @@
       "updated": "2026-01-05T08:05:47.137Z",
       "source": "DESY",
       "addedAt": "2026-01-05T08:05:58.737Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1767513871302",
@@ -1642,6 +1642,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-05T08:05:58.738Z",
+  "lastUpdated": "2026-01-06T08:05:20.089Z",
   "totalJobs": 56
 }
