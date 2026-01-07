@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "id": "3097104",
+      "title": "Postdoctoral position in detector R&D & simulation of exclusive processes within ePIC collaboration at EIC",
+      "institution": "IJCLab, Orsay",
+      "deadline": "2026-01-26",
+      "description": "<div>We are pleased to announce that we have an opening for a postdoc position at IJCLab (Institut de physique des 2 infinis Irène Joliot-Curie, Orsay, France), for 2 years, starting April 2026, to take part to the characterization and the evaluation of performances of ASIC iterations to readout novel generation of pixelated LGAD (Low Gain Avalanche Diode), AC-LGAD, capable of very good timing (~30 ps) and spatial (~20 um) resolutions, which will be exploited by several detectors in the ePIC experiment at the EIC, notably the Romans Pots.</div><div><br></div><div>The recruited person will exploit the existing test benches developed for the EICROC0 protype (4x4 channels) to characterize the electronic response of each channel, to evaluate the jitter, the crosstalk and to determine the charge sharing ratio of the system (EICROC+AC-LGAD). Script development in Python will be necessary to control ASIC parameters, to automate data collection and to record data for analysis. The successful candidate will also be involved in simulation work (GEANT4) related to the response of the Roman Pots Far-Forward detectors for exclusive processes, such as Deep Virtual Compton Scattering (DVCS).</div><div><br></div><div>The hired researcher will work within a collaborative environment and may be required to participate in the supervision of PhD or Master students.</div><div><br></div><div>A Doctoral Degree in Physics with specialization in experimental nuclear or particle physics, or related area, is required. A demonstrated experience in instrumentation and good software skills are highly desirable.</div><div><br></div><div>Interested candidates should apply via the official application page: <a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR9012-SOPHEB1-018/Default.aspx\">https://emploi.cnrs.fr/Offres/CDD/UMR9012-SOPHEB1-018/Default.aspx</a></div><div><br></div><div>For further information and to send reference letters, please contact Dominique Marchand (<a href=\"mailto:dominique.marchand@ijclab.in2p3.fr\">dominique.marchand@ijclab.in2p3.fr</a>)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR9012-SOPHEB1-018/Default.aspx"
+      ],
+      "contact_email": null,
+      "created": "2026-01-05T13:03:17.096385+00:00",
+      "updated": "2026-01-06T18:43:13.063644+00:00",
+      "addedAt": "2026-01-07T08:05:14.917Z",
+      "isNew": true
+    },
+    {
+      "id": "3097102",
+      "title": "Research Associate \"Cluster of Excellence Quantum Universe\": Searching for axions with astrophysical observations",
+      "institution": "U. Hamburg, Dept. Phys.",
+      "deadline": "2026-01-20",
+      "description": "<div>We are using astrophysical observations to search for signatures of axion-like particles. We are going to search for spectral signatures in the X-ray and gamma-ray emission from Galactic and extra-galactic objects - including gamma-ray bursts, using the most recent models for the magnetic field along the line of sight.</div><div><br></div><div>The Cluster of Excellence “Quantum Universe” performs research to understand mass and gravity at the interface between quantum physics and cosmology. The research team includes leading scientists from mathematics, particle physics, astrophysics, and cosmology at the University of Hamburg and DESY.</div><div><br></div><div>Doctoral research associates will become members of the Quantum Universe Research School (QURS), which provides academic and key skills training, as well as career planning support. In addition, they will receive individual budgets to facilitate the attendance of summer schools and conferences, and to support other educational measures. Additional travel money for project-specific duties will be provided by the hosting research groups. Doctoral researchers may participate in teaching at the University and in the organization of the Cluster via an early career council.</div><div><br></div><div>We are looking for candidates with experience on advanced astrophysical data analysis in the context of multi-mission and multi-wavelength observations including e.g., Fermi-LAT, GBM, and imaging X-ray missions. Prior experience with methods of statistical inference using simulations or anomaly searches with machine-learning approaches is desirable.</div><div><br></div><div>Universität Hamburg—University of Excellence is one of the strongest research educational institutions in Germany. Our work in research, teaching, educational and knowledge exchange activities is fostering the next generation of responsible global citizens ready to tackle the global challenges facing us. Our guiding principle “Innovating and Cooperating for a Sustainable Future in a digital age” drives collaboration with academic and nonacademic partner institutions in the Hamburg Metropolitan Region and around the world. We would like to invite you to be part of our community to work with us in creating sustainable and digital change for a dynamic and pluralist society.</div><div><br></div><div>The University of Hamburg is committed to equity. Diversity enriches our university life, whether in our studies, research, teaching, education, or workplace. We therefore welcome all applications, regardless of gender, gender identity, sexual orientation, ethnic or social background, age, religion or belief, disability, or chronic illness.</div><div><br></div><div>The University of Hamburg strives to increase the number of women in academia, and encourages qualified female academics to apply.</div><div><br></div><div>Severely disabled and disabled applicants with the same status will receive preference over equally qualified non-disabled applicants.</div><div><br></div><div>For the application, please use the following link:</div><div><a href=\"https://www.uni-hamburg.de/en/stellenangebote/formular.html?jobID=0fc60b8a4f1bf5b3dd948c64a8a0a480150faa0e\">https://www.uni-hamburg.de/en/stellenangebote/formular.html?jobID=0fc60b8a4f1bf5b3dd948c64a8a0a480150faa0e</a></div><div><br></div><div>Further informations are available:</div><div><a href=\"https://www.uni-hamburg.de/stellenangebote/ausschreibung.html?jobID=0fc60b8a4f1bf5b3dd948c64a8a0a480150faa0e\">Official advertisement at the University of Hamburg</a></div><div><a href=\"https://www.physik.uni-hamburg.de/en/iexp/gruppe-horns/forschung.html\">Home page of the group at the University of Hamburg</a></div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.uni-hamburg.de/stellenangebote/ausschreibung.html?jobID=0fc60b8a4f1bf5b3dd948c64a8a0a480150faa0e"
+      ],
+      "contact_email": null,
+      "created": "2026-01-05T11:14:54.376990+00:00",
+      "updated": "2026-01-06T18:26:14.787760+00:00",
+      "addedAt": "2026-01-07T08:05:14.917Z",
+      "isNew": true
+    },
+    {
+      "id": "3097172",
+      "title": "Graduate Research at the Electron-Ion Collider & Jefferson Lab",
+      "institution": "Regina U.",
+      "deadline": "2026-04-20",
+      "description": "<div><strong>FUNDAMENTAL QUESTIONS ADDRESSED:</strong> Subatomic physics is a major research direction at the University of Regina.&nbsp;Our work at Jefferson Lab (USA) addresses questions such as the structure of light mesons and nucleons.&nbsp;In addition to data analysis and simulations for Hall C, we are constructing the Solenoidal Large Intensity Detector (SoLID) Heavy Gas Cherenkov at JLab.</div><div><br></div><div><strong>ELECTRON-ION COLLIDER (EIC): </strong>A major new collider facility to be built in New York state, with the first collisions anticipated in 2034.&nbsp;Polarized electrons will collide with polarized protons, polarized light ions and heavy nuclei at luminosities far beyond what is currently available.&nbsp;As a grad student involved in the early stages of this project, you will be well positioned to impact the design of this world class facility and to continue in key roles of its operation after the completion of your degree.</div><div><br></div><div><strong>GRADUATE RESEARCH:</strong> We are recruiting both MSc and PhD students.&nbsp;The EIC position is vacant and can be filled as soon as you are available.&nbsp;The JLab position is expected to be available in fall 2026.&nbsp;Students will gain skills</div><div>in many aspects of subatomic physics, including the acquisition of experimental data, analysis of large data sets, simulations, detector construction and characterization.&nbsp;Our research environment is highly collaborative, with opportunities to work with researchers at other universities and research facilities in Canada and abroad.&nbsp;Accepted students are the beneficiaries of a broad-based education and training in international research, including teamwork, critical thinking, leadership skills and outreach activities. Funding will be offered to all successful applicants.</div><div><br></div><div><strong>APPLICATION INFORMATION:</strong></div><div>Interested candidates should forward academic transcripts and a CV including</div><div>research experience, scientific interests, career goals and the names of three</div><div>referees, to: Prof. Garth Huber at: huberg@uregina.ca.</div><div><br></div><div>Further information is available at: <a href=\"http://lichen.phys.uregina.ca\">http://lichen.phys.uregina.ca</a></div><div><br></div><div>The acceptance process is highly competitive.&nbsp;Preference is given to motivated students with excellent grades, good team working skills, and applicable programming experience.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD",
+        "MASTER"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "Jefferson Lab-CEBAF-JLAB-SoLID"
+      ],
+      "urls": [
+        "http://lichen.phys.uregina.ca"
+      ],
+      "contact_email": null,
+      "created": "2026-01-05T21:51:20.981359+00:00",
+      "updated": "2026-01-06T18:19:54.583154+00:00",
+      "addedAt": "2026-01-07T08:05:14.917Z",
+      "isNew": true
+    },
+    {
       "id": "3095718",
       "title": "Postdoctoral position in CMS",
       "institution": "Vrije U., Brussels",
@@ -2599,6 +2682,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-06T08:05:20.081Z",
-  "totalJobs": 97
+  "lastUpdated": "2026-01-07T08:05:14.918Z",
+  "totalJobs": 100
 }
