@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3097381",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Santiago de Compostela U., IGFAE",
+      "deadline": "2026-01-25",
+      "description": "<div>The Experimental High Energy Physics group in the&nbsp;<em>Instituto Galego de Física de Altas Enerxías </em>(IGFAE) at the University of Santiago de Compostela (USC), seeks candidates for a post-doctoral Research Associate position to work on the LHCb experiment at CERN's Large Hadron Collider.</div><div><br></div><div>The successful candidate will be expected to contribute to data analysis, with a focus on rare B decays. Involvement in the Upgrade 2 project with contributions to the VELO detector is also a possibility for interested candidates.</div><div><br></div><div>Candidates for the position must have a PhD or equivalent in experimental high-energy physics.</div><div>The&nbsp;ideal&nbsp;candidate&nbsp;will also have:</div><div>•&nbsp;advanced programming&nbsp;skills with C++&nbsp;or&nbsp;Python languages.</div><div>•&nbsp;experience&nbsp;with&nbsp;data&nbsp;analysis&nbsp;in&nbsp;high&nbsp;energy&nbsp;physics.</div><div>•&nbsp;the capability for effective scientific communication.</div><div><br></div><div>The position is available to start in April-May 2026. The initial appointment will be for one year, renewable for up to a total of three years. Renewal of the contract will be offered based on satisfactory performance. The primary place of work will be&nbsp;Santiago de Compostela, with travels to CERN and conference meetings as needed.</div><div><br></div><div>Candidates should submit an academic CV and a short Statement of Research Experience and Interests, preferably in a single pdf file, to&nbsp;<a href=\"mailto:recruitment-lhcb-igfae@grupos.nube.usc.gal\">recruitment-lhcb-igfae@grupos.nube.usc.gal</a>. They should also arrange for two letters of recommendation to be sent directly to the same address.</div><div><br></div><div>For any question on the call, feel free to contact Prof. Abraham Gallas (<a href=\"mailto:abrahamantonio.gallas@usc.es\">abrahamantonio.gallas@usc.es</a>), Paula Álvarez Cartelle (<a href=\"mailto:paula.alvarez@usc.es\">paula.alvarez@usc.es</a>) or María Vieites Díaz (<a href=\"mailto:maria.vieites@usc.es\">maria.vieites@usc.es</a>).</div><div><br></div><div>Review of&nbsp;applications&nbsp;will&nbsp;begin&nbsp;January 25th&nbsp;2026&nbsp;and&nbsp;will&nbsp;continue&nbsp;until&nbsp;the&nbsp;position&nbsp;is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-07T09:51:03.643444+00:00",
+      "updated": "2026-01-07T15:50:20.876975+00:00",
+      "addedAt": "2026-01-08T08:05:03.059Z",
+      "isNew": true
+    },
+    {
       "id": "3097104",
       "title": "Postdoctoral position in detector R&D & simulation of exclusive processes within ePIC collaboration at EIC",
       "institution": "IJCLab, Orsay",
@@ -25,7 +50,7 @@
       "created": "2026-01-05T13:03:17.096385+00:00",
       "updated": "2026-01-06T18:43:13.063644+00:00",
       "addedAt": "2026-01-07T08:05:14.917Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3097102",
@@ -51,7 +76,7 @@
       "created": "2026-01-05T11:14:54.376990+00:00",
       "updated": "2026-01-06T18:26:14.787760+00:00",
       "addedAt": "2026-01-07T08:05:14.917Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3097172",
@@ -81,7 +106,7 @@
       "created": "2026-01-05T21:51:20.981359+00:00",
       "updated": "2026-01-06T18:19:54.583154+00:00",
       "addedAt": "2026-01-07T08:05:14.917Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3095718",
@@ -2682,6 +2707,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-07T08:05:14.918Z",
-  "totalJobs": 100
+  "lastUpdated": "2026-01-08T08:05:03.059Z",
+  "totalJobs": 101
 }
