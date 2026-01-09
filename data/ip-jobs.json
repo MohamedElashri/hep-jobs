@@ -1,6 +1,66 @@
 {
   "jobs": [
     {
+      "id": "3098534",
+      "title": "Ph.D. Student for dosimetry",
+      "institution": "DESY, Zeuthen",
+      "deadline": "2026-01-15",
+      "description": "<div><strong>Ph.D. Student for dosimetry at FLASHlab@PITZ</strong></div><div><br></div><div>Limited: 3 years | Start: 01.02.2026 | ID: APDO015/2025 | Deadline: 15.01.2026 | Full-time/Part-time | Remote work possible | Location: Zeuthen</div><div><br></div><div>DESY, with more than 2900 employees at its two locations in Hamburg and Zeuthen, is one of the world's leading research centres. Its research focuses on decoding the structure and function of matter, from the smallest particles of the universe to the building blocks of life. In this way, DESY contributes to solving the major questions and urgent challenges facing science, society and industry. With its ultramodern research infrastructure, its interdisciplinary research platforms and its international networks, DESY offers a highly attractive working environment in the fields of science, technology and administration as well as for the education of highly qualified young scientists.</div><div><br></div><div>The Photo lnjector Test Facility PITZ in Zeuthen (near Berlin) is one of the leading international groups in developments on modern photo injectors and their applications. Current R&amp;D goals of PITZ include improving electron source brightness beyond state of the art for X-ray Free Electron Lasers as well as applications of high brightness beams e.g. for FLASH radiation therapy R&amp;D (FLASHlab@PITZ).</div><div><br></div><div>FLASH radiation therapy (FLASH RT) involves treatments delivered at ultra-high dose rates, and is a new and exciting opportunity for cancer treatment. The PITZ accelerator is the perfect test facility for this new technique as it is extremely flexible in the timing of the irradiation bunches and the corresponding dose rates and can deliver full treatment doses within a 1 ms bunch train. The detectors and methods established for dosimetry of conventional radiotherapy are not suitable for FLASH RT. The student will develop suitable detection and dosimetry methods at ultra-high dose rates, making use of the detector expertise developed for particle, astroparticle and accelerator physics applications at DESY Zeuthen in cooperation with national and international partners.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/records305166/index_eng.html"
+      ],
+      "contact_email": null,
+      "created": "2026-01-08T07:35:29.354918+00:00",
+      "updated": "2026-01-08T15:57:48.321075+00:00",
+      "addedAt": "2026-01-09T08:59:14.618Z",
+      "isNew": true
+    },
+    {
+      "id": "3098555",
+      "title": "Experimental Particle Physics (A13 a.Z. or A13 permanent)",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-02-09",
+      "description": "<div>The Experimental Particle Physics group at the Center for Particle Physics Siegen (CPPS) has an opening for a full-time position as</div><div>&nbsp;</div><div><strong>(a)&nbsp;Research Assistant (Akademische/r Rätin/Rat A13 a.Z., can lead to permanent)</strong></div><div>&nbsp;</div><div>or</div><div>&nbsp;</div><div><strong>(b)&nbsp;Permanent Research Assistant (Akademische/r Rätin/Rat A13 or E13)</strong></div><div>&nbsp;</div><div>depending on experience and standing, starting on <strong>1st March 2026 </strong>or later.</div><div>&nbsp;</div><div>The group is part of the “Exzellenzcluster” Color-meets-Flavor (Bonn, TU Dortmund, FZ Jülich and Siegen) and runs or has access to state-of-the-art clean-room facilities, including&nbsp;the new INCYTE building in Siegen or through the cluster partners. The current focus of the particle physics group lies in algorithm development and data analysis (Higgs and top-quark physics, flavour tagging and search for BSM physics), in the operation of the ATLAS pixel detector, and in the upgrade project of the new silicon-based Inner Tracker (ITk) for the High-Luminosity LHC. The group is ramping up in further activities, including the silicon target of the SHiP detector, the planning and construction of the pixel detector at the insight@ELSA experiment and participation to all-silicon module development within the DRD3 Collaboration.</div><div>&nbsp;</div><div>Candidates should have a qualified PhD in Experimental Particle Physics or a related field and should have demonstrated strong potential for outstanding achievements as independent researchers. Over the coming years, the successful candidate is expected to take a leading role in research, with an emphasis on <strong>microstructured semiconductor</strong> <strong>detector development</strong> for high-energy physics applications, and connect with existing activities of the group.</div><div>&nbsp;</div><div>The position, which is based in Siegen, is a Junior Faculty Position (Option a), belonging to the German science/university career path, A13 a.Z., and is planned for two successive periods of three years, allowing to acquire a “Habilitation”. It can lead to a permanent position. In exceptional circumstances a permanent position (Option b) with payscale A13 or E13 might be offered from the start.</div><div>&nbsp;</div><div>Participation in university teaching and supervision of students and PhD candidates is expected. Salary and benefits follow the German standards for state officials. Women are especially encouraged to apply.</div><div>&nbsp;</div><div>The successful candidate must have a university degree and a Ph.D. in physics or a relevant field of science. Experience in particle physics research in line with the group’s activities, preferably in microstructured semiconductor<strong> </strong>detector development, is also required.</div><div>&nbsp;</div><div>Applications, including a <strong>CV</strong> and a short <strong>description of the research experience and interests</strong>, should be sent via email (one single PDF file) to <a href=\"mailto:Markus.Cristinziani@uni-siegen.de\">Markus.Cristinziani@uni-siegen.de</a>. The deadline for submission is <strong>9th February 2026.</strong></div><div>&nbsp;</div><div>In addition, the applicants should arrange for at least<strong> two letters of reference </strong>to be sent to the same address.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-SPS-NA-067",
+        "CERN-NON-RD-050",
+        "CERN-LHC-RD-042"
+      ],
+      "urls": [
+        "http://www.hep.physik.uni-siegen.de"
+      ],
+      "contact_email": null,
+      "created": "2026-01-08T14:35:34.702475+00:00",
+      "updated": "2026-01-08T15:52:35.072261+00:00",
+      "addedAt": "2026-01-09T08:59:14.618Z",
+      "isNew": true
+    },
+    {
       "id": "3097381",
       "title": "Postdoctoral Research Associate",
       "institution": "Santiago de Compostela U., IGFAE",
@@ -23,7 +83,7 @@
       "created": "2026-01-07T09:51:03.643444+00:00",
       "updated": "2026-01-07T15:50:20.876975+00:00",
       "addedAt": "2026-01-08T08:05:03.059Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3097104",
@@ -2707,6 +2767,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-08T08:05:03.059Z",
-  "totalJobs": 101
+  "lastUpdated": "2026-01-09T08:59:14.618Z",
+  "totalJobs": 103
 }
