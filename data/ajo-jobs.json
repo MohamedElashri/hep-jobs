@@ -73,33 +73,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-12-19T08:04:51.245Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31372",
-      "title": "Postdoctoral Research Associate - Physics for AI",
-      "institution": "University of Toronto",
-      "deadline": null,
-      "description": "University of Toronto, Physics for AI\n   Application Deadline: Jan. 4, 2025\n   The theoretical high energy physics group at the University of Toronto\n   aims to fill two postdoctoral research positions starting in the Fall\n   of 2026. The postdocs will primarily work with Yonatan Kahn at\n   University of Toronto, in collaboration with Noam Levi at EPFL and\n   Andrew Larkoski at APS, on a suite of projects focused on using\n   simulated jet data as a model of complex real-world data in order to\n   make progress on AI interpretability and alignment. These positions\n   are for 2 years, but may be renewable for a 3rd year subject to funds\n   and performance.\n   Note that these positions are independent from a separate open search\n   for high-energy theory postdocs at University of Toronto; candidates\n   for the open search will also be considered for this position.\n   Candidates may also be considered for potential joint positions with\n   the Department of Statistical Sciences at University of Toronto and\n   the Perimeter Institute for Theoretical Physics in Waterloo.\n   The ideal candidate will have extensive knowledge of quantum field\n   theory, specifically perturbative QCD, as well as fluency with modern\n   machine learning tools, in order to rapidly perform both analytic\n   calculations and numerical experiments. We emphasize that this is not\n   a position for applications of machine learning to physics, but rather\n   an application of theoretical physics tools to understand and improve\n   machine learning; however, the successful completion of this research\n   program has the potential to shed light on problems in physics, as\n   well as other scientific fields.\n   The successful candidate will benefit from the highly collaborative\n   environment at University of Toronto, including the Vector Institute\n   for Artificial Intelligence, other high-energy theory faculty at\n   Toronto (including David Curtin, Michael Luke, Erich Poppitz, and AW\n   Peet), and Perimeter Institute.\n   Applicants should include a cover letter, CV, a statement of research\n   interests focusing on alignment with the proposed research program,\n   and a list of publications. Applicants should arrange for at least\n   three letters of recommendation to be submitted at AcademicJobsOnline.\n   For full consideration, especially for joint position opportunities,\n   applicants should submit all materials by the application deadline of\n   Jan. 4, 2025.\n   Consideration of applications will continue until the positions are\n   filled. The University of Toronto is strongly committed to diversity\n   within its community and especially welcomes applications from\n   Indigenous Persons, Racialized Persons, Women, Persons with\n   Disabilities invisible or apparent, Members of the 2SLGBTQ+ Community\n   and others who may contribute to the further diversification of ideas.\n   The Department of Physics adopted the following statement on\n   inclusivity, which the high energy theory group strongly supports and\n   strives to implement in its practice:\n   https://www.physics.utoronto.ca/physics-at-uoft/idea/inclusivity-statement/.",
-      "regions": [
-        "North America"
-      ],
-      "ranks": [
-        "POSTDOC",
-        "PHD",
-        "SENIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/University%20of%20Toronto/High%20energy%20phenomenology%20group/31372?rss"
-      ],
-      "contact_email": null,
-      "created": "2025-12-10T17:00:00.000Z",
-      "updated": "2025-12-10T17:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-12-11T08:05:01.788Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-09T08:59:16.109Z",
-  "totalJobs": 4
+  "lastUpdated": "2026-01-10T08:04:14.586Z",
+  "totalJobs": 3
 }
