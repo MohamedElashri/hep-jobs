@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3103531",
+      "title": "Research Fellow",
+      "institution": "Birmingham U.",
+      "deadline": "2026-02-03",
+      "description": "<div>The Birmingham Particle Physics group has a vacancy for a Research Fellow working on detector developments to contribute to future experiments dedicated to kaon physics. Specifically, the successful applicant will work on development of particle identification and tracking detectors, including simulation and design aspects, and on research and development of photon detectors in the context of the DRD4 collaboration. The post holder will be based in Birmingham and must be willing to travel and spend periods at CERN and J-PARC Laboratories.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-SPS-NA-062"
+      ],
+      "urls": [
+        "https://www.jobs.ac.uk/job/DQC931/research-fellow"
+      ],
+      "contact_email": null,
+      "created": "2026-01-13T15:35:45.967058+00:00",
+      "updated": "2026-01-13T15:53:32.491393+00:00",
+      "addedAt": "2026-01-14T08:05:08.662Z",
+      "isNew": true
+    },
+    {
       "id": "3098534",
       "title": "Ph.D. Student for dosimetry",
       "institution": "DESY, Zeuthen",
@@ -2767,6 +2794,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-13T08:05:15.245Z",
-  "totalJobs": 103
+  "lastUpdated": "2026-01-14T08:05:08.663Z",
+  "totalJobs": 104
 }
