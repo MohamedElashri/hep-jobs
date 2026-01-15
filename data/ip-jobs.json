@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3104796",
+      "title": "Postdoctoral Position in Experimental Hadron Physics",
+      "institution": "Coll. William and Mary",
+      "deadline": "2026-02-24",
+      "description": "<div><strong>Postdoctoral Fellow of Physics&nbsp;—&nbsp;Experimental Hadron Physics Group at the College of William and Mary</strong></div><div><br></div><div><strong>Position Description</strong>:&nbsp;</div><div>The Department of Physics at William &amp; Mary, a public university of the Commonwealth of Virginia, invites applications for a postdoctoral fellow position, expected to begin March 10, 2026.&nbsp;&nbsp;We seek an individual with expertise in experimental hadronic physics to join the Nuclear and Hadronic Experimental Group led by Dr. Meike Küßner.&nbsp;The successful candidate will contribute to the GlueX experiment in Hall D at the nearby Thomas Jefferson National Accelerator Facility (Jefferson Lab). Applicants should possess experience in experimental hadron physics, which may include experimental data handling and analysis, amplitude analysis, software development, and/or detector related hardware operation and design. The appointed researcher will be expected to assume a leading role in the operation and analysis of data from the GlueX experiment and in the coupled-channel analyses of multi-meson final states.</div><div><br></div><div>The initial appointment is for one year, with the possibility of renewal based on performance and funding availability.</div><div><br></div><div><strong>Required Qualification:&nbsp;</strong></div><div>Applicant must hold a Ph.D. in Physics, or related&nbsp;field, at the time appointment begins (expected to begin March 10, 2026).</div><div><br></div><div><strong>Preferred Qualifications:&nbsp;</strong></div><div>Experience in data analysis and hardware, in particular hadron spectroscopy utilizing amplitude analysis techniques</div><div><br></div><div>Applicants must <strong>apply online at</strong>:&nbsp;</div><div><a href=\"https://williammary.wd12.myworkdayjobs.com/en-US/WM/job/Postdoctoral-Fellow-of-Physics--Experimental-Hadronic-Physics-_JR101255\">https://williammary.wd12.myworkdayjobs.com/en-US/WM/job/Postdoctoral-Fellow-of-Physics--Experimental-Hadronic-Physics-_JR101255</a>.</div><div>Submit a curriculum vitae, a cover letter, and a statement of research interests. Candidates are encouraged to reflect on their past experiences or future plans to foster an inclusive and welcoming climate for learners/scholars in Physics in any of the aforementioned required documents.&nbsp;You will be prompted to submit online the names and email addresses of three references who will be contacted by the system with instructions for how to submit a letter of reference.&nbsp;References will be contacted by the system to request a letter of reference only for short list applicants.</div><div><br></div><div>For full consideration, submit application materials by the review begin date,&nbsp;February 24th, 2026.</div><div>Applications received after the review date will be considered if needed.</div><div><br></div><div>Qualifications: PhD</div><div>Compensation Grade: S99</div><div><br></div><div>EEO is the Law.&nbsp;Applicants can learn more about William &amp; Mary’s status as an equal opportunity employer by viewing the \"Know Your Rights\" poster published by the U.S. Equal Employment Opportunity Commission. https://<a href=\"https://www.eeoc.gov/know-your-rights-workplace-discrimination-illegal\">www.eeoc.gov/know-your-rights-workplace-discrimination-illegal</a></div><div>&nbsp;</div><div>Background Check: William &amp; Mary is committed to providing a safe campus community. W&amp;M conducts background investigations for applicants being considered for employment. Background investigations include reference checks, a criminal history record check, and when appropriate, a financial (credit) report or driving history check.&nbsp;</div><div>&nbsp;</div><div>Remote Work Disclaimer: Remote work eligibility is not guaranteed and is subject to approval. Employee eligibility depends on the likelihood of the employee succeeding in a remote work arrangement and the supervisor’s ability to manage remote workers. Departments and/or Human Resources may amend, alter, change, delete, or modify eligibility.&nbsp;</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://williammary.wd12.myworkdayjobs.com/en-US/WM/job/Postdoctoral-Fellow-of-Physics--Experimental-Hadronic-Physics-_JR101255"
+      ],
+      "contact_email": null,
+      "created": "2026-01-14T18:09:08.519042+00:00",
+      "updated": "2026-01-14T18:40:43.224348+00:00",
+      "addedAt": "2026-01-15T08:05:25.891Z",
+      "isNew": true
+    },
+    {
       "id": "3103531",
       "title": "Research Fellow",
       "institution": "Birmingham U.",
@@ -25,7 +51,7 @@
       "created": "2026-01-13T15:35:45.967058+00:00",
       "updated": "2026-01-13T15:53:32.491393+00:00",
       "addedAt": "2026-01-14T08:05:08.662Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3098534",
@@ -2794,6 +2820,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-14T08:05:08.663Z",
-  "totalJobs": 104
+  "lastUpdated": "2026-01-15T08:05:25.892Z",
+  "totalJobs": 105
 }
