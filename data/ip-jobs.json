@@ -1,6 +1,55 @@
 {
   "jobs": [
     {
+      "id": "3105191",
+      "title": "Postdoctoral Positions in Applied Muon Physics (Muography & Instrumentation)",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2026-03-01",
+      "description": "<div>The Muon Physics Group at the <strong>Tsung-Dao Lee Institute (TDLI)</strong>, Shanghai Jiao Tong University, invites applications for postdoctoral positions in <strong>Muon Tomography/Radiography</strong>.</div><div><br></div><div>We are seeking physicists eager to see their research make a tangible impact on society. While our group is deeply involved in fundamental precision frontier experiments (Fermilab Muon g-2, PSI muEDM, SHINE Muon Source), this specific role connects high-energy physics with geoscience and civil engineering.</div><div><br></div><div>You will work on a high-priority project in collaboration with the Shanghai government to implement muography technology for the <strong>operational safety of megacities</strong>. This is a unique chance to develop \"lab-to-market\" hardware and software skills while working in a prestigious academic environment founded by Nobel Laureate Tsung-Dao Lee.</div><div><br></div><div><strong>What You Will Do</strong></div><div>Successful candidates will drive the R&amp;D of a distributed muon detector network designed for the dynamic health monitoring of urban infrastructure. You will focus on one or more of the following areas:</div><ul><li><strong>Next-Gen Detectors:</strong> Designing plastic scintillator and SiPM-based detectors optimized for mass production and harsh environmental conditions.</li><li><strong>Electronics &amp; DAQ:</strong> Developing front-end electronics (ASIC/Citiroc), FPGA programming, and real-time Data Acquisition Systems.</li><li><strong>Simulation &amp; Analysis:</strong> Building Geant4 frameworks for urban environments and developing tomographic reconstruction algorithms.</li></ul><div><strong>Who We Are Looking For</strong></div><div>We seek highly motivated candidates who have obtained (or are about to obtain) a Ph.D. in Nuclear Physics, Particle Physics, or Astro-particle Physics.</div><div><br></div><div><em>Essential Skills (Expertise in at least one area required):</em></div><ul><li><strong>Hardware:</strong> Experience with SiPMs, PMTs, and waveform digitizers.</li><li><strong>Electronics:</strong> Experience with FPGA programming, PCB design, or ASIC readout chains.</li><li><strong>Software:</strong> Proficiency in C++, Python, ROOT, and Geant4.</li></ul><div><em>Desirable Skills:</em></div><ul><li>Experience in mechanical design (CAD) for detector casing/integration.</li><li>Knowledge of image reconstruction or statistical data analysis.</li><li>Strong communication skills in English (Chinese is a plus, but not required).</li></ul><div><strong>Why Join TDLI?</strong></div><ul><li><strong>Competitive Compensation:</strong> We offer a highly competitive salary and benefits package, including subsidized housing or living allowances.</li><li><strong>Fellowship Support:</strong> We actively mentor candidates to apply for the prestigious \"Tsung-Dao Lee Postdoctoral Fellowship\", which provides significant additional financial benefits.</li><li><strong>Career Growth:</strong> This role offers a rare mix of academic research and industrial application, making you highly employable in both university and industry sectors (medical imaging, security, geophysics) afterward.</li></ul><div><strong>Application Instructions</strong></div><div>The initial appointment is for 2 years, renewable up to 4 years. Interested candidates should send the following to <strong>Prof. Kim Siang Khaw (kimsiang84@sjtu.edu.cn)</strong>:</div><ol><li>Cover Letter</li><li>Curriculum Vitae (CV)</li><li>Research Statement (1-2 pages covering past experience and future plans)</li><li>Arrange for 3 reference letters to be sent directly to the email above.</li></ol><div><strong>Deadline</strong></div><div>Applications will be reviewed on a rolling basis until<strong> March 1, 2026</strong>. Early submission is highly encouraged.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-15T13:25:55.532412+00:00",
+      "updated": "2026-01-15T16:14:40.262370+00:00",
+      "addedAt": "2026-01-16T08:05:08.180Z",
+      "isNew": true
+    },
+    {
+      "id": "3105317",
+      "title": "Doctoral INPhINIT Incoming Call 2026 'la Caixa' Fellowships in Experimental Particle Physics",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-01-28",
+      "description": "<div>The High Energy Physics Institute in Barcelona (IFAE-Barcelona) is offering PhD positions for talented Early-Stage Researchers within the framework of the Doctoral INPhINIT Incoming Call 2026 “la Caixa” fellowships, in the fields of Particle Physics, Astroparticles, Cosmology, Gravitational Waves, Quantum Computing and Instrumentation R&amp;D. In particular, in the context of Experimental Particle Physics, IFAE is offering the following project:</div><div><br></div><div><strong>“Searches for new phenomena with the ATLAS detector at the LHC”</strong></div><div><br></div><div>IFAE maintains a strong presence in the ATLAS experiment at CERN’s Large Hadron Collider (LHC), with major responsibilities on the calibration and maintenance of the TileCal hadronic calorimeter and the Level-1 Topological Trigger system, and participates in the upgrade of the Pixel detector and the trigger system. The IFAE-ATLAS group has developed an exciting and broad research program that includes precision measurements of the top quark and the Higgs boson, and searches for new phenomena beyond the Standard Model (e.g., dark matter, supersymmetry, vector-like quarks, leptoquarks, additional light or heavy Higgs bosons, etc).</div><div><br></div><div>The successful PhD candidate will join the IFAE-ATLAS group and will participate in first-class research with the ATLAS detector. He/she will play a leading role in physics analysis using the full Run 2 and Run 3 datasets, and participate in the maintenance, operation and upgrade of the ATLAS detector.</div><div><br></div><div>These are 4-year PhD positions. On top of a competitive salary, the position offers a dedicated budget for conferences, courses, research stays, etc. In addition, the IFAE offers additional funds to attend schools or international workshops related to the PhD research topics.</div><div><br></div><div><strong>Requirements:</strong></div><div>In order to be accepted, candidates must meet the following eligibility requirements (for more details see the <a href=\"https://lacaixafoundation.org/documents/3035467/3420301/doctoral-inphinit-retaining-2024.pdf\">Rules for participation</a>)</div><div><br></div><div><strong>Nationality:</strong></div><div>Young researchers of any nationality are eligible to apply for the Doctoral INPhINIT Incoming Fellowships Programme.</div><div><br></div><div><strong>Studies pursued:</strong></div><div>Applicants must hold a higher education degree that makes them eligible to enrol in a doctoral programme before starting at their host institutions.</div><div><br></div><div>The host university will verify, upon starting the admission process to the doctoral programme, that the studies taken up by the selected candidates make them eligible to enrol in an official doctoral programme in accordance with the regulations in force in Spain or Portugal. Should they be found not eligible after verification, the fellowship will be withdrawn. Candidates must not have been enrolled in a doctoral programme prior to the start of the fellowship.</div><div><br></div><div><strong>Language proficiency:</strong></div><div>Applicants must accredit their proficiency in the English language by submitting any of the accepted certificates. Under no circumstances will any other certificate be accepted, despite being issued by the same organisations and/or accredit equivalence with any of the accepted levels.</div><div><br></div><div><strong>Research experience:</strong></div><div>On the deadline for applications, applicants must still be within the first four years (full-time equivalent research experience) of their research careers.</div><div><br></div><div><strong>Mobility:</strong></div><div>Candidates cannot have resided or carried out their main activity (work, studies, etc.) in Spain for more than twelve months in the three years immediately prior to the deadline for applications. Short stays, such as holidays, spent in a country other than their country of usual residence (where they carried out their main activity), will be considered as time spent in their country of usual residence.</div><div><br></div><div>Complete applications: Only candidates whose applications meet all the requirements of the call may be accepted.</div><div><br></div><div><strong>Key dates:</strong></div><div>Deadline for submitting applications:</div><div><em>January 28th, 2026, at 2 pm Peninsular Spain</em></div><div><br></div><div>Communication of the shortlist results and arrangement of interviews:</div><div><em>April 27th, 2026</em></div><div><br></div><div>Selection interviews:</div><div><em>May 20th, 21st, and 22nd, 2026</em></div><div><br></div><div>Communication of the final results:</div><div><em>May 29th, 2026</em></div><div><br></div><div>Access to the applications platform of “la Caixa” Foundation fellowships programme:</div><div><a href=\"https://fellowships.lacaixafoundation.org\">https://fellowships.lacaixafoundation.org</a></div><div><br></div><div><strong>Contact:</strong></div><div>Dr. Imma Riu (<a href=\"mailto:imma.riu@ifae.es\">imma.riu@ifae.es</a>) and Dr. Tamara Vázquez (<a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>)</div><div><strong>More information:</strong></div><div><a href=\"https://lacaixafoundation.org/en/doctoral-inphinit-fellowships-incoming-call\">https://lacaixafoundation.org/en/doctoral-inphinit-fellowships-incoming-call</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-15T14:25:43.537817+00:00",
+      "updated": "2026-01-15T16:12:16.434256+00:00",
+      "addedAt": "2026-01-16T08:05:08.180Z",
+      "isNew": true
+    },
+    {
       "id": "3104796",
       "title": "Postdoctoral Position in Experimental Hadron Physics",
       "institution": "Coll. William and Mary",
@@ -24,7 +73,7 @@
       "created": "2026-01-14T18:09:08.519042+00:00",
       "updated": "2026-01-14T18:40:43.224348+00:00",
       "addedAt": "2026-01-15T08:05:25.891Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3103531",
@@ -2820,6 +2869,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-15T08:05:25.892Z",
-  "totalJobs": 105
+  "lastUpdated": "2026-01-16T08:05:08.180Z",
+  "totalJobs": 107
 }

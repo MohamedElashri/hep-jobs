@@ -48,33 +48,8 @@
       "source": "AcademicJobsOnline",
       "addedAt": "2025-12-29T08:05:27.849Z",
       "isNew": false
-    },
-    {
-      "id": "ajo-31415",
-      "title": "Postdoctoral Researcher",
-      "institution": "Bonn University",
-      "deadline": "2026-01-16",
-      "description": "We are looking to fill a postdoc position in Bonn in theoretical elementary particle physics. Applicants working in particle phenomenology and with expertise in perturbative QCD, Monte Carlo generation tools, machine learning techniques, LHC physics, collider neutrinos, feebly interacting particles or other aspects of BSM particle phenomenology are particularly encouraged to apply. The position will initially be for 2 years with a potential extension to 3 years.\r\n\r\nThe applicants should provide a cover letter, a CV, a statement of research interests and a list of publications, and they should arrange for three reference letters to be submitted through AJO.\r\n\r\nThe deadline for applications is January 15th, 2026. Later applications will be considered as long as the position has not been filled.\r\n\r\nFor further information, please contact Felix Kling (flxkling@gmail.com).",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC",
-        "PHD",
-        "JUNIOR"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://academicjobsonline.org/ajo/Bonn%20University/Physikalisches%20Institut/31415?rss"
-      ],
-      "contact_email": "flxkling@gmail.com",
-      "created": "2025-12-16T17:00:00.000Z",
-      "updated": "2025-12-16T17:00:00.000Z",
-      "source": "AcademicJobsOnline",
-      "addedAt": "2025-12-19T08:04:51.245Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-15T08:05:27.276Z",
-  "totalJobs": 3
+  "lastUpdated": "2026-01-16T08:05:08.185Z",
+  "totalJobs": 2
 }
