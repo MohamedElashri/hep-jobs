@@ -1,6 +1,266 @@
 {
   "jobs": [
     {
+      "id": "3108692",
+      "title": "Postdoc position on Belle II experiment",
+      "institution": "Fudan U., Shanghai",
+      "deadline": "2026-06-30",
+      "description": "<div>The Belle II experiment (<a href=\"https://www.belle2.org/\">https://www.belle2.org/</a>) at the asymmetric-energy accelerator SuperKEKB is at the high-precision frontier of particle physics research, having set a new world record luminosity in 2024. The Belle II group at Fudan University, comprising approximately 30 members including five faculty members, several postdocs, and a steady stream of students, conducts a diverse research progrm spannig heavy flavor physics, hadron spectroscopy, tau physics, and detector R&amp;D.</div><div><br></div><div>We seek a highly motivated postdoctoral researcher to contribute to data analysis, primarily in semileptonic B decays (inclusive and exclusive processes) and new physics searches. Involvement in detector performance studies and/or software development is encouraged.</div><div><br></div><div>The initial contract is for two years, with the possibility of extension based on performance. The workplace will be based at Fudan University in Shanghai. A competitive annual salary of 250,000 CNY (before tax) is offered. The selected candidates will be encouraged to apply for additional prestigious postdoctoral fellowships and grants at both the university and national levels, which provide supplementary funding.</div><div><br></div><div>The start date for this position is flexible and can be mutually agreed upon with the successful candidate and the host researcher, Dr. Lu Cao.</div><div><br></div><div><strong>Qualifications:</strong></div><div>The candidate must hold a Ph.D. before the appointment start date. Proven expertise in HEP-ex data analysis, good skills in modern programming, and proficiency in scientific communication within an international team are essential. Experience with applications of advanced machine learning techniques in HEP is a plus.</div><div><br></div><div><strong>To apply:</strong></div><div>Please compile the following documents into a single PDF file and email it to Dr. Lu Cao (lu_cao@fudan.edu.cn):</div><div>1) A cover letter outlining research interests, relevant experience, and preferred start date.</div><div>2) CV</div><div>3) A list of main publications, with a clear description of your personal contributions.</div><div>Additionally, please arrange for three reference letters to be sent directly by the referees to the same address.</div><div><br></div><div>To ensure your application is considered in the first review cycle, please submit it by <strong>March 31, 2026</strong>. Interview selections will begin shortly after that date. The application process stays open until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "KEK-BF-BELLE-II"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-19T09:38:28.905729+00:00",
+      "updated": "2026-01-20T16:45:41.964956+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3108770",
+      "title": "Physicist in High Energy Physics at colliders",
+      "institution": "Irfu, Saclay, DPhP",
+      "deadline": "2026-04-07",
+      "description": "<div>The Particle Physics Department (DPhP) of the Institute for Research on the Fundamental Laws of the Universe (IRFU) at CEA Paris-Saclay is inviting applications for the recruitment in 2026 of <strong>two permanent researchers in high-energy particle physics at colliders, one to join the ATLAS group and the other to join the CMS group</strong>.</div><div><br></div><div>The scientific activities of the DPhP cover the study of elementary constituents at the highest energies at colliders, neutrino physics, gamma-ray astronomy, cosmology, the study of gravitational waves, and upstream instrumentation.</div><div><br></div><div>The DPhP has a long history in particle physics at colliders and has contributed significantly to the ATLAS and CMS experiments since their inception. The department's physicists are involved in analyses of Higgs boson, top quark, and electroweak physics, in the upgrading of the two detectors for the high-luminosity phase of the LHC, an activity that will be particularly intense during LS3, and in the preparation of longer-term experiments at future colliders.</div><div><br></div><div>We are looking for motivated candidates with a PhD in particle physics, experimental physicists of excellent scientific level, who wish to join the ATLAS or CMS groups. The skills sought relate to data analysis and interpretation and an understanding of the challenges in high-energy physics. Instrumental knowledge and a willingness to invest in detector upgrades and instrumental developments for future detectors are required.</div><div><br></div><div>Candidates may apply for the position within the ATLAS group or for the position within the CMS group, or even for both positions. In the latter case, a description of the future research project for each position is expected.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>The application file must contain:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a curriculum vitae;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a photocopy of your identity card or passport;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a cover letter;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's past scientific activity <em>(maximum 4 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's future research project <em>(maximum 3 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of publications and internal notes highlighting the candidate's personal contributions. The most significant ones (<em>maximum 3</em>) should be attached;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of presentations at conferences, workshops, and seminars;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 letters of recommendation (<em>to be sent </em><strong><em>directly </em></strong><em>to the DPhP secretariat</em>);</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 or 3 names of people who can be contacted for references.</div><div>&nbsp;</div><div>This file in PDF format must be received in full by <strong>April 7, 2026,</strong> at the latest, at the following address:<a href=\"mailto:Irfu-dphp-contact@cea.fr\"><strong> Irfu-dphp-contact@cea.fr</strong></a></div><div>&nbsp;</div><div>After a preliminary selection based on applications, scheduled for the end of May 2026, successful candidates will be interviewed <strong>at the end of June or beginning of July 2026.</strong></div><div>For further information, please do not hesitate to contact us by telephone on +33 (1) 69 08 23 50 or by email at the departmental secretariat: <a href=\"mailto:Sarra.Bounab@cea.fr\">Sarra.Bounab@cea.fr</a> .</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-19T14:36:45.495728+00:00",
+      "updated": "2026-01-20T16:42:32.048817+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3108508",
+      "title": "Postdoctoral position at SUBATECH on JUNO experiment",
+      "institution": "SUBATECH, Nantes",
+      "deadline": "2026-02-13",
+      "description": "<div>This postdoctoral position is part of the project 'First Per Mille Precision and 5σ Neutrino Mass Ordering Determination with JUNO'&nbsp;funded by the French National Research Agency with support from CNRS/IN2P3.</div><div>&nbsp;The successful candidate will contribute to strengthening JUNO dual-calorimetry exploitation and its high precision neutrino oscillation programme. The project is coordinated by F. Yermia within Subatech (M. Bongrand, B. Viaud, F. Yermia) in collaboration with IJCLAB (A. Cabrera, Y. Han). The final goal is to combine JUNO results with those from accelerator experiments in order to enhance the global sensitivity to the neutrino mass ordering and aim for a 5σ determination of the NMO.</div><div>This recruitment follows the usual practice within the JUNO collaboration. The postdoctoral researcher will therefore naturally integrate into the ongoing analysis activities of the collaboration.</div><div><br></div><div>The full job description and application procedure are available at:</div><div><a href=\"https://euraxess.ec.europa.eu/jobs/392632\">https://euraxess.ec.europa.eu/jobs/392632</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "JUNO"
+      ],
+      "urls": [
+        "https://euraxess.ec.europa.eu/jobs/392632"
+      ],
+      "contact_email": null,
+      "created": "2026-01-19T03:39:02.562260+00:00",
+      "updated": "2026-01-20T16:34:29.604519+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3108696",
+      "title": "Postdoc Position: Chemical and Protein Language Models",
+      "institution": "Saarland U.",
+      "deadline": "2026-02-15",
+      "description": "<div><strong>Postdoc Position:</strong> Chemical and Protein Language Models, Saarland University, Germany</div><div><br></div><div><strong>Our research group </strong>has a strong tradition in language models and their applications having made major contributions to both the core research as well as its use in areas like vision&amp;language and low resource language processing. In recent years a new application area of LLMs has emerged: deep learning in scientific discovery. Therefore our research group is now focusing on getting a deeper understanding of how language models work and how they can be applied to biomedical domains. Our recent achievements include best paper awards at COLING, ACL and Interspeech. Many former group members now have faculty positions at institutions like Mila.</div><div><br></div><div>The<strong> ideal candidate</strong> for the position would have:</div><div>1. Excellent knowledge of LLMs, machine learning and deep learning</div><div>2. Excellent programming skills</div><div>3. PhD in in a relevant field</div><div>4. Successful experiences working both independently and as part of a small team</div><div><br></div><div><strong>Salary</strong>: The Postdoc position will be 100% of full time on the German E13 scale (TV-L) which is about 4967€ per month before tax and social security contributions. The appointment will be for two years with a possible extension.</div><div><br></div><div><strong>About the department:</strong> The department of Language Science and Technology is one of the leading departments in the speech and language area in Europe. The flagship project at the moment is the CRC on Information Density. It also runs a significant number of European and nationally funded projects. In total, it has seven faculty and around 50 postdoctoral researchers and PhD students. The department is part of the Saarland Informatics Campus. With 900 researchers, two Max Planck institutes and the German Research Center for Artificial Intelligence, it is one of the leading locations for Informatics in Germany and Europe. We also have close collaborations with the department of bioinformatics and the Helmholtz Institute for Pharmaceutical Research.</div><div><br></div><div><strong>How to apply</strong>: Please send us a letter of motivation, your CV, your transcripts, a list of publications, and the names and contact information of at least two references, as a single PDF or a link to a PDF if the file size is more than 5 MB.</div><div><br></div><div>Please apply latest by February 15th, 2026.</div><div><br></div><div><strong>Contact:</strong> Applications and any further inquiries regarding our research should be directed to <a href=\"mailto:dietrich.klakow@lsv.uni-saarland.de\">dietrich.klakow@lsv.uni-saarland.de</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "stat",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-19T11:01:48.812918+00:00",
+      "updated": "2026-01-20T16:32:11.668569+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3108768",
+      "title": "Physicist in ultra-high-energy gamma astronomy",
+      "institution": "Irfu, Saclay, DPP",
+      "deadline": "2026-03-13",
+      "description": "<div>The Department of Particle Physics (DPhP) at the Institute for Research on the Fundamental Laws of the Universe (IRFU) at CEA Paris-Saclay is inviting applications for the recruitment in 2026 of a <strong>permanent researcher in ultra-high-energy gamma-ray astronomy</strong>.</div><div><br></div><div>The scientific activities of the DPhP cover the study of elementary constituents at the highest energies in colliders, neutrino physics, gamma-ray astronomy, cosmology, the study of gravitational waves, and upstream instrumentation.</div><div><br></div><div>In the field of ultra-high-energy gamma-ray astronomy, the department studies the most extreme phenomena in the Universe and searches for dark matter using arrays of ground-based Cherenkov telescopes. It exploits data from the H.E.S.S. experiment, in particular for the study of the galactic center, a key region for the search for dark matter particles, the analysis of diffuse emissions, and the exploration of new theories. The department also plays a major role in the scientific and instrumental preparation of the future CTA observatory. It is responsible for the NectarCAM cameras for medium-sized telescopes and the design and qualification of the associated mirrors. The next five years will be marked by an intense phase of installation and commissioning of telescopes in Chile (scheduled for fall 2026) and the Canary Islands, in preparation for the subsequent exploitation of the data.</div><div><br></div><div>We are looking for motivated candidates with a PhD in fundamental physics, experimental physicists of an excellent scientific level, who wish to join the department's Gamma Astronomy group. The skills sought relate to data analysis and interpretation, understanding of issues in gamma-ray astronomy, and instrumental knowledge to enable a strong contribution to the installation and commissioning of CTA telescopes, in particular NectarCAM.&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>The application file must contain:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a curriculum vitae;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a photocopy of your identity card or passport;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a cover letter;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's past scientific activity <em>(maximum 4 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's future research project <em>(maximum 3 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of publications and internal notes highlighting the candidate's personal contributions. The most significant ones (<em>maximum 3</em>) should be attached;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of presentations at conferences, workshops, and seminars;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 letters of recommendation (<em>to be sent </em><strong><em>directly </em></strong><em>to the DPhP secretariat</em>);</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 or 3 names of people who can be contacted for reference.</div><div>&nbsp;</div><div>This file in PDF format must be received in full by <strong>March 13, 2026,</strong> at the latest, at the following address:<a href=\"mailto:Irfu-dphp-contact@cea.fr\"><strong> Irfu-dphp-contact@cea.fr</strong></a></div><div>&nbsp;</div><div>After a preliminary selection based on applications, scheduled for April 2026, successful candidates will be interviewed <strong>in May 2026.</strong></div><div>For further information, please do not hesitate to contact us by telephone on +33 (1) 69 08 23 50 or by email at the department secretariat: <a href=\"mailto:Sarra.Bounab@cea.fr\">Sarra.Bounab@cea.fr</a> .</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CTA"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-19T14:29:03.740469+00:00",
+      "updated": "2026-01-20T16:29:57.421514+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3109046",
+      "title": "Postdoctoral position",
+      "institution": "SUBATECH, Nantes",
+      "deadline": "2026-02-13",
+      "description": "<div>This postdoctoral position is part of the project 'First Per Mille Precision and 5σ Neutrino Mass Ordering Determination with JUNO'&nbsp;funded by the French National Research Agency (ANR) with support from CNRS/IN2P3.</div><div>&nbsp;The successful candidate will contribute to strengthening JUNO dual-calorimetry exploitation and its high precision neutrino oscillation programme. The project is coordinated by F. Yermia within Subatech (M. Ronsard (PhD), H. Yacine (PhD), M. Bongrand, B. Viaud, F. Yermia) in collaboration with IJCLAB (A. Cabrera, Y. Han).</div><div>This recruitment follows the usual practice within the JUNO collaboration, and our teams are actively involved in the JUNO analysis group B. The postdoctoral researcher will therefore naturally integrate into the ongoing activities of the collaboration.</div><div><br></div><div>The full job description and application procedure are available at:</div><div><a href=\"https://euraxess.ec.europa.eu/jobs/392632\">https://euraxess.ec.europa.eu/jobs/392632</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "JUNO"
+      ],
+      "urls": [
+        "https://euraxess.ec.europa.eu/jobs/392632"
+      ],
+      "contact_email": null,
+      "created": "2026-01-20T01:37:30.661367+00:00",
+      "updated": "2026-01-20T16:28:34.185883+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3108769",
+      "title": "Physicist in observational Cosmology",
+      "institution": "IRFU, Saclay, DPP",
+      "deadline": "2026-03-13",
+      "description": "<div>The Particle Physics Department (DPhP) of the Institute for Research on the Fundamental Laws of the Universe (IRFU) at CEA Paris-Saclay is inviting applications for the recruitment in 2026 of a <strong>permanent researcher in observational cosmology</strong>.</div><div><br></div><div>The scientific activities of the DPhP cover the study of elementary constituents at the highest energies in colliders, neutrino physics, gamma-ray astronomy, cosmology, the study of gravitational waves, and upstream instrumentation.</div><div><br></div><div>The DPhP studies the formation of large structures in the Universe using large spectroscopic surveys of galaxies and quasars, notably DESI, to which it makes major contributions, both instrumentally and scientifically. The DPhP plays a central role in the analysis of DESI data at all levels, from the production of catalogs to cosmological interpretations, with a particular focus on the study of density effects, the measurement of neutrino mass, and primordial non-Gaussianities. It is also interested in the application of AI methods to the analysis of galaxy surveys. Several researchers specialize in the study of the \"Lyman-alpha forest\" of quasars, a highly effective method for mapping the Universe at very early stages. The DPhP is also involved in preparing for future large surveys.</div><div><br></div><div>We are looking for motivated candidates with a PhD in fundamental physics, demonstrating creative ability in the field of observational cosmology with strong expertise in large-scale structures of the Universe, who wish to join the department's Cosmology</div><div>group.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>The application file must contain:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a curriculum vitae;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a photocopy of your identity card or passport;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a cover letter;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's past scientific activity <em>(maximum 4 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's future research project <em>(maximum 3 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of publications and internal notes highlighting the candidate's personal contributions. The most significant ones (<em>maximum 3</em>) should be attached;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of presentations at conferences, workshops, and seminars;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 letters of recommendation (<em>to be sent </em><strong><em>directly </em></strong><em>to the DPhP secretariat</em>);</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 or 3 names of people who can be contacted for reference.</div><div>&nbsp;</div><div>This file in PDF format must be received in full by <strong>March 13, 2026,</strong> at the latest, at the following address:<a href=\"mailto:Irfu-dphp-contact@cea.fr\"><strong> Irfu-dphp-contact@cea.fr</strong></a></div><div>&nbsp;</div><div>After a preliminary selection based on applications, scheduled for April 2026, successful candidates will be interviewed <strong>in May 2026.</strong></div><div>For further information, please do not hesitate to contact us by telephone on +33 (1) 69 08 23 50 or by email at the department secretariat: <a href=\"mailto:Sarra.Bounab@cea.fr\">Sarra.Bounab@cea.fr</a> .</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "DESI"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-19T14:32:09.749947+00:00",
+      "updated": "2026-01-20T16:26:00.820498+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3108771",
+      "title": "Physicist in High Energy Physics at colliders",
+      "institution": "IRFU, Saclay, DPP",
+      "deadline": "2026-04-07",
+      "description": "<div>The Particle Physics Department (DPhP) of the Institute for Research on the Fundamental Laws of the Universe (IRFU) at CEA Paris-Saclay is inviting applications for the recruitment in 2026 of <strong>two permanent researchers in high-energy particle physics at colliders, one to join the ATLAS group and the other to join the CMS group</strong>.</div><div><br></div><div>The scientific activities of the DPhP cover the study of elementary constituents at the highest energies at colliders, neutrino physics, gamma-ray astronomy, cosmology, the study of gravitational waves, and upstream instrumentation.</div><div><br></div><div>The DPhP has a long history in particle physics at colliders and has contributed significantly to the ATLAS and CMS experiments since their inception. The department's physicists are involved in analyses of Higgs boson, top quark, and electroweak physics, in the upgrading of the two detectors for the high-luminosity phase of the LHC, an activity that will be particularly intense during LS3, and in the preparation of longer-term experiments at future colliders.</div><div><br></div><div>We are looking for motivated candidates with a PhD in particle physics, experimental physicists of excellent scientific level, who wish to join the ATLAS or CMS groups. The skills sought relate to data analysis and interpretation and an understanding of the challenges in high-energy physics. Instrumental knowledge and a willingness to invest in detector upgrades and instrumental developments for future detectors are required.</div><div><br></div><div>Candidates may apply for the position within the ATLAS group or for the position within the CMS group, or even for both positions. In the latter case, a description of the future research project for each position is expected.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>The application file must contain:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a curriculum vitae;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a photocopy of your identity card or passport;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a cover letter;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's past scientific activity <em>(maximum 4 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a description of the candidate's future research project <em>(maximum 3 pages)</em>;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of publications and internal notes highlighting the candidate's personal contributions. The most significant ones (<em>maximum 3</em>) should be attached;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a list of presentations at conferences, workshops, and seminars;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 letters of recommendation (<em>to be sent </em><strong><em>directly </em></strong><em>to the DPhP secretariat</em>);</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 or 3 names of people who can be contacted for references.</div><div>&nbsp;</div><div>This file in PDF format must be received in full by <strong>April 7, 2026,</strong> at the latest, at the following address:<a href=\"mailto:Irfu-dphp-contact@cea.fr\"><strong> Irfu-dphp-contact@cea.fr</strong></a></div><div>&nbsp;</div><div>After a preliminary selection based on applications, scheduled for the end of May 2026, successful candidates will be interviewed <strong>at the end of June or beginning of July 2026.</strong></div><div>For further information, please do not hesitate to contact us by telephone on +33 (1) 69 08 23 50 or by email at the department secretariat: <a href=\"mailto:Sarra.Bounab@cea.fr\">Sarra.Bounab@cea.fr</a> .</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-19T14:39:03.211354+00:00",
+      "updated": "2026-01-20T16:24:49.316829+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3109055",
+      "title": "Postdoctoral Position in Experimental Neutrino Physics",
+      "institution": "NTU, Taiwan",
+      "deadline": "2026-08-31",
+      "description": "<div><strong>Postdoctoral Position in Experimental Neutrino Physics</strong></div><div>The Experimental Neutrino Physics Group at National Taiwan University (NTU) invites applications for a postdoctoral research position focusing on the LEGEND experiment. LEGEND seeks to uncover the nature of neutrinos and measure the effective Majorana neutrino mass by observing the rare neutrinoless double beta decay in 76Ge. As a two-phase project based at the Gran Sasso National Laboratory in Italy, LEGEND employs enriched high-purity germanium (HPGe) diodes both as the decay source and as signal detectors, achieving exceptional detection efficiency. The detectors are immersed in liquid argon (LAr), which also functions as an active veto system to identify the rare decay events while minimizing background noise.</div><div>At NTU, our group is developing an on-site LAr facility within the department to study next-generation wavelength-shifting materials and investigate HPGe detector characteristics in&nbsp;cryogenic environments. The successful candidate will be responsible for all aspects of this facility, from design and setup to operation.</div><div><br></div><div><strong>Qualifications:</strong></div><div>·&nbsp;&nbsp;A recent PhD in experimental nuclear, particle, atomic, or accelerator physics. Candidates expecting to complete their PhD within three months are also encouraged to apply.</div><div>·&nbsp;&nbsp;Knowledge of neutrino physics and several years of graduate-level hardware experience in one of the above fields.&nbsp;</div><div>·&nbsp;&nbsp;Experience with cryogenic systems, optical sensors (e.g., silicon photomultipliers), Ge detectors, low-background counting, statistical data analyses, and Monte Carlo simulations is highly advantageous.</div><div><br></div><div><strong>Applications process:</strong></div><div>Please submit your application by email to Asst. Prof. Dr. Pin-Jung Chiu at <a href=\"mailto:pin-jung.chiu@phys.ntu.edu.tw?subject=Application%20for%20the%20Postdoctoral%20position%20\">pin-jung.chiu@phys.ntu.edu.tw</a>, including the following documents:</div><div>·&nbsp;&nbsp;Cover letter</div><div>·&nbsp;&nbsp;Statement of research experience and interests</div><div>·&nbsp;&nbsp;Detailed curriculum vitae, including a list of publications</div><div>·&nbsp;&nbsp;Copies of final university degree certificates</div><div>Additionally, please arrange for two letters of recommendation to be sent to the same address. Applications will be reviewed on a rolling basis until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics"
+      ],
+      "experiments": [
+        "LEGEND"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-20T09:28:43.552935+00:00",
+      "updated": "2026-01-20T16:11:53.893437+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
+      "id": "3109109",
+      "title": "PhD position in AI-driven inference for gravitational-wave cosmology (LISA)",
+      "institution": "U. Amsterdam, GRAPPA",
+      "deadline": "2026-02-15",
+      "description": "<div>We are inviting applications for one PhD position in gravitational-wave cosmology and AI-driven data analysis to join the research group of Dr. Christoph Weniger at the University of Amsterdam, within the GRAPPA Center of Excellence. GRAPPA is an internationally recognized research hub in gravitation, astroparticle physics, and cosmology, with strong involvement in the LISA mission and broad expertise in gravitational waves, cosmology, and modern data-analysis methods.</div><div><br></div><div>The PhD project is centered on the analysis of data from the Laser Interferometer Space Antenna (LISA) and aims to develop advanced, AI-driven inference methods for next-generation gravitational-wave astronomy. Key scientific challenges include the global inference of large populations of overlapping gravitational-wave sources and stochastic backgrounds, and the extraction of cosmological and fundamental-physics information from LISA’s rich data stream. The project will focus in particular on simulation-based inference (SBI) and related deep-learning approaches, developed in a complementary way to existing likelihood-based and pipeline-driven methods for LISA data analysis.</div><div><br></div><div>The successful candidate will work on sequential, hierarchical, and population-level inference methods for LISA data, with applications to early-Universe physics, dark matter, dark energy, and inflationary processes. The admitted doctoral student will be part of an active, collaborative research environment and will work in close interaction with an international network of gravitational-wave theorists, machine-learning and AI researchers, and members of the LISA data-analysis community.</div><div><br></div><div>We are looking for highly motivated candidates with a strong background in physics, astronomy, or a closely related field, and a genuine interest in gravitational-wave physics, cosmology, and modern data-analysis methods. Experience with scientific programming and numerical methods is an advantage. Prior experience with machine learning, deep learning, or simulation-based inference is an advantage but not mandatory.</div><div><br></div><div>The position is a fully funded four-year PhD programme leading to a doctoral degree. The preferred starting date is fall 2026.</div><div><br></div><div>For further details and the application link, please visit the official University of Amsterdam vacancy page (<a href=\"https://werkenbij.uva.nl/en/vacancies/phd-position-in-ai-driven-inference-for-gravitational-wave-cosmology-with-lisa-netherlands-14735\">CLICK HERE</a>). Candidates are welcome to contact Christoph Weniger for further enquiries.</div><div><br></div><div><strong>Application deadline:</strong>&nbsp;15 February 2026</div><div><strong>Contact</strong>: Christoph Weniger &lt;c.weniger@uva.nl&gt;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "stat",
+        "cs"
+      ],
+      "experiments": [
+        "LISA"
+      ],
+      "urls": [
+        "https://werkenbij.uva.nl/en/vacancies/phd-position-in-ai-driven-inference-for-gravitational-wave-cosmology-with-lisa-netherlands-14735"
+      ],
+      "contact_email": null,
+      "created": "2026-01-20T15:24:37.457041+00:00",
+      "updated": "2026-01-20T16:07:50.872657+00:00",
+      "addedAt": "2026-01-21T08:05:35.088Z",
+      "isNew": true
+    },
+    {
       "id": "3105643",
       "title": "Postdoctoral Scholar Position in Experimental High Energy Physics",
       "institution": "UC, Irvine (main)",
@@ -2897,6 +3157,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-20T08:05:28.636Z",
-  "totalJobs": 108
+  "lastUpdated": "2026-01-21T08:05:35.089Z",
+  "totalJobs": 118
 }
