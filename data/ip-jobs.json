@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3109693",
+      "title": "The Ray Laflamme Early Career Chair in Quantum Computing and Quantum Information",
+      "institution": "Perimeter Inst. Theor. Phys.",
+      "deadline": "2026-02-19",
+      "description": "<div><strong>Perimeter Institute</strong> invites applications for the Ray Laflamme Early Career Chair in Quantum Computing and Quantum Information. This is a tenure-track faculty position (a rank equivalent to the level of assistant professor) in quantum information science. We welcome applications from outstanding individuals working on various fundamental aspects of quantum information and computing. The successful applicant will collaborate closely across Perimeter’s quantum information research and related areas - such as quantum matter, quantum foundations, quantum fields and strings, particle physics, and mathematical physics - helping to foster interdisciplinary connections and advance joint initiatives.&nbsp;</div><div>&nbsp;</div><div>The <strong>Ray Laflamme Early Career Chair in Quantum Computing and Quantum Information</strong> stands as a testament to Perimeter Institute’s commitment to pioneering research and leadership in quantum science. Established through the generous support of major donors, this Chair honors Ray Laflamme - one of Perimeter’s founding faculty members, a visionary leader, and a driving force behind transformative advances in quantum technologies. Laflamme’s groundbreaking discoveries – ranging from his pivotal work with Stephen Hawking in gravity and cosmology to his foundational contributions to quantum computing – have left an indelible mark on Perimeter’s community and continue to inspire the evolution of theoretical physics and quantum technologies in Canada and worldwide.&nbsp;</div><div>&nbsp;</div><div>Visit our website to learn more about&nbsp;<a href=\"https://perimeterinstitute.ca/news/perimeter-institute-mourns-passing-quantum-computing-pioneer-raymond-laflamme\"><strong>Ray Laflamme</strong></a>&nbsp;and his research legacy.&nbsp;</div><div><br></div><div>Perimeter Institute is a leading global centre for fundamental research in theoretical physics. The Institute offers an exceptional research environment and is currently staffed with 28 Research Faculty, 19 Research Associate Faculty, and more than 150 Postdoctoral Researchers and Graduate Students. The Institute’s very active visitor, seminar, conference, and workshop programs attract over 1,800 visitors each year. Perimeter’s research efforts include quantum matter, cosmology, mathematical physics, quantum fields and strings, quantum foundations, quantum gravity, quantum information, strong gravity, and particle physics.&nbsp;&nbsp;</div><div><br></div><div>The new faculty member will benefit from other efforts at Perimeter such as the <a href=\"https://perimeterinstitute.ca/clay-riddell-centre-quantum-matter\"><strong>Clay Riddell Centre for Quantum Matter</strong></a>&nbsp;and the&nbsp;<a href=\"https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil\"><strong>Perimeter Institute Quantum Intelligence Lab</strong></a>, as well as nearby institutions including the&nbsp;<a href=\"https://uwaterloo.ca/institute-for-quantum-computing/\"><strong>Institute for Quantum Computing</strong></a>&nbsp;at the University of Waterloo, which is a short walk from Perimeter.&nbsp;&nbsp;</div><div><br></div><div>The successful candidate must hold a PhD in theoretical physics or a closely related field as well as postdoctoral experience and must have demonstrated exceptional strength in independent research. The starting annual salary for this position ranges from $150,000 to $160,000 CDN. Annual salary increases are determined by performance and contributions to the organization. Perimeter’s compensation philosophy emphasizes fairness and transparency, ensuring alignment with both internal equity and external market benchmarks. Salary ranges are regularly reviewed and updated to remain competitive and equitable.&nbsp;</div><div><br></div><div>The effective date of appointment is&nbsp;<strong>September 1, 2026</strong>, or another mutually agreed-upon date in 2026.&nbsp;</div><div>Interested candidates are asked to submit their curriculum vitae, list of publications and a research statement.&nbsp;They must also arrange to have at least three (3) letters of recommendation submitted, following the instructions provided on the application page.&nbsp;</div><div><br></div><div>Consideration of applications will begin on <strong>February 19, 2026</strong>. Applications will be accepted until the position is filled.&nbsp;</div><div>All qualified candidates are encouraged to apply; however, Canadian citizens and permanent residents will be given priority. Perimeter Institute is committed to diversity within its community and especially welcomes applications from racialized persons, women, Indigenous/Aboriginal People of North America, persons with disabilities, LGBTQ2S+ persons, and others who may contribute to the further diversification of ideas.&nbsp;</div><div><br></div><div>Perimeter Institute provides support throughout the application process for applicants with disabilities. We work with you to understand the impact of your disability to appropriately accommodate you during the application/interview process. Please contact&nbsp;<a href=\"mailto:accessibility@perimeterinstitute.ca\"><strong>accessibility@perimeterinstitute.ca</strong></a>&nbsp;for assistance.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "physics",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31435"
+      ],
+      "contact_email": null,
+      "created": "2026-01-21T16:09:44.796302+00:00",
+      "updated": "2026-01-21T17:19:25.788542+00:00",
+      "addedAt": "2026-01-22T08:05:24.172Z",
+      "isNew": true
+    },
+    {
       "id": "3108692",
       "title": "Postdoc position on Belle II experiment",
       "institution": "Fudan U., Shanghai",
@@ -23,7 +51,7 @@
       "created": "2026-01-19T09:38:28.905729+00:00",
       "updated": "2026-01-20T16:45:41.964956+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108770",
@@ -48,7 +76,7 @@
       "created": "2026-01-19T14:36:45.495728+00:00",
       "updated": "2026-01-20T16:42:32.048817+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108508",
@@ -75,7 +103,7 @@
       "created": "2026-01-19T03:39:02.562260+00:00",
       "updated": "2026-01-20T16:34:29.604519+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108696",
@@ -100,7 +128,7 @@
       "created": "2026-01-19T11:01:48.812918+00:00",
       "updated": "2026-01-20T16:32:11.668569+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108768",
@@ -125,7 +153,7 @@
       "created": "2026-01-19T14:29:03.740469+00:00",
       "updated": "2026-01-20T16:29:57.421514+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3109046",
@@ -152,7 +180,7 @@
       "created": "2026-01-20T01:37:30.661367+00:00",
       "updated": "2026-01-20T16:28:34.185883+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108769",
@@ -177,7 +205,7 @@
       "created": "2026-01-19T14:32:09.749947+00:00",
       "updated": "2026-01-20T16:26:00.820498+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108771",
@@ -202,7 +230,7 @@
       "created": "2026-01-19T14:39:03.211354+00:00",
       "updated": "2026-01-20T16:24:49.316829+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3109055",
@@ -229,7 +257,7 @@
       "created": "2026-01-20T09:28:43.552935+00:00",
       "updated": "2026-01-20T16:11:53.893437+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3109109",
@@ -258,7 +286,7 @@
       "created": "2026-01-20T15:24:37.457041+00:00",
       "updated": "2026-01-20T16:07:50.872657+00:00",
       "addedAt": "2026-01-21T08:05:35.088Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3105643",
@@ -3157,6 +3185,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-21T08:05:35.089Z",
-  "totalJobs": 118
+  "lastUpdated": "2026-01-22T08:05:24.172Z",
+  "totalJobs": 119
 }
