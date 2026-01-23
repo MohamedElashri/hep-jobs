@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3110406",
+      "title": "PhD position in experimental particle physics",
+      "institution": "Eotvos U., Dept. Atomic Phys.",
+      "deadline": "2026-02-15",
+      "description": "<div>We are looking for a highly motivated student to join our LHCb/CODEX-b group working on flavor and dark sector physics. The position is open only for EU nationality students due to tuition benefit constraints, and includes a competitive salary and additional research funds for CERN travel.</div><div><br></div><div>Our priority is someone with prior hardware experience in a hep-ex/nucl-ex setting. The ELTE group is involved in Upgrade of the the LHCb ECal with R&amp;D in readout of the new radiation-hard modules with fast PMTs. Experience in handling HV/LV sources, electronics, picosecond pulsed lasers, PMTs and DAQ is welcome.</div><div><br></div><div>We will also consider excellent candidates to work on physics data analysis and software development such as ML algorithms for neutral particle identification.</div><div><br></div><div>The ideal candidate should be about to receive an MSc by summer 2026. A CV + motivation letter should be sent to biplab.dey@cern.ch. Please arrange for two letters of recommendation to be sent directly to this address as well.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb",
+        "CODEX-b"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-22T20:42:41.921708+00:00",
+      "updated": "2026-01-23T02:32:54.652199+00:00",
+      "addedAt": "2026-01-23T08:05:08.038Z",
+      "isNew": true
+    },
+    {
+      "id": "3110099",
+      "title": "PhD Position in Experimental Particle Physics (CMS Experiment at CERN)",
+      "institution": "Natl. Tech. U., Athens",
+      "deadline": "2026-03-31",
+      "description": "<div>The Particle Physics Group of the School of Applied Mathematics and Physical Sciences at the National Technical University of Athens (NTUA) invites applications for one PhD student position in Experimental Particle Physics, within the CMS experiment at CERN. The position is available to Greek nationals only.</div><div><br></div><div>The successful candidate will be expected to perform data analysis related to the study of Higgs boson properties beyond the Standard Model, with particular emphasis on the development and implementation of advanced techniques based on Machine Learning methods. The research project will include the design and deployment of algorithms at the CMS Level-1 Trigger, their implementation on programmable logic devices (FPGAs), and the exploitation of the state-of-the-art capabilities of the CMS data acquisition system, as well as the upgrades of the CMS Hadron Calorimeter.</div><div><br></div><div>Applicants are expected to hold a Master’s degree (or equivalent qualification) in Physics or a closely related field. Essential qualifications include strong motivation for fundamental research and a solid background in Particle Physics. Experience in data analysis, Machine Learning, programming (particularly in FPGA-based environments), and/or particle detectors will be considered an asset.</div><div><br></div><div>Applicants should prepare a motivation letter, CV, scans of the higher institution grade records, and contact information of two referees willing to write a recommendation upon request. The application material should be sent to Prof Georgia Karapostoli&nbsp;by the deadline of March 31, 2026.</div><div><br></div><div><strong>Contact Details:</strong></div><div>Prof. Georgia Karapostoli</div><div>School of Applied Mathematical and Physical Sciences, Physics Building, Office 214</div><div>Tel.: +30 210 772 3016, e-mail: georgia.karapostoli@cern.ch</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-22T11:01:26.767057+00:00",
+      "updated": "2026-01-22T21:45:10.194406+00:00",
+      "addedAt": "2026-01-23T08:05:08.038Z",
+      "isNew": true
+    },
+    {
       "id": "3109693",
       "title": "The Ray Laflamme Early Career Chair in Quantum Computing and Quantum Information",
       "institution": "Perimeter Inst. Theor. Phys.",
@@ -26,7 +77,7 @@
       "created": "2026-01-21T16:09:44.796302+00:00",
       "updated": "2026-01-21T17:19:25.788542+00:00",
       "addedAt": "2026-01-22T08:05:24.172Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3108692",
@@ -3185,6 +3236,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-22T08:05:24.172Z",
-  "totalJobs": 119
+  "lastUpdated": "2026-01-23T08:05:08.038Z",
+  "totalJobs": 121
 }
