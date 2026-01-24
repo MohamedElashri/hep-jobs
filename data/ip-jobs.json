@@ -1,6 +1,117 @@
 {
   "jobs": [
     {
+      "id": "3110635",
+      "title": "Postdoctoral Scholar - ATLAS",
+      "institution": "Chicago U., EFI",
+      "deadline": "2026-03-31",
+      "description": "<div>The Enrico Fermi Institute at the University of Chicago invites applications for a postdoctoral researcher to be associated with the ATLAS Experiment at the Large Hadron Collider.&nbsp;</div><div><br></div><div>The UChicago ATLAS group carries out a diverse physics program, plays a central role in several upgrades to the experiment, and is actively involved in Run 3 operations. The successful candidate will be expected to lead innovative searches for beyond the Standard Model physics and to make significant contributions to silicon pixel detector development. Opportunities also exist to participate in R&amp;D for a future Muon Collider. The postdoc will work closely with graduate and undergraduate students and will be primarily based at CERN. This position can begin as early as Spring 2026.&nbsp;</div><div><br></div><div>Applicants should have a PhD in experimental particle physics, a strong record of accomplishments in physics analysis, and be highly motivated to work on cutting edge instrumentation.&nbsp;</div><div><br></div><div>The appointment will be at the internal University rank of Postdoctoral Scholar, which is open to individuals who are less than seven years beyond attainment of the Ph.D. degree. Priority will be given to those candidates who received their Ph.D. in 2022 or later. There are no teaching responsibilities associated with this position. The salary range for this position is $65,000-$75,000. This position is benefits-eligible. For information on benefits, please consult:&nbsp;<a href=\"https://clients.garnett-powers.com/pd/uchicago/\"><strong>https://clients.garnett-powers.com/pd/uchicago/.</strong></a>&nbsp;Additional terms can be found at <a href=\"https://postdocs.uchicago.edu/postdocmanual/\"><strong>https://postdocs.uchicago.edu/postdocmanual/</strong></a>.&nbsp;</div><div><br></div><div>A cover letter, CV, list of publications, and a statement describing past experience and future interests must be submitted through <a href=\"https://academicjobsonline.org/ajo/jobs/31317\">Academic Jobs Online</a>. The names and contact information for three or more individuals who will provide letters of recommendation are also required.</div><div><br></div><div>Review of applications will begin on January 23, 2026 and continue until the position is filled. Please contact Prof. Karri Folan DiPetrillo at <a href=\"mailto:karri@uchicago.edu\"><strong>karri@uchicago.edu</strong></a> with any questions.&nbsp;</div><div><br></div><div>The University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination at <a href=\"https://www.uchicago.edu/non-discrimination\"><strong>https://www.uchicago.edu/non-discrimination</strong></a>.</div><div><br></div><div>Job seekers in need of a reasonable accommodation to complete the application process should call 773-834-3988 or email <a href=\"mailto:equalopportunity@uchicago.edu\"><strong>equalopportunity@uchicago.edu</strong></a> with their request.</div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31317"
+      ],
+      "contact_email": null,
+      "created": "2026-01-23T13:32:31.770701+00:00",
+      "updated": "2026-01-23T15:56:58.911748+00:00",
+      "addedAt": "2026-01-24T08:04:06.228Z",
+      "isNew": true
+    },
+    {
+      "id": "3110412",
+      "title": "Lecturer in Physics (Dual Appointment: 50% King’s College London (UK) and 50% The Institute of Particle and Nuclear Studies (Japan)",
+      "institution": "King's Coll. London (main)",
+      "deadline": "2026-02-19",
+      "description": "<div>The successful candidate will have the opportunity to engage with the rich research environment of both KCL and IPNS. Within KCL, they will join and contribute to research in the Experimental Particle and Astroparticle Physics (EPAP) Group in the Department of Physics. They are expected to lead a research programme in one of the international experiments the group is engaged in together with KEK.</div><div>This dual position is ideal for candidates passionate about research at the frontiers of particle and nuclear physics and seeking to influence the global scientific community through teaching, mentorship, and collaboration across institutions.</div>",
+      "regions": [
+        "Europe",
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.kcl.ac.uk/jobs/135925-dual-appointment-lecturer-in-physics"
+      ],
+      "contact_email": null,
+      "created": "2026-01-23T01:00:30.206480+00:00",
+      "updated": "2026-01-23T15:50:12.091866+00:00",
+      "addedAt": "2026-01-24T08:04:06.228Z",
+      "isNew": true
+    },
+    {
+      "id": "3110636",
+      "title": "Lecturer in Physics (Joint KCL/KEK Appointment)",
+      "institution": "King's Coll. London (main)",
+      "deadline": "2026-02-19",
+      "description": "<div>King’s College London (KCL) and The Institute of Particle and Nuclear Studies (KEK/IPNS) invite applications for a unique dual appointment Lectureship in Physics.</div><div>This is an exceptional opportunity designed to bridge research activities between the UK and Japan across two leading international institutions.</div><div>The position is initially split 50/50 between KCL based in London and KEK based in Japan for a period of five years. <strong>Crucially, after this five-year period, the post holder will be employed 100% as a permanent Lecturer in Physics based at King’s College London.</strong></div><div>For the full job description, person specifications, and details on how to apply, please visit the official King's College London application portal via the URL provided in this listing.</div>",
+      "regions": [
+        "Europe",
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "HYPER-KAMIOKANDE"
+      ],
+      "urls": [
+        "https://www.kcl.ac.uk/jobs/135925-dual-appointment-lecturer-in-physics"
+      ],
+      "contact_email": null,
+      "created": "2026-01-23T13:59:28.438344+00:00",
+      "updated": "2026-01-23T15:46:18.396831+00:00",
+      "addedAt": "2026-01-24T08:04:06.228Z",
+      "isNew": true
+    },
+    {
+      "id": "3110638",
+      "title": "PhD Position in Neutrino Physics with DUNE",
+      "institution": "Mainz U., Inst. Phys.",
+      "deadline": "2026-02-28",
+      "description": "<div>&nbsp;</div><div>The above position at the Institute of Physics at the Johannes Gutenberg-University (JGU), Mainz is to be filled as soon as possible. The institute hosts several experimental and theoretical working groups; the position is assigned to Prof. Alfons Weber as part of the working group ‘Experimental Particle and Astroparticle Physics’.</div><div>&nbsp;</div><div>Prof. Weber working on DUNE to investigate neutrino interaction physics and CP-violation in the lepton sector. The PhD candidates' work will include optimizing the detector design, contributing to the detector construction and developing methods to measure cross sections and oscillation parameters using the DUNE-PRISM concept (a system to move the DUNE near detectors off the neutrino beam axis).</div><div>&nbsp;</div><div>For more information contact Prof. Alfons Weber (<a href=\"mailto:a.weber@uni-mainz.de\">a.weber@uni-mainz.de</a>).</div><div>&nbsp;</div><div>Prof. Weber’s group is part of the cluster of excellence PRISMA++ (“Precision Physics, Fundamental Interactions and Structure of Matter”), dedicated to exploring key questions of the fundamental constituents of matter and its cosmological implications. Aside from DUNE, the institute is involved in other neutrino physics and particle detector endeavours like T2K, IceCube, JUNO, Project 8, NuDoubt++ and the EIC funded AM-OTech project. The department is strongly involved in several activities in high energy physics (ATLAS, NA62, SHiP), dark matter searches (XENONnT, XLCD, MAGIX, DarkMESA and CASPEr), and detector R&amp;D. All activities are supported by a well-equipped detector development laboratory and the two local electron accelerators at the JGU.</div><div>&nbsp;</div><div>The successful applicants are expected to</div><ul><li>have a master’s degree and a good knowledge of particle physics,</li><li>be able to work independently and as part of an international team,&nbsp;</li><li>be able to travel internationally and to attend (online) meetings outside usual working hours, and</li><li>be proficient in English.</li></ul><div>It will be advantageous to have</div><ul><li>hardware, programming, and/or data analysis experience, and</li><li>prior knowledge of neutrino physics.</li></ul><div>Johannes Gutenberg-University Mainz is aiming to increase the number of women among its scientific personnel and thus encourages women to apply. We have a diverse working group and recognize the strength in tapping into the largest pool of talent. We therefore encourage people to apply irrespective of sex, gender, race, age, nationality, or sexual orientation. Disabled applicants will be given preference, if equally qualified.</div><div>&nbsp;</div><div>Application for this position is via the PhD call of the Mainz Physics Academy. Please refer to DUNE in your application. Details on how to apply can be found at <a href=\"https://prisma.uni-mainz.de/phd-fellowship-programm/\">https://prisma.uni-mainz.de/phd-fellowship-programm/</a>.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE"
+      ],
+      "urls": [
+        "https://prisma.uni-mainz.de/en/phd-fellowship-program/"
+      ],
+      "contact_email": null,
+      "created": "2026-01-23T14:57:01.164808+00:00",
+      "updated": "2026-01-23T15:44:29.610768+00:00",
+      "addedAt": "2026-01-24T08:04:06.228Z",
+      "isNew": true
+    },
+    {
       "id": "3110406",
       "title": "PhD position in experimental particle physics",
       "institution": "Eotvos U., Dept. Atomic Phys.",
@@ -24,7 +135,7 @@
       "created": "2026-01-22T20:42:41.921708+00:00",
       "updated": "2026-01-23T02:32:54.652199+00:00",
       "addedAt": "2026-01-23T08:05:08.038Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3110099",
@@ -49,7 +160,7 @@
       "created": "2026-01-22T11:01:26.767057+00:00",
       "updated": "2026-01-22T21:45:10.194406+00:00",
       "addedAt": "2026-01-23T08:05:08.038Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3109693",
@@ -3236,6 +3347,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-23T08:05:08.038Z",
-  "totalJobs": 121
+  "lastUpdated": "2026-01-24T08:04:06.229Z",
+  "totalJobs": 125
 }
