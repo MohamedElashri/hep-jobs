@@ -1,6 +1,63 @@
 {
   "jobs": [
     {
+      "id": "3111323",
+      "title": "Postdoctoral Researcher in LUX-ZEPLIN (LZ) Dark Matter Experiment and detector R&D",
+      "institution": "Penn State U., University Park (main)",
+      "deadline": "2026-02-28",
+      "description": "<div>The Eberly College of Science, Department of Physics at The Pennsylvania State University is seeking to fill one Postdoctoral Researcher position to&nbsp;work on the LUX-ZEPLIN (LZ) dark matter experiment and detector R&amp;D.&nbsp;The successful candidate is expected to play a strong role in the LZ data analysis, mentor graduate and undergraduate students in the&nbsp;group, and work on R&amp;D for the next generation of dark matter detectors at Penn State.&nbsp;</div><div><br></div><div>Requirements include a Ph.D. in Physics, and the ideal candidate should have experience with experimental particle astrophysics or a related field, and previous experience in direct dark matter searches and/or noble liquid detectors will be an advantage. <strong>Applications must be submitted electronically at</strong>&nbsp;<a href=\"https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--LUX-ZEPLIN--LZ--Dark-Matter-Experiment_REQ_0000074880-1\">https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--LUX-ZEPLIN--LZ--Dark-Matter-Experiment_REQ_0000074880-1</a> and include a cover letter, CV and statement of research interests. Applicants should arrange for three reference letters to be submitted to&nbsp;<a href=\"mailto:carmona@psu.edu\">carmona@psu.edu</a>&nbsp;indicating the appropriate job number in the subject line. Applications will be reviewed on an ongoing basis until the position is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph",
+        "physics.ins-det",
+        "physics"
+      ],
+      "experiments": [
+        "LZ"
+      ],
+      "urls": [
+        "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--LUX-ZEPLIN--LZ--Dark-Matter-Experiment_REQ_0000074880-1"
+      ],
+      "contact_email": null,
+      "created": "2026-01-26T20:19:00.855813+00:00",
+      "updated": "2026-01-26T21:00:31.012387+00:00",
+      "addedAt": "2026-01-27T08:05:28.013Z",
+      "isNew": true
+    },
+    {
+      "id": "3110749",
+      "title": "Post-Doc in ATLAS Experiment",
+      "institution": "Ohio State U., Columbus (main)",
+      "deadline": "2026-02-06",
+      "description": "<div>The Experimental High Energy Physics ATLAS group within the Department of Physics, College of Arts and Sciences, invites applications for a Post Doctoral Scholar position that can be based either at CERN in Geneva, Switzerland, or at The Ohio State University. A candidate in residence at Ohio State would have the opportunity to participate in detector research and development projects.</div><div><br></div><div>The group is presently involved in several experimental high energy physics analysis and hardware efforts associated with the ATLAS experiment at CERN. Analysis projects include studies of di-Higgs production, searches for long-lived particles, and searches for dark matter. Hardware projects include research and development in radiation-hard and high-speed wireless communication, high-level trigger systems, and diamond detectors for the HL-LHC upgrade.</div><div><br></div><div>The Post Doctoral Scholar will take a leading role in one analysis project and contribute to the broader experimental program of the group. This is a term position for a fixed duration, renewable based on performance and availability of funding.</div><div><br></div><div>Required Education</div><ul><li>Doctorate (Academic) with a Major in Physics</li></ul><div>Required Qualifications</div><ul><li>Ph.D. in experimental particle physics by the time of appointment.</li><li>Demonstrated record of accomplishments in experimental particle physics.</li><li>Experience conducting independent research within a large experimental collaboration.</li></ul><div>Preferred Qualifications</div><ul><li>Experience with ATLAS or CMS experiment data analysis.</li><li>Experience with detector research and development, including radiation-hard electronics, trigger systems, or detector technologies relevant to the HL-LHC.</li><li>Experience mentoring students or contributing to collaborative research environments.</li></ul><div>Applications should include:</div><ul><li>A curriculum vitae</li><li>List of publications (can be included in the CV)</li><li>A brief description of past and proposed research (the format is flexible)</li><li>At least three letters of reference</li></ul><div>Review of applications will continue until the position is filled.</div><div><br></div><div>Please apply via:</div><div><a href=\"https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Post-Doctoral-Scholar_R143867-2\">https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Post-Doctoral-Scholar_R143867-2</a></div><div>&nbsp;</div><div><br></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Remote-Location/Post-Doctoral-Scholar_R143867-2"
+      ],
+      "contact_email": null,
+      "created": "2026-01-25T15:49:30.395474+00:00",
+      "updated": "2026-01-26T15:37:15.560760+00:00",
+      "addedAt": "2026-01-27T08:05:28.013Z",
+      "isNew": true
+    },
+    {
       "id": "3110635",
       "title": "Postdoctoral Scholar - ATLAS",
       "institution": "Chicago U., EFI",
@@ -3347,6 +3404,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-26T08:05:28.776Z",
-  "totalJobs": 125
+  "lastUpdated": "2026-01-27T08:05:28.014Z",
+  "totalJobs": 127
 }
