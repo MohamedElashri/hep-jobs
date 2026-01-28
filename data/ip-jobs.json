@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3111662",
+      "title": "PhD Position in Experimental Neutrino Physics (KM3NeT-ORCA)",
+      "institution": "Valencia U., IFIC",
+      "deadline": "2026-02-27",
+      "description": "<div>We invite applications for a 3+1 year PhD position in experimental neutrino physics in the Valencia Experimental Group of Astroparticles (VEGA) group (<a href=\"https://km3net.ific.uv.es/km3net/people/\">https://km3net.ific.uv.es</a>) at Instituto de Física Corpuscular (IFIC) to join the team by mid March 2026. The position is be funded by La Caixa Foundation “Hadronization for Neutrino Oscillation ExpeRiments (HOvER)” project lead by Dr. Júlia Tena Vidal.</div><div><br></div><div>The successful candidate will join the KM3NeT collaboration, working within the ORCA (Oscillation Research with Cosmics in the Abyss) detector, a next-generation deep-sea Cherenkov telescope designed to study neutrino oscillations and determine the neutrino mass ordering using atmospheric neutrinos, which is already taking data. The candidate will study hadronic shower production in neutrino-nucleus Monte Carlo simulations, developing a data-driven approach to quantify modelling systematic uncertainties in KM3NeT-ORCA analyses aimed at determining the neutrino mass ordering through neutrino oscillation measurements.</div><div><br></div><div>The applicant should meet the following criteria:</div><ul><li>Hold a Bachelor’s degree in Physics, and a master in particle and/or nuclear physics.&nbsp;</li><li>Experience with data analysis, Monte Carlo simulations and programming (C++, or similar) is highly desirable.</li><li>Ability to work independently and as part of a large international collaboration.</li><li>Proficiency in English (written and spoken).</li><li>Previous experience in the field of experimental particle physics will be considered an asset.&nbsp;</li></ul><div><br></div><div>Interested candidates should submit the following before the 27th of February:</div><ul><li>A curriculum vitae (CV).</li><li>Academic transcripts (Bachelor’s and Master’s).</li><li>A brief motivation letter describing research interests and relevant experience.</li><li>One recommendation letter.</li></ul><div>Applications should be sent by email to Dr. Júlia Tena Vidal<strong> (</strong><a href=\"mailto:julia.tena-vidal@ific.uv.es\">julia.tena-vidal@ific.uv.es</a><strong>)</strong>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "KM3NeT"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-27T08:44:11.192304+00:00",
+      "updated": "2026-01-27T15:54:15.764390+00:00",
+      "addedAt": "2026-01-28T08:05:25.802Z",
+      "isNew": true
+    },
+    {
+      "id": "3111842",
+      "title": "Postdoc in ML/AI for data reconstruction",
+      "institution": "NICPB, Tallinn",
+      "deadline": "2026-02-27",
+      "description": "<div>The HEP group at KBFI is seeking to hire an excellent postdoc on developing ML/AI methods for science.</div><div><br></div><div>The use-cases include event reconstruction CMS Phase 2 and FCC detectors, building towards efficient edge deployment, hardware in the loop model design and end-to-end detector design optimization. Future possibilities include collaboration with astrophysics, gravitational wave or quantum information groups and/or local startups on data-intensive problems.</div><div><br></div><div>Candidates should have a relevant PhD, and experience in at least one of the following topics: training transformer-based models on multi-terabyte datasets, Geant4 detector simulation, computationally efficient ML &amp; edge deployment, explainable or uncertainty-aware ML in science.</div><div><br></div><div>To apply, contact Joosep Pata (<a href=\"https://jpata.github.io\">https://jpata.github.io</a>) with:</div><ul><li>a link to your most relevant project, bonus points for open source / github</li><li>a recent CV with your most relevant research outputs</li><li>a brief research statement, indicating concrete opportunities &amp; gaps in the present approaches for ML/AI-based methods for science</li><li>the names of two people who could provide a recommendation upon request</li></ul><div><br></div><div>The position is based in Estonia, with opportunities for travel to relevant conferences and workshops. Estonia offers a family-friendly, low-bureaucracy environment, see more details here: <a href=\"https://workinestonia.com\">https://workinestonia.com</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "cs"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-27T12:22:22.490467+00:00",
+      "updated": "2026-01-27T15:53:37.656716+00:00",
+      "addedAt": "2026-01-28T08:05:25.802Z",
+      "isNew": true
+    },
+    {
       "id": "3111323",
       "title": "Postdoctoral Researcher in LUX-ZEPLIN (LZ) Dark Matter Experiment and detector R&D",
       "institution": "Penn State U., University Park (main)",
@@ -28,7 +79,7 @@
       "created": "2026-01-26T20:19:00.855813+00:00",
       "updated": "2026-01-26T21:00:31.012387+00:00",
       "addedAt": "2026-01-27T08:05:28.013Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3110749",
@@ -55,7 +106,7 @@
       "created": "2026-01-25T15:49:30.395474+00:00",
       "updated": "2026-01-26T15:37:15.560760+00:00",
       "addedAt": "2026-01-27T08:05:28.013Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3110635",
@@ -3404,6 +3455,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-27T08:05:28.014Z",
-  "totalJobs": 127
+  "lastUpdated": "2026-01-28T08:05:25.803Z",
+  "totalJobs": 129
 }
