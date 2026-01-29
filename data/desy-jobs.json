@@ -1,6 +1,324 @@
 {
   "jobs": [
     {
+      "id": "desy-1769674201743",
+      "title": "DESY-Fellowships in Photon Science",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": null,
+      "description": "<p class=\"intro\"><span class=\"desygroup description\"></span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. We attach particular importance to appreciative cooperation and the well-being of our DESY employees. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time and job-sharing. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a job ticket at both locations.</p>\n\t\t\t\t\t\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\"></p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates) via our application portal.</p>\n\t\t\t\t\t<p class=\"contacttails\">Please kindly submit your complete application documents including your salary expectations.\r<br />\r<br />We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSFE001/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "OTHER"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/e283494/index_ger.html"
+      ],
+      "contact_email": null,
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:10:01.744Z",
+      "updated": "2026-01-29T08:10:01.744Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-305166",
+      "title": "Ph.D. Student for dosimetry at FLASHlab@PITZ",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-12-31",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">The Photo lnjector Test Facility PITZ in Zeuthen (near Berlin) is one of the leading international groups in developments on modern photo injectors and their applications. Current R&D goals of PITZ include improving electron source brightness beyond state of the art for X-ray Free Electron Lasers as well as applications of high brightness beams e.g. for FLASH radiation therapy R&D (FLASHlab@PITZ).\r<br/>\r<br/>FLASH radiation therapy (FLASH RT) involves treatments delivered at ultra-high dose rates, and is a new and exciting opportunity for cancer treatment. The PITZ accelerator is the perfect test facility for this new technique as it is extremely flexible in the timing of the irradiation bunches and the corresponding dose rates and can deliver full treatment doses within a 1 ms bunch train. The detectors and methods established for dosimetry of conventional radiotherapy are not suitable for FLASH RT. The student will develop suitable detection and dosimetry methods at ultra-high dose rates, making use of the detector expertise developed for particle, astroparticle and accelerator physics applications at DESY Zeuthen in cooperation with national and international partners.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Simulate beam interactions using software packages such as GEANT\r</li><li>Prototype and test several sensors for dosimetry\r</li><li>Implement the sensors and readout at FLASHlab@PITZ and test them with the unique beam properties available\r</li><li>Optimize beam dynamics and test with phantoms to optimise the delivered dose\r</li><li>Analyze experimental data and compare with simulation results\r</li><li>Participate in shift operation for R&D at PITZ</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Excellent university degree in experimental physics, with very good knowledge in detector physics and corresponding simulations or equivalent qualification\r</li><li>Strong background in numerical and statistical methods\r</li><li>Good knowledge in experimental characterization of particle beams; good programming skills are of advantage\r</li><li>Knowledge in beam dynamics simulations / radiation physics / dosimetry is of advantage\r</li><li>Very good command of English is required and knowledge of German is of advantage\r</li><li>Excellent teamwork abilities in an international environment</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Dr. Steven Worm at +49 33762-7-7208 (steven.worm@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">DESY in Zeuthen does not grant doctoral degrees directly but collaborates with the University of Potsdam or the Humboldt University. Candidates for thesis research will have to satisfy the terms of admission for doctoral theses of the University.\r<br>\r<br>Please submit your complete application documents (letter of motivation, CV, relevant certificates and two letters of references) via our application portal. Please use our online tool for the submission of the letters of reference: <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/additional_application_documents/index_eng.html\">Additional application documents</a></p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=APDO015/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t31.12.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "FLASH",
+        "HERA"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/records305166/index_eng.html"
+      ],
+      "contact_email": "steven.worm@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:59.341Z",
+      "updated": "2026-01-29T08:09:59.341Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1769674196884",
+      "title": "Scientific researcher for the development of high frequency synchronization systems",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-06-30",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">The MSK group is responsible for the synchronization and stabilization systems of DESY’s accelerators. Our international team of technicians, engineers, and scientists develops and operates state-of-the-art feedback control, novel diagnostics, and precision RF systems for the European XFEL, the Free-Electron Laser FLASH, and the storage ring PETRA.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Further develop, maintain, and operate DESY’s unique, femtosecond stable, RF synchronization system\r</li><li>Research on ultra-low noise (< -170 dBc) RF components such as oscillators, multipliers, mixers, filters, switches, amplifiers, attenuators, and phase shifters in the MHz and GHz frequency range\r</li><li>Investigate methods to enhance operation efficiency of high-power RF amplifiers\r</li><li>Electronic designs, prototype developments, system characterization, and concept evaluation</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Completed scientific university education in electrical engineering or physics with PhD degree or equivalent knowledge, skills, and experience\r</li><li>Several years of professional experience in the design, construction, and modelling of low-noise RF electronics in the MHz and GHz range\r</li><li>Professional experience in the field of analogue and digital electronics in the low- and high-frequency range\r</li><li>Experience with modern RF measuring devices, CAD Software (e.g., Altium Designer), and RF modelling tools (HFSS, CST, ADS, etc.)\r</li><li>Expertise in RF synchronization of systems with high-precision\r</li><li>Work experience in creating specifications for a larger high-frequency project\r</li><li>High level of commitment at work and great flexibility to find solutions to very different tasks within a team\r</li><li>Excellent knowledge of English</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Frank Ludwig at +49 40 8998-4919 (frank.ludwig@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=MMA001/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t30.06.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [
+        "PETRA",
+        "FLASH",
+        "XFEL",
+        "European XFEL"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e301150/index_eng.html"
+      ],
+      "contact_email": "frank.ludwig@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:56.884Z",
+      "updated": "2026-01-29T08:09:56.884Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1769674194380",
+      "title": "Scientist for the development of novel X-ray microscopy",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-01",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">The Advanced Multilayer X-ray Optics group at CFEL is one of the leading research groups developing novel X-ray lenses, also known as multilayer Laue lenses (MLLs). Such optics have opened up new opportunities for breaking barriers in focusing, dispersing, and otherwise controlling X-ray pulses in space and time, which enables exciting new applications in imaging, spectroscopy, and nonlinear optics. We are developing efficient X-ray optical elements to build up the functionalities by controlling the 3D structure of materials over large volumes and on nanometre scales, such as nanofocusing lenses, gratings, pulse compressors, waveplates, and beam splitters. We are making the highest resolution X-ray lenses in the world. Here is an opportunity for highly motivated postdoctoral scientist to join our team and be part of these exciting developments.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Prepare and conduct scientific experiments at various radiation sources \r</li><li>Develop, apply and test new imaging modalities such as ptychography and projection imaging techniques to characterize and improve X-ray lenses (MLLs) \r</li><li>Explore feasibility of MLLs for various experiments and for their increased use at lab, synchrotron and XFEL sources\r</li><li>Communicate findings via publications and presentations, and form connections with facilities and laboratories\r</li><li>Mentor students in the group</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 2 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD in physics, applied physics or a related field \r</li><li>Sound knowledge of Fourier optics, X-ray physics, metrology and ptychography\r</li><li>Experience in experimental methods or development of instrumentation\r</li><li>Experience with synchrotron and XFEL experiments is an advantage\r</li><li>Good programming skills, especially Python\r</li><li>Proficient in English and in writing scientific articles\r</li><li>Excellent interpersonal and communication skills \r</li><li>High self-motivation and ability to work in an interdisciplinary team \r</li><li>Interested in exploring prospects of new technologies</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Dr. Saša Bajt at +49 40 8998-9-2082 (sasa.bajt@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSMA039/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t02.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [
+        "XFEL"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e308103/index_eng.html"
+      ],
+      "contact_email": "sasa.bajt@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:54.381Z",
+      "updated": "2026-01-29T08:09:54.381Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1769674191405",
+      "title": "Laser development scientist for fusion project",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-25",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">We are launching a <b>national laser development project</b> for laser <b>fusion,</b> dedicated to breaking new ground in laser science and technology. Its goal is to develop the next generation of cryogenic high-power Yb-laser systems and advanced diagnostics – technologies that will pave the way for fusion energy as a clean and virtually limitless power source. At DESY, one of Europe’s leading research centers, you will join a world-class team of scientists and engineers who are not only advancing the frontiers of laser physics, but also shaping a technology with the potential to transform global energy. Working within this <b>project</b> means being at the cutting edge of science and innovation, contributing to a project of international significance, and collaborating with some of the brightest minds in the field.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Drive research on cryogenic high-power laser amplifiers and advanced system design\r</li><li>Develop and operate record-breaking laser systems for fusion applications\r</li><li>Publish experimental results and present at international conferences\r</li><li>Mentor young scientists and engineers in a dynamic team\r</li><li>Contribute to international collaborations and funding initiatives</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\"><ul><li>A driving role in a high-profile flagship project\r<br></li><li>Access to cutting-edge research facilities and global collaborations\r<br></li><li>Space to develop your scientific profile and leadership skills\r<br></li><li><b>Create the next generation of high-power lasers for fusion energy</b>\r<br></li><li><b>Drive the science. Build the lasers. Power the future.</b></li></ul>\r<br>\r<br>Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD in physics, laser technology, photonics, or related field\r</li><li>Strong track record in experimental high-power laser physics\r</li><li>Experience with cryogenic lasers, Yb:YAG/YLF, OPCPA, or related architectures\r</li><li>Knowledge of simulation/design software (Python, Comsol, CAD)\r</li><li>Drive to innovate and communicate in an international environment\r</li><li>Proficient communication skills in English</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Dr. Mikhail Pergament at +49 40 8998-6374 (mikhail.pergament@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSMA004/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t26.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/e308716/index_eng.html"
+      ],
+      "contact_email": "mikhail.pergament@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:51.405Z",
+      "updated": "2026-01-29T08:09:51.405Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1769674189041",
+      "title": "Laser development PostDoc for fusion project",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-25",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">We are launching a <b>national laser development project</b> for laser <b>fusion,</b> dedicated to breaking new ground in laser science and technology. Its goal is to develop the next generation of cryogenic high-power Yb-laser systems and advanced diagnostics – technologies that will pave the way for fusion energy as a clean and virtually limitless power source. At DESY, one of Europe’s leading research centers, you will join a world-class team of scientists and engineers who are not only advancing the frontiers of laser physics, but also shaping a technology with the potential to transform global energy. Working within this <b>project</b> means being at the cutting edge of science and innovation, contributing to a project of international significance, and collaborating with some of the brightest minds in the field.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Drive research on cryogenic high-power laser amplifiers and advanced system design\r</li><li>Develop and operate record-breaking laser systems for fusion applications\r</li><li>Publish experimental results and present at international conferences\r</li><li>Mentor young scientists and engineers in a dynamic team\r</li><li>Contribute to international collaborations and funding initiatives</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\"><ul><li>A driving role in a high-profile flagship project\r<br></li><li>Access to cutting-edge research facilities and global collaborations\r<br></li><li>Space to develop your scientific profile and leadership skills\r<br></li><li><b>Create the next generation of high-power lasers for fusion energy</b>\r<br></li><li><b>Drive the science. Build the lasers. Power the future.</b></li></ul>\r<br>\r<br>Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD in physics, laser technology, photonics, or related field\r</li><li>Ph.D. completed within the last 5 years\r</li><li>Strong track record in experimental high-power laser physics\r</li><li>Experience with cryogenic lasers, Yb:YAG/YLF, OPCPA, or related architectures\r</li><li>Knowledge of simulation/design software (Python, Comsol, CAD)\r</li><li>Drive to innovate and communicate in an international environment\r</li><li>Proficient communication skills in English</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Dr. Mikhail Pergament at +49 40 8998-6374 (mikhail.pergament@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSPO001/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t26.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/e308712/index_eng.html"
+      ],
+      "contact_email": "mikhail.pergament@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:49.041Z",
+      "updated": "2026-01-29T08:09:49.041Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-308584",
+      "title": "Postdoctoral Researcher for IceCube-Gen2",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-19",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">DESY plays a leading role in the planned IceCube-Gen2 experiment. IceCube-Gen2 is a large research infrastructure to be constructed at the South Pole, with a significant German contribution. It has recently been successful in the German research infrastructure prioritization process. It will follow in the footsteps of IceCube, which has been the dominant project in neutrino astronomy.\r<br/>\r<br/>At its Zeuthens location, DESY has a strong focus on astroparticle physics (<a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.astro.desy.de\">https://www.astro.desy.de</a>). In particular, we host one of the largest groups in IceCube and play a leading role in the Radio Neutrino Observatory in Greenland (RNO-G). We coordinate the German efforts for IceCube-Gen2 and play a major role in the international project.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Preparation of the DESY contribution towards IceCube-Gen2, with a particular focus on hardware and radio technology\r</li><li>Responsibilities for the laboratory tasks towards IceCube-Gen2 and contribution to the project management in preparation of Preliminary and Final Design Review\r</li><li>Research in instrument development and detector optimization\r</li><li>Contributions to RNO-G in its function as pathfinder experiment for IceCube-Gen2</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 2 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Ph.D. in astrophysics, astroparticle physics, high-energy physics or equivalent qualification in engineering\r</li><li>Extensive experience in hardware for neutrino detectors, in particular radio detection of neutrinos\r</li><li>Significant experience in hardware-related data-analysis and detector commissioning\r</li><li>Excellent academic track-record as shown with relevant publications\r</li><li>Excellent team-player abilities\r</li><li>Good command of the German language or willingness to archive this on a short time-scale</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Anna Nelles at +49 40 8998-7839 (anna.nelles@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=APPO009/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t20.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/records308584/index_eng.html"
+      ],
+      "contact_email": "anna.nelles@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:46.438Z",
+      "updated": "2026-01-29T08:09:46.438Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1769674185141",
+      "title": "Scientific Groupleader at PETRA III and PETRA IV",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-25",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">PETRA III at DESY is one of the brightest storage-ring-based X-ray sources for high-energy photons and coherence applications worldwide. It is operated at a particle energy of 6 GeV and is therefore especially suited to produce X-rays at hard and high energies up to 200 keV. Currently, 26 beamlines, a laboratory team and for sample environment team are operational at PETRA III. The teams support international users at the experiments and conduct scientific research. PETRA III will be upgraded to the ultimate storage-ring-based X-ray source PETRA IV. PETRA IV will be the world's brightest synchrotron radiation source for decades to come, providing unparalleled insight into physical, chemical, and biological processes in nature and technology.\r<br/>\r<br/>The PETRA beamlines and teams are structured into groups. We are seeking a scientific group leader for PETRA III beamlines, currently focusing on scattering and diffraction methods, including related imaging techniques, laboratories and sample environment.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Disciplinary group leader of 11 beamline teams, laboratories and sample environment\r</li><li>Full responsibility for budget and staff\r</li><li>Responsible for the user operation of PETRA, in cooperation with the other PETRA III group leaders, the  user office, the accelerator division and the group ITT for innovation and technology transfer\r</li><li>Key role and responsibility in designing and implementing the beamline and support team portfolio within the PETRA IV project\r</li><li>Development and implementation of innovative concepts and methods for PETRA user operation\r</li><li>Continue existing and develop new cooperation with large scale scientific consortia\r</li><li>Active participation in national and international cooperations, e.g. LEAPS\r</li><li>Representing and promoting the scientific program of PETRA III\r</li><li>Active work in internal and external committees</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Unlimited with a tenure track option for candidates in earlier career stages</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD and master's degree in physics, chemistry, materials science, biology or similar fields\r</li><li>Excellent knowledge in application of synchrotron radiation in terms of diffraction, scattering and/or related imaging techniques (such as diffraction imaging, Bragg-CDI, tensor tomograpahy) and the development of methods and instrumentation\r</li><li>Experience in supporting scientific user groups and customers from industry\r</li><li>Experience working as a team or group leader, as well as experience working in a large team\r</li><li>Record of scientific projects and publication\r</li><li>Participation in international cooperations\r</li><li>Excellent knowledge in methods and instrumentation development for synchrotron radiation\r</li><li>Excellent oral and written English skills\r</li><li>German skills are beneficial</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Britta Redlich at +49 40 8998-5930 (britta.redlich@desy.de) and Christian Schroer at +49 8998-2503 (christian.schroer@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSMA035/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t26.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [
+        "PETRA"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e308946/index_eng.html"
+      ],
+      "contact_email": "britta.redlich@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:45.141Z",
+      "updated": "2026-01-29T08:09:45.141Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-308671",
+      "title": "Postdoc IFuEL UAP 4.1",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-19",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">DESY looks back on a long tradition in synchrotron radiation experiment in a wide range of applications and has developed into one of the leading research centres worldwide. Serving for the high impact synchrotron radiation applications, the 3rd generation source PETRA III is available since 2009 as one of the most brilliant hard X-ray sources worldwide. Additionally, DESY has a strong background in developing new laser systems for various applications. In the IFuEL (Inertial Fusion Laser Development und HED-Analytics) project under the Fusion 2040 call of the BMFTR DESY has been contracted to develop a highly efficient YLF laser and test the laser by creating a Fusion relevant plasma in a H<sub>2</sub>/He jet to radiate Plasma Facing Materials (PFM) with changed particles originating from the plasma. For the development and commissioning of a target chamber that will house the interaction point for the plasma generation we are seeking an enthusiastic young scientist in the rank of a postdoctoral fellow with the following expertise and the duties specified:</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Development of concept for the radiation of plasma facing materials (PFM) in IFuEL test experiment with changed particles created in a H<sub>2</sub>/He jet that is targeted by the new YLF laser\r</li><li>Commissioning of a vacuum chamber that holds the H<sub>2</sub>/He jet for the radiation of PFM\r</li><li>Documentation, reporting and publishing the results\r</li><li>Scientific research area of inertial fusion in conjunction with PFM</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD in physics, plasma physics, chemistry, mineralogy or equivalent is required\r</li><li>Excellent research and communication skills (English)\r</li><li>Experience in the operation of high-energy laser experiments including the assembly and commissioning of a vacuum capable target chamber is useful\r</li><li>Understanding powder and single crystal X-ray diffraction and crystal structure analysis is helpful\r</li><li>Willingness to work in a large group of scientists with different background\r</li><li>Active scientific research projects in the area of laser shock compression possibly related to PFM is useful\r</li><li>Experience in laser physics is helpful\r</li><li>Experience in user support at a large-scale facility can be helpful but is not required</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Hanns-Peter Liermann at +49 40 8998-5722 (hanns-peter.liermann@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSPO004/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t20.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [
+        "PETRA"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/records308671/index_eng.html"
+      ],
+      "contact_email": "hanns-peter.liermann@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:43.848Z",
+      "updated": "2026-01-29T08:09:43.848Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-308645",
+      "title": "Postdoc in IFuEL UAP 5.4",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-02-19",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">DESY looks back on a long tradition in synchrotron radiation experiments in a wide range of applications and has developed into one of the leading research centres worldwide. Serving for the high impact synchrotron radiation applications, the 3rd generation source PETRA Ill is available since 2009 as one of the most brilliant hard X-ray sources worldwide. Additionally, DESY has a strong background in developing new laser systems for various user specific applications. In the IFuEL (Inertial Fusion Energy Laser Development und HED-Analytics) project funded under the Fusion 2040 call of the BMFTR, DESY has been contracted to develop a highly efficient YLF (yttrium lithium fluoride) laser and test the laser by creating a fusion relevant plasma in a H<sub>2</sub>/He jet to radiate Plasma Facing Materials (PFM) with charged particles originating from the plasma. For the analyse the radiated PFM at PETRA Ill beamlines and the DESY nano-lab we are seeking an enthusiastic young scientist in the rank of a postdoctoral fellow.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Development of a concept for the analysis of plasma facing materials (PFM) at PETRA Ill radiated in the IFuEL test experiment with charged particles created in a H<sub>2</sub>/He jet that is targeted by the new YLF laser\r</li><li>Conducting test experiments at DRAKO at HZDR on radiating PFM with particles out of the H<sub>2</sub>/He plasma and analysis of PFM samples at PETRA Ill using the developed concepts\r</li><li>Documentation, reporting and publishing the results\r</li><li>Scientific research in the area of inertial Fusion in conjunction with PFM</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD in physics, plasma physics, chemistry, mineralogy, or equivalent is required\r</li><li>Excellent research and communication skills (English)\r</li><li>Understanding powder and single crystal x-ray diffraction and crystal structure analysis is required\r</li><li>Experience in the analysis of PFM exposed to fusion environments (either magnetic or inertial fusion) are desirable\r</li><li>Willingness to work in a large group of scientists with different backgrounds\r</li><li>Active scientific research project in the area of PFM is useful\r</li><li>Experience in user support at a large-scale facility can be helpful but is not required</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Hanns-Peter Liermann at +49 40 8998-5722 (hanns-peter.liermann@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSPO003/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t20.02.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [
+        "PETRA"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/records308645/index_eng.html"
+      ],
+      "contact_email": "hanns-peter.liermann@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:42.684Z",
+      "updated": "2026-01-29T08:09:42.684Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1769674180838",
+      "title": "PhD Position: Method Development for Hierachical X-Ray Imaging at Synchrotron Facilities",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2027-01-31",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">We are seeking two motivated PhD candidates to develop a novel multi-scale imaging method at synchrotron radiation facilities, particularly PETRA III at DESY. Samples, be they biological or from materials science, often have a hierarchical structure that determines their function. It is not feasible to scan the full volume of such samples at the highest desired resolution. Therefore, we require an imaging scheme that acquires relevant features at different length scales and integrates them into a single reconstruction volume. The PhD projects aim to develop and implement this novel local adaptive tomography (LAT) scheme, which will allow us to efficiently measure and reconstruct hierarchically organised samples. To achieve this, we need to improve our understanding of the physical image formation and data recovery processes, among other topics. The advertised positions will focus on these topics. One position is in the \"X-Ray Nanoscience and X-Ray Optics\" group and the other is in the \"Computational Imaging\" group. The PhD projects are embedded in the frame of the ErUM data project CmarT.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Develop improved physical models of the image formation process in holographic X-ray imaging\r</li><li>Design and implement reconstruction algorithms for handling large-scale tomographic data from limited field-of-view acquisitions\r</li><li>Collaborate with beamline scientists to validate and optimize the LAT scheme</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 2 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Master's degree in Physics/Mathematics/Computer Science or related subject\r</li><li>Willingness to familiarise yourself in depth with new topics in the fringe area between algorithm development, high performance computing and experiment\r</li><li>Good problem solving skills\r</li><li>Willingness to work in teams\r</li><li>Good knowledge of a programming language\r</li><li>Good communication skills in English/German</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Johannes Hagemann, at +49 40 8998-2823 (johannes.hagemann@desy.de) or Martin Burger at +49 40 8998-4565 (martin.burger@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">DESY in Hamburg does not grant doctoral degrees directly but collaborates with the University of Hamburg. Candidates for thesis research will have to satisfy the terms of admission for doctoral theses of the University of Hamburg. PhD students receive a monthly salary of 75% of the payment of the remuneration group 13 TVöD (Federal Government).\r<br>\r<br>Please submit your complete application documents (letter of motivation, CV, relevant certificates and two letters of references) via our application portal. Please use our online tool for the submission of the letters of reference:<a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/additional_application_documents/index_eng.html\">Additional application documents</a></p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSDO016/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t31.01.2027\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [
+        "PETRA"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e309009/index_eng.html"
+      ],
+      "contact_email": "johannes.hagemann@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-01-29T08:09:40.839Z",
+      "updated": "2026-01-29T08:09:40.839Z",
+      "source": "DESY",
+      "addedAt": "2026-01-29T08:10:01.744Z",
+      "isNew": true
+    },
+    {
       "id": "desy-1769328734795",
       "title": "DESY-Fellowships in Photon Science",
       "institution": "DESY (Deutsches Elektronen-Synchrotron)",
@@ -1699,6 +2017,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-28T08:05:25.812Z",
-  "totalJobs": 58
+  "lastUpdated": "2026-01-29T08:10:01.744Z",
+  "totalJobs": 69
 }
