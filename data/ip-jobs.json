@@ -1,6 +1,118 @@
 {
   "jobs": [
     {
+      "id": "3112847",
+      "title": "Assistant Research Professor (Postdoctoral fellow)",
+      "institution": "Naval Academy, Annapolis",
+      "deadline": "2026-02-09",
+      "description": "<div>The United States Naval Academy (USNA) invites applications for an <strong>Assistant Research Professor </strong>(also known as a <strong>Postdoctoral Fellow</strong>) to begin as early as Spring 2026 in the Physics Department.&nbsp;</div><div><br></div><div>The U.S. Naval Academy is a four-year undergraduate institution with a mission to prepare our students morally, mentally, and physically for commissioning as officers in the naval services.&nbsp;The successful candidate will contribute to DOE-funded research using the Compact Muon Solenoid (CMS) Experiment at the CERN LHC. The candidate will work with USNA Asst. Prof. Allison Hall, who is a member of the CMS experiment through an affiliation with the Fermilab CMS group. The successful candidate will work closely with the Fermilab CMS group and will have the option to work daily at Fermilab as their official Duty Station.</div><div><br></div><div>The candidate is expected to play a leading role in two main areas: 1) CMS searches for new physics, particularly searches for dark matter using displaced leptons, and 2) developing solutions to critical computing challenges facing CMS during the High Luminosity LHC (HL-LHC). Candidates should have a strong commitment to producing high-quality peer-reviewed research and mentoring undergraduate students.</div><div><br></div><div><strong>How to Apply:</strong></div><div>Visit <a href=\"https://www.usna.edu/HRO/jobinfo/AsstResearchProf-Phys-26.php\">https://www.usna.edu/HRO/jobinfo/AsstResearchProf-Phys-26.php</a> for more information, including how to apply. The U.S. Naval Academy is an Equal Opportunity Employer. Please note that US citizenship is a required condition of employment.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.usna.edu/HRO/jobinfo/AsstResearchProf-Phys-26.php"
+      ],
+      "contact_email": null,
+      "created": "2026-01-29T17:06:10.263662+00:00",
+      "updated": "2026-01-29T17:22:23.617124+00:00",
+      "addedAt": "2026-01-30T08:08:57.599Z",
+      "isNew": true
+    },
+    {
+      "id": "3112841",
+      "title": "Predoctoral researcher (R1) to work on EIC Pathfinder project PHINDER at UniOvi",
+      "institution": "U. Oviedo (main)",
+      "deadline": "2026-03-31",
+      "description": "<div>The HEP group at University of Oviedo (Spain) is looking for a PhD student to join our team and work on the “PHINDER” EIC Pathfinder Open project. The PHINDER consortium aims to revolutionize high-resolution optical sensing by combining photonic sensors with spiking neural networks to achieve picosecond-scale event detection and analysis, dramatically improving energy efficiency and spatiotemporal resolution over current technology. The Oviedo HEP group plays a leading role in the MODE Collaboration (<a href=\"https://mode-collaboration.github.io/\">https://mode-collaboration.github.io/</a>) on energy-efficient experiment design, and in several activities of the CMS Collaboration (e.g. Machine Learning Group, Phase-2 upgrade work for the DT and&nbsp;L1 trigger upgrade and several physics analyses).</div><div><br></div><div>Candidates should have, or be expected to obtain by the call deadline, a master’s degree in physics, electronics engineering or in a closely related discipline, or equivalent degree, be highly motivated to join a multidisciplinary team, and excited to work in an international collaborative environment. Previous experience in data science, machine learning applications, pattern recognition algorithms, spiking networks, or neuromorphic computing will be considered a plus.</div><div><br></div><div>The selected candidate will join the HEP group at University of Oviedo, and the PHINDER project with the goal of designing and optimising surrogate models and spiking neural models to be implemented in neuromorphic hardware manufactured by the consortium and co-designing said hardware. The position is initially for 4 years (tentative starting date in April/May, subject to administrative constraints) until completion of the PhD. The candidate is expected to be based in Oviedo with stays at other PHINDER partners (Sweden, Italy, Netherlands, Belgium, Spain) in case they are needed.</div><div><br></div><div>Interested candidates should submit via email, to Prof. Pietro Vischia <a href=\"mailto:vischia@uniovi.es\">vischia@uniovi.es</a>, the following documentation:</div><div>1. Motivation letter;</div><div>2. Curriculum vitae;</div><div>3. Arrange for at least two letters of reference to be sent to the same email address.</div><div><br></div><div><strong>Review of complete applications will begin on February 15th.</strong> For general information about this position, please contact Prof. Pietro Vischia.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "cs",
+        "physics",
+        "stat",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-01-29T16:08:20.240850+00:00",
+      "updated": "2026-01-29T16:28:55.537695+00:00",
+      "addedAt": "2026-01-30T08:08:57.599Z",
+      "isNew": true
+    },
+    {
+      "id": "3112839",
+      "title": "CERN Fellowship Position (QUEST) for CMS Next Generation Triggers (Data Reduction Physicist)",
+      "institution": "CERN",
+      "deadline": "2026-02-19",
+      "description": "<div>We are seeking a highly motivated researcher to develop <strong>data size reduction</strong> techniques for the <strong>CMS experiment</strong>, contributing directly to the <strong>Next Generation Trigger</strong> project (Task 3.3),</div><div>As part of the NGT real-time revolution effort, the successful candidate will help the R&amp;D for a trigger system capable of <strong>offline-quality reconstruction at rates up to 750 kHz</strong>, by contributing to the design of <strong>novel data formats</strong> : a low-level reconstructed tier enabling substantially higher trigger rates while preserving future reprocessing capabilities, and a compact analysis format to retain the full online-reconstructed event stream.</div><div>The link to the application portal is <a href=\"https://careers.cern/jobs/data-reduction-physicist/\">here</a>.</div><div>The deadline is on 19.02.2026 at 23:59 (midnight) CET.</div><div>The application contains the job description, required skill set and eligibility criteria.</div><div>A limited number of positions are also available to candidates from Non-Member States.</div><div>Please do not hesitate to contact <a href=\"mailto:silvio.donato@cern.ch\">silvio.donato@cern.ch</a>, <a href=\"mailto:Marco.Rovere@cern.ch\">marco.rovere@cern.ch</a> and <a href=\"mailto:marco.musich@cern.ch\">marco.musich@cern.ch</a> should you require any additional information.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://careers.cern/jobs/data-reduction-physicist/"
+      ],
+      "contact_email": null,
+      "created": "2026-01-29T15:48:01.617887+00:00",
+      "updated": "2026-01-29T16:14:37.484640+00:00",
+      "addedAt": "2026-01-30T08:08:57.599Z",
+      "isNew": true
+    },
+    {
+      "id": "3112710",
+      "title": "Two PhD Positions in Double Beta Decay Searches",
+      "institution": "Mainz U.",
+      "deadline": "2026-02-28",
+      "description": "<div>The above position at the Institute of Physics at the Johannes Gutenberg University Mainz (JGU) is to be filled. The institute hosts several experimental and theoretical working groups; the position is assigned to Prof. Sebastian Böser, Dr. Stefan Schoppmann, Prof. Alfons Weber and Prof. Michael Wurm as part of the NuDoubt++ Experiment.</div><div>&nbsp;</div><div>NuDoubt++ is investigating positive (positron-emitting) double beta decays. The first PhD candidates' work will include the mechanical design and optimisation of the detector. The second PhD candidates' work will include the simulation and study of background and signal events for the purpose of sensitivity studies. More details about NuDoubt++ can be found at <a href=\"https://nudoubt.uni-mainz.de/\">https://nudoubt.uni-mainz.de/</a></div><div>&nbsp;</div><div>NuDoubt++ is funded by the European Research Council and additionally part of the cluster of excellence PRISMA++ (“Precision Physics, Fundamental Interactions and Structure of Matter”), dedicated to exploring key questions of the fundamental constituents of matter and its cosmological implications. Aside from NuDoubt++, the institute is involved in other neutrino physics and particle detector endeavours like T2K, IceCube, JUNO, Project 8, DUNE and AM-OTech. The department is strongly involved in several activities in high energy physics (ATLAS, NA62, SHiP), dark matter searches (XENONnT, XLCD, MAGIX, DarkMESA and CASPEr), and detector R&amp;D. All activities are supported by a well-equipped detector development laboratory, two local electron accelerators, and a local nuclear research reactor at the JGU.</div><div>&nbsp;</div><div>The successful applicants are expected to</div><ul><li>have a master’s degree in physics or related fields and a good knowledge of particle physics,</li><li>be able to work independently and as part of an international team,&nbsp;</li><li>be able to travel internationally and to attend (online) meetings outside usual working hours, and</li><li>be proficient in English.</li></ul><div>It will be advantageous to have</div><ul><li>hardware, programming, engineering and/or data analysis experience, and</li><li>prior knowledge of neutrino physics.</li></ul><div>The Johannes Gutenberg University Mainz is aiming to increase the number of women among its scientific personnel and thus encourages women to apply. We have a diverse working group and recognise the strength in tapping into the largest pool of talent. We therefore encourage people to apply irrespective of sex, gender, race, age, nationality, or sexual orientation. Disabled applicants will be given preference, if equally qualified.</div><div>&nbsp;</div><div>Application for these positions is via the PhD call of the Mainz Physics Academy. Please refer to NuDoubt++ in your application. Details on how to apply can be found at <a href=\"https://prisma.uni-mainz.de/en/phd-fellowship-programm/\">https://prisma.uni-mainz.de/en/phd-fellowship-programm/</a>.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det",
+        "physics"
+      ],
+      "experiments": [
+        "NuDoubt++"
+      ],
+      "urls": [
+        "https://prisma.uni-mainz.de/en/phd-fellowship-program/"
+      ],
+      "contact_email": null,
+      "created": "2026-01-29T12:48:05.859818+00:00",
+      "updated": "2026-01-29T15:31:02.553637+00:00",
+      "addedAt": "2026-01-30T08:08:57.599Z",
+      "isNew": true
+    },
+    {
       "id": "3111662",
       "title": "PhD Position in Experimental Neutrino Physics (KM3NeT-ORCA)",
       "institution": "Valencia U., IFIC",
@@ -3455,6 +3567,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-01-29T08:09:32.969Z",
-  "totalJobs": 129
+  "lastUpdated": "2026-01-30T08:08:57.600Z",
+  "totalJobs": 133
 }
