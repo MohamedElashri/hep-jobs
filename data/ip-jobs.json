@@ -1,6 +1,86 @@
 {
   "jobs": [
     {
+      "id": "3114977",
+      "title": "Postdoctoral Research in Neutrino Physics",
+      "institution": "Indiana U., Bloomington (main)",
+      "deadline": "2026-04-01",
+      "description": "<div>The Indiana University Experimental Nuclear Physics group invites applications for two postdoctoral research associates to join our team working on neutrino experiments. LEGEND is a phased neutrinoless double beta decay experiment program, with LEGEND-200 taking data at LNGS, and work ongoing towards the tonne-scale LEGEND-1000 experiment to follow. Project 8 is a program towards a next generation neutrino mass experiment based on atomic tritium. PHONON is an R&amp;D project developing a quantum sensor-based detector for reactor neutrinos, with initial deployment planned for HFIR at ORNL. Postdocs may split their time between multiple projects, aligning with their interest and program needs. The successful candidate is expected to play a strong role in data analysis, contribute to commissioning and operation of the experiments, travel domestically and internationally for experimental work, mentor students in the group, and work on local R&amp;D projects.</div><div><br></div><div>The IU experimental nuclear physics group has an active and diverse program addressing fundamental questions in nuclear physics, particle physics, and astrophysics/cosmology. Group members are leaders in a wide range of experiments, including: investigations of the flavor and spin structure of the nucleon using the STAR detector at RHIC and Belle II at KEK; studies of parity and time reversal violation between nucleons at NIST, SNS, LANSCE, JPARC, and FRM, measurements of neutrino properties at Fermilab, SNS, SURF, and LNGS, neutron decay and neutron interferometry at NIST, LANSCE, SNS, ISIS, and ILL and searches for possible exotic spin-dependent interactions. The group is a part of the Center for the Exploration of Energy and Matter (CEEM) at IU which includes research in experimental condensed matter and theoretical nuclear physics. Group members include professional staff in electronics, mechanical engineering, cryogenic design, and machinists, as well as graduate and undergraduate students. Local facilities include a low-energy neutron source (LENS) available for neutron detector development and testing, high-bay facilities for large-scale fabrication, professional and student machine shops, a polarized 3He lab, a dilution refrigerator, and a vibration isolated lab for weak force measurement. The laboratory possesses infrastructure on a scale which enables us to make major hardware contributions to experiments. Opportunities to split time with other research efforts in the group may be available.</div><div><br></div><div>A Ph.D. in experimental subatomic physics, precision measurement, or equivalent is required. Initial appointments as a postdoctoral research associate will be for one year, with expectation of renewal.</div><div><br></div><div>Applications, including a curriculum vita and three letters of reference, should be submitted through the application portal located at: <a href=\"https://indiana.peopleadmin.com/postings/31263\">https://indiana.peopleadmin.com/postings/31263</a></div><div><br></div><div>Questions regarding the position or application process can be directed to Prof. Walter C. Pettus (pettus@iu.edu).</div><div><br></div><div>For more information about the group research, see: <a href=\"https://physics.indiana.edu/research/research-areas/nuclear-physics/experimental-nuclear-physics.html\">https://physics.indiana.edu/research/research-areas/nuclear-physics/experimental-nuclear-physics.html</a></div><div><br></div><div>Indiana University is an equal employment and affirmative action employer and a provider of ADA services. All qualified applicants will receive consideration for employment based on individual qualifications. Indiana University prohibits discrimination based on age, ethnicity, color, race, religion, sex, sexual orientation, gender identity or expression, genetic information, marital status, national origin, disability status or protected veteran status.</div><div><br></div><div>Applications will be reviewed as they are received, and will continue until the position is filled. Preferred position start is summer 2026.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "LEGEND",
+        "PROJECT-8"
+      ],
+      "urls": [
+        "https://indiana.peopleadmin.com/postings/31263"
+      ],
+      "contact_email": null,
+      "created": "2026-02-03T18:47:43.949974+00:00",
+      "updated": "2026-02-03T20:51:38.040506+00:00",
+      "addedAt": "2026-02-04T08:10:33.491Z",
+      "isNew": true
+    },
+    {
+      "id": "3114976",
+      "title": "Postdoctoral position on the ECAL Laser Monitoring system upgrade for HL-LHC and on the performance of the ECAL timing reconstruction",
+      "institution": "IRFU, Saclay",
+      "deadline": "2026-03-01",
+      "description": "<div>The Department of Particle Physics at the CEA-Saclay/IRFU is currently seeking a talented and highly qualified postdoctoral researcher to work in the CMS experiment with a two years contract, renewable for one additional year.</div><div><br></div><div>The successful candidate will join the CMS group, whose effort is focused on, but not limited to, the exploration of the scalar sector of the Standard Model via the study of Higgs boson decays into a pair of photons and into a Z boson and a photon. The group is also strongly involved in the CMS electromagnetic calorimeter (ECAL), and particularly in its operation, calibration, and upgrade, with several major responsibilities since the beginning of CMS. For the HL-LHC upgrade of the ECAL, the group has designed the new front-end amplifier ASIC (CATIA), and is leading the upgrade of the laser monitoring system. The new electronics allows for measuring the arrival time of electron and photons with a precision about five times better than in the legacy system, achieving a resolution of 30 ps for energies greater than 50 GeV. This introduces a new challenge, consisting in the synchronization of all the channels read out.</div><div><br></div><div>The postdoctoral position is centred on the upgrade of the ECAL laser monitoring system. The system is used to continuously measure the response of the ECAL lead-tungstate crystals, evolving under irradiation. Upgrade work includes the qualification of the frontend electronics to read the reference laser signal (1 type of ASIC, 2 types of boards), the board to drive the laser and digitize its pulse, the integration of the data acquisition in the ECAL and CMS DAQ systems, and the finalization of the refurbishment and commissioning strategy. Also envisaged is the development and refinement of strategies to reconstruct the arrival time of electrons and photons and to synchronize the ECAL channels. The work covers a wide variety of activities, allowing the postdoctoral researcher to interact with experts from different areas, including mechanics, integration, technical coordination, DAQ, Detector Performance Group. Through this experience, the researcher will develop in-depth knowledge of ECAL, its performance, and its potential impact on physics analyses.</div><div><br></div><div>The contract is anticipated to begin before mid-2026, once an eligible candidate has been selected. The position is located at CEA-Saclay, with opportunities for regular visits to CERN. Interested candidates should submit a CV, a concise motivation letter (one page), and at least two recommendation letters to julie.malcles@cea.fr and federico.ferri@cern.ch by March 1st. The position will remain open until an appropriate candidate is chosen, even after the March 1st deadline.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-03T18:14:42.552612+00:00",
+      "updated": "2026-02-03T18:36:45.380174+00:00",
+      "addedAt": "2026-02-04T08:10:33.491Z",
+      "isNew": true
+    },
+    {
+      "id": "3114001",
+      "title": "Postdoctoral Research Position in Experimental Hadron Physics",
+      "institution": "Cracow, INP",
+      "deadline": "2026-03-10",
+      "description": "<div>The HADES group at the INP PAS (Institute of Nuclear Physics Polish Academy of Sciences) in Kraków, Poland, invites applications for a postdoctoral researcher in experimental hadron physics. The successful candidate is expected to take a leading role in physics analyses of the p+p@4.5 GeV data collected withe the HADES detector with focus on neutral mesons studies.</div><div><br></div><div>The successful candidate will work as part of the HADES Collaboration and project oriented on studies of the production, decays and structure of light mesons founded by National Science Center in Poland. The main goals of this project are to extract cross sections for the exclusive and inclusive production of eta, eta prime, omega, f1(1285), their angular distributions, study of dynamics in eta/omega-&gt;3pions decays and the time-like structure of the eta and omega mesons (Dalitz decays). For the omega meson polarization and Spin Density Matrix Elements (SDME) can also be extracted to study in more details its production.</div><div>The successful candidate will mostly focus on the exclusive analysis of the f1(1285) and eta prime production as well as the omega-&gt;pi0e+e- Dalitz decay.</div><div><br></div><div>Contract duration and conditions:</div><div>The position will be based at INP PAS, Kraków, with travels and possible short stays at GSI/FAIR. The duration of the position is 12 months and can be extended up to 24 months, provided a satisfactory outcome of the evaluation after the first 12 months. The target start date is the end of March or beginning of April 2026, subject to negotiation with the candidate.</div><div><br></div><div>Required qualifications:</div><ol><li>Ph.D. in nuclear or particle physics obtained not earlier than 7 years before the starting year of employment in the project (this period might be longer in the case of women due to family reasons (according to NCN rules).</li><li>Experience in experiments in the field of nuclear physics or elementary particles at high or intermediate energy.</li><li>Good programming skills (C/C++).</li><li>Good knowledge of the ROOT CERN package.</li><li>Good presentation skills.</li><li>Good command of English.</li><li>Additional advantage will be knowledge of AI (neural networks etc.) methods.</li></ol><div>Duties and Responsibilities:</div><ol><li>Taking part in the analysis (neutral mesons production) of data collected in elementary reactions p+p/pion+p with the HADES detector at GSI/FAIR facility, Germany,</li><li>Joining the HADES Collaboration and the relevant Physics Working Group, participating in weekly discussions and active participation in its meetings (at least every few weeks),</li><li>Taking part in the Low Level Data Analysis (detector calibration etc.),</li><li>Taking part in data-taking (experimental shifts),</li><li>Presentation of results at meetings and conferences, as well as writing scientific articles and publishing papers in peer-reviewed journals.</li></ol><div>Application procedure:</div><div>Interested applicants should send:</div><ol><li>Cover letter and information such as: name(s), surname, date of birth, contact details, education, work experience (CV).&nbsp;</li><li>A copy of the diploma for obtaining a doctoral degree.</li><li>A list of scientific and research achievements (e.g., list of publications, speeches at conferences, internships held, participation in projects and research grants).</li><li>2-3 letters of recommendation.</li><li>Statement of consent for the processing of personal data contained in the CV and other attached documents - if the scope of such data includes special categories of data referred to in Article 9(1) of RODO, which reads: \"I consent to the processing of my personal data by IFJ PAN included in my CV and attached documents.\"</li></ol><div>It is a full-time research position with no teaching duties. However, the successful candidate will have an opportunity to supervise <a href=\"http://B.Sc\">B.Sc</a>. and <a href=\"http://M.Sc\">M.Sc</a> (also partially Ph.D.) students.</div><div><br></div><div>Salary: according to the max. rate allowed at the INP PAS: ~8100 PLN (brutto).</div><div>More information: <a href=\"https://euraxess.ec.europa.eu/jobs/375301\">https://euraxess.ec.europa.eu/jobs/375301</a></div><div>The documents should be send to: &nbsp;jobs@ifj.edu.pl, izabela.ciepal@ifj.edu.pl</div><div><br></div><div>Applications should be submitted by March 10, 2026.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "GSI-HADES"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-03T08:29:26.494308+00:00",
+      "updated": "2026-02-03T17:38:06.057901+00:00",
+      "addedAt": "2026-02-04T08:10:33.491Z",
+      "isNew": true
+    },
+    {
       "id": "3113210",
       "title": "Postdoc Fellow on XENONnT",
       "institution": "Tsinghua U., Beijing",
@@ -24,7 +104,7 @@
       "created": "2026-01-31T09:16:51.441336+00:00",
       "updated": "2026-02-02T17:21:22.360498+00:00",
       "addedAt": "2026-02-03T08:10:02.838Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3113662",
@@ -49,7 +129,7 @@
       "created": "2026-02-02T16:56:03.040718+00:00",
       "updated": "2026-02-02T17:01:27.323330+00:00",
       "addedAt": "2026-02-03T08:10:02.838Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3113442",
@@ -79,7 +159,7 @@
       "created": "2026-02-02T11:44:42.216954+00:00",
       "updated": "2026-02-02T16:54:50.026129+00:00",
       "addedAt": "2026-02-03T08:10:02.838Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3112847",
@@ -3648,6 +3728,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-03T08:10:02.839Z",
-  "totalJobs": 136
+  "lastUpdated": "2026-02-04T08:10:33.491Z",
+  "totalJobs": 139
 }
