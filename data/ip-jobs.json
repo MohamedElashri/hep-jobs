@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "id": "3115008",
+      "title": "Postdoctoral Research associate at the ATLAS experiment",
+      "institution": "Northern Illinois U.",
+      "deadline": "2026-03-01",
+      "description": "<div>The ATLAS group at Northern Illinois University (NIU) invites applications for a postdoctoral research associate position at the ATLAS Experiment.</div><div><br></div><div>The NIU ATLAS group currently comprises 2 Faculty, 1 postdoc, 1 engineer, and ~10 PhD and MS students working on a variety of topics. It has a strong research programme in searches for new physics beyond the Standard Model (BSM) and Higgs Physics, and a significant presence in the ATLAS Upgrade effort for the High-Luminosity Large Hadron Collider (HL-LHC). It also collaborates with scientists at several national laboratories on computational challenges across the broader HEP ecosystem.</div><div><br></div><div>The successful candidate is expected to work with one of the group's PIs (Hector de la Torre Perez) and play a major role in novel searches for BSM physics using Run 3 data from the ATLAS experiment, with a focus on Vector-like Quark searches. They are also expected to supervise students working on these analyses. Other research avenues related to BSM searches or to the development of new techniques for the HL-LHC are also within the group's interests and would be welcome additions to its portfolio.</div><div><br></div><div>In parallel, the new postdoc is expected to participate in HL-LHC upgrade projects, particularly the trigger system. The group currently has a presence in the FPGA-based Global Trigger and EFTracking subsystems, but other options could be considered depending on the candidate’s interest.&nbsp;</div><div><br></div><div><strong>The position will be based at CERN. Participation in operations and/or the commissioning of the ATLAS detector for the HL-LHC is expected.</strong></div><div><br></div><div><strong>Qualifications:</strong></div><ul><li>Hold a PhD in experimental particle physics by the start date.</li><li>Demonstrated experience at an LHC experiment is an advantage.</li><li>Ability and interest to supervise students.</li><li>Knowledge of FPGA-based systems, data analysis, and/or Machine Learning methods is very welcome.</li></ul><div><strong>What we offer:</strong></div><ul><li>Starting gross salary of $70,539 per year, with 4% annual increases.</li><li>Initial appointment of one year, with annual renewal contingent on mutual satisfaction and continued funding.</li><li>Negotiable starting date. As soon as possible (after all relevant paperwork is completed) is preferred.&nbsp;</li></ul><div>Applications should be submitted with a CV, a list of relevant publications (specifying the candidate’s contributions), a research statement, and at least three reference letters.</div><div><br></div><div>Applications arriving before March 1st, 2026, will receive full consideration. The position will be open until filled.</div><div><br></div><div>For more information on the group:</div><div><a href=\"https://www.niu.edu/clas/physics/about/directory/torre-perez.shtml\"><strong>https://www.niu.edu/clas/physics/about/directory/torre-perez.shtml</strong></a></div><div><a href=\"https://www.niu.edu/jadelman/index.shtml\"><strong>https://www.niu.edu/jadelman/index.shtml</strong></a></div><div><br></div><div>Inquiries related to this opening should be sent to hector.de.la.torre.perez@cern.ch</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31631"
+      ],
+      "contact_email": null,
+      "created": "2026-02-04T03:17:42.228003+00:00",
+      "updated": "2026-02-04T15:59:21.168134+00:00",
+      "addedAt": "2026-02-05T08:11:44.201Z",
+      "isNew": true
+    },
+    {
+      "id": "3115007",
+      "title": "Invitation to apply for Fellowship grant in LHCb",
+      "institution": "Eotvos U., Dept. Atomic Phys.",
+      "deadline": "2026-02-13",
+      "description": "<div>We invite candidates to apply for the <a href=\"https://nkfih.gov.hu/palyazoknak/nkfi-alap/starting-kutatasi-palyazat-starting26/palyazati-felhivas\">Starting_26</a> with the LHCb/CODEX-b group at ELTE. The maximal grant amount is 100MHUF (~310k USD) + additional 20MHUF for startup, for a period of four years.</div><div><br></div><div>The earliest starting date for the grant is 1st January 2026. For candidates needing an earlier position, a bridge contract can be arranged upon discussion.The call target young researchers (at least one postdoc completed).</div><div><br></div><div>Interested candidates should contact Prof. Biplab Dey (biplab.dey@cern.ch) with a detailed CV and a tentative research plan, The ELTE group currently includes one faculty, two postdocs and several PhD and undergrad students. We are broadly interested in the flavor and dark sectors at LHCb.</div><div><br></div><div>The application deadline is 24th February, but the internal university deadline is earlier.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CODEX-b",
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-04T00:46:41.637912+00:00",
+      "updated": "2026-02-04T15:56:36.922018+00:00",
+      "addedAt": "2026-02-05T08:11:44.201Z",
+      "isNew": true
+    },
+    {
+      "id": "3115359",
+      "title": "QUP Postdoctoral Fellows in Experimental Physics",
+      "institution": "QUP, Tsukuba",
+      "deadline": "2026-03-10",
+      "description": "<div>We are seeking outstanding applicants for<strong>&nbsp;</strong>&nbsp;<strong>several Postdoctoral Fellow positions&nbsp;</strong>at QUP in experimental physics.</div><div><br></div><div>The International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP) is a World Premier International Research Center Initiative (WPI) promoted by the Japanese government and hosted by the High Energy Accelerator Research Organization (KEK), the leading national high energy physics laboratory in Japan.&nbsp;</div><div><br></div><div>QUP aims to explore new quantum fields and forces and probe physical phenomena with extremely weak couplings, such as light dark matter, axions, and gravitational waves, by pioneering the weak coupling frontier through the use of cutting-edge quantum sensors and devices. QUP operates under a distinctive organizational model in which researchers from a broad range of institutions, including KEK, converge at QUP to pursue common scientific objectives. QUP's principal research activities are conducted at its central facility, with additional support provided by satellite laboratories at the University of California at Berkeley (USA), Toyota Central R&amp;D Lab., and ISAS at the Japanese space agency JAXA. These programs are designed to bridge quantum technologies with particle and fundamental physics, materials science, and biomedical applications through deeply coordinated, intra-institutional collaboration.&nbsp;</div><div><br></div><div>Successful candidates are expected to conduct research for the QUP experimental projects with the Principal Investigators. An overview of the QUP research, including the relationship between the projects, can be found at:&nbsp;<a href=\"https://www2.kek.jp/qup/en/research/\"><strong>https://www2.kek.jp/qup/en/research/</strong></a>. We are particularly seeking candidates who are interested in any of the following research topics:</div><ul><li>Laser development for hydrogen fountain experiments aimed at antimatter gravity measurements,</li><li>Development of TES detectors and their application to the exploration of physical phenomena with extremely weak couplings,</li><li>Development of diamond-based quantum sensors for light dark matter searches,</li><li>Fabrication and/or operation of superconducting qubits for searches for new physics, such as axion dark matter, and gravitational waves.</li></ul><div>The contract for this postdoctoral fellowship will be on an annual basis. The renewal of the contract depends on the continuing availability of funds and the fellow's satisfactory job performance. The maximum term of the position is three years, with the possibility of a two-year renewal based upon satisfactory job performance and ongoing operational need, provided with salaries comparable to those at other prestigious institutions.</div><div><br></div><div>As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. QUP is an equal opportunity employer that will build a diverse community of scientists. We welcome qualified applicants worldwide, including women, persons with disabilities, and underrepresented minorities, regardless of race, color, religion, gender identity, etc.</div><div><br></div><div>Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. The posting shall remain open until the positions are filled. However, for full consideration, we encourage all candidates to apply by March 10, 2026. Applications will only be accepted via&nbsp;<a href=\"http://academicjobsonline.org/\">AcademicJobsOnline.org</a>. Applicants should submit a curriculum vitae (with an email address and citizenship), a statement of research interests, and a list of publications. Applicants should also ensure that at least three letters of reference be submitted on their behalf. They should be uploaded from this page. Email inquiries&nbsp;regarding the application process may be sent to :&nbsp;&nbsp;<a href=\"mailto:qup_job_inquiry@ml.post.kek.jp\"><strong>qup_job_inquiry@ml.post.kek.jp</strong></a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "astro-ph",
+        "physics.ins-det",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31520"
+      ],
+      "contact_email": null,
+      "created": "2026-02-04T14:47:11.989766+00:00",
+      "updated": "2026-02-04T15:47:23.092796+00:00",
+      "addedAt": "2026-02-05T08:11:44.201Z",
+      "isNew": true
+    },
+    {
       "id": "3114977",
       "title": "Postdoctoral Research in Neutrino Physics",
       "institution": "Indiana U., Bloomington (main)",
@@ -27,7 +110,7 @@
       "created": "2026-02-03T18:47:43.949974+00:00",
       "updated": "2026-02-03T20:51:38.040506+00:00",
       "addedAt": "2026-02-04T08:10:33.491Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3114976",
@@ -52,7 +135,7 @@
       "created": "2026-02-03T18:14:42.552612+00:00",
       "updated": "2026-02-03T18:36:45.380174+00:00",
       "addedAt": "2026-02-04T08:10:33.491Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3114001",
@@ -78,7 +161,7 @@
       "created": "2026-02-03T08:29:26.494308+00:00",
       "updated": "2026-02-03T17:38:06.057901+00:00",
       "addedAt": "2026-02-04T08:10:33.491Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3113210",
@@ -3728,6 +3811,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-04T08:10:33.491Z",
-  "totalJobs": 139
+  "lastUpdated": "2026-02-05T08:11:44.201Z",
+  "totalJobs": 142
 }

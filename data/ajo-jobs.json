@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "ajo-31520",
+      "title": "QUP Postdoctoral Fellows in Experimental Physics",
+      "institution": "KEK",
+      "deadline": "2026-03-11",
+      "description": "We are seeking outstanding applicants for several Postdoctoral Fellow\n   positions at QUP in experimental physics.\n   The International Center for Quantum-field Measurement Systems for\n   Studies of the Universe and Particles (QUP) is a World Premier\n   International Research Center Initiative (WPI) promoted by the\n   Japanese government and hosted by the High Energy Accelerator Research\n   Organization (KEK), the leading national high energy physics\n   laboratory in Japan.\n   QUP aims to explore new quantum fields and forces and probe physical\n   phenomena with extremely weak couplings, such as light dark matter,\n   axions, and gravitational waves, by pioneering the weak coupling\n   frontier through the use of cutting-edge quantum sensors and devices.\n   QUP operates under a distinctive organizational model in which\n   researchers from a broad range of institutions, including KEK,\n   converge at QUP to pursue common scientific objectives. QUP's\n   principal research activities are conducted at its central facility,\n   with additional support provided by satellite laboratories at the\n   University of California at Berkeley (USA), Toyota Central R&#x26;D Lab.,\n   and ISAS at the Japanese space agency JAXA. These programs are\n   designed to bridge quantum technologies with particle and fundamental\n   physics, materials science, and biomedical applications through deeply\n   coordinated, intra-institutional collaboration.\n   Successful candidates are expected to conduct research for the QUP\n   experimental projects with the Principal Investigators. An overview of\n   the QUP research, including the relationship between the projects, can\n   be found at: https://www2.kek.jp/qup/en/research/. We are particularly\n   seeking candidates who are interested in any of the following research\n   topics:\n\n     * Laser development for hydrogen fountain experiments aimed at\n       antimatter gravity measurements,\n\n     * Development of TES detectors and their application to the\n       exploration of physical phenomena with extremely weak couplings,\n\n     * Development of diamond-based quantum sensors for light dark matter\n       searches,\n\n     * Fabrication and/or operation of superconducting qubits for\n       searches for new physics, such as axion dark matter, and\n       gravitational waves.\n\n   The contract for this postdoctoral fellowship will be on an annual\n   basis. The renewal of the contract depends on the continuing\n   availability of funds and the fellow's satisfactory job performance.\n   The maximum term of the position is three years, with the possibility\n   of a two-year renewal based upon satisfactory job performance and\n   ongoing operational need, provided with salaries comparable to those\n   at other prestigious institutions.\n   As a WPI research center, QUP is designed to establish an\n   international environment where more than 30% of researchers are\n   non-Japanese. English is the official language of QUP. QUP is an equal\n   opportunity employer that will build a diverse community of\n   scientists. We welcome qualified applicants worldwide, including\n   women, persons with disabilities, and underrepresented minorities,\n   regardless of race, color, religion, gender identity, etc.\n   Applicants should have a Ph.D. in Physics or a related field by the\n   time the appointment begins. The posting shall remain open until the\n   positions are filled. However, for full consideration, we encourage\n   all candidates to apply by March 10, 2026. Applications will only be\n   accepted via AcademicJobsOnline.org. Applicants should submit a\n   curriculum vitae (with an email address and citizenship), a statement\n   of research interests, and a list of publications. Applicants should\n   also ensure that at least three letters of reference be submitted on\n   their behalf. They should be uploaded from this page. Email inquiries\n   regarding the application process may be sent to :\n   qup_job_inquiry@ml.post.kek.jp",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/KEK/QUP/31520?rss"
+      ],
+      "contact_email": "qup_job_inquiry@ml.post.kek.jp",
+      "created": "2026-02-04T17:00:00.000Z",
+      "updated": "2026-02-04T17:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-02-05T08:11:45.301Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31541",
       "title": "&#xEF;&#xBB;&#xBF;Joint KIAS-KAIST Research Fellow Position in Particle Physcis",
       "institution": "Korea Institute for Advanced Study",
@@ -26,6 +51,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-04T08:10:34.248Z",
-  "totalJobs": 1
+  "lastUpdated": "2026-02-05T08:11:45.301Z",
+  "totalJobs": 2
 }
