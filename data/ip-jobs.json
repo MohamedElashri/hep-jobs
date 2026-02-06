@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3115406",
+      "title": "Postdoctoral Research Fellow for ATLAS experiment",
+      "institution": "SDU, Qingdao",
+      "deadline": "2026-04-30",
+      "description": "<div>The Institute of Frontier and Interdisciplinary Science at Shandong University, Qingdao, invites applications for an immediate postdoctoral position to join the ATLAS experiment. The successful candidate will be part of the ATLAS collaboration at CERN, primarily based in Qingdao, with opportunities for short or extended stays at CERN as needed.</div><div><br></div><div>The appointee will contribute significantly to key ATLAS data analyses, including studies of Higgs boson Yukawa couplings to second-generation fermions, Higgs boson self-coupling through di-Higgs production, and searches for Higgs decays into invisible signatures, etc.</div><div><br></div><div>The initial appointment is for two years. Applicants should hold or expect to soon obtain a Ph.D. in experimental particle physics. We offer a competitive salary commensurate with qualifications and experience, as well as support in applying for national research grants.</div><div><br></div><div>Interested candidates should submit a CV detailing research experience and publications, a statement of research interests, and at least three reference letters. Applications and inquiries should be directed to Prof. Yanlin Liu at yanlin@sdu.edu.cn.</div><div><br></div><div>Review of applications will begin immediately and continue until the position is filled.</div><div><br></div><div>Established on November 24, 2017, the Institute of Frontier and Interdisciplinary Science is dedicated to advancing cross-disciplinary research and education at the forefront of physics and its relevant sub-fields. This institute comprises three distinguished research centers: the Research Center for Particle Science and Technology, the Optical-Thermal Radiation Research Center, and the Center for Integrated Research on Space Science, Astronomy, and Physics, each recognized for excellence in its specialized field.Alongside cutting-edge disciplinary research, the Institute demonstrates strong commitment to cultivating future scholars, currently hosting 112 undergraduate and 154 postgraduate during the 2024-2025 academic year. Supported by a faculty of 64 professors and researchers, it fosters a dynamic intellectual environment where scholars from diverse domains unite to expand the frontiers of knowledge across the vast landscape of physics.</div><div><br></div><div>More information: <a href=\"https://frontier-en.qd.sdu.edu.cn/index.htm\">https://frontier-en.qd.sdu.edu.cn/index.htm</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-05T03:31:43.279301+00:00",
+      "updated": "2026-02-05T15:34:05.530913+00:00",
+      "addedAt": "2026-02-06T08:11:32.245Z",
+      "isNew": true
+    },
+    {
+      "id": "3116424",
+      "title": "PhD position in cryogenic dark matter searches",
+      "institution": "U. Zurich (main)",
+      "deadline": "2026-03-01",
+      "description": "<div><br></div><div>The Experimental Astroparticle Physics Group of Prof. Dr. Björn Penning at the University of Zurich invites applications for a PhD position in cryogenic Dark Matter (DM) searches. The successful candidate will contribute to data analysis, hardware development, and preparations for cryogenic DM searches, with a focus on TESSERACT. The thesis research includes, but is not restricted to:</div><ul><li>R&amp;D and prototyping of superconducting setups and sensors</li><li>Simulation, reconstruction, and data analysis of cryogenic detectors</li><li>Statistical interpretation of results</li><li>Supporting underground operations and data‑taking</li></ul><div>We seek candidates strongly motivated to pursue a rigorous research programme in an international environment. A master's degree in physics and a solid background in particle or astroparticle physics are required. The ideal candidate has interests in instrumentation and data analysis, and is willing to travel. Enthusiasm to expand existing skills is valued.</div><div><br></div><div>The group is deeply involved in TESSERACT, a cryogenic DM experiment targeting leading sensitivity to low‑mass DM. It employs state‑of‑the‑art superconducting quantum sensors, including transition‑edge sensors (TES), and a multi‑target approach to probe multiple DM interaction channels and improve background discrimination. The experiment will be built and operated at the Modane Underground Laboratory. The group is responsible for detector shielding and contributes to simulation and cryogenic activities. Locally, we develop superconducting nanowire single‑photon detectors (SNSPD) for quantum sensing within the QROCODILE experiment. Our infrastructure includes dilution refrigerators, micro‑fabrication access at FIRST in Zurich, in‑house machine and electronics workshops, and access to test beams at the Paul Scherrer Institute. The group is also active in the LUX‑ZEPLIN (LZ) and XLZD liquid‑xenon DM experiments.</div><div><br></div><div>Applicants should submit a curriculum vitae, academic transcripts, a research statement, and the names of at least two reference writers via the application system in AJO: <a href=\"https://academicjobsonline.org/ajo/jobs/31640.\">https://academicjobsonline.org/ajo/jobs/31640</a>. The position may start at the earliest convenience. Proficiency in English is required. PhD positions are fully funded according to Swiss salary regulations and typically last 3–4 years. For applicants from outside the EU, employment is subject to approval by immigration authorities, a process that may take up to three months.</div><div><br></div><div>Applications will be reviewed immediately and considered until the position is filled. For full consideration, the complete application should be received by Mar 1st, 2025. Applications received after this date will be considered until the position is filled.</div><div><br></div><div><strong>Contact:</strong></div><div>Prof. Dr. Björn Penning</div><div>bjoern.penning@uzh.ch</div><div>Dr. Knut Morå</div><div>knut.moraa@physik.uzh.ch</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "TESSERACT"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31640"
+      ],
+      "contact_email": null,
+      "created": "2026-02-05T15:13:57.553614+00:00",
+      "updated": "2026-02-05T15:30:15.972292+00:00",
+      "addedAt": "2026-02-06T08:11:32.245Z",
+      "isNew": true
+    },
+    {
       "id": "3115008",
       "title": "Postdoctoral Research associate at the ATLAS experiment",
       "institution": "Northern Illinois U.",
@@ -25,7 +77,7 @@
       "created": "2026-02-04T03:17:42.228003+00:00",
       "updated": "2026-02-04T15:59:21.168134+00:00",
       "addedAt": "2026-02-05T08:11:44.201Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3115007",
@@ -52,7 +104,7 @@
       "created": "2026-02-04T00:46:41.637912+00:00",
       "updated": "2026-02-04T15:56:36.922018+00:00",
       "addedAt": "2026-02-05T08:11:44.201Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3115359",
@@ -81,7 +133,7 @@
       "created": "2026-02-04T14:47:11.989766+00:00",
       "updated": "2026-02-04T15:47:23.092796+00:00",
       "addedAt": "2026-02-05T08:11:44.201Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3114977",
@@ -3811,6 +3863,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-05T08:11:44.201Z",
-  "totalJobs": 142
+  "lastUpdated": "2026-02-06T08:11:32.246Z",
+  "totalJobs": 144
 }

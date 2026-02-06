@@ -23,7 +23,7 @@
       "updated": "2026-02-04T17:00:00.000Z",
       "source": "AcademicJobsOnline",
       "addedAt": "2026-02-05T08:11:45.301Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ajo-31541",
@@ -51,6 +51,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-05T08:11:45.301Z",
+  "lastUpdated": "2026-02-06T08:11:32.252Z",
   "totalJobs": 2
 }
