@@ -1,6 +1,143 @@
 {
   "jobs": [
     {
+      "id": "3116872",
+      "title": "Postdoctoral Scholar in Neutrinos / Neutrino Mass (Project 8)",
+      "institution": "Penn State U., University Park (main)",
+      "deadline": "2026-02-28",
+      "description": "<div>The Eberly College of Science, Department of Physics at The Pennsylvania State University is seeking to fill one&nbsp;<strong>Postdoctoral Researcher&nbsp;</strong>position in the area of&nbsp;<strong>Neutrino Physics</strong>. The successful candidate will have the opportunity to work on the&nbsp;<strong>Project 8 Neutrino Mass Experiment</strong>&nbsp;and on detector R&amp;D.&nbsp;The Project 8 experiment seeks to determine the neutrino mass via the precise measurement of the electron energy in beta decays.&nbsp;We have developed and demonstrated the viability of a novel technique called Cyclotron Radiation Emission Spectroscopy (CRES), which allows single electron detection and characterization through the measurement of cyclotron radiation emitted by magnetically-trapped electrons produced by a gaseous radioactive source. We are currently working on the design of a large scale detector aimed at measuring the neutrino mass.</div><div><br></div><div>In this position you will report to Dr. de Viveiros, and your responsibilities will include leading detector R&amp;D at the Penn State laboratory; work in the design and construction of the next phase of the Project 8 experiment, with a focus on signal acquisition systems using resonant cavities for a large tritium detector; simulations and analysis of Project 8 detector signals; analysis of existing and future science data of the Project 8 experiment.</div><div><br></div><div>Requirements include a Ph.D. in Physics, and the ideal candidate should have experience with experimental particle astrophysics, nuclear physics, particle physics or a related field. Applications must be submitted electronically and include a cover letter, CV and statement of research interests.&nbsp;<strong>Applicants should arrange for three reference letters to be submitted to ldeviveiros@psu.edu by March 2nd, 2026, indicating the job number (REQ_0000073465) in the subject line</strong>. This is a term appointment funded for one year, with possibility of renewal. Review of applications will begin immediately and continue until a suitable candidate is found.</div><div><br></div><div>Informal inquiries about this post may be made to:&nbsp;<a href=\"mailto:ldeviveiros@psu.edu\">ldeviveiros@psu.edu</a></div><div><br></div><div>Link to Apply:</div><div><a href=\"https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1\">https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det",
+        "physics"
+      ],
+      "experiments": [
+        "PROJECT-8"
+      ],
+      "urls": [
+        "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar--Neutrino-Physics_REQ_0000073465-1"
+      ],
+      "contact_email": null,
+      "created": "2026-02-05T23:31:28.567922+00:00",
+      "updated": "2026-02-06T15:28:28.482370+00:00",
+      "addedAt": "2026-02-07T08:06:11.212Z",
+      "isNew": true
+    },
+    {
+      "id": "3117135",
+      "title": "Two PhD positions in the ATLAS group",
+      "institution": "Nikhef, Amsterdam",
+      "deadline": "2026-03-08",
+      "description": "<div><strong>The organization </strong></div><div>Nikhef is the national institute for subatomic physics in the Netherlands. At Nikhef, approximately 220 physicists and 80 technical staff work together in an open and international scientific environment. Together they perform theoretical and experimental research in the fields of particle and astroparticle physics. Nikhef is a partnership between six major Dutch universities and NWO-I Foundation, the Institutes Organization of the Dutch Research Council (NWO).</div><div><br></div><div>Among the research collaborations Nikhef participates in are the ALICE, ATLAS and LHCb experiments at CERN, the KM3NeT neutrino telescope in the Mediterranean, the Virgo gravitational waves interferometer in Pisa, the Xenon-nT dark matter experiment in Gran Sasso, the Pierre Auger cosmic ray observatory in Argentina, and the eEDM research programme in Groningen. There are also scientific groups on Theory, Physics Data Processing and Detector R&amp;D. Nikhef avails over excellently equipped technical departments in mechanics, electronics and computing.</div><div><br></div><div><strong>The Nikhef ATLAS group</strong></div><div>The Nikhef ATLAS group consists of a total of 15 scientific staff, typically 5 postdocs and 15 PhD students. As a founding member of the ATLAS collaboration, the group has a long-term involvement in detector construction (the semiconductor tracker, barrel muon chambers, readout, alignment, and data acquisition).</div><div><br></div><div>For the phase-2 upgrade (2027-2030), we will instrument and commission one of the end-caps of a new all-silicon inner tracking system (ITk) in Amsterdam, commission the High Granularity Timing Detector (HGTD), and develop the new universal readout system (FELIX) for ATLAS detector systems.</div><div><br></div><div>The group also has a strong record in track reconstruction, flavour tagging algorithm development as well as physics data analysis, with a focus on Higgs boson physics, top quark physics, and searches for new physics signatures.</div><div><br></div><div><strong>The positions</strong></div><div>After the discovery of the Higgs boson in 2012 at the LHC, the hunt for physics beyond the Standard Model (SM) has intensified. A wide range of possible new physics scenarios at high energy scales can be described by the theoretical framework SM Effective Field Theory (SM-EFT) at energy scales below where new interactions could be directly observed, and which are currently accessible by the LHC.</div><div><br></div><div>Subtle effects at LHC energy scales may be expected in process that involve the two most massive particles of the SM, the top quark and Higgs boson. The top-Higgs interaction is currently poorly constrained, but new deep learning techniques that exploit the structure of the Lagrangian provide a tantalizing chance to probe anomalous couplings with unprecedented precision. In SM Effective Field Theory anomalous top-Higgs interactions are expressed in the operator Oφt, which remains one of the most poorly constrained operators of SM-EFT to date.&nbsp;&nbsp;</div><div><br></div><div><strong>Position</strong> <strong>1</strong> will focus on Higgs boson production through the ggHZ process, where the top quark contributes via a quantum loop and is therefore sensitive to top-Higgs interactions. This process is interesting by itself as of today no separate measurement of its cross section is available due to the large background of the qqHZ process. The use, and further development, of modern techniques such as Transformer networks open a window to exploring this process.</div><div><br></div><div><strong>Position 2</strong> will focus on new experimental results to extract poorly constrained SMEFT coefficients of the corresponding operators, including&nbsp;Oφt, which models anomalous top-Higgs interactions. Understanding systematic effects and their propagation in deep learning networks is crucial for this project. The playground for this study is initially provided by the gg-&gt;HZ and rare top-quark processes, including the tZq process, and then gradually extended to other process.</div><div><br></div><div>Both positions are jointly supervised by prof. dr. Marcel Vreeswijk and prof. dr. Wouter Verkerke. The positions offered here are funded by the NWO-M2-project&nbsp;“When Higgs bosons meet Top quarks” and embedded in the Nikhef ATLAS group.&nbsp;Candidates will be employed by the University of Amsterdam, and will be based at Nikhef in Amsterdam.</div><div><br></div><div><strong>Requirements</strong></div><div>We are looking for PhD candidates with an (almost) completed Master degree in high-energy physics or in a closely related field. The ideal candidate has a strong interest in data analysis, has good software skills (Python, C++, ROOT) and has (some) research experience in experimental particle physics. Experience with machine learning algorithms and software is desirable but not required.</div><div><br></div><div><strong>Offer </strong></div><div>We offer a temporary contract for 38 hours per week for the duration of 4 years (the initial contract will be for a period of 18 months and after satisfactory evaluation it will be extended for a total duration of 4 years). The gross monthly salary, based on 38 hours per week ranges between € 3,059 to € 3,881 (Scale P). This does not include 8% holiday allowance and 8.3% year-end allowance. The UFO profile PhD candidate is applicable. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants. This employment should lead to a dissertation (PhD thesis). We will draft an educational plan that includes attendance of courses and (international) meetings. We also expect you to assist in teaching undergraduates and master students. During the doctoral program there is the possibility for extended stays at CERN, up to a total of 1 year.&nbsp;Further details can be found <a href=\"https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/working-at-the-faculty/working-at-the-faculty-of-science.html\">here</a>.</div><div><br></div><div><strong>Application</strong></div><div>Qualified applicants are encouraged to apply by visiting the Nikhef recruitment portal at this <a href=\"https://jobs.nikhef.nl/jobs/two-phd-candidates-in-the-atlas-group-1263680/\">link</a>, and filling out the application form. The deadline for applications is <strong>March 8th, 2026</strong>. Please be prepared to upload a short cover letter, a curriculum vitae and have the email address of at least two referees ready who are willing to send a letter of recommendation on your behalf. Please note that reference letters will only be requested for selected candidates after the application deadline has passed. A knowledge security check can be part of the selection procedure.</div><div><br></div><div>Please indicate in which position(s) you are interested in your cover letter. Interviews with selected candidates are foreseen in the first half of April. For further information, feel free to contact list co-supervisors for details on the positions, or prof. dr. Wouter Verkerke for general information about the Nikhef ATLAS group.</div><div><br></div><div><strong>About the University of Amsterdam</strong></div><div>The&nbsp;<a href=\"https://www.uva.nl/en/faculty/faculty-of-science/faculty-of-science.html\">Faculty of Science</a>&nbsp;has a student body of around 8,000, as well as 1,800 members of staff working in education, research or support services. Researchers and students at the Faculty of Science are fascinated by every aspect of how the world works, be it elementary particles, the birth of the universe or the functioning of the brain.&nbsp;The Institute of Physics (IoP) is located in the centre of the Amsterdam Science Park. The IoP – as part of the Faculty of Science – is housed in a modern building with excellent labs and technical facilities. Surrounded by several national research institutes and with our partners at the Vrije Universiteit Amsterdam, the institute is part of a strong physics centre of international standing. One of the institutes that the IoP has very close ties to is Nikhef, the national institute for subatomic physics in The Netherlands. The positions recruited here are fully embedded in the ATLAS group at Nikhef.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-06T12:44:55.274498+00:00",
+      "updated": "2026-02-06T15:24:10.690476+00:00",
+      "addedAt": "2026-02-07T08:06:11.212Z",
+      "isNew": true
+    },
+    {
+      "id": "3117088",
+      "title": "Postdoctoral Position in Hadron Collider Physics at the LHC with the ATLAS Detector",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-03-03",
+      "description": "<div>The High Energy Physics Institute in Barcelona (IFAE-Barcelona) announces the opening of a Postdoctoral Position to participate in its hadron collider experimental program using the ATLAS detector at the LHC. IFAE is one of the top research centers in Spain conducting experimental and theoretical research at the frontier of fundamental physics, as well as developing cutting-edge detector technology. In 2012, 2016, and 2025 IFAE was awarded the distinction of “Severo Ochoa” Centre of Excellence by the Spanish Ministry of Economy and Competitiveness.&nbsp;</div><div><br></div><div>General information about IFAE is available at <a href=\"http://www.ifae.es\">http://www.ifae.es</a>.&nbsp;</div><div><br></div><div>IFAE maintains a strong presence in the ATLAS experiment, with major responsibilities on the maintenance and operation of the TileCal hadronic calorimeter and the Level-1 Topological Trigger system, and participates in the Pixel detector upgrade and, more recently, in the TDAQ Phase-II upgrade. The group has also developed an exciting and broad research program that includes precision measurements of the top quark (e.g., four-top-quark production) and the Higgs boson (e.g., top-Higgs Yukawa coupling, di-Higgs production), and searches for new phenomena beyond the Standard Model (e.g., supersymmetry, vector-like fermions, leptoquarks, additional light or heavy Higgs bosons, etc.).&nbsp;</div><div><br></div><div>The successful postdoctoral candidate will join the IFAE-ATLAS group and will participate in first-class research with the ATLAS detector. They will participate in the analysis of the data collected during Run 2 and Run 3 of the LHC and the preparation of the ATLAS detector for the High-Luminosity LHC. The duration of the position is 2 years.</div><div><br></div><div>Applicants should hold a Ph.D. in Experimental Particle Physics, which should have been obtained during the last three years. They should provide a curriculum vitae, a brief description of research interests, and arrange for three letters of recommendation to be sent by e-mail to Dr. Imma Riu (<a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>), Dr. Tamara Vázquez Schröder (<a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>) and <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a> stating the job reference (IFAE2026/09_ATLAS_Postdoc) as the subject of the message <strong>by March 3, 2026</strong>. The position will remain open until filled.&nbsp;</div><div><br></div><div>IFAE is an equal opportunity employer committed to diversity in the workplace, and we welcome applications from all qualified candidates. Women are particularly encouraged to apply.&nbsp;</div><div><br></div><div>Sending CVs to the above addresses implies consent to the <a href=\"https://www.ifae.es/about/legal-warning\">IFAE's legal warning on data privacy</a>. The application must contain a personal identification number (DNI, NIE or passport) in order to proceed to the verification of absence of conflict of interest required by Recovery and Resilience Mechanism of the Spanish Government.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.ifae.es/careers/jobs/2026/02/postdoctoral-position-in-atlas-group/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-06T09:38:02.184011+00:00",
+      "updated": "2026-02-06T15:22:46.654240+00:00",
+      "addedAt": "2026-02-07T08:06:11.212Z",
+      "isNew": true
+    },
+    {
+      "id": "3117092",
+      "title": "PhD Studentship on the ATLAS Experiment",
+      "institution": "U. Sussex (main)",
+      "deadline": "2026-02-28",
+      "description": "<div>Applications are invited from talented and creative students for a PhD place in Experimental Particle Physics to join the Sussex group working under the supervision of Prof Fabrizio Salvatore on searches for Beyond the Standard Model physics the ATLAS experiment. The main topic of the studentship is to extend the work that is currently ongoing in searching for Heavy Neutral Leptons, HNLs, in final states containing tau leptons. The existence of right-handed neutrinos with Majorana masses below the electroweak scale could provide a way to solve the problem of neutrino masses, matter-anti-matter asymmetry and dark matter. Final states with tau leptons have not been explored so far in ATLAS and are known to have a significant impact in improving the sensitivity of the ATLAS searches in the discovery of these new particles. The ATLAS-Sussex group has over the years made world-leading contributions to BSM physics at the Large Hadron Collider (LHC), and the candidate will profit from the vast BSM experience within the group to make a leading impact in this crucial area of LHC physics.</div><div><br></div><div>In addition to the analysis project, the candidate will contribute to the technical work of the ATLAS-Sussex group in the ATLAS Trigger. Over the years the ATLAS-Sussex group has made leading contributions to several areas of the ATLAS Trigger (e.g. Inner Detector tracking trigger, tracking trigger for the future upgrade of the ATLAS experiment), with several people holding convenorship positions in the ATLAS Trigger. The candidate will be spending a fraction of their time in one of the areas of the trigger with Sussex leadership. There will be opportunities to travel to CERN to work with international partners who are based in the Geneva area.</div><div><br></div><div>Funding is available for a September 2026 start which includes a tax-free bursary (£20,780 per annum in 2025/26) and fully paid tuition fees for 3.5 years at the home-student level (£5,006 per annum in 2025). Additional financial support is provided to cover short-term and long-term travel. Interviews of shortlisted candidates will be held in March initially and will continue until positions are filled. Applications from self-funded students interested in our research are also welcome at any time of the year.</div><div><br></div><div>For more details about the project, please contact Prof Fabrizio Salvatore: <a href=\"mailto:P.F.Salvatore@sussex.ac.uk\">P.F.Salvatore@sussex.ac.uk</a>.</div><div>For practical questions about applications and/or eligibility for funding, please contact <a href=\"mailto:FoSEM-PGR@sussex.ac.uk\">FoSEM-PGR@sussex.ac.uk</a>.</div><div>For academic questions please contact the coordinator of EPP PhD admissions, Dr Elisabeth Falk: <a href=\"mailto:E.Falk@sussex.ac.uk?subject=EPP%20PhD%20enquiry\">E.Falk@sussex.ac.uk</a>.</div><div><br></div><div>Applications: <a href=\"https://www.sussex.ac.uk/study/phd/apply\">https://www.sussex.ac.uk/study/phd/apply</a></div><div>Please state in the Finance section of the online form that you are applying for STFC EPP studentships.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.sussex.ac.uk/epp/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-06T10:50:25.379495+00:00",
+      "updated": "2026-02-06T15:19:42.800442+00:00",
+      "addedAt": "2026-02-07T08:06:11.212Z",
+      "isNew": true
+    },
+    {
+      "id": "3117138",
+      "title": "Postdoctoral Researcher in the ALICE Experiment",
+      "institution": "Jyvaskyla U.",
+      "deadline": "2026-03-01",
+      "description": "<div>The Department of Physics, the <strong>Finnish team in the ALICE experiment is seeking a postdoctoral researcher.</strong></div><div><br></div><div>The 1+2 years postdoctoral position will <strong>start on 1 September 2026</strong>.&nbsp;</div><div><br></div><div>Our group is part of the Center of Excellence in Quark Matter (CoE), recognized by the Finnish Research Council. The CoE consists of approximately 35 researchers across three theoretical and two experimental teams, forming an international community with members from over 15 countries. By combining experimental and theoretical research, the CoE provides a unique environment and community for work in QCD and relativistic heavy‑ion physics.&nbsp;</div><div><br></div><div><strong>Apply between 6 February 2026 and 1 March 2026 23:59 (Europe/Helsinki)</strong></div><div><br></div><div><strong>We are looking for a candidate who:</strong></div><ul><li>has a completed PhD degree in a relevant field,</li><li>performs jet analysis with Run 3 data collected by ALICE, and</li><li>contributes to the ALICE forward calorimeter (FoCal) upgrade.</li></ul><div><strong>We appreciate prior experience with:</strong></div><ul><li>data analysis in a large experimental collaboration,</li><li>instrumentation, electronics, and test‑beam measurements, and</li><li>responsibilities within an experimental collaboration.</li></ul><div>The PhD degree required for the position must have been completed before the starting date. A trial period of six months will be used in the beginning of the employment.</div><div><br></div><div>The starting salary will be approximately <strong>3,800 EUR per month</strong>, subject to taxation. For comparison, the Finnish median salary was about 3,300 EUR per month in 2024. We also support your relocation to Jyväskylä with a settling-in allowance. The University of Jyväskylä offers excellent occupational healthcare benefits in addition to broad public healthcare services.&nbsp;</div><div><br></div><div><strong>The application documents that should be included</strong> (pdf):</div><ul><li>A CV</li><li>A Short and free-form motivation/cover letter (max. 1 page), outlining your expectations for the postdoctoral position, your research interests, and career goals</li><li>Degree certificate (PhD degree).</li><li>A Compact portfolio (max. 3 pages) describing relevant skills for the position, with justifications when possible (Other attachement).</li></ul><div>Applications should be submitted via the <strong>University of Jyväskylä online application form by March 1, 2026</strong>. Applications sent via email are not considered.</div><div><br></div><div>Link to the on-line system:</div><div><a href=\"https://ats.talentadore.com/apply/postdoctoral-researcher-in-the-alice-experiment/m5nJnB\">https://ats.talentadore.com/apply/postdoctoral-researcher-in-the-alice-experiment/m5nJnB</a></div><div><br></div><div>For further information, please contact Associate Professor Sami Räsänen,&nbsp;sami.s.rasanen@jyu.fi.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [
+        "https://ats.talentadore.com/apply/postdoctoral-researcher-in-the-alice-experiment/m5nJnB"
+      ],
+      "contact_email": null,
+      "created": "2026-02-06T13:28:24.466881+00:00",
+      "updated": "2026-02-06T15:16:55.606968+00:00",
+      "addedAt": "2026-02-07T08:06:11.212Z",
+      "isNew": true
+    },
+    {
       "id": "3115406",
       "title": "Postdoctoral Research Fellow for ATLAS experiment",
       "institution": "SDU, Qingdao",
@@ -23,7 +160,7 @@
       "created": "2026-02-05T03:31:43.279301+00:00",
       "updated": "2026-02-05T15:34:05.530913+00:00",
       "addedAt": "2026-02-06T08:11:32.245Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3116424",
@@ -50,7 +187,7 @@
       "created": "2026-02-05T15:13:57.553614+00:00",
       "updated": "2026-02-05T15:30:15.972292+00:00",
       "addedAt": "2026-02-06T08:11:32.245Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3115008",
@@ -3863,6 +4000,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-06T08:11:32.246Z",
-  "totalJobs": 144
+  "lastUpdated": "2026-02-07T08:06:11.213Z",
+  "totalJobs": 149
 }
