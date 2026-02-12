@@ -1,6 +1,111 @@
 {
   "jobs": [
     {
+      "id": "3118320",
+      "title": "Postdoctoral Research Associate – ATLAS Experiment",
+      "institution": "Geneva U.",
+      "deadline": "2026-03-09",
+      "description": "<div><strong>Postdoctoral Research Associate – ATLAS Experiment</strong></div><div>University of Geneva, Particle Physics Department (DPNC)</div><div><br></div><div>We invite applications for an outstanding Postdoctoral Research Associate to join the ATLAS experiment at CERN’s Large Hadron Collider at a truly pivotal moment: the construction, commissioning, and early operation of the ATLAS Inner Tracker (ITk). This is a two-year position, with the possibility of a two-year extension.</div><div><br></div><div><strong>About Us</strong></div><div>The DPNC ATLAS group is a major contributor to the ITk Pixel upgrade, with a leading role in the construction and integration of the Outer Barrel. This project represents a unique opportunity to be directly involved in building one of the most advanced silicon tracking detectors ever deployed, shaping ATLAS for the High-Luminosity LHC era.</div><div><br></div><div>Our group has a long and recognized track record in silicon detector development, spanning multiple experiments and applications. We combine deep hardware expertise with strong involvement in ATLAS operations and physics, and we actively develop and apply modern machine-learning techniques in particle physics. Joining our team means being embedded in a dynamic, interdisciplinary environment at the interface of detector hardware, software, and physics.</div><div><br></div><div><strong>Key Responsibilities</strong></div><ul><li>Lead and coordinate DPNC contributions to ITk Pixel construction, integration, and commissioning</li><li>Play a central role during the transition from construction to early detector operation</li><li>Work closely with engineers and technicians, and supervise PhD and Master’s students</li><li>Opportunity to contribute to R&amp;D activities for future collider projects</li><li>Limited teaching duties at the University of Geneva</li></ul><div><strong>Ideal Candidate Profile</strong></div><ul><li>PhD in particle physics or a closely related field</li><li>Demonstrated ability to work independently and take scientific responsibility</li><li>Strong background in silicon detector instrumentation and hardware systems</li><li>Solid programming and data-analysis skills</li><li>Excellent communication skills and enthusiasm for collaborative work in large international teams</li></ul><div><strong>Application Process</strong></div><div>Please submit the following by&nbsp;<strong>March 9, 2026</strong>&nbsp;to&nbsp;<a href=\"mailto:Sergio.Gonzalez@unige.ch\"><strong>Sergio.Gonzalez@unige.ch</strong></a>:</div><ul><li>Curriculum vitae</li><li>Motivation statement</li></ul><div>Applicants should also arrange for at least three recommendation letters to be sent directly to the same address, with the subject line:&nbsp;<em>“Recommendation letter for [Your Name]”</em>.</div><div><br></div><div>The position is expected to start as early as possible.</div><div>For further information, please contact&nbsp;<a href=\"mailto:Tobias.Golling@unige.ch\"><strong>Tobias.Golling@unige.ch</strong></a>,&nbsp;<a href=\"mailto:didier.ferrere@cern.ch\"><strong>didier.ferrere@cern.ch</strong></a>, or&nbsp;<a href=\"mailto:Sergio.Gonzalez@unige.ch\"><strong>Sergio.Gonzalez@unige.ch</strong></a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-11T17:26:21.979531+00:00",
+      "updated": "2026-02-11T20:32:18.427797+00:00",
+      "addedAt": "2026-02-12T08:13:02.139Z",
+      "isNew": true
+    },
+    {
+      "id": "3118326",
+      "title": "Postdoc position - Research contract",
+      "institution": "U. Padua, Dept. Phys. Astron.",
+      "deadline": "2026-02-17",
+      "description": "<div>The MEMOREM project at the Physics Department of Padova University pushes the boundaries of <strong>neurons fluorescence imaging</strong> through the development of an <strong>advanced metasurface‑based</strong> platform for <strong>magneto‑optical resonance excitation</strong>. Funded by the Italian Research Ministry, it aims at redefining the state-of-the-art microscopy for neuroscience and material research.</div><div><br></div><div>The project supports a <strong>research contract</strong> position (the highest postdoc level available, ex RTDA) at the Padova University Department of Physics and Astronomy, for a 2 years duration (extendable within the project boundaries).</div><div><br></div><div><strong>Your mission</strong></div><div>As postdoc you will investigate the magneto-optical resonance of Na23 clusters, work on the development of a magnet control system, the integration of the metasurface chip into the microscope and the characterization of the magneto-optical setup, including the beam pulsing and alignment tuning.</div><div><br></div><div><strong>Your profile&nbsp;</strong></div><div>PhD degree in physics, engineering or equivalent subject. The degree needs to be obtained by the time of the decision of employment. Priority will be given to applicants who have completed their degree no more than one year before the deadline for applications.</div><div><br></div><div><strong>What do we offer</strong></div><div>The Physics and Astronomy Department (DFA) is the biggest and one of the most important University research departments for Physics in Italy. It hosts and collaborates with the Padova section of INFN (National Institute for Nuclear Physics), and INAF (National Institute for Astrophisics), as well as all the major research institutions and laboratories across Europe.</div><div>The position is full time, with a starting date to be agreed upon (best before July 2026).</div><div><br></div><div><strong>Where to apply</strong></div><div><a href=\"https://www.dfa.unipd.it/servizi/amministrazione-trasparente/bandi-di-concorso/bandi-didattica-ricerca-e-altre-tipologie/contratti-di-ricerca/selezioni-aperte-o-in-svolgimento/bando-decreto-248-del-23012026-2026cr01-scadenza-17022026-ore-1300-1-posto-di-contratto-di-ricerca-gsd-02phys-03-ssd-phys-03a/\">https://www.dfa.unipd.it/servizi/amministrazione-trasparente/bandi-di-concorso/bandi-didattica-ricerca-e-altre-tipologie/contratti-di-ricerca/selezioni-aperte-o-in-svolgimento/bando-decreto-248-del-23012026-2026cr01-scadenza-17022026-ore-1300-1-posto-di-contratto-di-ricerca-gsd-02phys-03-ssd-phys-03a/</a></div><div><br></div><div>You can in any case send your CV and your motivation letter to Prof. Anna Archetti,</div><div><a href=\"mailto:anna.archetti@unipd.it\">anna.archetti@unipd.it</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "cond-mat",
+        "q-bio",
+        "physics",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.dfa.unipd.it/servizi/amministrazione-trasparente/bandi-di-concorso/bandi-didattica-ricerca-e-altre-tipologie/contratti-di-ricerca/selezioni-aperte-o-in-svolgimento/bando-decreto-248-del-23012026-2026cr01-scadenza-17022026-ore-1300-1-posto-di-contratto-di-ricerca-gsd-02phys-03-ssd-phys-03a/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-11T18:41:46.936077+00:00",
+      "updated": "2026-02-11T20:28:23.068301+00:00",
+      "addedAt": "2026-02-12T08:13:02.139Z",
+      "isNew": true
+    },
+    {
+      "id": "3118298",
+      "title": "Postdoctoral Associate in TOP Operation and Hardware Development for SuperKEKB/Belle II Experiment",
+      "institution": "U. Hawaii (main)",
+      "deadline": "2026-02-28",
+      "description": "<div>The Department of Physics and Astronomy at the University of Hawaii at Manoa invites applications for a postdoctoral associate position in particle physics, focused on the Belle II experiment at the SuperKEKB asymmetric e+e- collider at the KEK laboratory in Tsukuba, Japan. The expected start date is May 2026, with some flexibility. The position is renewable annually for up to five years, contingent upon funding availability and satisfactory performance.</div><div><br></div><div><strong>Duties:</strong></div><div>The successful candidate will be involved in the operation, readout, and data acquisition of the Belle II experiment, which will continue for over 10 years, accumulating high-statistics data for the study of missing-energy decays and CP violation in the decays of B mesons and search for physics beyond the Standard Model in B, D, and tau decays. A key responsibility is the operation of the Time-of-Propagation (TOP) detector, a subsystem of the Belle II detector. The role involves maintaining and supporting the TOP detector operation including firmware development and the readout electronics.</div><div><br></div><div>The candidate may choose to be based either in Hawaii or at KEK in Tsukuba, Japan. However, if based in Hawaii, frequent travel to KEK will be required, especially during Belle II operation periods. Depending on the candidate's skills and interests, there will be opportunities for involvement in physics analysis and/or performance studies related to the TOP.</div><div><br></div><div><strong>Qualification:</strong></div><div>We seek an outstanding, highly motivated candidate with strengths in hardware or firmware development, who enjoys working as part of a larger team. A PhD in experimental high energy physics, electrical engineering, or a closely related field is required to begin employment. Experience with modern particle detectors and data analysis techniques is highly desirable.</div><div><br></div><div><strong>Compensation:</strong></div><div>We offer a competitive stipend, commensurate with experience and qualifications. For more information, please contact: Prof. Keisuke Yoshihara (<a href=\"mailto:kyoshiha@hawaii.edu\">kyoshiha@hawaii.edu</a>).</div><div><br></div><div><strong>To Apply: </strong>Please submit a</div><ul><li>Cover letter</li><li>Curriculum vitae,&nbsp;</li><li>List of references,&nbsp;</li><li>Description of past research,&nbsp;</li><li>List of publications.&nbsp;</li></ul><div>Additionally, please arrange for three letters of recommendation.&nbsp;</div><div><br></div><div>Electronic submission of application materials and letters is strongly encouraged. All materials should be sent to kyoshiha@hawaii.edu. Please combine all your application materials into a single PDF file, and use the subject line “Belle II Postdoctoral Search.”</div><div>Recruitment will remain open until the position is filled; however, applications received after February 28, 2026, may not receive full consideration.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "eess"
+      ],
+      "experiments": [
+        "KEK-BF-BELLE-II"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-11T09:45:07.030237+00:00",
+      "updated": "2026-02-11T15:57:36.454323+00:00",
+      "addedAt": "2026-02-12T08:13:02.139Z",
+      "isNew": true
+    },
+    {
+      "id": "3118315",
+      "title": "University Professorship (W3) „Experimental Elementary Particle Physics“",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-04-15",
+      "description": "<div>The professorship is embedded in the research and teaching activities of the Institute of Experimental Particle Physics (ETP) at KIT, the KIT Center for Elementary Particle and Astroparticle Physics (KCETA), and the KIT-Department of Physics.</div><div><br></div><div>The professor is expected to represent experimental particle physics in its full breadth and will particularly strengthen detector development for high-energy physics experiments. The candidate will assume a leading role in the conception, further development, operation, and performance optimization of modern particle detector systems.</div><div><br></div><div>The research profile should demonstrate expertise in innovative detector technologies for high-energy physics. Active participation and scientific leadership in ongoing and future international detector collaborations are expected.</div><div><br></div><div>The professorship is expected to contribute to and further strengthen KIT’s involvement in major high-energy physics experiments and to actively participate in the design and preparation of next-generation detector systems. Close, interdisciplinary collaboration within KIT, in particular within the framework of KCETA and the associated Doctoral School KSETA and the KIT-Center for Health Technologies, as well as the transfer of technologies to other fields, is explicitly encouraged.</div><div><br></div><div>You will perform university duties with a teaching obligation of 9 hours a week per semester.</div><div><br></div><div>A completed doctorate (PhD) preferrentially in physics, outstanding, internationally visible scientific achievements in experimental particle physics, particularly in detector instrumentation, as well as pedagogical aptitude are required.</div><div>The candidate should demonstrate experience in supervising students and early-career researchers and show a strong commitment to high-quality teaching at the undergraduate and graduate levels. Employment is subject to Article 14(2) of the KIT Act in conjunction with Article 47 of the Landeshochschulgesetz Baden-Württemberg (LHG).</div><div><br></div><div>Please mail your application with the relevant documents (curriculum vitae, list of publications, diplomas/certificates, teaching evaluations, description of previous and planned research and teaching activities, research and teaching concept, description of your own contributions in the above-mentioned areas, acquired third-party funds, statement on scientific honesty), preferably as a single PDF file, to Karlsruhe Institute of Technology (KIT), Division V, Head of Division Professor Marc Weber, E-Mail:&nbsp;<a href=\"mailto:dekanat@physik.kit.edu\">dekanat@physik.kit.edu</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.pse.kit.edu/english/karriere/joboffer.php?id=165827"
+      ],
+      "contact_email": null,
+      "created": "2026-02-11T15:03:35.915232+00:00",
+      "updated": "2026-02-11T15:49:09.991824+00:00",
+      "addedAt": "2026-02-12T08:13:02.139Z",
+      "isNew": true
+    },
+    {
       "id": "3117917",
       "title": "PhD Candidate in Experimental High-Energy Heavy-Ion Physics (ALICE)",
       "institution": "Maastricht U.",
@@ -26,7 +131,7 @@
       "created": "2026-02-10T14:00:27.014423+00:00",
       "updated": "2026-02-10T17:28:31.805122+00:00",
       "addedAt": "2026-02-11T08:13:47.275Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3117264",
@@ -4163,6 +4268,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-11T08:13:47.275Z",
-  "totalJobs": 155
+  "lastUpdated": "2026-02-12T08:13:02.140Z",
+  "totalJobs": 159
 }
