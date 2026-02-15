@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "id": "ajo-31687",
+      "title": "Junior position in theoretical physics at the Institut de Physique Theorique (IPhT, CEA Saclay)",
+      "institution": "CEA-Saclay",
+      "deadline": "2026-03-21",
+      "description": "The Institut de Physique Theorique (IPhT) invites applications for a\n   junior-level permanent position in physics. The position is opened for\n   researchers working on phenomenology of the standard models of the two\n   infinities. This includes the standard model of cosmology (e.g.\n   physics of the early Universe, large scale-structures or gravitational\n   waves) and the standard model of particle physics (e.g. QCD and\n   heavy-ion physics).\n\n   Applications (including a cover letter, a CV, a research statement and\n   a list of publications) and three reference letters should be sent\n   through Academic Jobs Online.\n\n   The position is roughly equivalent to a tenured assistant\n   professorship with no teaching obligations. The IPhT is a Research\n   Institute of CEA and CNRS, and is associated to the Universit&#xE9;\n   Paris-Saclay. IPhT is a multidisciplinary institute, with a strong\n   expertise in a wide range of topics in theoretical physics. It is\n   located in the south of Paris, a rich scientific environment. CEA and\n   the broader Paris-Saclay area also count many other institutes working\n   on related physics aspects, both theoretical and experimental. More\n   details can be found at https://www.ipht.fr/en. A description of the\n   group concerned by the hiring is found at\n   https://www.ipht.fr/en/cosmology-astrophysics-high-energy-physics-and-hadronic-matter.",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/CEA-Saclay/IPhT/31687?rss"
+      ],
+      "contact_email": null,
+      "created": "2026-02-13T17:00:00.000Z",
+      "updated": "2026-02-13T17:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-02-15T08:06:19.036Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31520",
       "title": "QUP Postdoctoral Fellows in Experimental Physics",
       "institution": "KEK",
@@ -75,6 +99,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-14T08:05:41.863Z",
-  "totalJobs": 3
+  "lastUpdated": "2026-02-15T08:06:19.036Z",
+  "totalJobs": 4
 }
