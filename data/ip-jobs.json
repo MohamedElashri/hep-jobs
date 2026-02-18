@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3120951",
+      "title": "Postdoctoral Research Associate in Particle Physics",
+      "institution": "Liverpool U.",
+      "deadline": "2026-03-02",
+      "description": "<div>We are seeking to appoint a postdoctoral researcher to join our programme on application-specific detector R&amp;D for physics experiments, supported by the UK Science and Technology Facilities Council (STFC).</div><div>&nbsp;</div><div>The successful candidate will contribute to the R&amp;D and production of the Mighty-Tracker, a new UK-led sub-detector for LHCb to be installed during Long Shutdown 4 in the 2030s (Upgrade II) to instrument the downstream tracking stations. The Mighty-Tracker is a hybrid detector comprising scintillating fibres in the outer region (Cryo-SciFi) and monolithic silicon pixels in the inner region (Mighty-Pixel), where hit rates and radiation levels are highest. Mighty-Pixel combines monolithic High Voltage CMOS sensors with lightweight module integration to provide high granularity at low material budget. Several UK groups, including Liverpool, are actively engaged in the R&amp;D phase and will play key roles in construction, working closely with international partners.</div><div>&nbsp;</div><div>We are looking for candidates with a PhD in experimental particle physics and a strong track record in one or more of the following areas: silicon detector R&amp;D and production; mechanical assembly of silicon detector components (e.g. modules, staves); development and/or implementation of electro-mechanical quality-control procedures; evaluation of silicon detector components; or readout electronics development. Experience with monolithic silicon technologies and/or participation in large-scale detector projects would be advantageous. For appointment at the higher advertised grade, applicants are expected to demonstrate an established research profile and to have made significant contributions to detector development.</div><div>&nbsp;</div><div>The group's work currently includes the following principal research areas:</div><ul><li>Design and performance evaluation of monolithic High Voltage CMOS sensor chips for operation in high-rate and high-radiation environments;</li><li>Design and qualification of off-chip electronics;</li><li>Commissioning and operation of precision assembly infrastructure;</li><li>Development and implementation of electro-mechanical quality-control and testing procedures for detector validation;</li><li>Development of data acquisition (DAQ) systems for silicon tracking detectors;</li><li>System tests.</li></ul><div>The post is available until 30 September 2027.</div><div>&nbsp;</div><div><strong>If you are still awaiting your PhD to be awarded you will be appointed at Grade 6, spine point 30.&nbsp;Upon written confirmation that you have been awarded your PhD, your salary will be increased to Grade 7, spine point 31.</strong></div><div>&nbsp;</div><div><strong>Commitment to Diversity</strong></div><div>The University of Liverpool is committed to enhancing workforce diversity. We actively seek to attract, develop, and retain colleagues with diverse backgrounds and perspectives. We welcome applications from all genders/gender identities, Black, Asian, or Minority Ethnic backgrounds, individuals living with a disability, and members of the LGBTQIA+ community.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://my.corehr.com/pls/ulivrecruit/erq_jobspec_version_4.display_form?p_company=1&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=105233"
+      ],
+      "contact_email": null,
+      "created": "2026-02-17T17:15:47.704789+00:00",
+      "updated": "2026-02-17T18:20:28.957179+00:00",
+      "addedAt": "2026-02-18T08:12:53.264Z",
+      "isNew": true
+    },
+    {
       "id": "3120592",
       "title": "Post-Doctoral Position in Experimental Long-Baseline Neutrino Oscillation Physics",
       "institution": "Indiana U., Bloomington (main)",
@@ -26,7 +53,7 @@
       "created": "2026-02-16T22:02:34.537297+00:00",
       "updated": "2026-02-16T22:38:47.155385+00:00",
       "addedAt": "2026-02-17T08:13:19.814Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3120590",
@@ -53,7 +80,7 @@
       "created": "2026-02-16T19:45:40.653587+00:00",
       "updated": "2026-02-16T20:40:56.714109+00:00",
       "addedAt": "2026-02-17T08:13:19.814Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3119881",
@@ -82,7 +109,7 @@
       "created": "2026-02-15T16:48:24.361236+00:00",
       "updated": "2026-02-16T15:32:18.827822+00:00",
       "addedAt": "2026-02-17T08:13:19.814Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3120586",
@@ -109,7 +136,7 @@
       "created": "2026-02-16T14:45:18.721486+00:00",
       "updated": "2026-02-16T15:29:20.010006+00:00",
       "addedAt": "2026-02-17T08:13:19.814Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3118320",
@@ -4379,6 +4406,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-17T08:13:19.814Z",
-  "totalJobs": 163
+  "lastUpdated": "2026-02-18T08:12:53.264Z",
+  "totalJobs": 164
 }
