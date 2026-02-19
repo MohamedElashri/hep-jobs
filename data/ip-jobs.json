@@ -1,6 +1,113 @@
 {
   "jobs": [
     {
+      "id": "3121275",
+      "title": "PhD studentship on novel opaque scintillator detector R&D and neutrino physics",
+      "institution": "U. Sussex (main)",
+      "deadline": "2026-03-13",
+      "description": "<div>Applications are invited from talented, creative, and motivated students&nbsp;for a PhD place in Experimental Particle Physics to join the Sussex&nbsp;group working on novel opaque scintillator detector R&amp;D&nbsp;and neutrino physics under the supervision of Prof Jeff Hartnell.</div><div><br></div><div>You will have the opportunity to work on the&nbsp;exciting and counter-intuitive idea of using opaque scintillators as particle detectors. Traditionally,&nbsp;light travels through a transparent scintillator to a photosensor. Our approach, called LiquidO, embeds a lattice&nbsp;of optical fibres in an opaque scintillator with a short scattering length. The scintillation photons are stochastically confined close to the point of production via scattering and extracted by the fibres, removing the need for manual segmentation to create high-resolution imaging detectors. There are many applications in particle physics and beyond. Further information can be found here:&nbsp;<a href=\"https://youtu.be/Ccc3ecIoowk\">https://youtu.be/Ccc3ecIoowk</a>.</div><div><br></div><div>You will join one of the largest groups developing this technology world-wide. Prof Jeff Hartnell co-leads the CLOUD neutrino experiment, which will deploy a 10-ton LiquidO detector 35 metres from Europe’s most powerful nuclear reactor cores at Chooz in France on the timescale of this studentship. The Sussex group also has a strong programme of in-house prototype development, construction, operation and analysis as well as characterisation of different scintillators and fibres.&nbsp;</div><div><br></div><div>This project also includes the opportunity to spend an extended period working overseas.</div><div><br></div><div>Funding is available for a September 2026 start which includes a tax-free bursary (£20,780 per annum in 2025/26) and fully paid tuition fees for 3.5 years at the home-student level (£5,006 per annum in 2025). Additional financial support is provided to cover short-term and long-term travel. Interviews of shortlisted candidates will be held in March initially and will continue until positions are filled. Applications from self-funded students interested in our research are also welcome at any time of the year.</div><div><br></div><div>For more details about the project, please contact&nbsp;Prof Jeff Hartnell:&nbsp;<a href=\"mailto:J.J.Hartnell@sussex.ac.uk\">J.J.Hartnell@sussex.ac.uk</a>.</div><div>For practical questions about applications and/or eligibility for funding, please contact&nbsp;<a href=\"mailto:FoSEM-PGR@sussex.ac.uk\">FoSEM-PGR@sussex.ac.uk</a>.</div><div>For academic questions please contact the coordinator of EPP PhD admissions, Dr W Clark Griffith&nbsp;<a href=\"mailto:W.C.Griffith@sussex.ac.uk\">W.C.Griffith@sussex.ac.uk</a>.</div><div><br></div><div>Applications:&nbsp;<a href=\"mailto:https://www.sussex.ac.uk/study/phd/apply\">https://www.sussex.ac.uk/study/phd/apply</a></div><div>Please state in the Finance section of the online form that you are applying for STFC EPP studentships.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "LiquidO"
+      ],
+      "urls": [
+        "https://www.sussex.ac.uk/epp/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-18T21:28:41.752306+00:00",
+      "updated": "2026-02-18T22:52:59.009096+00:00",
+      "addedAt": "2026-02-19T08:12:49.142Z",
+      "isNew": true
+    },
+    {
+      "id": "3121271",
+      "title": "PhD Studentship on the ATLAS Experiment",
+      "institution": "U. Sussex (main)",
+      "deadline": "2026-03-13",
+      "description": "<div>A fully funded PhD studentship is available to join the Sussex team working&nbsp;on the ATLAS experiment at the Large Hadron Collider. The student will work&nbsp;under the main supervision of Dr Kate Shaw.&nbsp;The Sussex ATLAS group has had a long standing and significant involvement in the final state top-antitop plus X to search for new physics beyond the Standard Model utilizing and developing new Machine Learning techniques, and effective field theory (EFT) interpretations. The focus of the PhD project will be to significantly contribute to these efforts using ATLAS Run-3 data.</div><div><br></div><div>The student will also spend their time on technical tasks that are well aligned with Sussex’s institutional responsibility on the ATLAS trigger. There will also be opportunities for training and involvement in particle physics outreach and communication projects or working with ATLAS Open Data for research and for education.</div><div><br></div><div>Funding is available for a September 2026 start which includes a tax-free bursary (£20,780 per annum in 2025/26) and fully paid tuition fees for 3.5 years at the home-student level (£5,006 per annum in 2025). Additional financial support is provided to cover short-term and long-term travel. Interviews of shortlisted candidates will be held in March initially and will continue until positions are filled. Applications from self-funded students interested in our research are also welcome at any time of the year.</div><div><br></div><div>For more details about the project, please contact&nbsp;Dr Kate Shaw:&nbsp;<a href=\"mailto:kate.shaw@sussex.ac.uk\">kate.shaw@sussex.ac.uk</a>.</div><div>For practical questions about applications and/or eligibility for funding, please contact&nbsp;<a href=\"mailto:FoSEM-PGR@sussex.ac.uk\">FoSEM-PGR@sussex.ac.uk</a>.</div><div>For academic questions please contact the coordinator of EPP PhD admissions, Dr W Clark Griffith&nbsp;<a href=\"mailto:W.C.Griffith@sussex.ac.uk\">W.C.Griffith@sussex.ac.uk</a>.</div><div>Applications:&nbsp;<a href=\"mailto:https://www.sussex.ac.uk/study/phd/apply\">https://www.sussex.ac.uk/study/phd/apply</a></div><div>Please state in the Finance section of the online form that you are applying for STFC EPP studentships.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.sussex.ac.uk/epp/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-18T21:09:11.923188+00:00",
+      "updated": "2026-02-18T22:51:36.651892+00:00",
+      "addedAt": "2026-02-19T08:12:49.142Z",
+      "isNew": true
+    },
+    {
+      "id": "3121230",
+      "title": "Postdoctoral position: Detector Innovation Fellowship",
+      "institution": "U. Mainz, PRISMA",
+      "deadline": "2026-03-31",
+      "description": "<div>The Cluster of Excellence “Precision Physics, Fundamental Interactions and Structure of Matter (PRISMA++)” at the Johannes Gutenberg University Mainz addresses the basic questions about the nature of the fundamental building blocks of matter and their importance for the physics of the universe. It consists of renowned research groups that work primarily in the areas of astroparticle, high energy, nuclear, hadron physics as well as precision physics with ultra-cold neutrons and ion traps.</div><div>One of the key initiatives of the Cluster is the PRISMA Detector Laboratory (<a href=\"https://prisma.uni-mainz.de/en/prisma-detector-lab/\">https://prisma.uni-mainz.de/en/prisma-detector-lab/</a>), providing expertise and infrastructure for the development, construction and testing of state-of-the-art particle detectors, with a particular focus on tracking detectors and time-projection-chambers, photodetectors, fast electronics and scintillator and fluorescence detectors.</div><div>The detector laboratory is offering a three-year</div><div><br></div><div><strong>Detector</strong> <strong>Innovation</strong> <strong>Fellowship</strong></div><div><br></div><div>to pursue an independent, innovative detector research project. The successful candidate will have full access to the detector laboratory infrastructure and a project budget of 50’000 EUR.</div><div><br></div><div>We require a Ph.D. in experimental (astro-)particle, hadron, nuclear or atomic physics and significant experience with detector research and development. Salary and benefits are in accordance with German standards (TV-L E14, approx. 61,600 – 70,000 EUR p.a.).</div><div><br></div><div>Candidates are invited to propose an independent research project furthering detector technologies fitting to the portfolio of the cluster and making use of the infrastructure of the detector laboratory. The project should have connections to the experiments pursued by the groups in PRISMA++ but also have a scope beyond a single experiment. Applications will be judged by the qualifications and potential of the candidate as well as the quality and potential impact of the research project.</div><div><br></div><div>Please direct any questions and your application (cover letter, CV, project description of max. 5 pages and list of three references in a single pdf file) to Sebastian Böser and Niklaus Berger (<a href=\"mailto:dif@uni-mainz.de\">dif@uni-mainz.de</a>) until March 31st 2026.</div><div><br></div><div>The Johannes Gutenberg University Mainz aims at increasing the percentage of women in academic positions and strongly encourages women scientists to apply. The university is an equal opportunity employer and particularly welcomes applications from persons with disabilities.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "nucl-ex",
+        "physics.acc-ph",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-18T15:52:57.756268+00:00",
+      "updated": "2026-02-18T16:02:29.687647+00:00",
+      "addedAt": "2026-02-19T08:12:49.142Z",
+      "isNew": true
+    },
+    {
+      "id": "3120982",
+      "title": "PhD and MSc Positions in Experimental Particle Physics (Belle II Experiment)",
+      "institution": "Manitoba U.",
+      "deadline": "2026-03-31",
+      "description": "<div><strong>MSc and PhD Positions in Experimental Particle Physics&nbsp;</strong></div><div>University of Manitoba, Winnipeg, Canada</div><div><br></div><div><strong>Description:</strong></div><div>The Experimental Subatomic Physics research group at the University of Manitoba invites applications for MSc and PhD student positions in Experimental Particle Physics. The U. Manitoba Belle II Group is active in the areas of dark sector&nbsp;searches and precision studies of the strong interaction.&nbsp;The group is also innovating cutting-edge scintillator detector technologies and developing new neutral hadron reconstruction algorithms.</div><div><br></div><div>Successful applicants will:</div><ul><li>Conduct cutting-edge research with the Belle II particle physics experiment, which is operating at the SuperKEKB e+e- collider at Japan's KEK Laboratory.</li><li>Join an internationally collaborative research team and conduct searches for dark matter or precision studies of the strong interaction.</li><li>Have the opportunity to visit the KEK Laboratory to contribute to Belle II detector operations and explore new algorithms for high energy photon and neutral hadron detection.</li></ul><div>The Belle II Collaboration comprises over 110 institutes from across the globe and offers an internationally diverse and highly collaborative research environment.</div><div><br></div><div><strong>Qualifications:</strong></div><ul><li>BSc in Physics or BEng in a related field completed by the start date.</li><li>Proficiency in English (written and oral).</li></ul><div><strong>To Apply:</strong></div><div>Students interested should send a single pdf document to Dr. Savino Longo,&nbsp;<a href=\"mailto:Savino.Longo@umanitoba.ca\">Savino.Longo@umanitoba.ca</a>, containing:</div><ul><li>CV</li><li>Academic transcripts.&nbsp;</li></ul><div>Review of applications will begin immediately and continue until the position is filled.&nbsp;</div><div><br></div><div>Note this is only an expression of interest.&nbsp;Selected candidates will be required to submit a formal application to the University of Manitoba graduate program.</div><div><br></div><div>The Subatomic Physics Group at the University of Manitoba is strongly committed to equity and diversity and especially welcomes applications from women, racialized persons, Indigenous peoples, persons with disabilities, persons of all sexual and gender identities, and others who may contribute to the further diversification of ideas. All qualified candidates are encouraged to apply; however, Canadian citizens and permanent residents will be given priority.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD",
+        "MASTER"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-18T01:34:20.497564+00:00",
+      "updated": "2026-02-18T16:00:51.969431+00:00",
+      "addedAt": "2026-02-19T08:12:49.142Z",
+      "isNew": true
+    },
+    {
       "id": "3120951",
       "title": "Postdoctoral Research Associate in Particle Physics",
       "institution": "Liverpool U.",
@@ -25,7 +132,7 @@
       "created": "2026-02-17T17:15:47.704789+00:00",
       "updated": "2026-02-17T18:20:28.957179+00:00",
       "addedAt": "2026-02-18T08:12:53.264Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3120592",
@@ -4406,6 +4513,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-18T08:12:53.264Z",
-  "totalJobs": 164
+  "lastUpdated": "2026-02-19T08:12:49.143Z",
+  "totalJobs": 168
 }
