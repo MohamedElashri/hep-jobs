@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3121568",
+      "title": "Post Doc Research Associate, LZ Dark Matter Experiment & Detector R&D",
+      "institution": "Purdue U., West Lafayette",
+      "deadline": "2026-05-01",
+      "description": "<div>The Department of Physics and Astronomy at Purdue University is seeking a Postdoctoral Associate to join our dark matter group and work on the LZ experiment as well as the development of new detector technologies.</div><div>&nbsp;</div><div>LZ is a dual-phase liquid xenon time projection chamber with world-leading sensitivity to major particle dark matter candidates. It also provides sensitivity to neutrinoless double-beta decay, a process that violates number conservation. Our group is involved in many aspects of the LZ experiment, from detector calibration, simulations to data analysis.</div><div>&nbsp;</div><div>The successful candidate will play an active role in analyzing LZ data, with opportunities to improve simulation models used in rare-event searches, develop machine learning methods for background rejection, and place constraints on new physics using LZ datasets.</div><div>&nbsp;</div><div>In addition, the postdoc will lead the development of a dedicated testbed to advance dark matter detection technologies. This work will involve close collaboration with the PI and technical staff to design, build, and operate a particle detector within a cryogenic system, evaluate photosensor performance beyond commercially rated specifications, and calibrate the detector response.</div><div><br></div><div><strong>Application Information</strong></div><div>The position is available for a flexible start date as early as May 1, 2026. We will begin reviewing applications on March 20, 2026, and continue until the position is filled.&nbsp;</div><div>&nbsp;</div><div>Applications, including a CV and three letters of reference should be sent to Prof. Qing (Shilo) Xia (<a href=\"https://careers.purdue.edu/job/Post-Doc-Research-Associate/40410-en_US/xia268@purdue.edu\">xia268@purdue.edu</a>).</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "LZ"
+      ],
+      "urls": [
+        "https://careers.purdue.edu/job/Post-Doc-Research-Associate/40410-en_US/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-19T18:48:58.065775+00:00",
+      "updated": "2026-02-19T20:19:33.712621+00:00",
+      "addedAt": "2026-02-20T08:12:04.491Z",
+      "isNew": true
+    },
+    {
       "id": "3121275",
       "title": "PhD studentship on novel opaque scintillator detector R&D and neutrino physics",
       "institution": "U. Sussex (main)",
@@ -25,7 +53,7 @@
       "created": "2026-02-18T21:28:41.752306+00:00",
       "updated": "2026-02-18T22:52:59.009096+00:00",
       "addedAt": "2026-02-19T08:12:49.142Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3121271",
@@ -52,7 +80,7 @@
       "created": "2026-02-18T21:09:11.923188+00:00",
       "updated": "2026-02-18T22:51:36.651892+00:00",
       "addedAt": "2026-02-19T08:12:49.142Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3121230",
@@ -78,7 +106,7 @@
       "created": "2026-02-18T15:52:57.756268+00:00",
       "updated": "2026-02-18T16:02:29.687647+00:00",
       "addedAt": "2026-02-19T08:12:49.142Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3120982",
@@ -105,7 +133,7 @@
       "created": "2026-02-18T01:34:20.497564+00:00",
       "updated": "2026-02-18T16:00:51.969431+00:00",
       "addedAt": "2026-02-19T08:12:49.142Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3120951",
@@ -4513,6 +4541,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-19T08:12:49.143Z",
-  "totalJobs": 168
+  "lastUpdated": "2026-02-20T08:12:04.492Z",
+  "totalJobs": 169
 }
