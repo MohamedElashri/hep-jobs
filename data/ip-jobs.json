@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3121910",
+      "title": "PhD Student Position for the MEDICAL PHYSICS Group",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-02-27",
+      "description": "<div><a href=\"https://www.ifae.es/careers/jobs/2026/02/phd-student-position-for-the-medical-physics-group/\">https://www.ifae.es/careers/jobs/2026/02/phd-student-position-for-the-medical-physics-group/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.ifae.es/careers/jobs/2026/02/phd-student-position-for-the-medical-physics-group/"
+      ],
+      "contact_email": null,
+      "created": "2026-02-20T18:26:46.548448+00:00",
+      "updated": "2026-02-20T18:46:38.541433+00:00",
+      "addedAt": "2026-02-21T08:05:46.126Z",
+      "isNew": true
+    },
+    {
+      "id": "3121787",
+      "title": "Postdoctoral position - analysis & simulations in the P-ONE Experiment",
+      "institution": "Cracow, INP",
+      "deadline": "2026-04-03",
+      "description": "<div>The <strong>Institute of Nuclear Physics</strong> Polish Academy of Sciences (INP PAS) in <strong>Kraków</strong>, <strong>Poland</strong>, offers <strong>a Post-doc position</strong> in astroparticle neutrino physics: analysis of first data from <strong>Pacific Ocean Neutrino Experiment</strong> (P-ONE).</div><div><br></div><div>The INP PAS (<a href=\"http://www.ifj.edu.pl/\">www.ifj.edu.pl</a>) is a leading research institute in Poland with a well-establihed position in both accelerator and astroparticle high-energy physics experiments, including ATLAS, ALICE, LHCb, Pierre Auger, T2K and others.</div><div><br></div><div><a href=\"https://www.pacific-neutrino.org/\">The Pacific Ocean Neutrino Experiment </a>(<strong>P-ONE)</strong> is under rapid development in the Pacific Ocean west off Vancouver, Canada, aiming to deploy its first regular measurement line in 2026 with two prototype lines previously in operation. It aims to <strong>study astrophysical neutrinos</strong> of very high energies (10 TeV – 10 PeV) from their possible sources in the sky and also to study diffuse flux of such neutrinos. The confirmation of IceCube’s discoveries from 2013 is still needed but the main purpose of the new neutrino telescope is to provide significantly <strong>larger rates of neutrino events</strong> and – moreover – a <strong>better coverage of the sky,</strong> aiming especially to the southern sky where the Galactic Center and Galactic Plane are located.</div><div><br></div><div>The proposed work will be devoted to development of simulations and <strong>studies of the experiment’s first data,</strong> including <strong>studies of atmospheric muons background</strong> that will be available with the first measurement line but also analyses of data from the 2028-planned future detection lines. The analyses of early data will be essential to understand the detector, trigger and software performance but also to measure the muon background to the eventually searched astrophysical neutrinos.</div><div><br></div><div>The Institute of Nuclear Physics PAS (<a href=\"http://www.ifj.edu.pl/\">www.ifj.edu.pl</a>) has been for many years a member of the international collaboration that built and operated the Baikal-GVD telescope and is continuing its experience in the P-ONE Collaboration from 2022. We have organized the Collaboration Meeting in May 2023. Our main focus in the P-ONE Collaboration covers: design of <strong>simulation and reconstruction software</strong>, early<strong> analyses of data</strong> and, on the hardware side, the <strong>design and construction of laser-based detector calibration</strong> system that would allow for <em>in-situ</em> measurements of water properties.</div><div>The successful candidate will mostly be involved in the simulation &amp; analysis work.</div><div><br></div><div>Requirements to the candidate:</div><div>- PhD in particle physics, astrophysics or related; <em>The applications will be accepted if the candidate has not obtained the degree yet but has submitted the thesis and obtained at least one review. The PhD degree is required before getting employed.</em></div><div>- experience in data analysis and computer simulations;</div><div>- good skills at computer programming (C++, Python), preferably knowledge of Machine Learning techniques;</div><div>- knowledge of the GEANT4 simulation framework and other simulation software would be welcome but is not strictly required,</div><div>- experience in astroparticle physics experiments is also very welcome but not strictly required,</div><div>- fluent communication (verbal and written) in English.</div><div><br></div><div>Applications should include:</div><div>- detailed CV including a brief description of your research interest;</div><div>- two reference letters sent directly to <a href=\"mailto:pawel.malecki@ifj.edu.pl\">pawel.malecki@ifj.edu.pl</a>;</div><div>- a letter of motivation;</div><div>- a list of publications and references (if available),</div><div>+ thesis and review(s) in case the candidate hasn't obtained the degree yet.</div><div><br></div><div>The CV should contain a consent to the processing of the personal data for the purpose of the recruitment.</div><div>Applications and any questions should be directed to: pawel.malecki@ifj.edu.pl</div><div><br></div><div>We offer a 33-months<strong> contract starting in May 2026 or later </strong>(starting date is negotiable)<strong>,</strong> with a salary of around<strong> 7500 PLN</strong> (netto). The work will be carried out in collaboration with foreign partners; it will include working trips and participation in collaboration meetings and conferences.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "P-ONE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-02-20T10:01:13.785862+00:00",
+      "updated": "2026-02-20T16:42:29.922960+00:00",
+      "addedAt": "2026-02-21T08:05:46.126Z",
+      "isNew": true
+    },
+    {
       "id": "3121568",
       "title": "Post Doc Research Associate, LZ Dark Matter Experiment & Detector R&D",
       "institution": "Purdue U., West Lafayette",
@@ -26,7 +78,7 @@
       "created": "2026-02-19T18:48:58.065775+00:00",
       "updated": "2026-02-19T20:19:33.712621+00:00",
       "addedAt": "2026-02-20T08:12:04.491Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3121275",
@@ -4541,6 +4593,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-20T08:12:04.492Z",
-  "totalJobs": 169
+  "lastUpdated": "2026-02-21T08:05:46.127Z",
+  "totalJobs": 171
 }
