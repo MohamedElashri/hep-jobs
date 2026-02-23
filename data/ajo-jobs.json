@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "ajo-31694",
+      "title": "Postdoctoral Project Researcher in Experimental Particle Physics",
+      "institution": "University of Tokyo",
+      "deadline": "2026-03-27",
+      "description": "Applications are invited for a postdoctoral project researcher\n   position at the Kavli Institute for the Physics and Mathematics of the\n   Universe (Kavli IPMU (WPI)), the University of Tokyo.\n\n   The successful candidate will work on all of the following items: (1)\n   operation of the vertex detector installed in the Belle II experiment\n   operated in KEK, Japan, (2) R&#x26;D of a new vertex detector for a Belle\n   II upgrade scheduled around 2032, which includes work on the sensor\n   and mechanics design and readout system R&#x26;D, and (3) Belle II data\n   analysis. The successful candidate is expected to work closely with\n   Takeo Higuchi, a faculty member at Kavli IPMU.\n\n   This position is funded by the KAKENHI project &#x201C;Exploration of the\n   particle physics frontier at the Super B-factory and cultivation of\n   young researchers&#x201D; (22K21347, PI: Toru Iijima, Nagoya University).\n\n     1. \n\n       Position\n       Postdoctoral project researcher\n\n     2. \n\n       Applicant eligibility\n       Applicants should have a Ph.D. degree in physics or related areas\n       by the position&#x2019;s starting date.\n\n     3. \n\n       Research items\n       The successful candidate belongs to Kavli IPMU and works on the\n       vertex detector operation for the Belle II experiment, the vertex\n       detector upgrade, and the Belle II data analysis.The successful\n       candidate must conduct research at one of the predefined overseas\n       institutes for more than six months during the term.\n\n     4. \n\n       Date of the contract\n       As soon as possible.\n\n     5. \n\n       Employment conditions\n       The postdoctoral project researcher&#x2019;s contract is annual. The\n       contract is renewable until March 31, 2029, depending on the\n       review result of his/her research activity.\n\n     6. \n\n       The postdoctoral project researcher's salary varies depending on\n       his/her research record.\n\n     7. \n\n       Selection procedure\n       Screening based on the submitted documents and interview.\n\n     8. \n\n       Documents to be submitted\n       The application documents must be uploaded at Application Form &#x3C;https://academicjobsonline.org/ajo/jobs/31694/apply&#x3E;;\n       on the Academic Jobs Online server (AcademicJobsOnline.org).\n\n         * CV (including a Research Record)\n\n         * Research Statement\n\n         * Publication List\n\n         * At least three letters of recommendation\n\n     9. \n\n       Submission deadline\n       March 27, 2026 (Fri) 4PM (JST)\n\n     10. \n\n       Inquiries\n       Email inquiries regarding the KAKENHI project should be forwarded\n       to\n       Toru Iijima (iijima_at_hepl.phys.nagoya-u.ac.jp),\n       and those regarding the research items at Kavli IPMU should be\n       sent to\n       Takeo Higuchi (takeo.higuchi_at_ipmu.jp).\n       * please use @ instead of &#x22;_at_&#x22;.\n\n     11. \n\n       Note\n       The postdoctoral project researcher can receive a startup budget\n       if he/she obtains a permanent position (tenure-track position\n       included) at a Japanese research institution by the end of this\n       KAKENHI project (March 31, 2029).\n\n       In addition to this call, other research positions funded by this\n       KAKENHI grant and jointly offered by Osaka Metropolitan\n       University, Tokyo Metropolitan University, Nagoya University, Nara\n       Women's University, and Niigata University are also available.\n       Further information is available at:\n       https://kokusaisendou.atlassian.net/wiki/spaces/public/pages/193658881/B-BRAVE\n       (will be available soon)\n\n   Kavli Institute for the Physics and Mathematics of the Universe (Kavli\n   IPMU), The University of Tokyo Institutes for Advanced Study, has the\n   ambitious goal to discover the fundamental laws of nature and to\n   understand the universe from the synergetic perspectives of\n   mathematics, theoretical and experimental physics, astronomy, and\n   statistics. It is an international research institute with English as\n   its official language, established in 2007. More than half of its\n   full-time scientific members come from outside Japan.\n\n   We seek to build a diverse, highly interactive membership. Female and\n   international applicants are strongly encouraged.\n\n   Personal information received through this application process will\n   not be used for any other purposes.\n\n   Due to recent revisions of the Japanese government rules on protection\n   of personal information and on foreign trade, we are required to\n   include this link to this solicitation.",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/UTokyo/KavliIPMU/31694?rss"
+      ],
+      "contact_email": null,
+      "created": "2026-02-16T17:00:00.000Z",
+      "updated": "2026-02-16T17:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-02-23T08:13:36.151Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31687",
       "title": "Junior position in theoretical physics at the Institut de Physique Theorique (IPhT, CEA Saclay)",
       "institution": "CEA-Saclay",
@@ -74,6 +100,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-22T08:05:43.887Z",
-  "totalJobs": 3
+  "lastUpdated": "2026-02-23T08:13:36.152Z",
+  "totalJobs": 4
 }
