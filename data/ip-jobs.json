@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "id": "3123108",
+      "title": "Research Associate (full-time)",
+      "institution": "Bonn U., HISKP",
+      "deadline": "2026-03-15",
+      "description": "<div>Prof. Peter Hurck's research group works in the field of experimental hadron physics with a focus on hadron spectroscopy. A central priority is the construction of the new INSIGHT experiment at the local electron accelerator ELSA, which is part of the Cluster of Excellence Color meets Flavor. The group is responsible for the ongoing upgrade of the photon tagging detector as well as for the development and implementation of beam polarimetry and luminosity measurements. To this end, it makes use of the excellent infrastructure of the Research and Technology Centre for Detector Physics with its state-of-the-art laboratories and instruments for detector fabrication. In addition, the working group is involved in the international experiments AMBER at CERN and GlueX at Jefferson Lab.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "INSIGHT",
+        "CERN-SPS-NA-066"
+      ],
+      "urls": [
+        "https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/vacancies-1/research-associate?set_language=en"
+      ],
+      "contact_email": null,
+      "created": "2026-02-24T15:34:37.287569+00:00",
+      "updated": "2026-02-24T17:15:12.559295+00:00",
+      "addedAt": "2026-02-25T08:13:42.460Z",
+      "isNew": true
+    },
+    {
       "id": "3121910",
       "title": "PhD Student Position for the MEDICAL PHYSICS Group",
       "institution": "Barcelona, IFAE",
@@ -4593,6 +4622,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-02-24T08:13:34.730Z",
-  "totalJobs": 171
+  "lastUpdated": "2026-02-25T08:13:42.461Z",
+  "totalJobs": 172
 }
