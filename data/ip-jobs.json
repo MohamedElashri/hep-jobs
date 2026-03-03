@@ -1,6 +1,140 @@
 {
   "jobs": [
     {
+      "id": "3124438",
+      "title": "Postdoctoral Position at the LHCb Experiment",
+      "institution": "Peking U.",
+      "deadline": "2026-06-30",
+      "description": "<div>The LHCb group at Peking University invites applications for a postdoctoral research position. We are seeking highly motivated candidates to join our team and contribute to the exciting physics program of the LHCb experiment. The primary focus of this position is on the software R&amp;D for upgrade of the Electromagnetic Calorimeter (ECAL) for the High-Luminosity LHC (HL-LHC) era. The upgraded ECAL will feature high-granularity Spaghetti Calorimeter (SpaCal) technology for the inner region and Shashlik modules for the outer region, with precision hit-timing measurements achieving resolutions on the order of tens of picoseconds.</div><div>&nbsp;</div><div><strong>About the Group</strong></div><div>Since joining the LHCb collaboration in 2019, the Peking University team has been actively involved in both key physics analyses and detector R&amp;D, with contributions in both hardware and software. Our group has achieved a series of important results in frontier research areas such as CP violation, hadron spectroscopy, heavy-flavor production mechanisms, and the search for new physics beyond the Standard Model. Currently, the team is playing a significant role in the R&amp;D of the ECAL upgrade for the LHCb detector.</div><div>&nbsp;</div><div><strong>Job Description</strong></div><div>The primary responsibility of the successful candidate will be to work on software and simulation tasks for the ECAL upgrade project. This includes developing and optimizing simulation software, contributing to algorithm development (potentially involving machine learning techniques), and validating the performance of new calorimeter designs.</div><div>&nbsp;</div><div><strong>Conditions</strong></div><ul><li>The initial contract is for two years, with the possibility of extension based on satisfactory performance and mutual agreement.</li><li>The position is based at Peking University in Beijing, China, with regular opportunities for travel to CERN.</li><li>The annual gross salary (before-tax) is 340,000 CNY (approx. 42,000 EUR / 49,000 USD), which serves as a competitive baseline. This is complemented by a performance-based year-end bonus, as well as additional allowances for travel to CERN. Besides, candidates are encouraged to apply for the university-supported fellowship program. Successful applicants will receive a significantly enhanced compensation package.&nbsp;&nbsp;</li><li>The expected start date is as soon as possible, but the exact starting time is flexible and can be negotiated.</li></ul><div><strong>Candidate Profile</strong></div><ul><li>A Ph.D. in experimental particle physics or a closely related field.</li><li>Proven experience in high-energy physics data analysis and/or detector software and simulation.</li><li>Strong teamwork skills and the ability to work effectively in a large, international collaboration.</li><li>Solid programming skills (C++ and Python are essential).</li><li>Desirable qualifications: Prior experience with calorimeter systems (especially electromagnetic calorimeters) and/or experience with machine learning applications in physics.</li></ul><div>&nbsp;<strong>Application Process</strong></div><div>Interested candidates should prepare the following application materials:</div><ol><li>A Curriculum Vitae (CV), including a list of publications.</li><li>A cover letter describing your research interests, relevant experience, and motivation for applying.</li><li>Contact information for at least two referees, who should be willing to send letters of recommendation directly to the contact email below.</li></ol><div>All application materials (except reference letters) should be combined into a single PDF file and sent via email. Reference letters should be sent directly to the same address.</div><div><br></div><div>&nbsp;</div><div><strong>Review of applications will begin immediately and continue until the position is filled.</strong></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-02T11:31:10.602896+00:00",
+      "updated": "2026-03-03T02:24:59.044894+00:00",
+      "addedAt": "2026-03-03T08:10:35.845Z",
+      "isNew": true
+    },
+    {
+      "id": "3124199",
+      "title": "Fully Funded PhD Quantum Computing (ECE)",
+      "institution": "U. Alabama, Huntsville",
+      "deadline": "2026-03-15",
+      "description": "<div>1 Fully funded Quantum Computing PhD (GRA) position starting Fall 2026 at the ECE Department, University of Alabama in Huntsville, USA</div><div><br></div><div>Qualifications:</div><div>🔹Majors (Electrical/Electronics, Physics or Computer Engineering)</div><div>🔹Exposure to Quantum Computing (Need proof of Work)</div><div>🔹Having past research experience or publications will be beneficial</div><div>🔹GRE Score (good to have)</div><div>🔹If English not first language (need either Score from last 2 years):</div><div>🔹TOEFL iBT: Minimum 79 (no section below 19)</div><div>🔹IELTS: Minimum 6.0 (no section below 6.0)</div><div><br></div><div>📌Interested applicants, please email with Subject line:</div><div>“Prospective PhD Applicant 2026 - Quantum”</div><div>to <a href=\"mailto:bhaskar.gaur@uah.edu\">bhaskar.gaur@uah.edu</a> with the following:</div><div>1) a CV; 2) Research Statement or Statement of Purpose; 3) Unofficial transcripts; 4) Samples of prior papers or works; 5) GRE/Toefl/Ielts Scores;</div><div>6) Contact details for two referees who could provide reference letters.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "quant-ph",
+        "physics",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.linkedin.com/posts/bhaskargaur_phdposition-phd-phdstudent-share-7433987248163004417-bbgB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIvVBsBzay_nDJ79iEIICoXlkbdnvO_Ocw"
+      ],
+      "contact_email": null,
+      "created": "2026-03-01T21:44:07.048939+00:00",
+      "updated": "2026-03-02T18:30:00.556022+00:00",
+      "addedAt": "2026-03-03T08:10:35.845Z",
+      "isNew": true
+    },
+    {
+      "id": "3124189",
+      "title": "Post-doc position to work on the ALICE 3 outer tracker project (f/m/x)",
+      "institution": "Marietta Blau Inst., Vienna",
+      "deadline": "2026-03-31",
+      "description": "<div>MBI performs a rich experimental particle physics research program, participating in accelerator and non accelerator-based experiments. The institute has major involvement in ALICE and CMS at CERN, the Belle II experiment at KEK and several Dark Matter discovery experiments. A research group works on R&amp;D of particle detectors for those experiments, as well as for their applications in medical imaging. For that, it collaborates with MedAustron, an ion cancer therapy and research center. For an upgrade of the Belle II Vertex Detector and for the future FCCee, we design and develop depleted monolithic active pixel detectors and its associated readout electronics. In this context, MBI&nbsp;is offering a postdoc position for an initial period of three years, located in Vienna.</div><div><br></div><div>Your tasks:</div><ul><li>Design of the electronics for the ALICE Outer Tracker readout system</li><li>Verification and Characterization of prototypes in lab tests and particle beam experiments</li><li>Leadership role within the project: represent the interests of MBI towards the ALICE Outer Tracker project in daily exchanges with international collaborators</li><li>Supervision of Bachelor, Master and PhD students</li></ul><div>Your profile:</div><ul><li>PhD degree in physics with a strong background in electronics (or vice versa)</li><li>&nbsp;Previous postdoctoral positions in the domain are strongly desirable</li><li>Solid background in experimental particle physics</li><li>Experience in solid-state detector R&amp;D, field programmable gate array (FPGA) programming, and electronics</li><li>Skills in Cadence application-specific integrated circuit (ASIC) design flow, printed circuit board (PCB) design, software and simulations for electronic circuits and device simulations, and knowledge of the interactions of particles with matter are desirable&nbsp;</li></ul><div>Please check the <a href=\"https://oeawnr.onlyfy.jobs/job/gasm68nc63kcdlapoio7tkq6bzzx4o2\">provided link</a> for further information.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [
+        "https://oeawnr.onlyfy.jobs/job/gasm68nc63kcdlapoio7tkq6bzzx4o2"
+      ],
+      "contact_email": null,
+      "created": "2026-02-28T09:23:30.585386+00:00",
+      "updated": "2026-03-02T18:29:11.317667+00:00",
+      "addedAt": "2026-03-03T08:10:35.845Z",
+      "isNew": true
+    },
+    {
+      "id": "3124197",
+      "title": "Postdoctoral or senior postdoctoral researcher CMS Tracker construction and MAPS R&D",
+      "institution": "ETH, Zurich (main)",
+      "deadline": "2026-04-30",
+      "description": "<div>The Institute for Particle Physics and Astrophysics (IPA) at ETH Zurich (<a href=\"http://www.ipa.phys.ethz.ch/\">http://www.ipa.phys.ethz.ch/</a>) seeks applications for a post-doctoral researcher positions dedicated to the CMS Tracker construction and Research and Development (R&amp;D) on monolithic silicon pixel detectors. The IPA CMS group has a broad profile, actively participating in collision physics analysis and operation and upgrade of the electromagnetic calorimeter (ECAL) and plays a leading role in the construction of the pixel detector of CMS. The group is also actively involved in generic R&amp;D of monolithic pixel detectors in collaboration with PSI, as well as in targeted R&amp;D towards the vertex detectors at a future collider experiment, for example the FCCee. This R&amp;D is carried out in the framework of an international project within the ECFA DRD3 collaboration. We are searching exceptional candidates at the postdoctoral level, preferably with prior research experience in Experimental Particle Physics, in particular in silicon detector development. Experience in the development of silicon pixel detectors is an additional asset.</div><div><br></div><div>The successful candidate is expected to make significant contributions to the CMS pixel module production at ETH, the CMS Tracker Integration and Commissioning at CERN, and upon mutual interest to contribute to the characterization and development of depleted monolithic pixel detector prototypes. Candidates will actively participate in the teaching activities of the Physics Department (approximately 20-25% of the level of effort).</div><div><br></div><div>Depending on the seniority of the candidate, the position can be offered at post-doctoral or at non-tenure track senior scientist level. We will offer an initial appointment of two years that can be extended up to a maximum of 6 years upon mutual satisfaction. Interested candidates should submit their applications by April 30, 2026, along with a letter of motivation, research statement, names and contact details of three referees, and a curriculum vitae, via email to <a href=\"mailto:ipa-cms-pd@phys.ethz.ch\">ipa-cms-pd@phys.ethz.ch</a>.</div><div><br></div><div>Recommendation letters will be solicited from the provided contact information as appropriate. For inquiries (not applications) about the position, please contact&nbsp;Dr. Malte Backhaus (<a href=\"mailto:bmalte@phys.ethz.ch\">bmalte@phys.ethz.ch</a>) or Prof. Rainer Wallny (<a href=\"mailto:rainer.wallny@phys.ethz.ch\">rainer.wallny@phys.ethz.ch</a>) - please mention “ETHZ CMS TRK PD:” in the subject line). The anticipated start of the contract is June 1, 2026, or later upon mutual agreement.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://wallny-group.phys.ethz.ch/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-01T11:46:07.091142+00:00",
+      "updated": "2026-03-02T18:27:03.586605+00:00",
+      "addedAt": "2026-03-03T08:10:35.845Z",
+      "isNew": true
+    },
+    {
+      "id": "3124430",
+      "title": "Postdoctoral Fellowship in experimental high energy physics (CMS)",
+      "institution": "NICPB, Tallinn",
+      "deadline": "2026-04-15",
+      "description": "<div><strong>Postdoctoral Fellowship in experimental high energy physics</strong></div><div><br></div><div>Our experimental group at the HEP laboratory [1] of KBFI/NICPB is currently looking to expand its team.</div><div><br></div><div>The candidate would take part in our ongoing five year project aimed at searches for Di-Higgs boson production (HH) at the LHC and beyond (2025-2029). HH signatures offer insight into the Higgs boson potential itself: one of the very few unexplored corners of the Standard Model of particle physics (SM), as well as several beyond SM theories. With recent advances in analysis techniques and a large dataset from the LHCs Runs 2 and 3, SM sensitivity is coming into reach fast, making it one of the most interesting topics in the coming years!</div><div><br></div><div>The project will consist out of three main efforts:</div><ul><li>CMS Run3 HH Analysis: participation in analysis such as HH-&gt;bb𝜏𝜏 or HH-&gt;Multilepton.&nbsp;</li><li>General (CMS) HH efforts: Development of new HH signal interpretations, tools for the modelling of said signals and the active participation in HH combination and reinterpretation efforts.</li><li>Higgs and HH at future colliders: Preparation for Higgs and HH measurements at future colliders such as HL-LHC and&nbsp;FCC-ee/hh, including the development of new object reconstruction algorithms.</li></ul><div><strong>Job details:</strong></div><ul><li>Applicants must have a PhD in physics, our team mostly consists of young researchers, therefore first or second time postdocs are especially welcome!</li><li>Applicants should have both interest in and possess a research profile that enables them to work efficiently in data analysis with the CMS experiment. Experience with the CMS experiment, Higgs physics/HH, leptonic/tau signatures and/or the CMS Higgs combine framework are considered helpful.</li><li>Experience in machine learning and modern python programming is appreciated.&nbsp;</li><li>Willingness to help in the supervision of both graduate as well as undergraduate students is expected.</li><li>Our group promotes equal opportunity. As women are currently underrepresented in our field, we encourage women to apply for this position. Equally qualified and suitable female applicants will receive preference.&nbsp;</li><li>The job will be based in Tallinn / Estonia with a starting contract length of 24 months and a gross (net) salary of around 2800 (2300) euros.</li></ul><div><strong>About the group:</strong></div><div>The Laboratory of High Energy and Computational Physics (HEPC) of the National Institute of Chemical Physics and Biophysics (NICPB) is active in numerous fields such theoretical and experimental high energy, particle and astro-particle physics, nuclear physics, cosmology, physics of inflation and early Universe, in particular gravitational waves. We also have experience with high-performance computing and have an active machine learning group. With over 20 years of experience in experimental HEP, we are part of the CMS collaboration at CERN and of the LISA gravitational wave detector collaboration at the European Space Agency (ESA). We work to determine the fundamental nature of the universe through gravitational waves and other physics in the centre of excellence „Foundations of the&nbsp;Universe“ in collaboration with the University of Tartu and Tallinn Technical University.</div><div><br></div><div><strong>We encourage interested researchers to send their application including a cover letter, their CV and two letters of recommendation to </strong><a href=\"mailto:torben.lange@cern.ch\"><strong>torben.lange@cern.ch</strong></a></div><div><br></div><div><strong>Submission deadline: 15.04.2026 or until the position is filled.</strong></div><div><br></div><div><strong>Marie Skłodowska-Curie postdoctoral fellowships and Estonian Mobility grants:</strong></div><div>In addition to the job offered in this advertisement, there are also other opportunities to join our group and research efforts. We encourage suitable candidates to try applying for a <strong>Marie Skłodowska-Curie postdoctoral fellowship (MSCA fellowship)</strong> [2] with us. This option is of particular interest for researchers planning to come to Estonia as the Estonian Research Council (ETAG) offers a complementary scheme for postdoctoral grants [3] aimed at candidates that scored decently in the MSCA application but didn't receive an MSCA fellowship. Offering essentially two grant opportunities for one application. In case of interest, please contact Torben Lange (<a href=\"mailto:torben.lange@cern.ch\"><strong>torben.lange@cern.ch</strong></a>) or another senior KBFI researcher of your choice [1].</div><div><br></div><div>[1] <a href=\"https://kbfi.ee/en/high-energy-and-computational-physics/cms-data-analysis-estonia/\">https://kbfi.ee/en/high-energy-and-computational-physics/cms-data-analysis-estonia/</a></div><div>[2] <a href=\"https://marie-sklodowska-curie-actions.ec.europa.eu/actions\">https://marie-sklodowska-curie-actions.ec.europa.eu/actions</a></div><div>[3] <a href=\"https://etag.ee/en/funding/mobility-funding/postdoctoral-researcher-grant/\">https://etag.ee/en/funding/mobility-funding/postdoctoral-researcher-grant/</a>)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://kbfi.ee/en/high-energy-and-computational-physics/cms-data-analysis-estonia/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-02T08:53:36.278584+00:00",
+      "updated": "2026-03-02T18:13:50.756738+00:00",
+      "addedAt": "2026-03-03T08:10:35.845Z",
+      "isNew": true
+    },
+    {
       "id": "3123839",
       "title": "Postdoc in Neutrino Physics",
       "institution": "Mainz U., Inst. Phys.",
@@ -4757,6 +4891,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-02T08:12:18.973Z",
-  "totalJobs": 177
+  "lastUpdated": "2026-03-03T08:10:35.846Z",
+  "totalJobs": 182
 }
