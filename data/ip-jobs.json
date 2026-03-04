@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3125234",
+      "title": "PhD position with the LHCb Experiment",
+      "institution": "Nikhef, Amsterdam",
+      "deadline": "2026-03-31",
+      "description": "<div><strong>The organization</strong></div><div>Nikhef is the national institute for subatomic physics in the Netherlands. At Nikhef, approximately 220 physicists and 75 technical staff work together in an open and international scientific environment. Together they perform theoretical and experimental research in the fields of particle and astroparticle physics. Nikhef is a partnership between six major Dutch universities and NWO-I Foundation, the Institutes Organization of the Dutch Research Council (NWO).</div><div>Among the research collaborations Nikhef participates in are the ALICE, ATLAS and LHCb experiments at CERN, the KM3NeT neutrino telescope in the Mediterranean, the Virgo gravitational waves interferometer in Pisa, the Xenon-nT dark matter experiment in Gran Sasso, the Pierre Auger cosmic ray observatory in Argentina, and the eEDM research programme in Groningen. There are also scientific groups on Theory, Physics Data Processing and Detector R&amp;D. Nikhef avails over excellently equipped technical departments in mechanics, electronics and computing.</div><div><br></div><div><strong>The position</strong></div><div>Nikhef, the Dutch national institute for subatomic physics, invites applications for a PhD position in experimental particle physics within the LHCb group. The position will be based at Maastricht University, within the Department of Gravitational Waves and Fundamental Physics, and is expected to start after the summer break of 2026.</div><div>Nikhef plays a leading role in international particle physics research and is a major contributor to the LHCb experiment at CERN. LHCb is uniquely designed to study decays of heavy-flavour hadrons with exceptional precision, providing powerful probes of physics at energy scales beyond the direct reach of current colliders. In particular, decays of beauty hadrons are sensitive to possible effects of new physics through, for example, rare and semileptonic processes.</div><div>The Nikhef LHCb group is active across all levels of the experiment, from detector hardware—the VELO and SciFi tracking subdetectors—to software development and physics analysis. Within this structure, the Maastricht branch focuses on physics analyses and on the development of algorithms that reconstruct physics signals from experimental data, ranging from real-time data processing and machine learning to exploratory applications of quantum algorithms.</div><div>The successful candidate will work in close collaboration with colleagues at the University of Groningen on the study of challenging beauty-hadron decays to final states containing leptons and neutrinos. These analyses exploit novel tracking techniques developed for LHCb Run 3, enabling access to decay modes with missing energy that were previously out of reach. Such fully-leptonic decays provide a particularly clean and sensitive window on the flavour sector. To facilitate the aforementioned collaboration, regular travel between the different institutes will be covered and part of the project.</div><div>In addition, the PhD project includes a substantial contribution to the LHCb Real-Time Analysis project. This work is especially timely in view of the preparations for the upcoming LHCb Upgrade II, foreseen for Run 5, which will deliver the world’s largest flavour-physics dataset for the remainder of the century. The candidate will have the opportunity to contribute to the design and implementation of algorithms used in real-time data processing that will shape the physics output of LHCb for years to come.</div><div>This position offers a unique opportunity to work at the interface of advanced analysis techniques, high-throughput real-time data processing and high-impact flavour physics within\\ a strong national and international collaboration.</div><div>The candidate will enlist in the national OSAF graduate school, which includes six three-day Topical Lectures and two international summer schools.</div><div><br></div><div><strong>Qualifications</strong></div><ul><li>MSc. degree in physics, or a closely related field.</li><li>A keen interest in particle physics and data processing at high-energy physics experiments.</li><li>A strong background in (experimental) particle physics and statistical data analysis is an added advantage.</li><li>Experience with programming languages (e.g. python, C++) is a strong plus.</li><li>A team player, with well-developed communication and collaboration skills.</li><li>Willingness to acquire a variety of additional skills ranging from physics modelling and statistical data analysis to high-throughput programming.</li><li>Strong analytical skills.</li><li>Excellent command of both spoken and written English.</li></ul><div><strong>Offer</strong></div><div>You will be employed at the NWO-I-foundation. The appointment will be on a temporary basis for a period of 4 years and should lead to a dissertation (PhD thesis). We will draft an educational plan that includes attendance of courses and (international) meetings.&nbsp;</div><div>Based on a full-time appointment the gross monthly salary will range from €3.115,- in the first year to €3.989,– in the last year. Further details on the conditions of employment of the NWO-I-foundation can be found on&nbsp;<a href=\"http://www.nwo-i.nl/\">www.nwo-i.nl</a>.</div><div><br></div><div><strong>Maastricht University</strong></div><div>Maastricht University (UM), the European university of the Netherlands, has nearly 22,000 students and 5,000 staff. We are young, interdisciplinary and socially engaged, which is evident in everything we do. Despite our relatively recent establishment, we have already built a strong reputation through our excellent research and education, and by connecting science with regional, European and global challenges. We rank among the best young universities in the world.</div><div><br></div><div><strong>Application</strong></div><div>The submission, to be done <a href=\"https://jobs.nikhef.nl/jobs/phd-position-on-experimental-particle-physics-with-the-lhcb-experiment-1273885/\">here</a>, will require:</div><ul><li>Your CV;</li><li>A motivation letter;</li><li>The contact details of two referees willing to provide a letter of recommendation;</li></ul><div>The application deadline is 31st of March 2026. The preferred starting date is September 2026.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://jobs.nikhef.nl/jobs/phd-position-on-experimental-particle-physics-with-the-lhcb-experiment-1273885/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-03T16:24:37.759932+00:00",
+      "updated": "2026-03-03T17:34:48.470321+00:00",
+      "addedAt": "2026-03-04T08:08:45.178Z",
+      "isNew": true
+    },
+    {
       "id": "3124438",
       "title": "Postdoctoral Position at the LHCb Experiment",
       "institution": "Peking U.",
@@ -23,7 +50,7 @@
       "created": "2026-03-02T11:31:10.602896+00:00",
       "updated": "2026-03-03T02:24:59.044894+00:00",
       "addedAt": "2026-03-03T08:10:35.845Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3124199",
@@ -50,7 +77,7 @@
       "created": "2026-03-01T21:44:07.048939+00:00",
       "updated": "2026-03-02T18:30:00.556022+00:00",
       "addedAt": "2026-03-03T08:10:35.845Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3124189",
@@ -78,7 +105,7 @@
       "created": "2026-02-28T09:23:30.585386+00:00",
       "updated": "2026-03-02T18:29:11.317667+00:00",
       "addedAt": "2026-03-03T08:10:35.845Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3124197",
@@ -105,7 +132,7 @@
       "created": "2026-03-01T11:46:07.091142+00:00",
       "updated": "2026-03-02T18:27:03.586605+00:00",
       "addedAt": "2026-03-03T08:10:35.845Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3124430",
@@ -132,7 +159,7 @@
       "created": "2026-03-02T08:53:36.278584+00:00",
       "updated": "2026-03-02T18:13:50.756738+00:00",
       "addedAt": "2026-03-03T08:10:35.845Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3123839",
@@ -4891,6 +4918,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-03T08:10:35.846Z",
-  "totalJobs": 182
+  "lastUpdated": "2026-03-04T08:08:45.179Z",
+  "totalJobs": 183
 }
