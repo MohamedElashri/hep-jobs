@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3125504",
+      "title": "Research Associate (m/f/d) (Doctoral Candidate) for CMOS sensor development",
+      "institution": "Frankfurt U., Inst. Kernphys.",
+      "deadline": "2026-03-17",
+      "description": "<div>The Johann Wolfgang Goethe University Frankfurt am Main is one of the largest universities in Germany with around 41,000 students and with about 5,800 employees. Founded in 1914 by Frankfurt citizens and since 2008 once again proud of its foundation status Goethe University possesses a high degree of autonomy, modernity and professional diversity. As a comprehensive university, the Goethe University offers a total of 16 departments on five campuses and 155 degree programs along with an outstanding research reputation. Furthermore, the Goethe University is part of the Group of Rhine-Main-Universities (RMU).</div><div><br></div><div>At the Department of Physics, <strong>Institute for Nuclear Physics</strong>, the research group AG Stroth / Deveaux is seeking to fill the position of</div><div>&nbsp;</div><div><strong>Research Associate (m/f/d)</strong></div><div><strong>(Doctoral Candidate)</strong></div><div><strong>(E 13 TV-G-U, 65% part-time)</strong></div><div><strong>&nbsp;</strong></div><div>at the earliest possible date. The position is initially fixed-term until 31.12.2027. The salary grade is based on the job characteristics of the collective agreement applicable to Goethe University (TV-G-U).</div><div>&nbsp;</div><div>The research group AG Stroth / Deveaux is involved in the construction of the large-scale CBM experiment at the FAIR/GSI accelerator center in Darmstadt, in particular in the construction and the planned upgrade of the Micro-Vertex Detector (MVD) and the Silicon Tracking System (STS) of this experiment. These detector upgrades are to be implemented using monolithic CMOS pixel sensors. The scope of duties of the advertised position comprises feasibility studies for this upgrade in simulation and hardware, carried out within an international collaboration.</div><div>&nbsp;</div><div><strong>Main responsibilities:</strong> The core task of the future position holder is to conduct feasibility studies for the planned detector upgrade with the aim of developing a robust technical concept. To this end, simulations using CBMRoot as well as Allpix² are to be performed and evaluated in close cooperation with experts from the CBM experiment. In addition, the successful candidate will participate in the testing and further development of CMOS sensors within an international R&amp;D project.</div><div>&nbsp;</div><div><strong>Requirements for employment</strong> include a completed university degree in a natural science or engineering discipline (Diplom/Master) as well as fulfilment of the requirements for admission as a doctoral candidate in accordance with the PhD regulations (Promotionsordnung) in Physics at Goethe University Frankfurt am Main. We expect the ability to contribute independently, systematically and self-motivatedly to a complex technology project and to actively foster exchange with international partners and stakeholders. For this purpose, very good command of English (written and spoken), willingness to travel internationally, and confidence in an international environment are required. Prior experience in programming (C/C++, ROOT) is explicitly desired. Experience with simulation using GEANT and Allpix² is an advantage. Furthermore, basic knowledge in electronics and in silicon detector technology is expected.</div><div><br></div><div>Goethe University is strongly committed to equal opportunities, diversity, and inclusion. It particularly welcomes applications from qualified Persons of Color and places great importance on creating a family-friendly working environment within the university. Applicants with severe disabilities or those with equivalent status will be given preference if they are equally suitable and qualified. If women are underrepresented in the department or central institution, they will be given preference in cases of equal suitability and qualifications.</div><div>&nbsp;</div><div>Applications including the usual documents should be submitted <strong>by 17.03.2026</strong> to Priv.-Doz. Dr. Michael Deveaux, Institute for Nuclear Physics, Max-von-Laue-Straße 1, 60438 Frankfurt am Main, Germany. E-mail: <a href=\"mailto:stroth-applications@ikf.uni-frankfurt.de\">stroth-applications@ikf.uni-frankfurt.de</a></div><div><br></div><div>Please note that the application documents will not be returned. Costs incurred during the application process will not be reimbursed by Goethe University.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [
+        "GSI-FAIR-CBM"
+      ],
+      "urls": [
+        "https://www.uni-frankfurt.de/48794929/FB13___Physik"
+      ],
+      "contact_email": null,
+      "created": "2026-03-04T07:53:57.223837+00:00",
+      "updated": "2026-03-04T15:43:40.238350+00:00",
+      "addedAt": "2026-03-05T08:13:23.756Z",
+      "isNew": true
+    },
+    {
       "id": "3125234",
       "title": "PhD position with the LHCb Experiment",
       "institution": "Nikhef, Amsterdam",
@@ -25,7 +52,7 @@
       "created": "2026-03-03T16:24:37.759932+00:00",
       "updated": "2026-03-03T17:34:48.470321+00:00",
       "addedAt": "2026-03-04T08:08:45.178Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3124438",
@@ -4918,6 +4945,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-04T08:08:45.179Z",
-  "totalJobs": 183
+  "lastUpdated": "2026-03-05T08:13:23.756Z",
+  "totalJobs": 184
 }

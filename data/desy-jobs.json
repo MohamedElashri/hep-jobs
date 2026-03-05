@@ -1,6 +1,261 @@
 {
   "jobs": [
     {
+      "id": "desy-1772698426390",
+      "title": "Scientific researcher for the development of high frequency synchronization systems",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-06-30",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">The MSK group is responsible for the synchronization and stabilization systems of DESY’s accelerators. Our international team of technicians, engineers, and scientists develops and operates state-of-the-art feedback control, novel diagnostics, and precision RF systems for the European XFEL, the Free-Electron Laser FLASH, and the storage ring PETRA.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Further develop, maintain, and operate DESY’s unique, femtosecond stable, RF synchronization system\r</li><li>Research on ultra-low noise (< -170 dBc) RF components such as oscillators, multipliers, mixers, filters, switches, amplifiers, attenuators, and phase shifters in the MHz and GHz frequency range\r</li><li>Investigate methods to enhance operation efficiency of high-power RF amplifiers\r</li><li>Electronic designs, prototype developments, system characterization, and concept evaluation</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Completed scientific university education in electrical engineering or physics with PhD degree or equivalent knowledge, skills, and experience\r</li><li>Several years of professional experience in the design, construction, and modelling of low-noise RF electronics in the MHz and GHz range\r</li><li>Professional experience in the field of analogue and digital electronics in the low- and high-frequency range\r</li><li>Experience with modern RF measuring devices, CAD Software (e.g., Altium Designer), and RF modelling tools (HFSS, CST, ADS, etc.)\r</li><li>Expertise in RF synchronization of systems with high-precision\r</li><li>Work experience in creating specifications for a larger high-frequency project\r</li><li>High level of commitment at work and great flexibility to find solutions to very different tasks within a team\r</li><li>Excellent knowledge of English</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Frank Ludwig at +49 40 8998-4919 (frank.ludwig@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=MMA001/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t30.06.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [
+        "PETRA",
+        "FLASH",
+        "XFEL",
+        "European XFEL"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e301150/index_eng.html"
+      ],
+      "contact_email": "frank.ludwig@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:46.390Z",
+      "updated": "2026-03-05T08:13:46.390Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1772698424691",
+      "title": "Laser development scientist for fusion project",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": null,
+      "description": "<p class=\"intro\"><span class=\"desygroup description\"></span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\"></p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">Please kindly submit your complete application documents including your salary expectations.\r<br />\r<br />We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSMA004/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/e308716/index_ger.html"
+      ],
+      "contact_email": null,
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:44.691Z",
+      "updated": "2026-03-05T08:13:44.691Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1772698423316",
+      "title": "Laser development PostDoc for fusion project",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": null,
+      "description": "<p class=\"intro\"><span class=\"desygroup description\"></span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\"></p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">Please kindly submit your complete application documents including your salary expectations.\r<br />\r<br />We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSPO001/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/e308712/index_ger.html"
+      ],
+      "contact_email": null,
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:43.316Z",
+      "updated": "2026-03-05T08:13:43.316Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1772698421923",
+      "title": "Scientific Groupleader at PETRA III and PETRA IV",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": null,
+      "description": "<p class=\"intro\"><span class=\"desygroup description\"></span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\"></p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">Please kindly submit your complete application documents including your salary expectations.\r<br />\r<br />We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSMA035/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "OTHER"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/e308946/index_ger.html"
+      ],
+      "contact_email": null,
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:41.924Z",
+      "updated": "2026-03-05T08:13:41.924Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1772698418962",
+      "title": "DESY-Fellowships in Photon Science",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2027-01-01",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">The brilliant synchrotron source PETRA III as well as the intense free-electron laser FLASH and our inhouse research groups at DESY CFEL offer a broad range of research opportunities, ranging from life science to the study of fundamental physical processes in various areas. DESY offers several career opportunities also in the enabling technologies like detector or laser physics and development.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\">Fellows are invited to take an active role in one of the experimental or theoretical areas of research at DESYs Photon Science.</p>\n\t\t\t\t\t<ul><li>Condensed matter physics\r</li><li>Atoms, Molecules and Optics\r</li><li>Laser physics\r</li><li>Detector development\r</li><li>Structural Chemistry\r</li><li>Structural Biology</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 2 + 1 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Ph.D. completed within the last 5 years after your doctorate\r</li><li>Experience in experimental or theoretical science in one of the areas of the DESY photon science division</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">Do not hesitate to contact us at DESY Photon Science to get additional information on the current research activities. Further information is available here: <a href=\"http://www.desy.de/FellowFS\" target=\"_blank\">http://www.desy.de/FellowFS</a></p>\n\t\t\t\t\t<p class=\"contactinfotext\">DESY-Fellowships are awarded for a duration of 2 years with the possibility of prolongation by one additional year.\r<br>\r<br>Please submit your complete application documents (letter of motivation and research interests, CV, list of publications, relevant certificates and three letters of references) via our application portal. Please use our online tool for the submission of the letters of reference: <a href=\"https://www.desy.de/career/additional_application_documents/index_eng.html\" target=\"_blank\">Additional application documents</a></p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSFE001/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t01.01.2027\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "PETRA",
+        "FLASH"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e308908/index_eng.html"
+      ],
+      "contact_email": null,
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:38.962Z",
+      "updated": "2026-03-05T08:13:38.962Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-1772698414472",
+      "title": "DESY-Fellowships in Experimental Particle Physics",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-03-31",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">We participate in leading roles in particle physics projects on our campus and at international laboratories such as CERN or KEK. We develop technologies for detectors and accelerators, and work on scientific computing. We operate important infrastructures such as a WLCG Tier-2 computing centre or the DESY test beam facility.\r<br/>\r<br/>Interested applicants for a fellowship in experimental physics are requested to submit their application in English (letter of motivation, research interest, CV, list of publications, copies of university degrees, three letters of reference) via our application portal. <b>The statement about the scientific interest has to include your specific motivation for one of the research projects mentioned below.</b>\r<br/>\r<br/>The decision on the awarding of a fellowship for the 1/2026 selection round will presumably be made by 31 May 2026. The fellowship at DESY in Hamburg is to be started during the second half of 2026.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\">You are invited to take an active role in one of the following research projects in Hamburg:</p>\n\t\t\t\t\t<ul><li>ATLAS ITk Strip Detector Upgrade, possibly in combination with a physics analysis\r</li><li>CMS Outer Tracker Upgrade, possibly in combination with a physics analysis\r</li><li>Study of B- or τ-decays at Belle II\r</li><li>Current and future on-site experiments</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours and variable part-time. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 2+1 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>PhD in Physics: Doctorate must be completed before starting the fellowship, but must not be older than 5 years\r</li><li>Strong interest in particle physics research, detector development or scientific computing \r</li><li>Expert knowledge and experience in the field of the selected project</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">Further informations about the DESY-Fellowship can be found here: <a href=\"http://www.desy.de/FellowFH\" target=\"_blank\">http://www.desy.de/FellowFH</a></p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please arrange for <b>three letters of reference</b> to be uploaded via our online tool <b>by 31 March 2026</b>: <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/additional_application_documents/index_eng.html\">https://www.desy.de/career/additional_application_documents/index_eng.html</a></p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FHFE001/2026&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t01.04.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "experiments": [
+        "Belle II",
+        "ATLAS",
+        "CMS"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/e308914/index_eng.html"
+      ],
+      "contact_email": null,
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:34.473Z",
+      "updated": "2026-03-05T08:13:34.473Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-310261",
+      "title": "Wissenschaftliche Mitarbeiterin (w/m/d) Foundation Models in Teilzeit (20 Std./Woche)",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-03-10",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">Für die Mitarbeit in einem gemeinsam mit der HAW durchgeführten Forschungsprojekt, suchen wir für 9 Monate, halbtags, einen Informatiker mit Interesse am interdisziplinären Arbeiten. Das interdisziplinäre Forschungsprojekt FORCE (Foundation Models for Reconfigurable Computational Efficiency in Particle Physics) zielt darauf ab, Large Language Models (LLMs) hinsichtlich ihres Potenzials für Anwendungen in der Teilchenphysik zu evaluieren. Im Fokus steht die Entwicklung und systematische Analyse von „Foundation Models\" für physikalische Prozesse. Dies umfasst sowohl Klassifikationsmethoden als auch die Generierung physikalischer Ereignisse. Eine zentrale Herausforderung des Projekts ist die Entwicklung geeigneter Embeddings- bzw. Tokenisierungsstrategien für kontinuierliche physikalische Daten. Durch die Analyse und den Vergleich verschiedener Modelle, sowohl kleiner als auch größerer LLMs, sollen deren Eignung für Transfer- und Klassifikationsaufgaben in der Teilchenphysik untersucht werden.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>Wofür wir Ihre Unterstützung benötigen:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Systematische Analyse von bereits existierenden LLMs der Teilchenphysik\r</li><li>Evaluation von Embeddings- bzw. Tokenisierungsstrategien für naturwissenschaftliche Daten\r</li><li>Systematische Analyse und Vergleich von generativen Modellen mit Fokus auf den Einsatz in der Teilchenphysik und verwandten Feldern\r</li><li>Validierung der Übertragbarkeit von Generierungsaufgaben auf Klassifikationsaufgaben der LLMs</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Freuen Sie sich auf ein einzigartiges Arbeitsumfeld auf unserem internationalen Forschungscampus. Wir legen großen Wert auf ein wertschätzendes Miteinander und das Wohlbefinden unserer DESYanerinnen und DESYaner. Die Gleichstellung aller Menschen ist uns ein wichtiges Anliegen. Für eine bessere Vereinbarkeit von beruflichem und privatem Leben bietet DESY flexible Arbeitszeiten und variable Teilzeit. Sie profitieren von unserer familienfreundlichen und kollegialen Atmosphäre, unserem etablierten Gesundheitsmanagement sowie unserer betrieblichen Altersvorsorge. Als öffentlich finanzierter Arbeitgeber bieten wir Ihnen einen sicheren Arbeitsplatz und unterstützen Ihre individuelle Entwicklung mit unseren umfangreichen Aus- und Weiterbildungsangeboten. Die Vergütung erfolgt nach den Regelungen des TV-AVH. DESY bietet seinen Beschäftigten an beiden Standorten einen Arbeitgeberzuschuss zum Jobticket (Deutschland-Ticket).</p>\n\t\t\t\t\t<p class=\"expiration\">Befristet: 31.12.2026</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>Was Sie auszeichnet:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Abgeschlossene wissenschaftliche Hochschulbildung in Informatik oder gleichwertige Fachkenntnisse, Fähigkeiten und Erfahrungen\r</li><li>Exzellente Kenntnisse des Maschinellen Lernens\r</li><li>Vertieftes Wissen in Methodik des Research Software Engineering\r</li><li>Fachkenntnisse in den Grundlagen von Foundation Models\r</li><li>Gute Englischkenntnisse in Wort und Schrift\r</li><li>Ausgeprägte Teamfähigkeit</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">Fachliche Fragen beantwortet Ihnen gern Herr Frank Gaede, unter 040 8998-4382 (frank.gaede@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Bitte reichen Sie Ihre vollständigen Bewerbungsunterlagen (Motivationsschreiben, Lebenslauf und relevante Zeugnisse) ein.</p>\n\t\t\t\t\t<p class=\"contacttails\">Wir freuen uns auf Ihre Bewerbung über unser Bewerbungsportal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/karriere/online_bewerben/index_ger.html?p=18404:10:0&jobid=FHMA006/2026&P_LANG=de\">  Jetzt bewerben  </a>\r<br />\r<br />DESY fördert Chancengerechtigkeit und Vielfalt. Die berufliche Entwicklung von Frauen ist uns besonders wichtig und deshalb bitten wir Frauen nachdrücklich, sich um die zu besetzende Stelle zu bewerben. Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt berücksichtigt <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />Weiterführende Informationen finden Sie unter: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/karriere/\">https://www.desy.de/karriere/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Telefon: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t11.03.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "OTHER"
+      ],
+      "experiments": [
+        "HERA",
+        "ILC"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/records310261/index_ger.html"
+      ],
+      "contact_email": "frank.gaede@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:33.252Z",
+      "updated": "2026-03-05T08:13:33.252Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-310214",
+      "title": "Wissenschaftliche Mitarbeiterin (w/m/d) für Hochfrequenzkontrollen LLRF",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-03-10",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">Die Gruppe Maschine Strahlkontrollen (MSK) entwickelt, baut und betreibt komplexe Regelungssysteme zur Strahlsteuerung und Stabilisierung der Beschleuniger am DESY. Unser internationales Team von Techniker:innen, lngenieur:innen und Wissenschaftler:innen entwickelt hierfür modernste Datenerfassung und Steuersysteme für die Anlagen FLASH, European XFEL, und PETRA III.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>Wofür wir Ihre Unterstützung benötigen:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Betrieb und Wartung der LLRF Systeme\r</li><li>Qualitätskontrolle und Fehlerdiagnose der Systeme\r</li><li>Simulationen und Entwicklungen im Rahmen des High-Duty Cycle Programms für den CW Betrieb von supraleitenden Kavitäten\r</li><li>Dokumentation der Systeme</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Freuen Sie sich auf ein einzigartiges Arbeitsumfeld auf unserem internationalen Forschungscampus. Wir legen großen Wert auf ein wertschätzendes Miteinander und das Wohlbefinden unserer DESYanerinnen und DESYaner. Die Gleichstellung aller Menschen ist uns ein wichtiges Anliegen. Für eine bessere Vereinbarkeit von beruflichem und privatem Leben bietet DESY flexible Arbeitszeiten, variable Teilzeit, Job-Sharing-Modelle und die Teilnahme an Mobiler Arbeit (bis zu 50%). Sie profitieren von unserer familienfreundlichen und kollegialen Atmosphäre, unserem etablierten Gesundheitsmanagement sowie unserer betrieblichen Altersvorsorge. Als öffentlich finanzierter Arbeitgeber bieten wir Ihnen einen sicheren Arbeitsplatz und unterstützen Ihre individuelle Entwicklung mit unseren umfangreichen Aus- und Weiterbildungsangeboten. Die Vergütung erfolgt nach den Regelungen des TV-AVH. DESY bietet seinen Beschäftigten an beiden Standorten einen Arbeitgeberzuschuss zum Jobticket (Deutschland-Ticket).</p>\n\t\t\t\t\t<p class=\"expiration\">Unbefristet</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>Was Sie auszeichnet:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Abgeschlossene wissenschaftliche Hochschulbildung in Regelungstechnik, Elektrotechnik oder Physik oder gleichwertige Fähigkeiten und Erfahrungen\r</li><li>Praktische Erfahrung in HF-Regelungen von Beschleunigern\r</li><li>Sehr gute Fachkenntnisse in Automatisierung und Steuerung von Anlagen\r</li><li>Gute Fachkenntnisse über den Aufbau und den Betrieb von Beschleunigeranlagen\r</li><li>Gute Fachkenntnisse in Linux, Matlab, Python, Firmware und Software\r</li><li>Gute Fachkenntnisse in MicroTCA basierten LLRF Systemen\r</li><li>Arbeiten in einem Team an mehreren Projekten\r</li><li>Hohes Engagement und Flexibilität bei der Lösung unterschiedlicher Aufgabenstellungen\r</li><li>Eigenverantwortliches Arbeiten und gute Koordinationsfähigkeiten\r</li><li>Sehr gute Englischkenntnisse in Wort und Schrift</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">Fachliche Fragen beantwortet Ihnen gern Herr Julien Branlard unter 040-8998-1599 (julien.branlard@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Bitte reichen Sie Ihre vollständigen Bewerbungsunterlagen (Motivationsschreiben, Lebenslauf und relevante Zeugnisse) ein.</p>\n\t\t\t\t\t<p class=\"contacttails\">Wir freuen uns auf Ihre Bewerbung über unser Bewerbungsportal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/karriere/online_bewerben/index_ger.html?p=18404:10:0&jobid=MMA015/2026&P_LANG=de\">  Jetzt bewerben  </a>\r<br />\r<br />DESY fördert Chancengerechtigkeit und Vielfalt. Die berufliche Entwicklung von Frauen ist uns besonders wichtig und deshalb bitten wir Frauen nachdrücklich, sich um die zu besetzende Stelle zu bewerben. Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt berücksichtigt <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />Weiterführende Informationen finden Sie unter: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/karriere/\">https://www.desy.de/karriere/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Telefon: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t11.03.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "experiments": [
+        "PETRA",
+        "FLASH",
+        "XFEL",
+        "European XFEL"
+      ],
+      "urls": [
+        "https://v22.desy.de/e67416/records310214/index_ger.html"
+      ],
+      "contact_email": "julien.branlard@desy.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:31.733Z",
+      "updated": "2026-03-05T08:13:31.733Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
+      "id": "desy-310040",
+      "title": "Studentische Hilfskraft (w/m/d) Netzwerk „Neugier ahoi! MINT mit Kindern entdecken\"",
+      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
+      "deadline": "2026-03-31",
+      "description": "<p class=\"intro\"><span class=\"desygroup description\">Das Netzwerk „Neugier ahoi! MINT mit Kindern entdecken\" (www.neugier-ahoi.de) wird von DESY getragen und von Hamburger Unternehmen und Stiftungen gefördert. Es ist das lokale Netzwerk der bundesweit agierenden Bildungsinitiative Stiftung Kinder forschen und dafür zuständig, das Bildungsprogramm der Stiftung in der Region Hamburg umzusetzen. Weiterhin entwickelt das Netzwerk eigene Fortbildungsformate für pädagogische Fach- und Lehrkräfte in Hamburger Kitas und Grundschulen im Bereich MINT-Bildung für nachhaltige Entwicklung. Neben Fortbildungsangeboten führt das Netzwerk ab und an auch Angebote für Gruppen aus Kitas/Grundschulen oder Familien durch. Wir wünschen uns Unterstützung für 4-6 Stunden im Monat.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>Wofür wir Ihre Unterstützung benötigen:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Unterstützung bei der Fortbildungsorganisation\r</li><li>Unterstützung bei der Durchführung von Veranstaltungen für verschiedene Zielgruppen\r</li><li>Datenbankpflege\r</li><li>Pflege von Fortbildungsmaterialien\r</li><li>Unterstützung bei Marketing/Öffentlichkeitsarbeit</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Freuen Sie sich auf ein einzigartiges Arbeitsumfeld auf unserem internationalen Forschungscampus. Wir legen großen Wert auf ein wertschätzendes Miteinander und das Wohlbefinden unserer DESYanerinnen und DESYaner. Die Gleichstellung aller Menschen ist uns ein wichtiges Anliegen. Für eine bessere Vereinbarkeit von beruflichem und privatem Leben bietet DESY flexible Arbeitszeiten und variable Teilzeit. Sie profitieren von unserer familienfreundlichen und kollegialen Atmosphäre, unserem etablierten Gesundheitsmanagement sowie unserer betrieblichen Altersvorsorge. Als öffentlich finanzierter Arbeitgeber bieten wir Ihnen einen sicheren Arbeitsplatz und unterstützen Ihre individuelle Entwicklung mit unseren umfangreichen Aus- und Weiterbildungsangeboten. Die Vergütung erfolgt nach den Regelungen des TV-AVH. DESY bietet seinen Beschäftigten an beiden Standorten einen Arbeitgeberzuschuss zum Jobticket (Deutschland-Ticket).</p>\n\t\t\t\t\t<p class=\"expiration\">Befristet: 1 Jahr</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>Was Sie auszeichnet:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Zuverlässigkeit\r</li><li>Strukturierte Arbeitsweise\r</li><li>Selbständigkeit\r</li><li>Flexibilität</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">Fachliche Fragen beantwortet Ihnen gern Frau Bettina Schmidt unter 040 8998-2714 (bettina-schmidt@neugier-ahoi.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Bitte reichen Sie Ihre vollständigen Bewerbungsunterlagen (Motivationsschreiben, Lebenslauf, relevante Zeugnisse und eine Immatrikulationsbescheinigung) ein.</p>\n\t\t\t\t\t<p class=\"contacttails\">Wir freuen uns auf Ihre Bewerbung über unser Bewerbungsportal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/karriere/online_bewerben/index_ger.html?p=18404:10:0&jobid=FSST007/2026&P_LANG=de\">  Jetzt bewerben  </a>\r<br />\r<br />DESY fördert Chancengerechtigkeit und Vielfalt. Die berufliche Entwicklung von Frauen ist uns besonders wichtig und deshalb bitten wir Frauen nachdrücklich, sich um die zu besetzende Stelle zu bewerben. Bewerbungen schwerbehinderter Menschen werden bei gleicher Eignung bevorzugt berücksichtigt <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />Weiterführende Informationen finden Sie unter: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/karriere/\">https://www.desy.de/karriere/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Telefon: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t01.04.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "OTHER"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/records310040/index_ger.html"
+      ],
+      "contact_email": "bettina-schmidt@neugier-ahoi.de",
+      "location": "Hamburg, Germany",
+      "occupationalGroup": "Science",
+      "employmentType": null,
+      "created": "2026-03-05T08:13:30.358Z",
+      "updated": "2026-03-05T08:13:30.358Z",
+      "source": "DESY",
+      "addedAt": "2026-03-05T08:13:47.755Z",
+      "isNew": true
+    },
+    {
       "id": "desy-1772439161229",
       "title": "Scientific researcher for the development of high frequency synchronization systems",
       "institution": "DESY (Deutsches Elektronen-Synchrotron)",
@@ -3666,66 +3921,8 @@
       "source": "DESY",
       "addedAt": "2026-01-05T08:05:58.737Z",
       "isNew": false
-    },
-    {
-      "id": "desy-1767513871302",
-      "title": "DESY-Fellowships in Photon Science",
-      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
-      "deadline": null,
-      "description": "<p class=\"intro\"><span class=\"desygroup description\"></span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Was uns auszeichnet:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. We attach particular importance to appreciative cooperation and the well-being of our DESY employees. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time and job-sharing. You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a job ticket at both locations.</p>\n\t\t\t\t\t\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\"></p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates) via our application portal.</p>\n\t\t\t\t\t<p class=\"contacttails\">Please kindly submit your complete application documents including your salary expectations.\r<br />\r<br />We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=FSFE001/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tBewerbungsschluss:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "OTHER"
-      ],
-      "experiments": [],
-      "urls": [
-        "https://v22.desy.de/e67416/e283494/index_ger.html"
-      ],
-      "contact_email": null,
-      "location": "Hamburg, Germany",
-      "occupationalGroup": "Science",
-      "employmentType": null,
-      "created": "2026-01-04T08:04:31.302Z",
-      "updated": "2026-01-04T08:04:31.302Z",
-      "source": "DESY",
-      "addedAt": "2026-01-04T08:04:31.302Z",
-      "isNew": false
-    },
-    {
-      "id": "desy-1767513860102",
-      "title": "Scientific researcher for the development of high frequency synchronization systems",
-      "institution": "DESY (Deutsches Elektronen-Synchrotron)",
-      "deadline": "2026-06-30",
-      "description": "<p class=\"intro\"><span class=\"desygroup description\">The MSK group is responsible for the synchronization and stabilization systems of DESY’s accelerators. Our international team of technicians, engineers, and scientists develops and operates state-of-the-art feedback control, novel diagnostics, and precision RF systems for the European XFEL, the Free-Electron Laser FLASH, and the storage ring PETRA.</span>\n\t\t</p>\n\n\t\t<div class=\"columns\">\n\t\t\t<div class=\"col1\">\n\t\t\t\t<section class=\"task\">\n\t\t\t\t\t<h4>About your role:</h4>\n\t\t\t\t\t<p class=\"tasks_preText\"></p>\n\t\t\t\t\t<ul><li>Further develop, maintain, and operate DESY’s unique, femtosecond stable, RF synchronization system\r</li><li>Research on ultra-low noise (< -170 dBc) RF components such as oscillators, multipliers, mixers, filters, switches, amplifiers, attenuators, and phase shifters in the MHz and GHz frequency range\r</li><li>Investigate methods to enhance operation efficiency of high-power RF amplifiers\r</li><li>Electronic designs, prototype developments, system characterization, and concept evaluation</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"offer\">\n\t\t\t\t\t<h4>Good reasons to join:</h4>\n\t\t\t\t\t<p class=\"offer\">Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</p>\n\t\t\t\t\t<p class=\"expiration\">Limited: 3 years</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\n\t\t\t<div class=\"col2\">\n\t\t\t<section class=\"profile\">\n\t\t\t\t\t<h4>About you:</h4>\n\t\t\t\t\t<p class=\"profile_preText\"></p>\n\t\t\t\t\t<ul><li>Completed scientific university education in electrical engineering or physics with PhD degree or equivalent knowledge, skills, and experience\r</li><li>Several years of professional experience in the design, construction, and modelling of low-noise RF electronics in the MHz and GHz range\r</li><li>Professional experience in the field of analogue and digital electronics in the low- and high-frequency range\r</li><li>Experience with modern RF measuring devices, CAD Software (e.g., Altium Designer), and RF modelling tools (HFSS, CST, ADS, etc.)\r</li><li>Expertise in RF synchronization of systems with high-precision\r</li><li>Work experience in creating specifications for a larger high-frequency project\r</li><li>High level of commitment at work and great flexibility to find solutions to very different tasks within a team\r</li><li>Excellent knowledge of English</li></ul>\n\t\t\t\t</section>\n\n\t\t\t\t<section class=\"contact\">\n\t\t\t\t\t<!-- h4 title=\"spacing\">&nbsp;</h4 -->\n\t\t\t\t\t<p class=\"contactinfo\">For further information please contact Frank Ludwig at +49 40 8998-4919 (frank.ludwig@desy.de).</p>\n\t\t\t\t\t<p class=\"contactinfotext\">Please submit your complete application documents (letter of motivation, CV and relevant certificates).</p>\n\t\t\t\t\t<p class=\"contacttails\">We look forward to receiving your application via our application portal:\r<br />\r<br /><a class=\"btn_application\" href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&jobid=MMA001/2025&P_LANG=en\">  Apply now  </a>\r<br />\r<br />DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified <a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.\r<br />\r<br />You can find further information here: \r<br /><a target=\"blank\" class=\"btn_furtherinfo\" href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a>\r<br />\r<br />Deutsches Elektronen-Synchrotron DESY\r<br />Personalabteilung <br /> Notkestraße 85 <br /> 22607 Hamburg\r<br />Phone: +49 40 8998-3392</p>\n\t\t\t\t\t<p class=\"deadline\" data-lang_key=\"LgJobOffer.contact.deadline\">\n\t\t\t\t\t\tDeadline for applications:\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t30.06.2026\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</p>\n\t\t\t\t</section>\n\t\t\t</div>\n\t\t<!-- div class=\"columns row2\"> </div -->\n\t\t</div>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "PHD",
-        "JUNIOR"
-      ],
-      "experiments": [
-        "PETRA",
-        "FLASH",
-        "XFEL",
-        "European XFEL"
-      ],
-      "urls": [
-        "https://v22.desy.de/e67416/e301150/index_eng.html"
-      ],
-      "contact_email": "frank.ludwig@desy.de",
-      "location": "Hamburg, Germany",
-      "occupationalGroup": "Science",
-      "employmentType": null,
-      "created": "2026-01-04T08:04:20.103Z",
-      "updated": "2026-01-04T08:04:20.103Z",
-      "source": "DESY",
-      "addedAt": "2026-01-04T08:04:31.302Z",
-      "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-04T08:08:45.193Z",
-  "totalJobs": 129
+  "lastUpdated": "2026-03-05T08:13:47.756Z",
+  "totalJobs": 136
 }
