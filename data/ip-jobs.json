@@ -1,6 +1,117 @@
 {
   "jobs": [
     {
+      "id": "3126780",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Syracuse U.",
+      "deadline": "2026-06-30",
+      "description": "<div>&nbsp;</div><div>The experimental particle physics group working in LHCb is soliciting applications for a position of Postdoctoral Research Associate to work in the LHCb experiment at LHC, and its upgrades.</div><div><br></div><div>The Syracuse team is involved in physics analysis, software tasks associated with the optimization of the performance of the Upstream Tracker (UT) detector, and major R&amp;D initiatives to optimize the technology choices of major LHCb Upgrade II detector components. There are several cutting-edge projects related to the sensor and electronics infrastructure needed for a novel tracking detector, the Upstream Pixel (UP) detector for Upgrade II, based on the HV-MAP technology. We are working towards several key system-level R&amp;D efforts, such as key aspects of the detector mechanics, optimization of powering schemes and data transmission, and investigation of heterogeneous computing involving FPGAs and GPUs.&nbsp;This work relates to our commitment to develop innovative detectors that will meet the challenging basic research needs of future experiments. We are members of the DRD3 collaboration, play a leading role in the CPAD-RDC9 R&amp;D stream and are interested in developing innovative particle identification detectors for future high-luminosity colliders. In addition, we are pursuing several exciting physics analysis projects, ranging from conventional and exotic spectroscopy to precision Standard Model tests and searches for new physics, exploiting the unique opportunities offered by b-quark decays.&nbsp;</div><div><br></div><div>The initial appointment is for one year, renewable up to three years. The successful applicant can be stationed either at Syracuse University or CERN. While the primary responsibility will be the work on the UP detector, we encourage the successful candidate to pursue physics analysis projects in collaboration with one of the Syracuse faculty.</div><div><br></div><div>The position is currently open, and we will accept applications until the job is filled. Interested applicant can submit their application packet, that should include highlights of research achievements and a research goals statement, at: <a href=\"https://www.sujobopps.com/postings/102607\">https://www.sujobopps.com/postings/102607</a>&nbsp;</div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://hep.syr.edu/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-05T22:00:17.153089+00:00",
+      "updated": "2026-03-05T22:22:53.067741+00:00",
+      "addedAt": "2026-03-06T08:08:23.758Z",
+      "isNew": true
+    },
+    {
+      "id": "3125866",
+      "title": "PhD student position in experimental particle physics (LHCb experiment)",
+      "institution": "LPHE, Lausanne",
+      "deadline": "2026-04-30",
+      "description": "<div>The High Energy Physics Laboratory [1] of EPFL, the Swiss Federal Institute of Technology in Lausanne, invites applications for a PhD student position in experimental particle physics. The successful candidate will join the LHCb collaboration in which the lab is strongly involved. LHCb [2] is a particle-physics experiment running at CERN's Large Hadron Collider and dedicated to flavour physics.</div><div><br></div><div>The lab’s LHCb activities have been expanded through an SNSF-funded programme focused on charm physics very recently. The successful candidate will join this programme, and contribute to measurements using the data of the upgraded LHCb detector, closely collaborating in a team of another PhD student, two postdocs and the PI. The candidate will focus on measurements of properties of charm hadrons, with a focus on CP violation in challenging decays involving pi0 mesons. This work includes the study of experimental biases in the reconstruction of charged particles and the development of techniques that can be applied in Run 4 of the LHC, when the experiment’s PID detectors have been upgraded. There is also an option to engage in studies related to the event reconstruction for upgrades of the LHCb experiment in the far future (Run 5 and beyond).</div><div><br></div><div>The position, which also involves teaching responsibilities at the bachelor’s or master’s level, becomes available on September 1st, 2026. A delayed start is possible, but not later than October 1st, 2026. Once selected, the PhD student will need to enrol in the Physics program (EDPY) of the EPFL doctoral school [3]. The employment runs up to a total of four years. Doctoral school information and employment conditions at EPFL may be consulted online [3-5]. Applicants are expected to hold a master’s degree (or equivalent) in physics at the start of employment. The candidate should have a strong motivation for fundamental research, and received education in Particle Physics. Experience with data analysis, computer programming and/or track reconstruction is an advantage, especially in the context of high-energy particle physics.</div><div><br></div><div>Applicants should prepare:</div><ul><li>a motivation letter;</li><li>their CV;</li><li>scans of the higher-institution grade records;</li><li>contact information of at least two references willing to write a recommendation. Providing one additional reference is possible, but optional.&nbsp;</li></ul><div>Please note that the letters of recommendation should be submitted by the references within 7 days following the deadline of the application.</div><div><br></div><div><strong>The application should be submitted online at</strong></div><div><a href=\"https://programs-recruiting.epfl.ch/position/43941901\">https://programs-recruiting.epfl.ch/position/43941901</a>&nbsp;</div><div>by the deadline of <strong>April 30th, 2026</strong>.</div><div><br></div><div>More information can be obtained from Prof. Laurent Dufour (laurent.dufour@epfl.ch).</div><div><br></div><div>[1] <a href=\"https://www.epfl.ch/labs/lphe\">https://www.epfl.ch/labs/lphe</a></div><div>[2] <a href=\"https://lhcb-outreach.web.cern.ch\">https://lhcb-outreach.web.cern.ch</a></div><div>[3] <a href=\"https://www.epfl.ch/education/phd/programs/edpy-physics\">https://www.epfl.ch/education/phd/programs/edpy-physics</a></div><div>[4] <a href=\"https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary\">https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary</a></div><div>[5] <a href=\"https://www.epfl.ch/about/working/working-at-epfl/employment-conditions\">https://www.epfl.ch/about/working/working-at-epfl/employment-conditions</a></div><div>[6] <a href=\"https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application\">https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://programs-recruiting.epfl.ch/position/43941901"
+      ],
+      "contact_email": null,
+      "created": "2026-03-05T10:12:24.761857+00:00",
+      "updated": "2026-03-05T15:35:51.688315+00:00",
+      "addedAt": "2026-03-06T08:08:23.758Z",
+      "isNew": true
+    },
+    {
+      "id": "3125861",
+      "title": "Doctoral student for the development and construction of the pixel detector at the INSIGHT experiment",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-03-31",
+      "description": "<div>The Cluster of Excellence “Color meets Flavor” has an opening for</div><div><br></div><div><strong>a doctoral student in experimental particle physics for the development and construction of the INSIGHT experiment</strong></div><div><br></div><div>The Cluster aims to explain the interaction of weak and strong interactions at different energy scales in order to answer fundamental questions about the structure of matter. It is a collaboration of the Universities in Bonn, Dortmund, and Siegen, as well as the Forschungszentrum Jülich.</div><div><br></div><div>One of the central experiments for studying strong interactions at the energy scale of light quarks is the planned INSIGHT photo-production experiment at the ELSA electron accelerator in Bonn. We are involved in the construction of the pixel detector for the experiment and are looking for a doctoral student for the development and construction of the</div><div>detector. Your tasks will include the optimization of the detector design based on simulations, the assembly and testing of pixel modules, and the integration and commissioning of the pixel detector.</div><div><br></div><div>Excellent applicants are encouraged to apply. They should hold (or are about to complete) a master's degree in physics or a closely related field. Relevant experience in detector development will be an advantage. The position is located at Siegen, a cozy, international University town, with the possibility of frequent travels to Bonn and/or a stay of several months. An attractive salary is offered.</div><div><br></div><div>The position is available immediately for an appointment of three years. Applications will be reviewed in the order they are received. The University of Siegen is an equal-opportunity employer. To apply, please prepare the following material and send it by e-mail to <a href=\"mailto:markus.cristinziani@uni-siegen.de\">markus.cristinziani@uni-siegen.de</a> <strong>before March 31st, 2026</strong>, to receive full consideration:</div><div><br></div><ul><li>&nbsp;&nbsp;&nbsp;&nbsp;CV, including your expected or past undergraduate degree date;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;Grade transcript, with an explanation of the grading scale used, if needed;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;Name of two supervisors or University teachers who know your work and are available to send reference letters</li><li>&nbsp;&nbsp;&nbsp;&nbsp;If English or German is not your first language, we would also like to have proof of your English language ability. Please include your certificate with your application if you have already taken an English language qualification. We will also consider your application without this document.</li><li>&nbsp;&nbsp;&nbsp;&nbsp;Links to your master thesis (if available) and other relevant material, e.g. software projects (GitHub) or similar.</li></ul><div>You are welcome to send questions or informal inquiries to Markus Cristinziani (<a href=\"mailto:markus.cristinziani@uni-siegen.de\">markus.cristinziani@uni-siegen.de</a>).</div><div>You can find more information about the Cluster at <a href=\"http://www.color-meets-flavor.de\">www.color-meets-flavor.de</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "INSIGHT"
+      ],
+      "urls": [
+        "http://www.color-meets-flavor.de"
+      ],
+      "contact_email": null,
+      "created": "2026-03-05T07:43:05.891639+00:00",
+      "updated": "2026-03-05T15:32:28.073321+00:00",
+      "addedAt": "2026-03-06T08:08:23.758Z",
+      "isNew": true
+    },
+    {
+      "id": "3125887",
+      "title": "POSTDOCTORAL POSITION IN CMS",
+      "institution": "U. Brussels (main)",
+      "deadline": "2026-05-31",
+      "description": "<div><strong>The experimental Particle Physics Departement of the <em>Université Libre de</em> <em>Bruxelles</em>&nbsp;- <em>ULB</em> invites applications for a 3-year postdoctoral research position within the CMS collaboration at the LHC.</strong></div><div>&nbsp;</div><div>The Department is part of the Inter-University Institute for High Energies<strong> IIHE (ULB-VUB)</strong>, which combines the experimental particle and astroparticle research groups from both Brussels universities, ULB and VUB, and presently numbers more than 100 physicists, engineers and support persons. It is involved in large international collaborations: <strong>CMS</strong> (at the LHC) and <strong>JUNO</strong> (in China),<strong> IceCube</strong> (at the South Pole), <strong>RNO-G</strong> (in Greenland) and <strong>Auger</strong> (in Argentina). It has <strong>R&amp;D activities</strong> in detector development and readout systems. It hosts a CMS <strong>Grid Tier-2 </strong>computing center.</div><div>&nbsp;</div><div>The CMS ULB group counts about 35 active members. It is involved in several data analyses, among which the study of <strong>electroweak symmetry breaking</strong>, searches for <strong>physics beyond the Standard Model</strong>, <strong>precision measurements</strong> of electroweak processes and of jet production, search for <strong>dark matter signatures</strong>, some of them using <strong>Machine Learning</strong> techniques. The group is contributing e.g. to <strong>jet calibration, trigger developments and central tracker data quality monitoring</strong>. The team is participating to the <strong>CMS detector upgrades </strong>– <strong>in the design and tests of the muon detectors and their readout in the forward regions</strong>, as well as <strong>in the design and construction of the central tracker for the LHC Phase 2</strong>. In particular, <strong>the IIHE hosts one of the assembly sites for CMS Outer Tracker Silicon strip </strong>modules, so-called “2S” (strip-strip) modules. We are committed to build and fully test 1600 such modules by end 2027. We are also contributing to tests of new Silicon sensors.</div><div><br></div><div>The successful candidate will lead activities in the <strong>construction and commissioning of the CMS Outer Tracker upgrade</strong>. Until the end of the production in Brussels, the candidate is expected to <strong>contribute to the quality assurance</strong> of the modules. In parallel, as well as after the production, the candidate will <strong>contribute to the commissioning of the outer tracker</strong>, by integrating the experience gained during the module construction and tests into the tracker detailed simulation, by developing signal reconstruction, data quality monitoring and procedures to commission the tracker, using real and simulated cosmic muons, and with simulated proton collision events. The position implies frequent visits to CERN. The salary is competitive and includes all social security benefits (information is available on request). Contributions to teaching are possible but are not mandatory. The candidate should be in the condition of international mobility (the researcher should not have resided or carried out his/her main activity (contract, studies...) in Belgium for more than 24 months during the 3 years directly preceding the beginning of the present postdoctoral fellowship.</div><div><br></div><div>The position is open until filled, and the contract would start on October 1st, 2026. Interested candidates are encouraged to <strong>apply before March 31st, 2026</strong>. Applications should be sent by email (with subject&nbsp;“CMS – post-doc position”) to <strong>Prof. Pascal Vanlaer</strong>. They should include a detailed CV, a transcript of grades of Master studies, a copy of the PhD diploma if already available, a letter of motivation and the names of 3 referees.</div><div>&nbsp;</div><div><strong>Contact : Prof. Pascal Vanlaer : Pascal.Vanlaer@ulb.be</strong></div><div><strong>Phone</strong> :&nbsp;&nbsp;+32-2-629.3898</div><div><strong>IIHE web site </strong>: <a href=\"http://w3.iihe.ac.be\">http://w3.iihe.ac.be</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://w3.iihe.ac.be/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-05T15:00:41.375615+00:00",
+      "updated": "2026-03-05T15:29:10.864479+00:00",
+      "addedAt": "2026-03-06T08:08:23.758Z",
+      "isNew": true
+    },
+    {
       "id": "3125504",
       "title": "Research Associate (m/f/d) (Doctoral Candidate) for CMOS sensor development",
       "institution": "Frankfurt U., Inst. Kernphys.",
@@ -25,7 +136,7 @@
       "created": "2026-03-04T07:53:57.223837+00:00",
       "updated": "2026-03-04T15:43:40.238350+00:00",
       "addedAt": "2026-03-05T08:13:23.756Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3125234",
@@ -4945,6 +5056,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-05T08:13:23.756Z",
-  "totalJobs": 184
+  "lastUpdated": "2026-03-06T08:08:23.760Z",
+  "totalJobs": 188
 }
