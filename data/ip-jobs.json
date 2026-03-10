@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3127451",
+      "title": "Assistant Professor in experimental particle physics",
+      "institution": "Indian Inst. Tech., Madras",
+      "deadline": "2026-12-31",
+      "description": "<div>We seek assistant professor applicants working in the area of experimental high-energy nuclear and particle physics. Applicants are expected to have a strong track record working in experimental collaborations or with generic R&amp;D for particle-detector instrumentation. The experimental group at IITM works primarily on the CMS and Belle II experiments, with additional interest in generic instrumentation R&amp;D, ElC, CBM and BESIII. Significant expertise already exists in the sub-areas of flavour physics, Higgs physics, heavy-ion collisions, and detector development. The successful applicant would be expected to introduce complementary expertise to reinforce the group's activities.&nbsp;</div><div><br></div><div>Application portal: <a href=\"https://facapp.iitm.ac.in/\">https://facapp.iitm.ac.in/</a></div><div><br></div><div>Specific requirements:</div><ol><li>Candidates should have a PhD in Physics or in any closely related disciplines. If Ph.D is in a closely related discipline, at least one degree (Bachelors or Masters) should be in Physics. b) Candidates should have at least three years of industrial, research, or teaching experience after Ph.D.</li><li>Candidates should have at least three years of industrial, research, or teaching experience after Ph.D.</li><li>Candidates should not have completed 36 years as on 31 Dec 2026. Age relaxation is applicable for OBC, SC/ST, PwD and women candidates.</li></ol><div>Additional information</div><ol><li>Permanent faculty positions are open to Indian Nationals and overseas citizens of India (OCI). Appointment of foreign nationals for fixed period on contract basis is permissible.</li><li>Political and security clearance from Ministries of External Affairs and Home Affairs may be necessary for individuals with foreign passports.&nbsp;</li><li>These and other details about the positions and applications are available at <a href=\"https://facapp.iitm.ac.in/img/Advertisement_RA-2026.pdf\">https://facapp.iitm.ac.in/img/Advertisement_RA-2026.pdf</a> and <a href=\"https://facapp.iitm.ac.in/img/AP-Area-and-Qualification_RA-2026.pdf\">https://facapp.iitm.ac.in/img/AP-Area-and-Qualification_RA-2026.pdf</a></li></ol>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://facapp.iitm.ac.in/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-09T05:41:30.297147+00:00",
+      "updated": "2026-03-09T15:15:09.611392+00:00",
+      "addedAt": "2026-03-10T08:10:02.834Z",
+      "isNew": true
+    },
+    {
+      "id": "3127496",
+      "title": "Postdoctoral Position in Experimental Particle Physics - LHCb",
+      "institution": "USTC, Hefei",
+      "deadline": "2026-04-30",
+      "description": "<div>The Collaborative Innovation Center for Particles and Interactions (CICPI) at the University of Science and Technology of China (USTC) invites applications for a postdoctoral position in the LHCb experiment at the Large Hadron Collider. The particle physics laboratory at USTC is a leading research center in China. USTC is currently a Technical Associate of the LHCb collaboration and is applying for full or associate membership. The USTC LHCb group has a strong focus on LHCb physics analyses and on the MUON detector project for the LHCb Phase-2 Upgrade.</div><div><br></div><div>Applicants should hold a Ph.D. in experimental particle physics, or expect to receive one soon. Candidates should have excellent data analysis skills and/or solid experience in particle detector instrumentation, as well as the ability to conduct independent research. The successful candidate is expected to play a key role in LHCb physics analyses and will also have opportunities to contribute to the MUON detector project for the LHCb Phase-2 Upgrade.</div><div>The initial appointment will be for two years, with the possibility of extension. The salary will be competitive and commensurate with the experience of the selected candidate. The successful applicant may be based at CERN or at USTC, subject to mutual agreement.</div><div><br></div><div>Applications should be submitted by <strong>April 30, 2026</strong>. Applications will be reviewed on a rolling basis, and the position will remain open until filled. Applicants should submit a curriculum vitae (including a list of publications), a statement of research interests, and arrange for <strong>three letters of reference</strong> to be sent by the referees via email to Prof. Zehua Xu (zehua.xu@ustc.edu.cn).</div><div><br></div><div>Inquiries about the position are welcome and should be sent to the same email address.</div><div><br></div><div>USTC is an equal opportunity employer and welcomes applications from qualified candidates of all backgrounds.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-09T14:18:53.796304+00:00",
+      "updated": "2026-03-09T15:07:53.990307+00:00",
+      "addedAt": "2026-03-10T08:10:02.834Z",
+      "isNew": true
+    },
+    {
       "id": "3126780",
       "title": "Postdoctoral Research Associate",
       "institution": "Syracuse U.",
@@ -5056,6 +5108,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-09T08:11:57.473Z",
-  "totalJobs": 188
+  "lastUpdated": "2026-03-10T08:10:02.835Z",
+  "totalJobs": 190
 }
