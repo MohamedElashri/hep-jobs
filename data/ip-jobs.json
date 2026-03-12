@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3128389",
+      "title": "Postdoctoral research associate",
+      "institution": "Santiago de Compostela U., IGFAE",
+      "deadline": "2026-05-11",
+      "description": "<div>The Instituto Galego de Física de Altas Enerxías (IGFAE) seeks applications for a post-doctoral researcher position dedicated to the CMS experiment. IGFAE is a joint research institute of the University of Santiago de Compostela and the regional government of Galicia. Recognized as a \"María de Maeztu\" Unit of Excellence, IGFAE offers a highly dynamic and international research environment with a strong track record and prominent participation in major particle, astroparticle, and nuclear physics experiments.</div><div><br></div><div>We are currently establishing a newly formed CMS group at IGFAE, and the successful candidate will play a foundational role in building and shaping this team. We are searching for exceptional candidates at the postdoctoral level with a strong background in Experimental Particle Physics. Given the foundational nature of this position, previous experience within the CMS collaboration is highly desirable, as the candidate is expected to provide supervision, mentorship, and general guidance to the junior members of the new group.</div><div><br></div><div>The successful candidate is expected to drive a strong physics analysis program, with a primary focus on searches for dark sectors and Long-Lived Particles. In addition to data analysis, the candidate will actively contribute to key technical activities critical for the High-Luminosity LHC upgrade. Specifically, they will be expected to contribute to Run 4 trigger development as well as detector software development, namely for the MIP Timing Detector.</div><div><br></div><div>We offer an initial appointment of two years, which can be extended depending on mutual satisfaction and funding availability. The candidate must have their PhD in Physics or a related field concluded by the start of the contract. The anticipated start date is around September 2026, although earlier starting dates could be accommodated upon mutual agreement.</div><div><br></div><div>Interested candidates should submit their applications along with a curriculum vitae, a statement of research interests, and two letters of recommendation via email to&nbsp;<a href=\"mailto:xabier.cid.vidal@cern.ch\">xabier.cid.vidal@cern.ch</a> (the letters might be sent directly by the referees).</div><div>For any inquiries regarding the position or the application process, please contact Xabier Cid Vidal at the same email address (<a href=\"mailto:xabier.cid.vidal@cern.ch\">xabier.cid.vidal@cern.ch</a>).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-11T18:42:24.735539+00:00",
+      "updated": "2026-03-11T20:17:13.307342+00:00",
+      "addedAt": "2026-03-12T08:11:56.602Z",
+      "isNew": true
+    },
+    {
       "id": "3127956",
       "title": "CMS Postdoctoral Researcher Position",
       "institution": "Cyprus U.",
@@ -25,7 +50,7 @@
       "created": "2026-03-10T10:21:25.745689+00:00",
       "updated": "2026-03-10T16:05:13.902155+00:00",
       "addedAt": "2026-03-11T08:10:38.671Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3127970",
@@ -51,7 +76,7 @@
       "created": "2026-03-10T10:51:44.684941+00:00",
       "updated": "2026-03-10T15:05:05.904947+00:00",
       "addedAt": "2026-03-11T08:10:38.671Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3127991",
@@ -76,7 +101,7 @@
       "created": "2026-03-10T13:59:44.767085+00:00",
       "updated": "2026-03-10T14:58:25.079463+00:00",
       "addedAt": "2026-03-11T08:10:38.671Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3127451",
@@ -5186,6 +5211,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-11T08:10:38.672Z",
-  "totalJobs": 193
+  "lastUpdated": "2026-03-12T08:11:56.602Z",
+  "totalJobs": 194
 }
