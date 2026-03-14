@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3129010",
+      "title": "Senior Assistant in Experimental Particle Physics - CMS (ECAL)",
+      "institution": "Split U.",
+      "deadline": "2026-04-10",
+      "description": "<div>The Faculty of Science, University of Split (PMF), announces an open call for applications for one position of Senior Assistant in the scientific area of Natural Sciences, field of Physics, to work on the Croatian Science Foundation project “Integration, Testing and Optimization of a Homogeneous Electromagnetic Calorimeter.”</div><div><br></div><div>The position is fixed-term and will last until 30 November 2027.</div><div><br></div><div>The selected candidate will contribute to the development, testing, and integration of the Data Acquisition (DAQ) and Data Quality Monitor (DQM) software modules, as well as to the upgrade of the ECAL barrel front-end electronics, in accordance with the project objectives.</div><div><br></div><div><strong>The candidate will be expected to:</strong></div><ul><li>develop and maintain the preliminary version of the Data Acquisition (DAQ) and Data Quality Monitor (DQM) software modules, and present progress and results at collaboration meetings;</li><li>test the DAQ and DQM software modules on a single trigger tower using new front-end electronics;</li><li>participate in the replacement of the ECAL barrel front-end electronics and document the process.</li></ul><div><br></div><div><strong>Additional requirements:</strong></div><ul><li>experience in data analysis in the field of high-energy physics</li><li>very good knowledge of the programming languages Python and C++, especially in the context of hardware control and management</li></ul><div><br></div><div><strong>Preference will be given to candidates with:</strong></div><ul><li>experience in developing, installing, and testing hardware in the field of high-energy physics</li><li>experience working with Kubernetes and SQL tools</li></ul><div><br></div><div>Applicants should have good written and oral communication skills in English.</div><div><br></div><div>Applicants must meet the general requirements prescribed by the Higher Education and Scientific Activity Act (OG 119/22).</div><div><br></div><div>Applicants must submit the following documents with their signed application: a curriculum vitae, a copy of the diploma confirming completion of the relevant study programme, a decision or opinion on the recognition of a foreign higher education qualification (for applicants who obtained their qualification abroad), a certified transcript of grades from undergraduate and graduate or integrated studies including the calculated grade average, and proof of citizenship.</div><div><br></div><div>Applicants who invoke the right to priority in employment in accordance with special regulations are required to invoke this right in their application for the competition and have priority over other candidates only under equal conditions set out in the competition, and on the basis of a proper, complete and timely application for the competition. Applicants who invoke the right to priority in employment in accordance with Articles 102 and 103 of the Act on Croatian Homeland War Veterans and Members of Their Families (Official Gazette No. 121/17, 98/19, 84/21, 156/23) are required to submit, in addition to evidence of meeting the required conditions, all necessary evidence from Article 103, paragraph 1, available at the link of the Ministry of Croatian Veterans&nbsp;<a href=\"https://branitelji.gov.hr/zaposljavanje-843/843\">https://branitelji.gov.hr/zaposljavanje-843/843</a>.</div><div><br></div><div>By submitting an application for the competition, applicants expressly agree that the PMF, as the controller of the personal data collection, may collect, use, and further process their personal data for the purpose of conducting the competition procedure, in accordance with the provisions of the Personal Data Protection Act.</div><div><br></div><div>For applicants who meet the formal requirements of the competition, a test of knowledge and abilities relevant to the duties of the position may be conducted, through testing and/or interviews. All information regarding the test will be published on the official website of the PMF (<a href=\"https://www.pmfst.unist.hr\">https://www.pmfst.unist.hr</a>) at least five days before the test. If an applicant does not attend the test, it will be considered that the applicant has withdrawn their application. Applicants will be notified of the date, time, and place of the test by email sent to the address provided in their application.</div><div><br></div><div>Applicants of both sexes are equally eligible to apply.</div><div><br></div><div><strong>Applications must be submitted within 30 days of the publication of the call for applications in the Official Gazette to the email address natjecaj-posao@pmfst.hr.</strong></div><div><br></div><div>A complete application is considered to be one that contains all required attachments and is signed by hand. Late or incomplete applications will not be considered, and applicants with incomplete applications will not be invited to supplement their applications.</div><div><br></div><div>Applicants will be notified of the results of the call for applications within the legally prescribed deadline.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://euraxess.ec.europa.eu/jobs/417091"
+      ],
+      "contact_email": null,
+      "created": "2026-03-13T17:34:15.559064+00:00",
+      "updated": "2026-03-13T21:30:08.316849+00:00",
+      "addedAt": "2026-03-14T08:07:00.232Z",
+      "isNew": true
+    },
+    {
       "id": "3127494",
       "title": "Postdoctoral Position in Experimental Particle Physics",
       "institution": "USTC, Hefei",
@@ -23,7 +48,7 @@
       "created": "2026-03-09T13:51:44.958307+00:00",
       "updated": "2026-03-12T17:49:42.606690+00:00",
       "addedAt": "2026-03-13T08:11:13.010Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3128668",
@@ -52,7 +77,7 @@
       "created": "2026-03-12T17:30:17.984283+00:00",
       "updated": "2026-03-12T17:46:28.632939+00:00",
       "addedAt": "2026-03-13T08:11:13.010Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3128627",
@@ -78,7 +103,7 @@
       "created": "2026-03-12T13:06:57.964375+00:00",
       "updated": "2026-03-12T16:29:20.416550+00:00",
       "addedAt": "2026-03-13T08:11:13.010Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3128615",
@@ -105,7 +130,7 @@
       "created": "2026-03-12T09:21:36.046435+00:00",
       "updated": "2026-03-12T16:19:55.323166+00:00",
       "addedAt": "2026-03-13T08:11:13.010Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3128412",
@@ -132,7 +157,7 @@
       "created": "2026-03-11T23:00:48.618968+00:00",
       "updated": "2026-03-12T16:19:11.278879+00:00",
       "addedAt": "2026-03-13T08:11:13.010Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3128389",
@@ -5345,6 +5370,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-13T08:11:13.011Z",
-  "totalJobs": 199
+  "lastUpdated": "2026-03-14T08:07:00.233Z",
+  "totalJobs": 200
 }
