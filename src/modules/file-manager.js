@@ -27,18 +27,42 @@ class FileManager {
 
   copyAssets() {
     this.log("Copying CSS and JavaScript assets...");
-    
+
     try {
       // Copy CSS
       const cssSource = path.join(__dirname, '../styles/main.css');
       const cssTarget = path.join(this.config.docsDir, 'style.css');
       fs.copyFileSync(cssSource, cssTarget);
-      
+
       // Copy JavaScript
       const jsSource = path.join(__dirname, '../scripts/main.js');
       const jsTarget = path.join(this.config.docsDir, 'script.js');
       fs.copyFileSync(jsSource, jsTarget);
+
+      // Copy favicon and icons
+      this.log("Copying favicon and icons...");
+      const assetsDir = path.join(__dirname, '../assets');
       
+      const iconFiles = [
+        'favicon.ico',
+        'favicon.svg',
+        'apple-touch-icon.png',
+        'site.webmanifest',
+        'browserconfig.xml',
+        'mstile-150x150.png'
+      ];
+
+      iconFiles.forEach((file) => {
+        const source = path.join(assetsDir, file);
+        const target = path.join(this.config.docsDir, file);
+        if (fs.existsSync(source)) {
+          fs.copyFileSync(source, target);
+          this.log(`  ✓ Copied ${file}`, "success");
+        } else {
+          this.log(`  ⚠️  ${file} not found`, "warning");
+        }
+      });
+
       this.log("Assets copied successfully", "success");
     } catch (error) {
       this.log(`Error copying assets: ${error.message}`, "error");

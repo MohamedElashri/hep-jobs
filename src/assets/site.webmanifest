@@ -1,0 +1,26 @@
+{
+  "name": "Experimental High Energy Physics Jobs Tracker",
+  "short_name": "HEP Jobs",
+  "description": "Track Experimental High Energy Physics job opportunities from top institutions worldwide",
+  "start_url": "/hep-jobs/",
+  "display": "standalone",
+  "background_color": "#f6f8fa",
+  "theme_color": "#7c93ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/hep-jobs/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/hep-jobs/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "jobs", "science"],
+  "lang": "en-US"
+}

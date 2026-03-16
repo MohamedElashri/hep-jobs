@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <meta name="color-scheme" content="light dark">
+
     <!-- Primary Meta Tags -->
     <title>Experimental High Energy Physics Jobs Tracker - HEP Positions Available</title>
     <meta name="title" content="Experimental High Energy Physics Jobs Tracker - HEP Positions Available">
@@ -11,17 +12,31 @@
     <meta name="keywords" content="experimental high energy physics jobs, particle physics careers, postdoc positions, PhD physics jobs, faculty positions, research scientist jobs, CERN jobs, physics academia, theoretical physics, experimental physics, InspireHEP">
     <meta name="author" content="Experimental HEP Jobs Tracker">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large">
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
     <meta name="generator" content="Experimental HEP Jobs Tracker v1.0">
-    
+    <meta name="rating" content="general">
+    <meta name="distribution" content="global">
+
     <!-- Canonical URL -->
     <link rel="canonical" href="https://melashri.net/hep-jobs/">
+
+    <!-- Favicon & Icons -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="manifest" href="site.webmanifest">
     
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="manifest" href="/site.webmanifest">
-    
+    <!-- MS Tile Color -->
+    <meta name="msapplication-TileColor" content="#7c93ff">
+    <meta name="msapplication-config" content="browserconfig.xml">
+
+    <!-- Theme Colors -->
+    <meta name="theme-color" content="#7c93ff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#1a1b26" media="(prefers-color-scheme: dark)">
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://melashri.net/hep-jobs/">
@@ -33,7 +48,7 @@
     <meta property="og:image:alt" content="Experimental High Energy Physics Jobs Tracker Dashboard">
     <meta property="og:site_name" content="Experimental HEP Jobs Tracker">
     <meta property="og:locale" content="en_US">
-    
+
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://melashri.net/hep-jobs/">
@@ -41,12 +56,15 @@
     <meta property="twitter:description" content="Discover {{totalJobs}} High Energy Physics job opportunities from top institutions worldwide. Track postdoc, PhD, faculty, and research positions in particle physics, updated daily.">
     <meta property="twitter:image" content="https://melashri.net/hep-jobs/twitter-image.png">
     <meta property="twitter:image:alt" content="High Energy Physics Jobs Tracker Dashboard">
-    
+    <meta name="twitter:creator" content="@mohamedelashri">
+    <meta name="twitter:site" content="@mohamedelashri">
+
     <!-- Additional SEO Meta Tags -->
-    <meta name="theme-color" content="#7c93ff">
-    <meta name="msapplication-TileColor" content="#7c93ff">
-    <meta name="msapplication-config" content="/browserconfig.xml">
-    
+    <meta name="application-name" content="HEP Jobs Tracker">
+    <meta name="apple-mobile-web-app-title" content="HEP Jobs">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
     <!-- Structured Data -->
     <script type="application/ld+json">
     {
@@ -66,11 +84,11 @@
         "@type": "ItemList",
         "name": "Experimental High Energy Physics Job Listings",
         "description": "Current job opportunities in Experimental High Energy Physics",
-        "numberOfItems": "{{totalJobs}}"
+        "numberOfItems": {{totalJobs}}
       }
     }
     </script>
-    
+
     <link rel="stylesheet" href="style.css">
     
     <!-- Theme initialization - must run before body renders -->
