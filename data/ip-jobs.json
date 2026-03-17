@@ -1,6 +1,146 @@
 {
   "jobs": [
     {
+      "id": "3129300",
+      "title": "Postdoc Position",
+      "institution": "Cracow, INP",
+      "deadline": "2026-05-04",
+      "description": "<div>A person employed as an adjunct (post-doc) for a fixed period up to 33 Months at the Department of</div><div>Nuclear Reactions and Hadronic Processes - NZ24 at IFJ PAN will be obliged to participate in work on</div><div>research topics and projects implemented and planned for the nearest period at the NZ24 Department.</div><div>The basic tasks of the employed person will include:</div><div>- participation in preparation of the conceptual design of a Cosmic-Veto detector for the experiment</div><div>searching for neutron-antineutron oscillations at the European Spallation Source (ESS) in Lund;</div><div>- implementation of this detector to the model for Monte-Carlo simulation, currently under development;</div><div>- participation in the design, construction and performance tests of the detector prototype;</div><div>- participation in the construction of the final detector and its integration with other components of the</div><div>detection system;</div><div>- analysis of the data obtained on each stage of the work;</div><div>- participation in the early stage of the NNBAR experiment – HIBEAM;</div><div>- dissemination of the research results in the form of publications in leading scientific journals indexed in</div><div>the JCR and speeches during seminars and conferences, including international ones. This person will also</div><div>be obliged to apply for external funding for research.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "NNBAR",
+        "HIBEAM"
+      ],
+      "urls": [
+        "https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2026/NZ24-2-Adiunkt_postdoc_AP-I-26-eng.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-03-16T11:47:17.754711+00:00",
+      "updated": "2026-03-16T20:16:23.415933+00:00",
+      "addedAt": "2026-03-17T08:14:54.840Z",
+      "isNew": true
+    },
+    {
+      "id": "3129026",
+      "title": "Postdoc (ATLAS/FCCee)",
+      "institution": "Geneva U.",
+      "deadline": "2026-04-11",
+      "description": "<div>The Particle Physics Department (DPNC) of the University of Geneva invites applications for a&nbsp;<strong>Postdoctoral Research Associate</strong>&nbsp;in collider physics, with a focus on the ATLAS experiment at CERN’s LHC and preparations for the FCC-ee.&nbsp;</div><div><br></div><div>The DPNC plays a key role in collider physics, contributing to the ATLAS and FASER experiments at CERN’s LHC. It has made significant contributions to detector construction and operation, particularly in tracking and TDAQ systems. The department is now expanding its involvement in FCC-ee activities.</div><div><br></div><div>The successful candidate will work with Prof. Anna Sfyrla and Prof. Steven Schramm at the University of Geneva. Research directions will be defined flexibly according to the candidate’s interests, along the following lines:</div><ul><li><strong>ATLAS</strong>: Phase II TDAQ upgrade (Level 0, algorithms) and searches for new physics (hadronic final states)</li><li><strong>FCC-ee</strong>: TDAQ development, computing and searches for FIPs / LLPs</li></ul><div><strong>Qualifications</strong></div><div>We seek an outstanding and highly motivated physicist who has completed, or is close to completing, a PhD in experimental particle physics. The ideal candidate will demonstrate:</div><ul><li>A record of independent, high-quality research.</li><li>Experience with data analysis in a collider experiment.</li><li>Strong ability to collaborate within an international team.</li><li>Excellent communication and presentation skills.</li><li>Experience with electronics, trigger and data acquisition systems, or machine learning (an asset).</li></ul><div>In addition to research, the candidate will contribute to student supervision and teaching within the Physics Section at the University of Geneva.</div><div><br></div><div><strong>Terms of appointment</strong></div><ul><li>The position is renewable annually for up to three years.</li><li>Preference will be given to candidates with fewer than three years of postdoctoral experience, though applications from more experienced researchers are welcome.</li><li>Professional development opportunities include workshops, conferences, and collaborative research projects.</li></ul><div><strong>Application procedure</strong></div><ul><li>Inquiries: Prof. Anna Sfyrla (<a href=\"http://anna.sfyrla_at_cern.ch/\">anna.sfyrla_at_cern.ch</a>) and/or Prof. Steven Schramm (<a href=\"http://steven.schramm_at_cern.ch/\">steven.schramm_at_cern.ch</a>).</li><li>Applications: submit via&nbsp;<a href=\"https://forms.gle/XBq3Uq78EnyEVRuQ9\">this form</a>.</li><li>Review of applications will start immediately as they are received and will continue until the position is filled. For full consideration, applications should be submitted by&nbsp;11 April 2026.</li><li>The position is available starting in September 2026.</li><li>NB: No need to provide reference letters yet. You will be contacted to provide those after an initial review of applications.</li></ul><div><strong>Commitment to diversity</strong></div><div>The University of Geneva is committed to fostering diversity and inclusion. We strongly encourage applications from underrepresented groups in the scientific community.</div><div>Contact:&nbsp;<a href=\"https://inspirehep.net/authors/1040969\">Sfyrla, Anna</a>&nbsp;(<a href=\"mailto:anna.sfyrla@cern.ch\">anna.sfyrla@cern.ch</a>);&nbsp;<a href=\"https://inspirehep.net/authors/1188352\">Schramm, Steven Randolph</a>&nbsp;(<a href=\"mailto:steven.schramm@cern.ch\">steven.schramm@cern.ch</a>)</div><div><strong>More Information:&nbsp;</strong>https://forms.gle/XBq3Uq78EnyEVRuQ9</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-FCC"
+      ],
+      "urls": [
+        "https://forms.gle/XBq3Uq78EnyEVRuQ9"
+      ],
+      "contact_email": null,
+      "created": "2026-03-14T08:26:55.780144+00:00",
+      "updated": "2026-03-16T20:13:31.668129+00:00",
+      "addedAt": "2026-03-17T08:14:54.840Z",
+      "isNew": true
+    },
+    {
+      "id": "3129037",
+      "title": "Postdoc",
+      "institution": "NCBJ, Warsaw",
+      "deadline": "2026-05-17",
+      "description": "<div><strong>Description of tasks:</strong></div><div>The successful candidate will be responsible for developing software and physical analysis tools, as well as conducting data analysis from ultra-high-energy cosmic ray and neutrino experiments such as GRAND, POEMMA, and HERON. Planned activities specifically include work on separating events of interest from background through the optimization of template sets and machine learning methods based on one-class classifiers, as well as the reconstruction of the primary particle type based on Xmax. The employee will be required to participate in the optimization, calibration, and data collection from prototypes of the aforementioned experiments, involving potential travel to China, Argentina, and the United States. Efforts to secure research funding and the recruitment and co-supervision of doctoral students will also be expected.</div><div><strong>Requirements for the candidate:</strong></div><ul><li>&nbsp;Experience in experimental high-energy physics or astroparticle physics (cosmic ray experiments preferred) - Experience working in a large research team;</li><li>Experience in data analysis and statistical interpretation of results; knowledge of statistical and numerical methods;</li><li>Experience in creation and utilisation of various data analysis tools in a large experiment, preparation of publications, and planning of analyses and tests;</li><li>Proficiency in Python and C++ programming; knowledge of the ROOT framework;</li><li>English fluency</li></ul><div><strong>Additional assets:</strong></div><ul><li>Knowledge of at least one cosmic ray event generator; ability to analyse radio and fluorescence signals from extensive air showers;</li><li>Experience in computer vision methods, especially template matching, convolutional neural networks, and random forests.</li></ul><div><strong>Required documents:</strong></div><ul><li>Curriculum Vitae (inc. list of publications);</li><li>A copy of degree diploma;</li><li>A cover letter that explains the motivating factors for considering the position (max. 1 pp);</li><li>A brief description of important scientific achievements and scientific outlook (max. 2 pp);</li><li>Research plans;</li><li>A list of at least two reference persons including their positions and contact details (e-mail address);</li><li>Any other possible documents that might influence the assessment.</li></ul><div><strong>We offer:</strong></div><ul><li>Employment in one of the largest research Institute in Poland;</li><li>Good learning environment. Support of an experienced team;</li><li>External and internal trainings in hard and soft skills as well as participation in conferences;</li><li>A chance to make ones’ own mark by participation in the creation of a interesting and ambitious projects;</li><li>Additional annual salary and other social security benefits.</li></ul><div>The application documents in electronic form should be sent to: <a href=\"mailto:Justyna.Lagoda@ncbj.gov.pl\">Justyna.Lagoda@ncbj.gov.pl</a></div><div>&nbsp;</div><div><strong>As an attachment to your application please sign &amp; enclose the following declarations:</strong></div><div>I agree for my personal data included in the application documents to be processed by National Centre for Nuclear Research with its registered office in Otwock, 7 Andrzej Sołtan Street, 05-420 Otwock, for a period of 12 months from their submission, in order to carry out future recruitment processes.</div><div>Others information:</div><div><br></div><div>We reserve the right to contact only selected candidates &amp; the right to inform about the decision to fill the post only to the selected candidate.</div><div>The National Centre for Nuclear Research (NCBJ) reserves the right to terminate the recruitment process early in the event that a candidate is selected for employment before that date.</div><div>At NCBJ there is the internal procedure for the report of breaches of law. Anyone interested in its content can access it at any time on the website:&nbsp;<a href=\"https://www.ncbj.gov.pl/sites/default/files/prasa/INTERNAL%20NOTIFICATION%20PROCEDURE.pdf\">https://www.ncbj.gov.pl/sites/default/files/prasa/INTERNAL%20NOTIFICATI…</a></div><div>Information in accordance with Article 13 RODO on the processing of personal data:</div><div>The Personal Data Controller of your personal data is the National Centre for Nuclear Research (hereinafter referred to as Controller or NCBJ) with its registered office in Otwock, 7 Andrzej Sołtan Street, 05-400 Otwock.</div><div>Your personal data will be processed for recruitment purposes on the basis of applicable law, including the Labour Code. Data not required by law, provided by you in your documents, will be processed on the basis of your consent. Your consent is given by the transfer of this data.</div><div>The full content of the information clause of Article 13 RODO is available at&nbsp;<a href=\"https://www.ncbj.gov.pl/en/gdpr\">https://www.ncbj.gov.pl/en/gdpr</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "GRAND",
+        "POEMMA",
+        "HERON"
+      ],
+      "urls": [
+        "https://www.ncbj.gov.pl/en/praca/postdoc-bp3507"
+      ],
+      "contact_email": null,
+      "created": "2026-03-15T18:07:47.549634+00:00",
+      "updated": "2026-03-16T20:11:55.778512+00:00",
+      "addedAt": "2026-03-17T08:14:54.840Z",
+      "isNew": true
+    },
+    {
+      "id": "3129036",
+      "title": "Postdoc",
+      "institution": "NCBJ, Warsaw",
+      "deadline": "2026-05-17",
+      "description": "<div>The person hired will be responsible for preparing tools for physics analysis and conducting analysis using data from the Hyper-Kamiokande and T2K neutrino experiments. The planned activities will include, in particular, the use of data from the near and intermediate detectors, as well as the development of software utilizing Markov chains for neutrino oscillation analysis based on Bayesian inference. The hired person will also be required to participate in the construction of the detectors (end of 2026 and 2027) and in data taking shifts in Japan, as well as to collaborate in supervising PhD students (as an auxiliary supervisor).</div><div><strong>Requirements for the candidate:</strong></div><ul><li>Internship in experimental high-energy physics (preferably neutrino experiments)&nbsp;</li><li>A PhD degree in physics or a related field.</li><li>Experience working in a large research team.</li><li>Experience in data analysis, statistical interpretation of results, and knowledge of statistical and numerical methods&nbsp;</li><li>Ability to use a variety of tools for data analysis in a large-scale experiment, preparation of publications, planning of analyses and tests.</li><li>Good knowledge of C++ language.&nbsp;</li><li>Fluent in English.</li></ul><div><strong>Additional assets:</strong></div><ul><li>Knowledge of at least one neutrino interactions generator and neutrino interaction models.</li><li>Experience in Bayesian analysis.</li></ul><div><strong>Required documents:</strong></div><ul><li>Curriculum Vitae (inc. list of publications);</li><li>A copy of degree diploma;</li><li>A cover letter that explains the motivating factors for considering the position (max. 1 pp);</li><li>A brief description of important scientific achievements and scientific outlook (max. 2 pp);</li><li>Research plans;</li><li>A list of at least two reference persons including their positions and contact details (e-mail address);</li><li>Any other possible documents that might influence the assessment.</li></ul><div><strong>We offer:</strong></div><ul><li>Employment in one of the largest research Institute in Poland;</li><li>Good learning environment. Support of an experienced team;</li><li>External and internal trainings in hard and soft skills as well as participation in conferences;</li><li>A chance to make ones’ own mark by participation in the creation of a interesting and ambitious projects;</li><li>Additional annual salary and other social security benefits.</li></ul><div>The application documents in electronic form should be sent to: <a href=\"mailto:Justyna.Lagoda@ncbj.gov.pl\">Justyna.Lagoda@ncbj.gov.pl</a></div><div>&nbsp;</div><div><strong>As an attachment to your application please sign &amp; enclose the following declarations:</strong></div><div>I agree for my personal data included in the application documents to be processed by National Centre for Nuclear Research with its registered office in Otwock, 7 Andrzej Sołtan Street, 05-420 Otwock, for a period of 12 months from their submission, in order to carry out future recruitment processes.</div><div><br></div><div>Other information:</div><div>We reserve the right to contact only selected candidates &amp; the right to inform about the decision to fill the post only to the selected candidate.</div><div>The National Centre for Nuclear Research (NCBJ) reserves the right to terminate the recruitment process early in the event that a candidate is selected for employment before that date.</div><div>At NCBJ there is the internal procedure for the report of breaches of law. Anyone interested in its content can access it at any time on the website:&nbsp;<a href=\"https://www.ncbj.gov.pl/sites/default/files/prasa/INTERNAL%20NOTIFICATION%20PROCEDURE.pdf\">https://www.ncbj.gov.pl/sites/default/files/prasa/INTERNAL%20NOTIFICATI…</a></div><div>Information in accordance with Article 13 RODO on the processing of personal data:</div><div>The Personal Data Controller of your personal data is the National Centre for Nuclear Research (hereinafter referred to as Controller or NCBJ) with its registered office in Otwock, 7 Andrzej Sołtan Street, 05-400 Otwock.</div><div>Your personal data will be processed for recruitment purposes on the basis of applicable law, including the Labour Code. Data not required by law, provided by you in your documents, will be processed on the basis of your consent. Your consent is given by the transfer of this data.</div><div>The full content of the information clause of Article 13 RODO is available at&nbsp;<a href=\"https://www.ncbj.gov.pl/en/gdpr\">https://www.ncbj.gov.pl/en/gdpr</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "T2K"
+      ],
+      "urls": [
+        "https://www.ncbj.gov.pl/en/praca/postdoc-bp3507"
+      ],
+      "contact_email": null,
+      "created": "2026-03-15T18:04:03.126702+00:00",
+      "updated": "2026-03-16T20:06:26.804155+00:00",
+      "addedAt": "2026-03-17T08:14:54.840Z",
+      "isNew": true
+    },
+    {
+      "id": "3129445",
+      "title": "Postdoctoral Research Associate -- CMS Experiment",
+      "institution": "Northeastern U. (main)",
+      "deadline": "2026-04-15",
+      "description": "<div>The experimental particle physics group at Northeastern University invites applications for a postdoctoral research associate position on the Compact Muon Solenoid (CMS) experiment. The position is available immediately, with a preferred start date in Spring or Summer 2026, and will be primarily based at CERN.</div><div><br></div><div>The Northeastern CMS group is active in many aspects of the experiment, including physics data analysis, detector operations, and HL-LHC detector upgrades (group website: <a href=\"https://epp.sites.northeastern.edu\">https://epp.sites.northeastern.edu</a>). Current physics efforts include measurements and searches in the top quark and Higgs boson sectors, as well as searches for exotic long-lived particles.</div><div><br></div><div>The successful candidate is expected to take a leading role in CMS physics analysis and to contribute significantly to the CMS Track Trigger development for the HL-LHC upgrade. The candidate will also have opportunities to work closely with graduate and undergraduate students.</div><div><br></div><div>Applicants should send (1) a CV, including a publication list; (2) a research statement describing past experience and future interests; and (3) should arrange for at least three letters of recommendation to be sent directly to Prof. Louise Skinnari at l.skinnari@northeastern.edu.&nbsp;</div><div><br></div><div>Review of applications will begin immediately. For full consideration, applications should be received by April 15, 2026, but the position will remain open until filled.</div><div><br></div><div>A Ph.D. in experimental particle physics by the time of the appointment is required. Candidates should have a strong record of recent accomplishments in physics data analysis and detector hardware and/or software. The appointment is nominally for one year, with the possibility of renewal for up to five years total, subject to satisfactory performance and funding availability.&nbsp;</div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-16T19:47:30.721034+00:00",
+      "updated": "2026-03-16T20:02:22.086148+00:00",
+      "addedAt": "2026-03-17T08:14:54.840Z",
+      "isNew": true
+    },
+    {
       "id": "3129010",
       "title": "Senior Assistant in Experimental Particle Physics - CMS (ECAL)",
       "institution": "Split U.",
@@ -5370,6 +5510,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-16T18:17:18.894Z",
-  "totalJobs": 200
+  "lastUpdated": "2026-03-17T08:14:54.841Z",
+  "totalJobs": 205
 }
