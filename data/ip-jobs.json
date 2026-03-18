@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3129745",
+      "title": "University Tenure-Track Professorship (W1) „Experimental Astroparticle Physics“",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-05-07",
+      "description": "<div>We seek a candidate (f/m/d) who will expand KIT’s role in the research field of experimental astroparticle physics. The activities of the position are focused on the direct search for Dark Matter and on the development of technologies and instruments for building ultra‑sensitive experiments. The Tenure‑Track professorship will be integrated to strengthen and complement the existing experimental and theoretical activities at KIT in the research areas of astroparticle and particle physics.</div><div>You will establish and independently lead a Dark Matter research group at the KIT Institute for Astroparticle Physics (IAP). You will participate in the program‑oriented funding of the Helmholtz Association of German Research Centers, particularly in the program “Matter and the Universe” (MU). At KIT, the research topics and tasks of the program include, in addition to the search for Dark Matter, the determination of the neutrino mass and other neutrino properties as well as the investigation of ultra‑high‑energy particles and radiation from the Universe.</div><div>You will collaborate closely with colleagues from other institutes and the program “Matter and Technologies” (MT), especially for the development of suitable detection technologies and detectors. You contribute in the acquisition of third‑party funding from national and international sources.</div><div>A participation in the KIT Center for Elementary Particle and Astroparticle Physics (KCETA) and in the Karlsruhe School for Elementary Particle and Astroparticle Physics: Science and Technology (KSETA) is desired.</div><div>An appropriate participation in the teaching duties of the KIT Faculty of Physics is expected. You will perform large-scale research with a teaching load of 4 lecture hours per week per semester and after a positive mid-term evaluation of 6 lecture hours per week per semester.</div><div><br></div><div><strong>Personal qualification</strong></div><div>Desired for a successful application is a competitively acquired junior research group (e.g. German Research Foundation (DFG) Emmy Noether Young Investigators Group, Helmholtz Young Investigator Groups, ERC Starting Grant, junior research groups of German ministries (esp. the Federal Ministry of Research, Technology and Space, BMFTR)), with less than half of the funding period expired at the time of publication of this advertisement.</div><div>Prerequisites are a completed doctorate in physics, outstanding internationally visible scientific achievements in the field of experimental astroparticle physics and suitable pedagogical skills.</div><div>Employment is subject to Art. 14, par. (2) of the KIT Act in conjunction with Art. 47 LHG Baden-Württemberg (Act of Baden-Württemberg on Universities and Colleges) and the&nbsp;<a href=\"https://www.sts.kit.edu/downloads/20_06_29_%20Quality%20Assurance%20Concept%20for%20Tenure-track%20or%20Junior%20Professorship.pdf\">Quality Assurance Concept for Junior Professorships and Tenure-track Professorships at Karlsruhe Institute of Technology</a>.</div><div><br></div><div>As a family-friendly university, KIT offers part-time employment, leaves of absence, a dual career service, and coaching to support the work-life balance. We prefer to balance the number of employees (f/m/d). Therefore, we encourage female applicants to apply for this job.</div><div><br></div><div>Recognized severely disabled persons will be preferred if they are equally qualified.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.pse.kit.edu/english/karriere/joboffer.php?id=165917"
+      ],
+      "contact_email": null,
+      "created": "2026-03-17T08:46:15.453105+00:00",
+      "updated": "2026-03-17T18:10:11.088975+00:00",
+      "addedAt": "2026-03-18T08:13:37.102Z",
+      "isNew": true
+    },
+    {
       "id": "3129300",
       "title": "Postdoc Position",
       "institution": "Cracow, INP",
@@ -27,7 +53,7 @@
       "created": "2026-03-16T11:47:17.754711+00:00",
       "updated": "2026-03-16T20:16:23.415933+00:00",
       "addedAt": "2026-03-17T08:14:54.840Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129026",
@@ -55,7 +81,7 @@
       "created": "2026-03-14T08:26:55.780144+00:00",
       "updated": "2026-03-16T20:13:31.668129+00:00",
       "addedAt": "2026-03-17T08:14:54.840Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129037",
@@ -85,7 +111,7 @@
       "created": "2026-03-15T18:07:47.549634+00:00",
       "updated": "2026-03-16T20:11:55.778512+00:00",
       "addedAt": "2026-03-17T08:14:54.840Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129036",
@@ -112,7 +138,7 @@
       "created": "2026-03-15T18:04:03.126702+00:00",
       "updated": "2026-03-16T20:06:26.804155+00:00",
       "addedAt": "2026-03-17T08:14:54.840Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129445",
@@ -138,7 +164,7 @@
       "created": "2026-03-16T19:47:30.721034+00:00",
       "updated": "2026-03-16T20:02:22.086148+00:00",
       "addedAt": "2026-03-17T08:14:54.840Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129010",
@@ -5510,6 +5536,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-17T08:14:54.841Z",
-  "totalJobs": 205
+  "lastUpdated": "2026-03-18T08:13:37.103Z",
+  "totalJobs": 206
 }
