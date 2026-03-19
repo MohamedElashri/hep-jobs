@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3130430",
+      "title": "Post-Doctoral position (2 years)",
+      "institution": "Jagiellonian U.",
+      "deadline": "2026-04-15",
+      "description": "<div>Type of employment: <strong>Employment contract</strong></div><div>Working time: <strong>Full-time</strong></div><div>Planned duration of employment: <strong>12 months with the possibility of extension to 24 months.</strong></div><div>Expected date of employment commencement: <strong>July/August 2026</strong></div><div>Deadline for submission of applications: <strong>15.04.2026</strong></div><div><br></div><div><strong>Scope of duties:</strong></div><div>The Candidate (F/M) will be responsible for carrying out tasks related to the analysis of experimental data collected in the HADES experiment, focusing on searches for physics beyond the Standard Model and studies of discrete symmetries, including CP symmetry in strong interactions. Additionally, the Candidate's (F/M) duties will include proposing, preparing, and conducting Monte Carlo simulations of meson production reactions and multi-pion background processes. The Candidate (F/M) will also be directly involved in future measurements and the preparation of experimental proposals using the HADES detector.</div><div>Summary of responsibilities:</div><ul><li>Analysis of experimental data on rare decays of eta, omega, and eta-prime mesons.</li><li>Leading and conducting Monte Carlo simulations of the investigated physical processes in the context of analyzed experimental data and planned future measurements.</li><li>Participation in internal HADES group meetings and international conferences to present project results.</li><li>Collaboration with the project leader and other team members, including supervising the work of PhD students and HADES collaboration participants.</li></ul><div><strong>Requirements for the candidate:</strong></div><div>The selection procedure is open for all individuals, who meet the requirements set out in Articles 113 and 116.2.3) of the Act of 20 July 2018 – Law on Higher Education and Science, and who meet the following eligibility criteria according to § 165 of the Statute of the Jagiellonian University:</div><ul><li>holding at least a doctoral degree.</li><li>having relevant scientific achievements.</li><li>taking active part in scientific life.</li><li>Have obtained a doctoral degree no more than 7 years ago before the year of employment in the project. This period may be extended, by the principles described in the catalogue of costs in research projects financed by the National Science Centre.</li><li>Have obtained a doctoral degree in an entity other than the entity in which employment in this position is planned, or have completed at least a 10-month, continuous, and documented postdoctoral internship in an entity other than the entity implementing the project and in a country other than the country in which the doctoral degree was obtained.</li><li>Experience in experiments in the field of nuclear or particle physics at high or medium energy.</li><li>Very good knowledge and programming skills in C/C++ (or possibly Python).</li><li>Good knowledge of CERN-ROOT data analysis packages.</li><li>Knowledge of statistical data analysis methods and potential application of machine learning techniques.</li><li>Good command of English (B2/C1).</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "GSI-HADES"
+      ],
+      "urls": [
+        "https://praca.bip.uj.edu.pl/documents/145868730/160489666/1227.1101.43.2026_ENG+WFAiIS.pdf/173d1993-0468-470d-bf35-ef5e314853cd"
+      ],
+      "contact_email": null,
+      "created": "2026-03-18T08:16:27.949745+00:00",
+      "updated": "2026-03-18T16:45:10.244490+00:00",
+      "addedAt": "2026-03-19T08:12:29.082Z",
+      "isNew": true
+    },
+    {
       "id": "3129745",
       "title": "University Tenure-Track Professorship (W1) „Experimental Astroparticle Physics“",
       "institution": "KIT, Karlsruhe",
@@ -24,7 +52,7 @@
       "created": "2026-03-17T08:46:15.453105+00:00",
       "updated": "2026-03-17T18:10:11.088975+00:00",
       "addedAt": "2026-03-18T08:13:37.102Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129300",
@@ -5536,6 +5564,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-18T08:13:37.103Z",
-  "totalJobs": 206
+  "lastUpdated": "2026-03-19T08:12:29.083Z",
+  "totalJobs": 207
 }
