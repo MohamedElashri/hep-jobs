@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3130950",
+      "title": "Postdoctoral Research Positions in Silicon Detector Development",
+      "institution": "Beijing, Inst. High Energy Phys.",
+      "deadline": "2027-03-19",
+      "description": "<div><strong>Postdoctoral Research Positions in Silicon Detector Development at IHEP, Chinese Academy of Sciences</strong></div><div><strong>&nbsp;&nbsp;</strong></div><div><strong>IHEP Introduction:&nbsp;</strong></div><div>The Institute of High Energy Physics (IHEP), Chinese Academy of Sciences, located in Beijing, is one of the leading research institutions in high-energy physics worldwide. With over 1,500 full-time staff and more than 900 postdoctoral researchers and graduate students, IHEP plays a central role in advancing fundamental physics and detector technologies. The institute is actively involved in major international projects and maintains strong collaborations with universities and research institutions across the globe.</div><div>&nbsp;&nbsp;</div><div><strong>Silicon Detector Development:</strong></div><div>We are seeking highly motivated postdoctoral researchers to join the silicon detector group at IHEP, working on advanced silicon detector technologies for next generation high-energy physics experiments, including space-based spectrometers, future collider experiments, and medical instrument application.</div><div>&nbsp;</div><div>The successful candidates will contribute to one or more of the following areas:</div><div>·&nbsp;&nbsp;Advanced sensor development (e.g., LGAD, SiC, SDD, MAPS)</div><div>·&nbsp;&nbsp;Front-end readout electronics and ASIC development (e.g., LGAD readout ASIC&nbsp;<em>LATRIC</em>, RISC-V SoC&nbsp;<em>HERIS</em>)</div><div>·&nbsp;&nbsp;Sensor and ASIC testing (laser, beta source, and test-beam measurements)</div><div>·&nbsp;&nbsp;Data acquisition (DAQ) system development</div><div>·&nbsp;&nbsp;Detector design (e.g. beam telescopes, spectrometers)</div><div>·&nbsp;&nbsp;Detector system integration, mechanics, and CO₂ cooling</div><div>·&nbsp;&nbsp;Detector performance studies and data analysis</div><div>This position offers a unique and profound opportunity to work on cutting-edge detector technologies.</div><div>&nbsp;</div><div><strong>Requirements</strong></div><div>·&nbsp;&nbsp;Ph.D. in physics, electronics, or a related field</div><div>·&nbsp;&nbsp;Experience in detector development, microelectronics, or data analysis</div><div>·&nbsp;&nbsp;Strong motivation for research</div><div>&nbsp;</div><div><strong>We offer:</strong></div><div>·&nbsp;&nbsp;Competitive salary and benefits</div><div>·&nbsp;&nbsp;Participation in major projects</div><div>·&nbsp;&nbsp;Access to advanced detector and electronics facilities</div><div>·&nbsp;&nbsp;Opportunities for international collaboration and travel</div><div>·&nbsp;&nbsp;Good candidates after their postdoc can be promoted to tenured faculty at IHEP.</div><div>&nbsp;</div><div><strong>Application Details:</strong></div><div>Applications should include curriculum vitae and statement of research interests.</div><div>For any questions regarding the application, please contact Professor Qi Yan at qyan@ihep.ac.cn.&nbsp;We look forward to your applications and to welcoming new talent to the join the silicon detector R&amp;D.</div><div>&nbsp;</div><div><strong>Institute of High Energy Physics</strong></div><div>Experimental Physics Division</div><div>19B, Yuquan Road,</div><div>Shijingshan District</div><div>100049 Beijing</div><div><strong>Contact:</strong>&nbsp;Professor Qi Yan (qyan@ihep.ac.cn)</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph",
+        "physics.ins-det",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-19T02:11:21.963021+00:00",
+      "updated": "2026-03-19T16:11:25.017835+00:00",
+      "addedAt": "2026-03-20T08:11:29.340Z",
+      "isNew": true
+    },
+    {
+      "id": "3131279",
+      "title": "PostDoc on DUNE",
+      "institution": "Bern U., LHEP",
+      "deadline": "2026-04-06",
+      "description": "<div>The Laboratory for High Energy Physics (LHEP) and Albert Einstein Center for Fundamental Physics (AEC) at the University of Bern invite applications for a</div><div><br></div><div><strong>Postdoc in experimental neutrino physics</strong></div><div><br></div><div>The position will be in the framework of the DUNE Experiment. The University of Bern has a long history in the development of detectors, including LArTPCs for neutrino measurement. We made major contributions to the construction, operation, and physics exploitation of experiments in Japan, Italy and the USA. A current focus is the construction of a modular, pixelated LArTPC for the DUNE near detector (ND-LAr) for which we have developed the technology in Bern. We operate a series of demonstrator setups including a four-modules setup (2x2) in the NuMI neutrino beam at Fermilab that will guide the development of the analyses of DUNE data.</div><div><br></div><div>The successful candidate is expected to play a leading role in the current activities of the group (e.g. light readout hardware, ND-LAr module construction, operation of prototypes, data reconstruction and analysis). Applicants must have a completed PhD in experimental high-energy physics by the start of the appointment. The net academic age (according to SNSF) is ideally less than three years and must in any case not exceed six years. Preference will be given to candidates with a background in particle physics detectors and analysis. The initial duration of the contract is for two years, extendable. The position will be located in Bern.</div><div><br></div><div>Candidates are requested to send a short letter of application illustrating the research interests and motivation to join our group. Also required are CV, a list of publications, and the names and e-mail addresses of three references (no need to attach letters, we will reach out after an initial selection).&nbsp;</div><div><br></div><div>The review of applications will start&nbsp;<strong>April 6th, 2026</strong>&nbsp;and continue until the position is filled.</div><div><br></div><div><strong>Please send applications packages by email with subject “DUNE PostDoc application” to:&nbsp;</strong>alexandra.gerber-huisman@unibe.ch.</div><div><br></div><div><br></div><div>For further information, contact:&nbsp;</div><div>Prof. Dr. Michele Weber,&nbsp;<a href=\"mailto:michele.weber@unibe.ch\">michele.weber@unibe.ch</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-19T14:25:04.694494+00:00",
+      "updated": "2026-03-19T16:00:19.542725+00:00",
+      "addedAt": "2026-03-20T08:11:29.340Z",
+      "isNew": true
+    },
+    {
       "id": "3130430",
       "title": "Post-Doctoral position (2 years)",
       "institution": "Jagiellonian U.",
@@ -26,7 +77,7 @@
       "created": "2026-03-18T08:16:27.949745+00:00",
       "updated": "2026-03-18T16:45:10.244490+00:00",
       "addedAt": "2026-03-19T08:12:29.082Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3129745",
@@ -5564,6 +5615,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-19T08:12:29.083Z",
-  "totalJobs": 207
+  "lastUpdated": "2026-03-20T08:11:29.341Z",
+  "totalJobs": 209
 }
