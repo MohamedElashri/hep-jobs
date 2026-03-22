@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "id": "ajo-31848",
+      "title": "PhD position, Ariel University, Israel",
+      "institution": "Ariel University",
+      "deadline": "2026-09-01",
+      "description": "Program Overview Join the Department of Physics at Ariel University and\n   advance your career with our PhD program. Our distinguished faculty\n   will support your application and guide your research. Specialization\n   Fields Our program offers diverse specializations in both theoretical\n   and experimental physics: &#x2022; Theoretical Physics: Condensed Matter,\n   High Energy Physics, Astrophysics, Cosmology, General Relativity. &#x2022;\n   Experimental Physics: Laser Spectroscopy, Dielectric and THz\n   Spectroscopy, Biophysics, Medical Physics, Geophysics, Accelerator\n   Physics, Observational Astrophysics. Program Highlights &#x2022; Expert\n   Faculty: Collaborate with leading physicists. &#x2022; Advanced Laboratories:\n   Engage in research using state-of-the-art facilities. &#x2022; Advanced High\n   Performance Computing Cluster: Run advanced simulations and analyze\n   them using numerical tools. &#x2022; Global Exposure: Contribute to\n   publications in leading journals and attend international conferences\n   and international schools. International Community Our program\n   welcomes students from around the world, creating a diverse academic\n   environment. Scholarship Eligible students will receive full personal\n   scholarships and accommodation for one person in the university\n   dormitories. Growing University Ariel University is proud to be\n   Israel&#x2019;s newest research university and prides itself on a strong\n   emphasis on science and engineering research. Learn more and apply\n   Ariel University Department of Physics (https://www.ariel.ac.il/wp/physics/en)\n   If the link does not work from your country please google &#x22;Ariel\n   University Physics&#x22; and go to the mirror website available from your\n   country. To apply, send your CV, photo, MSc and BSc transcripts,\n   Master Thesis (if any), and a copy of your passport front page to:\n   mikhailzu@ariel.ac.il, subject: application PhD physics",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Ariel%20University/Physics/31848?rss"
+      ],
+      "contact_email": "mikhailzu@ariel.ac.il",
+      "created": "2026-03-21T16:00:00.000Z",
+      "updated": "2026-03-21T16:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-03-22T08:06:53.552Z",
+      "isNew": true
+    },
+    {
+      "id": "ajo-31847",
+      "title": "Physics at Ariel University- M.Sc / Direct Ph.D Program (with scholarship)",
+      "institution": "Ariel University",
+      "deadline": "2026-09-01",
+      "description": "Program Overview, Join the Department of Physics at Ariel University and\n   advance your career with our Master of Science (M.Sc.) program. Our\n   distinguished faculty will support your application and guide your\n   research. High-achieving students have the opportunity to transition\n   into a direct route to Ph.D. program. Specialization Fields Our\n   program offers diverse specializations in both theoretical and\n   experimental physics: &#x2022; Theoretical Physics: Condensed Matter, High\n   Energy Physics, Astrophysics, Cosmology, General Relativity. &#x2022;\n   Experimental Physics: Laser Spectroscopy, Dielectric and THz\n   Spectroscopy, Biophysics, Medical Physics, Geophysics, Accelerator\n   Physics, Observational Astrophysics. Program Highlights &#x2022; Expert\n   Faculty: Collaborate with leading physicists. &#x2022; Advanced Laboratories:\n   Engage in research using state-of-the-art facilities. &#x2022; Advanced High\n   Performance Computing Cluster: Run advanced simulations and analyze\n   them using numerical tools. &#x2022; Global Exposure: Contribute to\n   publications in leading journals and attend international conferences\n   and international schools. International Community Our program\n   welcomes students from around the world, creating a diverse academic\n   environment. Scholarship Eligible students will receive full personal\n   scholarships and accommodation for one person in the university\n   dormitories. Growing University Ariel University is proud to be\n   Israel&#x2019;s newest research university and prides itself on a strong\n   emphasis on science and engineering research. Learn more and apply\n   Ariel University Department of Physics (https://www.ariel.ac.il/wp/physics/en/master_main/)\n   If the link does not work from your country please google &#x22;Ariel\n   University M.Sc. Physics&#x22; and go to the mirror website available from\n   your country. To apply, send your CV, transcripts, and a copy of your\n   passport front page to: masterphysics@ariel.ac.il For questions please\n   contact: masterphysics@ariel.ac.il",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "PHD",
+        "SENIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Ariel%20University/Physics/31847?rss"
+      ],
+      "contact_email": "masterphysics@ariel.ac.il",
+      "created": "2026-03-21T16:00:00.000Z",
+      "updated": "2026-03-21T16:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-03-22T08:06:53.552Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31786",
       "title": "2026-1 Recruitment Announcement for Senior Researcher Positions at the CTPU-CGA (Cosmology, Gravity, and Astroparticle physics)",
       "institution": "Institute for Basic Science",
@@ -50,6 +98,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-21T08:06:16.453Z",
-  "totalJobs": 2
+  "lastUpdated": "2026-03-22T08:06:53.552Z",
+  "totalJobs": 4
 }
