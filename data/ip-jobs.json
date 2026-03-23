@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "id": "3132348",
+      "title": "Postdoctoral Fellowship in Experimental Particle and Strong-Field QED Physics",
+      "institution": "Weizmann Inst.",
+      "deadline": "2026-05-01",
+      "description": "<div>The WIS hep-ex group is seeking an experienced postdoc to take leading a role in forefront Strong-Field QED experiments across world-leading laboratories, including SLAC (E320, US), DESY (LUXE, Germany), ELI-NP (Romania), APOLLON (France) and possibly CoReLS (Korea).</div><div><br></div><div>These experiments are designed to test QED at ultra intense electric fields using collisions of ~10 GeV accelerated electrons (LINAC or LWF) and ~0.01-10 PW laser pulses. The Schwinger critical field is approached and physical processes of pure non-perturbative nature may be observed.</div><div><br></div><div>In all experiments mentioned above, the WIS group is notably responsible for the silicon-pixel tracking detectors - the central systems for measuring the elusive non-linear Breit-Wheeler e+e- pair production in the tunneling regime, possibly for the first time. We also participate in the overall design, construction, operation and simulation of the experiments, as well as the physics-analysis. For more context on our recent work, please see NIM. A. 1083, Mar 2026, 171144 for E320, and EPJ. Spec. Top. 233, 1709–1974 (2024) for LUXE.</div><div><br></div><div>You will be joining amidst a surge of global experimental efforts and major funding campaigns, including a recent €14M ERC Synergy Grant (ERC-SyG) in which our lab is a key partner.</div><div><br></div><div><strong>Requirements:</strong></div><ul><li>PhD and excellent knowledge in experimental particle physics,</li><li>Experience with detector instrumentation, preferably in the area of solid-state detectors,</li><li>Excellent programming skills, experience with large scale distributed computing campaigns.</li></ul><div><strong>Further details:</strong></div><ul><li>The post is to be based at WIS [1] with trips to SLAC, DESY, ELI-NP, APOLLON, CERN and possibly CoReLS.</li><li>Activities in within the ATLAS experiment at the LHC and in the DRD3 group (wide bandgap semiconductors) can also be considered, albeit with low FTE.</li><li>All details related to the fellowship (baseline of ~11,500 ILS/month net) are available in:&nbsp;<a href=\"https://www.weizmann.ac.il/feinberg/fellowship-aid/postdoctoral-fellows\">https://www.weizmann.ac.il/feinberg/fellowship-aid/postdoctoral-fellows</a>.</li><li>In addition to the fellowship and relocation costs, all postdocs receive an annual travel allowance of ~2k$ and the host lab covers all scientific trips if this allowance is exhausted.</li><li>A dedicated international office [2] operates in WIS to help researchers with&nbsp;<strong>ALL</strong>&nbsp;aspects related to the moving, working and living around WIS.</li></ul><div><strong>How to apply:</strong></div><ul><li>Email your CV and LOP to <a href=\"mailto:noam.hod@weizmann.ac.il\">noam.hod@weizmann.ac.il</a>,</li><li>Arrange for&nbsp;<strong>at least three</strong>&nbsp;letters to be emailed to the same address,</li><li>Applications are welcome from all qualified individuals</li></ul><div>\t__________________________________________________________</div><div><br></div><div>[1] WIS is located in Rehovot, Israel, a 20 minute drive from the city of Tel Aviv. The official language (studies and administration) in WIS is English.</div><div><br></div><div>[2] The WIS International Office is providing a spectrum of services to our international community. The office will oversee and provide the international community non-academic and non-scientific services going forward including: Visa handling, Health insurance, Medical services, Housing and Relocating, Schools, Family and community guidance and assistance, Cultural events and activities, Hebrew Lessons and more.</div><div><br></div><div>[3] Postdoc applicants can start employment no later than 5 years after receiving their PhD and the employment can extend up to 7 years after receiving the PhD.</div>",
+      "regions": [
+        "Asia",
+        "Europe",
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "LUXE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-22T21:58:28.295042+00:00",
+      "updated": "2026-03-23T15:22:42.169155+00:00",
+      "addedAt": "2026-03-23T23:45:08.495Z",
+      "isNew": true
+    },
+    {
       "id": "3131421",
       "title": "Postdoctoral Research Associate on CMS Experiment",
       "institution": "U. Nebraska, Lincoln",
@@ -5695,6 +5724,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-23T08:18:38.529Z",
-  "totalJobs": 212
+  "lastUpdated": "2026-03-23T23:45:08.495Z",
+  "totalJobs": 213
 }
