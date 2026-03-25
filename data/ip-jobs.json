@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3133186",
+      "title": "Postdoctoral researcher: ATLAS Higgs Studies + FCC ALLEGRO Detector R&D",
+      "institution": "Annecy, LAPP",
+      "deadline": "2026-05-15",
+      "description": "<div><strong>Summary</strong></div><div>The ATLAS / FCC group at the&nbsp;<em>Laboratoire d’Annecy de Physique des Particules&nbsp;</em>(LAPP) is inviting applications for a&nbsp;joint postdoctoral position&nbsp;for&nbsp;two years starting in Fall 2026. The successful candidate will be interested inmeasuring the Higgs boson self-coupling at the Large Hadron Collider (LHC) with the ATLAS experiment, and in contributing to the&nbsp;R&amp;D of a future detector for the Future Circular Collider electron-positron collider (FCC-ee).&nbsp;</div><div><br></div><div><strong>Position and Main Responsibilities</strong></div><div>The candidate will participate in the&nbsp;Higgs boson pair production analysis exploiting the Run 3 LHC collision data collected by the ATLAS experiment&nbsp;and will contribute to&nbsp;the R&amp;D of the ALLEGRO liquefied noble gas calorimeter for the future FCC-ee ALLEGRO detector, with simulation studies and hands-on work on the early prototypes of this detector. Depending on time and interest, the candidate could also contribute to&nbsp;feasibility studies for measurements of Higgs boson coupling properties at FCC-ee.</div><div><br></div><div>Thanks to the geographical proximity to CERN (50 km from LAPP), the position could be either based at LAPP with regular travel to CERN, or the other way around. Supervision of PhD and Master students could be arranged.</div><div><br></div><div><strong>Required qualifications</strong></div><div>Candidates should hold a&nbsp;Ph.D. degree in particle physics, obtained&nbsp;less than 3 years before the starting date of the position.&nbsp;</div><div><br></div><div>Good experience in data analysis, knowledge of&nbsp;statistical techniques for high energy physics experiments, and an&nbsp;interest in detector development&nbsp;are required. Previous experience with the analysis of LHC data, based on&nbsp;solid C++ and Python expertise, is strongly appreciated. Ability to work in a large international collaboration is a must.</div><div><br></div><div>Fluency in English, speaking and writing (B2 minimum)&nbsp;is necessary.&nbsp;Basic knowledge of French could be useful but is not compulsory (and French courses could be provided to the candidate should they be interested).</div><div><br></div><div><strong>Context</strong></div><div><em>LAPP is a laboratory of the Institute of Nuclear Physics and Particle Physics (IN2P3), an institute of the National Center for Scientific Research (CNRS), which coordinates programs in these fields. LAPP is a joint research unit (UMR 5814) of the CNRS and the University of Savoie Mont-Blanc (USMB). More than 150 researchers, teacher-researchers, engineers, technicians, administrators, students, and foreign visitors work there. The research carried out at LAPP aims to study the physics of elementary particles and their fundamental interactions, as well as to explore their links with the great structures of the Universe. The work of the LAPP teams aims, among other things, to understand the origin of the mass of particles, to unravel the mystery of dark matter or to determine what happened to the antimatter present in our universe at the time of the Big Bang. The location of LAPP, 50 km from CERN, and the presence of the theory laboratory LAPTh in the same premises, make the LAPP campus a very attractive research place. LAPP hosts the MUST mid-range data storage and computing center.</em></div><div><br></div><div>The LAPP ATLAS group is one of the founding members of the ATLAS collaboration, and one of the key actors in the discovery of a Higgs boson and the precision measurement of its properties. The group is also involved in direct searches for new phenomena, precision measurements in gauge-boson sectors, as well as in the upgrade of the Liquid Argon calorimeter electronics and the construction of the new pixel detector for HL-LHC. The group’s expertise in physics analysis and detector development has also been directed to physics studies for the FCC-ee project and FCC detector R&amp;D, especially in the development of the future ALLEGRO liquefied noble gas calorimeter and the measurement of the Higgs properties at FCC-ee.</div><div><br></div><div><strong>Information</strong></div><div>&nbsp;Type of contract:&nbsp;<strong>temporary contract</strong></div><div>Appointment period:&nbsp;<strong>24 months&nbsp;</strong></div><div>Scheduled Hire date:&nbsp;<strong>01/09/2026</strong></div><div>Remuneration:&nbsp;<strong>starting from&nbsp;3132&nbsp;EUR monthly gross&nbsp;</strong>(including residence indemnity, about&nbsp;2516 EUR&nbsp;monthly net)</div><div>Workplace:&nbsp;<strong>LAPP (Annecy 74941, France)</strong></div><div>Attachment:&nbsp;<strong>ATLAS Experiment + FCC-PED</strong></div><div>Trips:&nbsp;<strong>Short trips to be planned in France and abroad&nbsp;</strong>(collaboration meetings, conferences)</div><div>Desired level of education:&nbsp;<strong>PhD in particle physics</strong></div><div>Desired work experience:&nbsp;<strong>maximum 3 years after PhD</strong></div><div><br></div><div><strong>How to apply</strong></div><div>Interested candidates should apply via the CNRS Job Portal&nbsp;<a href=\"https://emploi.cnrs.fr/Offres.aspx\">https://emploi.cnrs.fr/Offres.aspx</a></div><div><br></div><div>The candidate should provide:</div><ul><li>A cover letter explaining their interest in the position;</li><li>A curriculum vitae including a list of key publications highlighting their personal contributions;</li><li>A description of research activities and interests;</li></ul><div>The candidate should also arrange for at least 2 letters of recommendation, to be directly sent to:&nbsp;<a href=\"mailto:lapp_administration_rh_secretariat@lapp.in2p3.fr\">lapp_administration_rh_secretariat@lapp.in2p3.fr</a></div><div><br></div><div>The application and letters should be submitted by&nbsp;<strong>15/5/2026</strong>&nbsp;to receive full consideration.</div><div><br></div><div>For any enquiries about the position, please contact Marco Delmastro (<a href=\"mailto:marco.delmastro@cern.ch\">marco.delmastro@cern.ch</a>).</div><div><br></div><div>This position is funded by IN2P3-CNRS. CNRS is strongly committed to promoting equality and diversity. We particularly welcome applications from under-represented candidates for this post.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-24T14:20:22.268771+00:00",
+      "updated": "2026-03-24T15:46:25.106147+00:00",
+      "addedAt": "2026-03-25T08:14:15.036Z",
+      "isNew": true
+    },
+    {
       "id": "3132348",
       "title": "Postdoctoral Fellowship in Experimental Particle and Strong-Field QED Physics",
       "institution": "Weizmann Inst.",
@@ -5724,6 +5749,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-24T08:14:48.482Z",
-  "totalJobs": 213
+  "lastUpdated": "2026-03-25T08:14:15.036Z",
+  "totalJobs": 214
 }
