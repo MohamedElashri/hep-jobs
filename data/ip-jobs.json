@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3134021",
+      "title": "Post Doc (Consultant) for ML in natural and life sciences",
+      "institution": "Saarland U.",
+      "deadline": "2026-05-03",
+      "description": "<div>The Center for Scientific and High-Performance Computing (CSHPC) at Saarland University, Saarbrücken, Germany, is inviting applications for the following position commencing at the earliest opportunity.</div><div><br></div><div>Academic research assistant - ML Consultant</div><div><br></div><div>Tasks among others: Conducting independent research in applications of ML in natural and life sciences (e.g., ML-assisted molecular dynamics, protein folding, materials design, climate modeling).</div><div><br></div><div>Duration of employment: end of 2031 with the aim of making the position permanent, 100 % of standard working time.</div><div><br></div><div>Workplace/Department:</div><div><br></div><div>The newly established Center for Scientific and High-Performance Computing (CSHPC) will serve as a central scientific institution offering high-performance computing and related services to all departments at Saarland University and will represent the university in the German national high-performance computing initiative (NHR). The focus of this position will be on providing scientific advice and support to research groups in the NHR and at Saarland University on the efficient use and further development of cutting-edge machine learning methods on high-performance computing systems. This includes analyzing and optimizing ML workflows, evaluating and selecting suitable learning paradigms and frameworks, and developing best-practice guidelines for using scalable and reproducible ML software. The responsibilities also include close collaboration with scientific partners, organizing workshops and training courses, establishing an independent research program in the areas of ML for HPC, and contributing to the design and strategic development of Saarland University’s HPC infrastructure.&nbsp;</div><div><br></div><div>Job requirements:</div><div><br></div><div>Completed university studies in computer science or a related subject area, such as mathematics or physics, preferably followed by a successful doctorate</div><div><br></div><div>Language skills: English</div><div><br></div><div>We look forward to receiving your meaningful online application (in a PDF file) by 03.05.2026 to administration@cs.uni<a href=\"http://-saarland.de\">-saarland.de</a>. Please include the reference number W2826 in the subject line of the e-mail.</div><div><br></div><div>If you have any questions, please contact us for assistance. Your contact:</div><div>Prof. Dr. André Brinkmann Email: andre.brinkmann@uni<a href=\"http://-saarland.de\">-saarland.de</a></div><div><br></div><div>For a detailed job add see:</div><div><a href=\"https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2826_engl.pdf\">https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2826_engl.pdf</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.uni-saarland.de/fileadmin/upload/verwaltung/stellen/Wissenschaftler/W2826_engl.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-03-25T13:54:43.789933+00:00",
+      "updated": "2026-03-25T15:39:04.548868+00:00",
+      "addedAt": "2026-03-26T08:17:10.671Z",
+      "isNew": true
+    },
+    {
       "id": "3133186",
       "title": "Postdoctoral researcher: ATLAS Higgs Studies + FCC ALLEGRO Detector R&D",
       "institution": "Annecy, LAPP",
@@ -23,7 +49,7 @@
       "created": "2026-03-24T14:20:22.268771+00:00",
       "updated": "2026-03-24T15:46:25.106147+00:00",
       "addedAt": "2026-03-25T08:14:15.036Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3132348",
@@ -5749,6 +5775,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-25T08:14:15.036Z",
-  "totalJobs": 214
+  "lastUpdated": "2026-03-26T08:17:10.672Z",
+  "totalJobs": 215
 }
