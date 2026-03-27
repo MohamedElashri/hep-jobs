@@ -30,7 +30,7 @@
       "updated": "2026-03-26T08:17:29.027Z",
       "source": "DESY",
       "addedAt": "2026-03-26T08:17:29.028Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1774513047716",
@@ -56,7 +56,7 @@
       "updated": "2026-03-26T08:17:27.716Z",
       "source": "DESY",
       "addedAt": "2026-03-26T08:17:29.028Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1774513046482",
@@ -82,7 +82,7 @@
       "updated": "2026-03-26T08:17:26.482Z",
       "source": "DESY",
       "addedAt": "2026-03-26T08:17:29.028Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1774513045138",
@@ -108,7 +108,7 @@
       "updated": "2026-03-26T08:17:25.138Z",
       "source": "DESY",
       "addedAt": "2026-03-26T08:17:29.028Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1774513043826",
@@ -137,7 +137,7 @@
       "updated": "2026-03-26T08:17:23.826Z",
       "source": "DESY",
       "addedAt": "2026-03-26T08:17:29.028Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1774513042604",
@@ -167,7 +167,7 @@
       "updated": "2026-03-26T08:17:22.604Z",
       "source": "DESY",
       "addedAt": "2026-03-26T08:17:29.028Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "desy-1774253938544",
@@ -4738,6 +4738,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-26T08:17:29.029Z",
+  "lastUpdated": "2026-03-27T08:15:16.671Z",
   "totalJobs": 166
 }

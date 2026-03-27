@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3135126",
+      "title": "Postdoctoral position in experimental particle physics with the ATLAS experiment",
+      "institution": "Uppsala U.",
+      "deadline": "2026-04-24",
+      "description": "<div>The Department of Physics and Astronomy at Uppsala University, Sweden has an opening for a two-year postdoctoral position in experimental particle physics with the ATLAS experiment, focusing on studies of the nature of the Higgs boson, both through the creation of two Higgs bosons and two top quarks, as well as searches for signs of compositeness. Uppsala University is one of the founding members of the ATLAS experiment and the research group has many years of experience with di-Higgs searches and searches for phenomena beyond the Standard Model.</div><div><br></div><div><strong>Duties</strong></div><div>The main duties will be to take a leading role in the development of analysis methods to search for the production of two top quarks and two Higgs bosons in the HH to bbbb final state, as well as exploring synergies with searches for Higgs compositeness through the creation of vector-like quarks. In addition, the successful candidate will be expected to teach university courses, to co-supervise students and to contribute to the maintenance and operation of the ATLAS experiment, as required by the collaboration.</div><div>Administration related to teaching, supervision and research will also be necessary.</div><div><br></div><div><strong>Requirements</strong></div><div>A PhD degree in physics or a foreign degree equivalent to a PhD degree in physics. The degree needs to be obtained by the time of the decision of employment. Priority will be given to applicants who have completed their degree no more than three years before the deadline for applications. Due to special circumstances, the degree may have been obtained earlier. The three-year period can be extended due to circumstances such as sick leave, parental leave, duties in labour unions, etc.</div><div>Proficiency in written and spoken English is necessary.</div><div><br></div><div><strong>Additional qualifications</strong></div><div>Previous work with physics beyond the Standard Model and/or di-Higgs studies with the ATLAS experiment is a merit. Experience with top or Higgs to bb taggers at hadron colliders is also a merit.</div><div><br></div><div><strong>About the employment</strong></div><div>The employment is a temporary position of 2 years according to central collective agreement. Full time position. Starting date 1 June 2026 or as agreed. Placement: Uppsala</div><div><br></div><div>Please see the full description and apply at <a href=\"https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=915373\">https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=915373</a></div><div>Only applications through the Uppsala University recruitment portal will be considered.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=915373"
+      ],
+      "contact_email": null,
+      "created": "2026-03-26T22:03:54.481269+00:00",
+      "updated": "2026-03-26T22:33:04.833727+00:00",
+      "addedAt": "2026-03-27T08:15:16.655Z",
+      "isNew": true
+    },
+    {
       "id": "3134021",
       "title": "Post Doc (Consultant) for ML in natural and life sciences",
       "institution": "Saarland U.",
@@ -24,7 +51,7 @@
       "created": "2026-03-25T13:54:43.789933+00:00",
       "updated": "2026-03-25T15:39:04.548868+00:00",
       "addedAt": "2026-03-26T08:17:10.671Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3133186",
@@ -5775,6 +5802,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-26T08:17:10.672Z",
-  "totalJobs": 215
+  "lastUpdated": "2026-03-27T08:15:16.656Z",
+  "totalJobs": 216
 }
