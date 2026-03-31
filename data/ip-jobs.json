@@ -1,6 +1,139 @@
 {
   "jobs": [
     {
+      "id": "3137066",
+      "title": "Study of novel scintillator materials for high-energy physics and applications",
+      "institution": "CTU, Prague",
+      "deadline": "2026-05-21",
+      "description": "<div>Study of novel scintillator materials for high-energy physics and&nbsp;applications</div><div><br></div><div>Plastic scintillator detectors are widely used in high-energy physics (HEP) experiments for various applications, including calorimetry, luminosity measurement, particle tracking, and fast triggering. These detectors often operate in harsh environments, subjected to extreme radiation doses due to high collision rates and large particle multiplicities.</div><div>There is significant interest in developing advanced scintillator technologies with enhanced performance to meet the demands of future experiments. Key goals include improving timing resolution, radiation hardness, and tunability of the emission wavelength, among other properties.</div><div>This project proposes a detailed study of scintillator material properties to better understand the limits of current detector systems and accelerate the development of next-generation technologies with impact across HEP and medical imaging (TOF-PET).</div><div>As part of this project, the student will investigate new scintillator materials based on innovative plastic matrices doped with state-of-the-art components such as nanocrystals and quantum dots.&nbsp;</div><div>The student will have access to a laboratory for setting up dedicated test benches with NIM/VME electronics, electronic assembly workshop, spectrofluorometer, and radiation sources. The project have an important component of experimental work in the laboratory building test benches (with commercials and ideally custom electronics) and manufacturing the plastic scintillators. All of this in collaboration with groups at CERN&nbsp;and the nuclear chemistry department at CTU.</div><div><br></div><div>Application for CTU</div><div>Application for doctoral studies (to commence the study on October 1, 2026)&nbsp;- submission from April 27, 2026 to May 21, 2026.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/"
+      ],
+      "contact_email": null,
+      "created": "2026-03-30T17:24:17.167156+00:00",
+      "updated": "2026-03-30T19:15:44.294281+00:00",
+      "addedAt": "2026-03-31T08:22:38.549Z",
+      "isNew": true
+    },
+    {
+      "id": "3136924",
+      "title": "PhD position on CMS experiment",
+      "institution": "U. Zurich (main)",
+      "deadline": "2026-05-02",
+      "description": "<div>The experimental, high-energy particle physics group of Prof. Dr. Ben Kilminster at the University of Zurich invites applications for two PhD positions in high-energy physics as part of the CMS collaboration at CERN.</div><div><br></div><div>The successful candidates will contribute to data analysis and detector development. The data analysis research will include searches for new physics with tau leptons and tau-lepton object reconstruction using CMS Run-3 data. The detector development will include the construction and testing of the pixel tracker extension (TEPX) of the phase-2 CMS experiment, which will start collecting data in 2030.&nbsp;</div><div><br></div><div>The group has played leading roles at CMS in physics analysis with tau leptons, including searches for high-mass leptoquarks, searches for lepton flavor universality violation in B-meson decays to tau leptons, measurements of the anomalous magnetic moment of the tau lepton, as well as rare decays to tau leptons. Members of the group have developed ML-algorithms for tau-lepton identification and reconstruction, and have served as conveners and sub-conveners in the tau-lepton object group. The group has also conducted a wide range of searches for heavy, new particles decaying to W, Z, and Higgs bosons. The UZH group has also played a leading role in the R&amp;D, construction, and operation of the pixel detectors at the CMS experiment. The TEPX detector will be built and tested at UZH during the period of this PhD position with a group of scientists, engineers, technicians, and other students. Other activities of the group include pixelated, precise-timing sensor R&amp;D for the FCC-ee, superconducting nanowire single-particle detectors (SNSPDs) for high-energy experiments, and direct-dark matter searches with DAMIC-M.&nbsp;</div><div><br></div><div>The University of Zurich has a strong particle physics group of 15 professors, contributing to theoretical calculations and models of new physics, as well as experimental efforts on CMS, LHCb, Xenon-nT, LZ, SHIP, TESSERACT, QROCODILE, LEGEND, DES, and LSST/DESC, among others.</div><div><br></div><div>A master’s degree or diploma in physics and research experience in experimental particle physics are required. Software skills and experience with detector instrumentation are desirable. The ideal candidate will have an interest in both data analysis and detector instrumentation.</div><div><br></div><div>Proficiency in English is required. PhD positions are fully funded according to Swiss salary regulations and typically last 3–4 years. For applicants from outside the EU, employment is subject to approval by immigration authorities, a process that may take up to three months.</div><div><br></div><div>Applicants should submit a curriculum vitae, academic transcripts, a research statement, and arrange to have at least two reference letters submitted via the <a href=\"https://academicjobsonline.org/ajo/jobs/31879\">academicjobsonline.org</a> link.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.physik.uzh.ch/en/groups/kilminster/research.html"
+      ],
+      "contact_email": null,
+      "created": "2026-03-30T14:23:08.701316+00:00",
+      "updated": "2026-03-30T15:04:23.472113+00:00",
+      "addedAt": "2026-03-31T08:22:38.549Z",
+      "isNew": true
+    },
+    {
+      "id": "3136583",
+      "title": "Ph.D. in experimental particle physics in the Clermont LHCb group",
+      "institution": "LPC, Clermont-Ferrand",
+      "deadline": "2026-04-21",
+      "description": "<div><strong>Important note:</strong> this thesis subject has been selected for a Clermont University scholarship. The grant will be attributed either to this particle physics Ph.D. program or a mathematics Ph.D. program. We are welcoming applications till the 21st of April. The deliberation about the position attribution shall happen the 27th of April.</div><div><br></div><div><strong>Title of the thesis:</strong> Study of charmless 3-body b-hadron decays with neutral pions and assessment of the calorimeter reconstruction performance for the LHCb ECAL Upgrade project.&nbsp;&nbsp;</div><div><br></div><div>The LHCb team of the LPC has developed several amplitude analyses of beautiful particle decays in charmless decays with three hadrons in the final state. These decays are one of the relevant laboratories to reveal new sources of particle-antiparticle (CP) symmetry breaking. Several amplitude analyses are underway for three-body charmless decays of beautiful particles that contain a neutral kaon in the final state and will provide insight into the two-body amplitudes that contribute to the final state.&nbsp;It is relevant to complement these studies with those concerning analogous decays including a neutral pion in the final state. Their investigation is experimentally more demanding and requires the development of new reconstruction methods of the neutral pions. We plan for this thesis to study specifically the Dalitz decay of the neutral pions which produces an electron-positron pair together with a photon. The very large beauty-production cross-section at the LHC allows in principle to select a sufficiently large sample of decays of interest. The work, for this part of the thesis, will consist in developing an optimised selection on the LHC Run III data and producing the amplitude analysis of these decays.&nbsp;</div><div><br></div><div>This pioneering work has an immediate interest in the design of the electromagnetic calorimeter envisaged for the upgrade of the detector during the high-luminosity phase of the LHC machine. The expertise developed in the first part of this thesis on the LHC data can be used to study the performance of the detector envisaged for this new phase of the machine. The LPC group is involved in the electromagnetic calorimeter project, in close collaboration with French, Italian, American, Spanish and Chinese laboratories. The aim is to optimize the design of the detector.</div><div><br></div><div>Pre-requisites: the candidates must have received an initial training in theoretical and experimental particle physics. Skills in C++ and python programming are welcome but are not mandatory.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://cernbox.cern.ch/index.php/s/XmULvX4rSVMsSHC"
+      ],
+      "contact_email": null,
+      "created": "2026-03-30T09:45:17.788283+00:00",
+      "updated": "2026-03-30T14:59:16.893075+00:00",
+      "addedAt": "2026-03-31T08:22:38.549Z",
+      "isNew": true
+    },
+    {
+      "id": "3136926",
+      "title": "Postdoc position on CMS experiment",
+      "institution": "U. Zurich (main)",
+      "deadline": "2026-05-02",
+      "description": "<div>The experimental, high-energy particle physics group of Prof. Dr. Ben Kilminster at the University of Zurich invites applications for a postdoc position in high-energy physics as part of the CMS collaboration at CERN.&nbsp;</div><div><br></div><div>The successful candidate will contribute to data analyses and detector development, and supervise two PhD students. The data analysis research will include searches for new physics with tau leptons and tau-lepton object reconstruction using CMS Run-3 data. The detector development will include the construction and testing of the pixel tracker extension (TEPX) of the phase-2 CMS experiment, which will start collecting data in 2030.&nbsp;</div><div><br></div><div>The group has played leading roles at CMS in physics analysis with tau leptons, including searches for high-mass leptoquarks, searches for lepton flavor universality violation in B-meson decays to tau leptons, measurements of the anomalous magnetic moment of the tau lepton, as well as rare decays to tau leptons. Members of the group have developed ML-algorithms for tau-lepton identification and reconstruction, and have served as conveners and sub-conveners in the tau-lepton object group. The group has also conducted a wide range of searches for heavy, new particles decaying to W, Z, and Higgs bosons. The UZH group has also played a leading role in the R&amp;D, construction, and operation of the pixel detectors at the CMS experiment. The TEPX detector will be built and tested at UZH during the period of this PhD position with a group of scientists, engineers, technicians, and other students. Other activities of the group include pixelated, precise-timing sensor R&amp;D for the FCC-ee, superconducting nanowire single-particle detectors (SNSPDs) for high-energy experiments, and direct-dark matter searches with DAMIC-M.&nbsp;</div><div><br></div><div>The University of Zurich has a strong particle physics group of 15 professors, contributing to theoretical calculations and models of new physics, as well as experimental efforts on CMS, LHCb, Xenon-nT, LZ, SHIP, TESSERACT, QROCODILE, LEGEND, DES, and LSST/DESC, among others.</div><div><br></div><div>A PhD in experimental particle physics and research experience in experimental particle physics and software skills are required. Experience with detector instrumentation is desirable. The ideal candidate will have an interest in both data analysis and detector instrumentation.&nbsp;</div><div><br></div><div>Proficiency in English is required. Postdoc positions are fully funded according to Swiss salary regulations and typically last 3–4 years. For applicants from outside the EU, employment is subject to approval by immigration authorities, a process that may take up to three months.</div><div><br></div><div>Applicants should submit their application materials via <a href=\"https://academicjobsonline.org/ajo/jobs/31880\">https://academicjobsonline.org/ajo/jobs/31880</a>, which include a curriculum vitae, academic transcripts, a research statement. Applicants should arrange to have at least three reference letters submitted via the <a href=\"http://academicjobsonline.org\">academicjobsonline.org</a> link.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.physik.uzh.ch/en/groups/kilminster/research.html"
+      ],
+      "contact_email": null,
+      "created": "2026-03-30T14:27:51.154678+00:00",
+      "updated": "2026-03-30T14:58:21.704020+00:00",
+      "addedAt": "2026-03-31T08:22:38.549Z",
+      "isNew": true
+    },
+    {
+      "id": "3135414",
+      "title": "Experimental Astroparticle Physics (IceCube)",
+      "institution": "KIT, Karlsruhe, ETP",
+      "deadline": "2026-05-31",
+      "description": "<div>The Institute of Experimental Particle Physics (ETP) of the Karlsruhe Institute of Technology has an opening for a postdoctoral position in the field of High-Energy Astrophysics with the IceCube Neutrino Observatory.</div><div><br></div><div>The postdoc will focus on cosmic ray physics with IceCube and IceCube-Gen2, including multi-messenger aspects and air shower physics, and is expected to work in close collaboration with members of the Pierre Auger group at KIT. Interest in investigating the connection between IceCube observations and forward physics at colliders or in participating in the development of CORSIKA 8 for air shower simulation is welcome, as is interest in detector developments for the IceCube-Gen2 project.</div><div><br></div><div>Applicants must have a PhD (or be near completion) in Physics, Astronomy, or a related field. Experience in the analysis of cosmic ray or astrophysical data will be considered as an asset. The initial position will be for 2 years, but may be extended based on availability of funds.</div><div><br></div><div>Applications should be submitted by Email to: <a href=\"mailto:ralph.engel@kit.edu\">ralph.engel@kit.edu</a> and <a href=\"mailto:andreas.haungs@kit.edu\">andreas.haungs@kit.edu</a>. The application should include a cover letter with a statement of interests (explaining the scientific interests and goals of the candidate) and a current CV including a list of publications. At least two addresses for possible requests of recommendation letters should also be included in the application. Applications received by April 30, 2026 will be given full consideration. Applications submitted after this date are considered until the position is filled.</div><div><br></div><div><em>ETP is part of the KIT Centre Elementary Particle and Astroparticle Physics (KCETA, see: </em><a href=\"http://www.kceta.kit.edu\"><em>http://www.kceta.kit.edu</em></a><em> for further information). The rich research environment in KCETA includes further large-scale projects such as the KATRIN experiment at KIT, the CMS detector at LHC and the Belle-II experiment in Japan. Close collaborations exist with strong theoretical physics groups working on astroparticle and particle phenomenology. The Karlsruhe School of Elementary Particle and Astroparticle Physics: Science and Technology (KSETA) provides an excellent training of Ph.D. students. The candidate is required to teach and to co-supervise bachelor, master and Ph.D. students. KIT is pursuing the strategic goal of substantially increasing gender balance and diversity of its faculty. As an equal opportunity employer, KIT explicitly encourages applications from women as well as from all others who will bring additional diversity to the university’s research and teaching. Applicants with disabilities will be preferentially considered if suitably qualified.</em></div><div><br></div><div>For further information on this position contact: Prof. Dr. Ralph Engel or Dr. Andreas Haungs, Karlsruhe Institute of Technology, Institute for Astroparticle Physics, Hermann-von-Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen, Germany, Tel.: +49 721 608 23310, email: <a href=\"mailto:andreas.haungs@kit.edu\">andreas.haungs@kit.edu</a> <a href=\"http://www.iap.kit.edu/icecube\">http://www.iap.kit.edu/icecube</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "ICECUBE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-28T12:11:40.371691+00:00",
+      "updated": "2026-03-30T14:48:58.702547+00:00",
+      "addedAt": "2026-03-31T08:22:38.549Z",
+      "isNew": true
+    },
+    {
       "id": "3135126",
       "title": "Postdoctoral position in experimental particle physics with the ATLAS experiment",
       "institution": "Uppsala U.",
@@ -5802,6 +5935,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-30T08:31:31.831Z",
-  "totalJobs": 216
+  "lastUpdated": "2026-03-31T08:22:38.550Z",
+  "totalJobs": 221
 }
