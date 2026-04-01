@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3137460",
+      "title": "Marie Skłodowska-Curie Postdoctoral Fellowships – Expression of Interest (ALICE UPC / Forward Physics)",
+      "institution": "IP2I, Lyon",
+      "deadline": "2026-05-30",
+      "description": "<div>The ALICE group at IP2I Lyon (CNRS/IN2P3, France) invites&nbsp;expressions of interest&nbsp;from outstanding candidates to apply for a&nbsp;Marie Skłodowska-Curie Postdoctoral Fellowship (MSCA-PF).</div><div><br></div><div><strong>Research topics</strong></div><div>The successful candidate will join our group working on&nbsp;ultra-peripheral collisions (UPC)&nbsp;in the&nbsp;ALICE experiment at CERN, with a particular focus on&nbsp;forward physics using the Muon Forward Tracker (MFT).</div><div><br></div><div><strong>Possible research directions include:</strong></div><ul><li>Incoherent photoproduction of vector mesons (e.g. J/ψ)&nbsp;as a probe of nuclear substructure and fluctuations</li><li>Inclusive UPC measurements, including&nbsp;open charm and heavy-flavor production, with sensitivity to single-gluon exchange dynamics</li><li>Forward rapidity analyses&nbsp;combining MFT and muon spectrometer information, including non-prompt and heavy-flavor muon channels</li><li>Development of&nbsp;novel analysis strategies for Run 3 and Run 4 ALICE data, including event selection and efficiency studies for UPC topologies</li><li>Connections to&nbsp;small-x physics, saturation, and QCD dynamics, with emphasis on forward observables</li></ul><div>The project can be tailored to the candidate’s interests within the broader UPC and forward physics program.</div><div><br></div><div><strong>Environment</strong></div><div>The candidate will be based at&nbsp;IP2I Lyon, a leading institute in nuclear and particle physics, and will work closely with the ALICE collaboration at CERN. The group is actively involved in Run 3 analyses and detector-driven physics opportunities at forward rapidity.</div><div><br></div><div><strong>Candidate profile</strong></div><div>Applicants should:</div><ul><li>Hold a PhD in experimental high-energy or nuclear physics (or related field)</li><li>Have experience with collider data analysis (ROOT/O2, or similar frameworks)</li><li>Demonstrate strong motivation for QCD, heavy-ion physics, or forward physics</li></ul><div>Eligibility must comply with&nbsp;MSCA mobility rules.</div><div><br></div><div><strong>Application process</strong></div><div>Interested candidates are encouraged to contact us as early as possible to prepare a competitive MSCA application (deadline typically in September).</div><div><strong>Please send: CV and a short statement of research interests</strong></div><div>Note : In line with MSCA expectations, candidates are expected to take the lead in developing and driving the application, with our group providing guidance, support, and flexibility in shaping the research proposal.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD",
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-31T09:48:24.901895+00:00",
+      "updated": "2026-03-31T15:23:53.381784+00:00",
+      "addedAt": "2026-04-01T08:27:13.523Z",
+      "isNew": true
+    },
+    {
+      "id": "3137465",
+      "title": "Post-doctoral position in experimental particle physics",
+      "institution": "Vilnius U.",
+      "deadline": "2026-05-03",
+      "description": "<div>The position at the Experimental Nuclear and Particle Physics Center lasts for 12 months and can be extended for a longer period.</div><div>&nbsp;</div><div>Vilnius University (VU) is one of the oldest higher education institutions in Eastern and Central Europe. It tops the ranking as the number one university in Lithuania and leads the country in education, a broad spectrum of fundamental and applied research, training and retraining programs, and consultancy services. The university provides research and development services to a wide range of businesses. VU offers dynamic research and training environment and is well integrated into a collaborative network of international universities.</div><div>&nbsp;</div><div>VU Faculty of Physics research teams contribute to experimental particle physics research at the Compact Muon Solenoid (CMS) and the Large Hadron Collider beauty (LHCb) experiments at the Large Hadron Collider at CERN. The applied physicists are also involved in DRD3, DRD6, and DRD7 Collaborations. The current postdoc position is offered in the experimental physics research group that performs the CMS data analysis, contributes to both the CMS Tracker Phase II upgrade and the central M&amp;O activities. The CMS data analysis focuses on a precise differential cross-section measurement of the quark-antiquark annihilation reaction with the emergence of a charged lepton-antilepton pair (the Drell-Yan process) in a wide range of two-lepton invariant mass. The wire-bonding and testing site for the Tracker endcap pixel modules (TEPX) is set-up by the Experimental Nuclear and Particle Physics Center.</div><div>&nbsp;</div><div>The candidate will contribute to the TEPX testing site activities, perform the CMS data analysis (Drell-Yan, HH, or Majorana neutrinos), participate in CMS collaboration EPR tasks, and contribute to experimental particle physics lectures. Student supervision might be requested. Both staying in Lithuania and visits to CERN are expected.</div><div>&nbsp;</div><div><strong>Requirements</strong></div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A PhD degree in experimental particle physics.</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good written and spoken English.</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience with large-scale data analysis, good knowledge of electronics, and hands-on experience in a scientific lab will be considered an advantage.</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A candidate is expected to work on-site in Vilnius University Saulėtekis Campus at least for a half of the contract duration.</div><div>&nbsp;</div><div><strong>We offer</strong></div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The postdoc contract starting from 1 June 2026 (negotiable).</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gross salary (before taxes) of min. 2500 EUR/month.</div><div>&nbsp;</div><div><strong>Application instructions</strong></div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The applications for the postdoc position should be sent by e-mail to Evelina Kozlovskaja (<a href=\"mailto:evelina.kozlovskaja@ff.vu.lt\">evelina.kozlovskaja@ff.vu.lt</a>). The applications must include: (i) curriculum vitae, (ii) cover letter describing your interest, (iii) publication list.</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The applicant shall arrange two recommendation letters (one from the PhD thesis supervisor, and the second from any other professor who knows the applicant well) to be sent directly to the e-mail above.</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The application for the postdoc position and the reference letters should be received by May 3, 2026.</div><div>&nbsp;</div><div>For any further information, please contact Evelina Kozlovskaja (<a href=\"mailto:evelina.kozlovskaja@ff.vu.lt\">evelina.kozlovskaja@ff.vu.lt</a>).</div><div>Website: <a href=\"https://www.ff.vu.lt/en/cern\">https://www.ff.vu.lt/en/cern</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-03-31T11:31:12.330732+00:00",
+      "updated": "2026-03-31T15:22:54.063143+00:00",
+      "addedAt": "2026-04-01T08:27:13.523Z",
+      "isNew": true
+    },
+    {
       "id": "3137066",
       "title": "Study of novel scintillator materials for high-energy physics and applications",
       "institution": "CTU, Prague",
@@ -24,7 +76,7 @@
       "created": "2026-03-30T17:24:17.167156+00:00",
       "updated": "2026-03-30T19:15:44.294281+00:00",
       "addedAt": "2026-03-31T08:22:38.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3136924",
@@ -51,7 +103,7 @@
       "created": "2026-03-30T14:23:08.701316+00:00",
       "updated": "2026-03-30T15:04:23.472113+00:00",
       "addedAt": "2026-03-31T08:22:38.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3136583",
@@ -78,7 +130,7 @@
       "created": "2026-03-30T09:45:17.788283+00:00",
       "updated": "2026-03-30T14:59:16.893075+00:00",
       "addedAt": "2026-03-31T08:22:38.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3136926",
@@ -105,7 +157,7 @@
       "created": "2026-03-30T14:27:51.154678+00:00",
       "updated": "2026-03-30T14:58:21.704020+00:00",
       "addedAt": "2026-03-31T08:22:38.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3135414",
@@ -131,7 +183,7 @@
       "created": "2026-03-28T12:11:40.371691+00:00",
       "updated": "2026-03-30T14:48:58.702547+00:00",
       "addedAt": "2026-03-31T08:22:38.549Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3135126",
@@ -5935,6 +5987,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-03-31T08:22:38.550Z",
-  "totalJobs": 221
+  "lastUpdated": "2026-04-01T08:27:13.524Z",
+  "totalJobs": 223
 }
