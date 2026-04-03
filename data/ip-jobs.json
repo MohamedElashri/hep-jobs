@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3138788",
+      "title": "Scientist position",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-05-01",
+      "description": "<div>ETP is a leading experimental particle physics group with strong involvement in the Belle II and CMS collaborations. The successful candidate is expected to take a leading role in research and to develop a scientific profile, closely connected to the group’s activities in LHC physics with CMS, detector operation and upgrades, advanced instrumentation, and modern data analysis methods. Beyond current activities, ETP is involved in the preparation of future experimental programs, opening opportunities to contribute to next-generation facilities and detector technologies. The position offers an excellent research environment at KIT, including opportunities for close collaboration within the institute and across the wider particle physics community.</div><div><br></div><div>Applicants should hold a PhD in experimental particle physics (or a closely related field) and have demonstrated strong potential for outstanding scientific achievements. Significant participation in teaching and the supervision of students and PhD candidates is expected.</div><div><br></div><div>The position is to be filled as a civil servant (salary group A13 or E13), depending on whether the professional and personal requirements are met.</div><div><br></div><div>The application should include a résumé, a brief description of your research experience and interests, and at least two letters of recommendation.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.pse.kit.edu/english/karriere/joboffer.php?id=166006"
+      ],
+      "contact_email": null,
+      "created": "2026-04-02T16:07:26.475480+00:00",
+      "updated": "2026-04-02T20:52:32.839586+00:00",
+      "addedAt": "2026-04-03T08:17:24.366Z",
+      "isNew": true
+    },
+    {
+      "id": "3138715",
+      "title": "Post-doctoral researcher on JLab and EIC physics",
+      "institution": "IJCLab, Orsay",
+      "deadline": "2026-05-31",
+      "description": "<div>The research activity of the post-doctoral fellow will consists of contributions to both the ALERT program within the CLAS collaboration at Jefferson Lab (JLab) and to the exclusive process program at EIC within the ePIC collaboration. The successful candidate will work within the “JLab-EIC” hadronic physics team of the “High Energy Physics” (PHE) pole of the Laboratoire de Physique des 2 Infinis Irène Joliot-Curie (IJCLab) under the supervision of Raphaël Dupré, scientific coordinator of the ALERT project.</div><div>ALERT stands for \"a low energy recoil tracker\", the detector was constructed in partnership between IJCLab, Argonne Natl. Lab., and Jefferson Lab. The CLAS collaboration experiment ran using the ALERT detector in 2025 and now data is being calibrated. The post-doctoral fellow will work on GEANT4 simulations, in particular to handle noise merging from real data and other features to make the simulation more realistic. Moreover, the postdoc will be encouraged to pursue analysis of a topic of their chosing in the ALERT group or to contribute to the development of new proposals.</div><div>On the EIC side, the successuful candidate will participate in the detector effort around the Roman pots. IJCLab is involved at various levels in the project, in design, cooling, and electronics testing. Moreover, the postdoc will developp simulations and analysis of a channel within the exclusive, tagged and diffractive working group of the ePIC collaboration.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR9012-MARLOU-064/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-04-02T09:32:21.337964+00:00",
+      "updated": "2026-04-02T14:13:09.011848+00:00",
+      "addedAt": "2026-04-03T08:17:24.366Z",
+      "isNew": true
+    },
+    {
       "id": "3137887",
       "title": "Postdoctoral research position in experimental particle physics (LHCb)",
       "institution": "Ecole Polytechnique, Lausanne",
@@ -6120,6 +6171,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-02T08:21:05.206Z",
-  "totalJobs": 228
+  "lastUpdated": "2026-04-03T08:17:24.367Z",
+  "totalJobs": 230
 }
