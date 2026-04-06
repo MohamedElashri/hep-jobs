@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "id": "3139326",
+      "title": "Dark Matter Direct Searches",
+      "institution": "Sao Paulo U.",
+      "deadline": "2026-04-22",
+      "description": "<div>The AstroParticle Physics (AP) group at the Physics Institute of the</div><div>University of São Paulo in Brazil, anticipates one post-doctoral</div><div>position starting as early as October 2026.</div><div><br></div><div>The successful candidate will join our efforts within the DarkSide Collaboration,</div><div>which searches for Dark Matter through direct detection. The candidate</div><div>is expected to contribute in simulations, data analysis, and in</div><div>R\\&amp;D. Our AP group has 2 faculty members, Ivone F.M. Albuquerque and</div><div>Edivaldo Moura Santos, together with post-docs and several graduate</div><div>students,&nbsp;The applicant should have the following qualifications:</div><div><br></div><div>\\item PhD in Physics, AstroPhysics, or related fields.</div><div>\\item Experimental research experience related to the above&nbsp;topics.</div><div>\\item Ability in programming.</div><div>\\item Ability to work collaboratively in a group environment and with remote collaborators.</div><div>\\item Knowledge of data analysis (statistical concepts and tools).</div><div>\\item Excellent proficiency in English.</div><div><br></div><div>Postdoctoral salaries are approximately BRL 144K per year, exempt from&nbsp;tax deductions, the position includes BRL 14400/year for travel and computing needs. Moving and installation expenses will be reimbursed with the ticket price and one additional monthly salary. The position has a duration of 3 years, with a possible renewal for an extra year.</div><div>More information can be found at: <a href=\"https://fapesp.br/en/postdoc\">https://fapesp.br/en/postdoc</a></div><div>\\vspace*{.5cm}</div><div><br></div><div>Applications should consist of a unique file including a short CV and</div><div>a brief statement of research interests.</div><div>% and three (3) letters of recommendations.</div><div>All material, as well as questions about the position, should be</div><div>emailed to <a href=\"http://emouraATif.usp.br\">emouraATif.usp.br</a>. Deadline for the application: April</div><div>16th, 2026.</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-06T18:19:35.708779+00:00",
+      "updated": "2026-04-06T19:53:47.095379+00:00",
+      "addedAt": "2026-04-06T22:23:39.349Z",
+      "isNew": true
+    },
+    {
+      "id": "3139101",
+      "title": "Faculty Position in Experimental High Energy Physics with Accelerators - ATLAS Experiment",
+      "institution": "U. Sao Paulo (main)",
+      "deadline": "2026-06-08",
+      "description": "<ul><li>Category: Tenure and Tenure-track Faculty Positions</li><li>Institution: Universidade de São Paulo - USP</li><li>Department: Physics Institute, Department of Nuclear Physics</li><li>Number of Positions Available: 1</li><li>In-Person Location(s): São Paulo, Brazil</li></ul><div>The University of São Paulo (USP) and the Physics Institute are inviting applications for one tenure-track position in the field of&nbsp;Experimental High Energy Physics with Accelerators, where the successful candidate is expected to significantly contribute to the on-going&nbsp;activities of the local ATLAS Experiment USP group. The USP ATLAS group has a well-established and strong&nbsp;collaboration with the ATLAS Experiment since 2009, and is currently involved in di-Higgs searches for&nbsp;both&nbsp;the LHC Run-2/Run-3 and for the future High Luminosity LHC (HL-LHC) program. The USP ATLAS group is also making substantial contributions to the new&nbsp;High Granularity Timing Detector (HGTD) for the ATLAS HL-LHC program.&nbsp;USP is recognized as the leading&nbsp;research institution in Latin America, and the Physics Institute provides a dynamic, multi-disciplinary environment. The successful applicant will be expected to carry out high-level, independent research, as well as mentoring students and teaching at&nbsp;graduate or undergraduate levels.</div><div><br></div><div>The Physics Institute has more than one hundred faculty members in most areas of physics research, both theoretical and experimental. Compensation starts with a salary of R$ 16.353,01, with a teaching load similar to U.S. and European universities and the possibility of fast track to higher compensation, depending only on performance and academic distinction.</div><div><br></div><div>The position includes a ”young professor” start-up grant from the University. Researchers within São Paulo State are also strongly supported by the São Paulo State Funding Agency –FAPESP –&nbsp;with the USP ATLAS group currently supported by a significant grant from FAPESP to develop the aforementioned activities.</div><div><br></div><div>Candidates are encouraged to contact us in case further information is needed.</div><div><br></div><div><strong>Compensation and Benefits</strong></div><ul><li>Compensation Type: Salary</li><li>Compensation Range: Starts with R$ 16.353,01 (starting salary, 13 salaries per year)</li><li>Included Benefits:</li></ul><div>. Health insurance allowance (includes spouse and children)</div><div>. Child support allowance</div><div>. 30 days of paid annual vacancy</div><div>. Additional benefits added to the salary&nbsp;&nbsp;</div><div><br></div><div><strong>Application Details</strong></div><ul><li>Link to Online Application: <a href=\"https://uspdigital.usp.br/gr/admissao?codmnu=8580\">https://uspdigital.usp.br/gr/admissao?codmnu=8580</a></li><li>Application Deadline: June 08, 2026</li><li>Applicants must ensure they select the correct option (<em>Edital 020-2026</em>)</li><li>A comprehensive guide for the application can be found in this link : <a href=\"https://portal.if.usp.br/fep/sites/portal.if.usp.br.fep/files/guideForRegistration.pdf\">https://portal.if.usp.br/fep/sites/portal.if.usp.br.fep/files/guideForRegistration.pdf</a></li></ul><div><strong>Inquiries</strong></div><ul><li>For additional information and updates, visit the official Online Link Application.&nbsp;</li><li>Email inquiries may be directed to:</li></ul><div>. Marco Leite (USP ATLAS Team Leader): leite@usp.br&nbsp;&nbsp;</div><div>. Marcelo Munhoz (Coordinator of the USP High Energy Physics and Instrumentation Center): munhoz@if.usp.br</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://uspdigital.usp.br/gr/admissao?codmnu=8580"
+      ],
+      "contact_email": null,
+      "created": "2026-04-04T13:44:01.604271+00:00",
+      "updated": "2026-04-06T14:56:57.656933+00:00",
+      "addedAt": "2026-04-06T22:23:39.349Z",
+      "isNew": true
+    },
+    {
+      "id": "3139132",
+      "title": "Postdoctoral Position: IHL Fellow – Intelligent Hardware Lab",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-05-10",
+      "description": "<div>The Intelligent Hardware Lab (IHL) within the Color-meets-Flavor Cluster invites applications for a full-time position as an <strong>IHL Fellow&nbsp;</strong>starting as soon as possible (ideally from 1 July 2026).</div><div><br></div><div>The position is embedded in the&nbsp;<strong>Intelligent Hardware Lab</strong>&nbsp;(IHL), a cross-institutional initiative within&nbsp;<strong>Technology Area 1&nbsp;(Instrumentation)</strong>&nbsp;of&nbsp;the Cluster of Excellence Color-meets-Flavor, focusing on intelligent detector electronics, FPGA-based systems, and AI-driven data processing for particle physics applications.</div><div><br></div><div>The position is multi-site, with hosting at one of the participating institutions depending on research alignment and mutual agreement.</div><div><br></div><div>The IHL combines expertise in FPGA programming, ASIC design, and microelectronics across the participating institutions.&nbsp;The Fellow will contribute to the implementation of AI/ML algorithms on FPGA platforms.&nbsp;This&nbsp;includes hardware-aware optimisation of neural networks, mapping to FPGA architectures, and the design of low-latency, resource-efficient real-time processing systems for detector applications.</div><div><br></div><div>The IHL supports both ongoing detector projects and future-oriented research in intelligent electronics, including the integration into front-end systems and the exploration of new concepts such as eFPGA-enhanced ASICs and in-memory computing.</div><div><br></div><div><strong>Requirements:</strong></div><ul><li>PhD in Experimental Particle Physics, Electrical Engineering, Computer Science, or a closely related field with a strong experimental or instrumentation background</li><li>Strong background in FPGA programming, digital design, or AI/ML hardware implementation</li><li>Ability to conduct independent research</li></ul><div><strong>Position details:</strong></div><ul><li>Full-time position (TV-L E13) within the Color-meets-Flavor Cluster</li><li>Initial appointment for 3 years (structured as 2+1 years)</li><li>Perspective of continuation within the cluster, subject to performance</li><li>High degree of scientific independence</li></ul><div>Participation in student supervision and involvement in teaching activities is expected. Salary and benefits follow German public service regulations. Women are especially encouraged to apply.</div><div><br></div><div><strong>Application:</strong></div><div>Applications&nbsp;(single PDF including CV and a short research statement)&nbsp;should be sent via email to:</div><div><a href=\"mailto:dorosti@hep.physik.uni-siegen.de\">dorosti@hep.physik.uni-siegen.de</a>.</div><div>In addition, applicants should arrange for&nbsp;<strong>at least two letters of reference</strong>&nbsp;to be sent to the same address.</div><div><br></div><div><strong>Contact:</strong></div><div>Dr. Qader Dorosti (Universität Siegen),&nbsp;<a href=\"mailto:dorosti@hep.physik.uni-siegen.de\">dorosti@hep.physik.uni-siegen.de</a></div><div>Prof. Dr. Michael Karagounis (FH Dortmund),&nbsp;<a href=\"mailto:michael.karagounis@fh-dortmund.de\">michael.karagounis@fh-dortmund.de</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "INSIGHT"
+      ],
+      "urls": [
+        "https://color-meets-flavor.de/research/intelligent-hardware-lab-ihl"
+      ],
+      "contact_email": null,
+      "created": "2026-04-05T16:23:31.263898+00:00",
+      "updated": "2026-04-06T14:54:17.924980+00:00",
+      "addedAt": "2026-04-06T22:23:39.349Z",
+      "isNew": true
+    },
+    {
       "id": "3139099",
       "title": "Winter-Over Scientists BICEP",
       "institution": "U. Minnesota, Minneapolis (main)",
@@ -6277,6 +6358,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-06T08:31:52.194Z",
-  "totalJobs": 234
+  "lastUpdated": "2026-04-06T22:23:39.349Z",
+  "totalJobs": 237
 }
