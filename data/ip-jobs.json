@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3140024",
+      "title": "Single spin asymmetry of J/ψ production in STAR experiment and EIC",
+      "institution": "CTU, Prague",
+      "deadline": "2026-05-21",
+      "description": "<div>The spin structure of proton is one of the puzzling questions of current particle physics. The role of orbital angular momentum of partons is not well constrained.&nbsp;Studying transverse single-spin asymmetries (TSSAs) in J/ψ production offers a unique window into the spin structure of the proton. These asymmetries provide critical insights into the transverse momentum-dependent parton distribution functions (TMD PDFs), particularly the Sivers function, which describes the correlation between the spin of a nucleon and the transverse motion of its partons. Understanding TSSAs helps us probe the role of gluons and their spin-related dynamics in hadronic processes. Measurements of TSSAs in J/ψ production can test the universality and factorization properties of TMDs across different processes. Experimental data from polarized proton collisions at RHIC measured by STAR experiment can validate or challenge current theoretical models, helping to refine our understanding of non-perturbative QCD effects. This area of research is also essential for future experiments at facilities like the Electron-Ion Collider (EIC), where spin phenomena will play a central role. The project focuses on the experimental task of measuring the transverse single spin asymmetry of J/ψ production in existing p+p data and performing&nbsp;the studies of this process for ePIC experiment at future EIC.&nbsp;&nbsp;</div><div><br></div><div><strong>Application for CTU:</strong></div><div>Application for doctoral studies (to commence the study on October 1, 2026)&nbsp;- submission from April 27, 2026 to May 21, 2026.</div><div><br></div><div>Note that this call is only for funding within PICTUS fellowship programme. Students also&nbsp;<strong>have to</strong>&nbsp;apply to our PhD program (Nuclear Engineering, see details at&nbsp;<a href=\"https://fjfi.cvut.cz/en/applicants/doctoral-studies/admission-procedure-phd\">https://fjfi.cvut.cz/en/applicants/doctoral-studies/admission-procedure-phd</a>).&nbsp;<strong>Note that the deadline to apply to the PhD program is May 21st</strong>.</div><div><br></div><div><strong>Benefits and Conditions of PICTUS fellowship:</strong></div><div>Gross monthly salary of 69 300&nbsp;CZK/month*</div><div>Family allowance 8 888 CZK/month (for applicants with dependent family members)</div><div>Travel support for conferences and secondment</div><div><br></div><div><strong>More Information:&nbsp;</strong><a href=\"https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/\">https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/</a></div><div>Topic 29</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "BNL-RHIC-STAR"
+      ],
+      "urls": [
+        "https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/"
+      ],
+      "contact_email": null,
+      "created": "2026-04-07T12:41:43.873870+00:00",
+      "updated": "2026-04-07T14:42:40.898469+00:00",
+      "addedAt": "2026-04-07T16:38:08.411Z",
+      "isNew": true
+    },
+    {
+      "id": "3139610",
+      "title": "Internship on quantitive biology",
+      "institution": "EMBL-EBI, Hinxton",
+      "deadline": "2026-04-12",
+      "description": "<div><strong><em>Your role</em></strong></div><div>You will join the Lees group at EMBL-EBI to work on PREVAIL (<em>PRomoter EVolution And Infection Links</em>), a research initiative aimed at characterising promoter sequence variation across hundreds of thousands of bacterial genomes at population scale for the first time in any species.</div><div>Your work will focus on two main tasks. First, you will contribute to the evaluation, benchmarking, and potential development of computational methods to extract and analyse promoter sequences from bacterial genome assemblies, with a focus on <em>Streptococcus pneumoniae</em>. Second, you will help apply the chosen methodology at scale using large public datasets, such as the AllTheBacteria or the Global Pneumococcal Sequencing projects’ data, and contribute to the downstream analysis linking promoter variants to strain lineages, antibiotic resistance, and virulence. You will work closely with other members of the group and be directly supervised by the postdoctoral researcher leading the project, gaining hands-on experience in bacterial genomics, large-scale data analysis, and bioinformatics methods development.</div><div><br></div><div><strong><em>You have</em></strong></div><ul><li>A completed Bachelor degree in bioinformatics, computational biology, computer science, or a closely related field with a strong quantitative component (physics, mathematics, etc.).</li><li>An in-progress (or completed) Master degree in bioinformatics, computational biology, computer science, or a closely related field with a strong quantitative component (physics, mathematics, etc.).</li><li>Experience in at least one of the main languages used for generic programming in the field: Python, Rust, C++, etc..</li><li>Familiarity with GNU/Linux or Unix command-line environments, as well as Bash.</li><li>Interest in microbiology, infection biology, or genomics.</li><li>Good written and spoken English.</li><li>Ability to work independently and communicate progress regularly.</li></ul><div><strong><em>You may also have</em></strong></div><ul><li>Experience and/or knowledge on bacterial genomic analyses (assembly, gene calling, annotation, etc.), or regulatory genomics.</li><li>Experience with version control (Git) and open-source software practices.</li><li>Familiarity/knowledge with population genetics concepts or phylogenetics.</li><li>Experience in two or more of the main languages used for generic programming in the field: Python, Rust, C++, etc..</li><li>Familiarity with sequence analysis tools or their workflows (e.g. genome assembly, annotation, phylogenetic analyses, etc.).</li><li>Knowledge of machine learning methods, especially those applied to biological sequences.</li><li>Experience working with high-performance computing (HPC) clusters.</li></ul><div><strong><em>Contract information</em></strong></div><div>This is a <strong>fixed-term</strong> internship position of <strong>up to 7 months</strong>, expected to start from the <strong>1st June 2026</strong> (or later if needed), and run until the <strong>31st December 2026</strong> (inclusively).</div><div>This internship <strong>is paid</strong>.</div><div><br></div><div><strong><em>Application process</em></strong></div><div>Check our group's website for all the details: <a href=\"https://www.bacpop.org/jobs\">https://www.bacpop.org/jobs</a>.</div><div><br></div><div><strong><em>Why join us</em></strong></div><div>At EMBL-EBI, you will work at the forefront of life science data analysis, in one of the world’s leading institutes for biological data and computational research. You will be embedded in an active research group working on problems directly relevant to global public health (antimicrobial resistance and infectious disease) and gain experience with the kind of large-scale genomic datasets that define modern microbial epidemiology. The Wellcome Genome Campus in Hinxton hosts a vibrant, international scientific community, with regular seminars, workshops, and social events, and the University of Cambridge is a world‑renowned centre of higher education and research. You will be supported throughout your internship, including potentially (first project/PREVAIL) the attendance to an international conference by early December.</div><div><br></div><div><strong><em>What else you need to know</em></strong></div><div>This role is based on-site at EMBL-EBI, Hinxton, near Cambridge, UK. Candidates based overseas are encouraged to apply. EMBL-EBI strongly believes that inclusive and diverse teams benefit from higher levels of innovation and creative thought, and we encourage applications from candidates of all backgrounds, nationalities, and identities. Due to the intergovernmental organisation status of EMBL-EBI (as part of EMBL), candidates from abroad will be eligible for an exemption of migratory control (“exemption vignette”) for their contract duration.</div><div><br></div><div><strong><em>Closing date</em></strong></div><div>The last valid day (Britain time/BST) for applications is <strong>Sunday 12th April 2026</strong>.</div><div><br></div><div><strong>NOTE: apart from this internship, there is another one open. Check our group's website</strong></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "MASTER"
+      ],
+      "arxiv_categories": [
+        "q-bio",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://bacpop.org/jobs/"
+      ],
+      "contact_email": null,
+      "created": "2026-04-07T08:34:15.595211+00:00",
+      "updated": "2026-04-07T14:40:57.076225+00:00",
+      "addedAt": "2026-04-07T16:38:08.411Z",
+      "isNew": true
+    },
+    {
       "id": "3139326",
       "title": "Dark Matter Direct Searches",
       "institution": "Sao Paulo U.",
@@ -6358,6 +6411,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-07T08:26:00.460Z",
-  "totalJobs": 237
+  "lastUpdated": "2026-04-07T16:38:08.412Z",
+  "totalJobs": 239
 }
