@@ -1,6 +1,92 @@
 {
   "jobs": [
     {
+      "id": "3141690",
+      "title": "Postdoctoral researcher on ATLAS at CERN",
+      "institution": "TRIUMF",
+      "deadline": "2026-05-15",
+      "description": "<div>TRIUMF has an opening for a postdoctoral position in experimental particle physics with the ATLAS detector at the LHC, focusing on maintenance and repair of the small-strip thin gap chambers (sTGC) in the ATLAS New Small Wheels during LHC Long Shutdown 3 (LS3), and on analysis of ATLAS physics data.</div><div><br></div><div><strong>Duties:</strong></div><div>The successful candidate will be expected to spend about half their time on sTGC maintenance, trouble-shooting and repairs, with the remaining time available for physics analysis. The TRIUMF group participates in several analysis groups, including Higgs, di-Higgs and Standard Model EFT measurements and interpretations as well as searches for long-lived particles; collaboration with one or more of our existing efforts would be ideal but the choice of analysis is quite open. The day-to-day division of time between detector maintenance and physics data analysis would be determined by the LS3 schedule, but it is intended that overall, about half the time should be free for analysis. The candidate is expected to help with the supervision of TRIUMF students when they are at CERN, to contribute to the development and publication of ATLAS data analyses, to represent TRIUMF at national and international conferences and workshops, and to participate in regular meetings with the TRIUMF ATLAS group.</div><div><br></div><div><strong>Organizational Relationships:</strong></div><div>The position reports to the TRIUMF ATLAS team leader, currently Isabel Trigger, for TRIUMF and CERN administrative matters and for sTGC activities, and through the usual ATLAS experiment hierarchies to the sTGC operations coordinators and the ATLAS Muon Project Leader. Collaboration with any or all of the ATLAS scientists at TRIUMF (Nigel Hessey, Kate Pachal, Oliver Stelzer, Max Swiatlowski, Reda Tafirout and Isabel Trigger) is strongly encouraged.</div><div><br></div><div><strong>Requirements:</strong></div><div>A PhD (or equivalent doctoral degree) in experimental particle physics. The requirements for completion of the degree (including a successful thesis defence) must be completed before the start of employment. Priority will be given to recent graduates, but all qualified applications will be seriously considered. Experience with wire chambers or other gaseous detectors would be an asset, as would experience with data analysis of large particle physics experiments.</div><div><br></div><div><strong>About the employment:</strong></div><div>TRIUMF, Canada's particle accelerator centre, is a publicly funded, not-for-profit research laboratory in Vancouver. Because this position is based outside Canada at CERN, in Geneva, Switzerland, the hire will be on a contract basis, initially for two years, and extendable for a second two-year term based on mutual satisfaction. Health insurance coverage will be reimbursed. Salary is competitive and based on experience, and will include a cost-of-living adjustment. TRIUMF is committed to equitable hiring and encourages applications from underrepresented groups.</div><div><br></div><div><strong>Starting date:</strong> June 1, 2026 or as agreed.</div><div><br></div><div><strong>Contact:</strong></div><div>Isabel Trigger (itrigger@triumf.ca)</div><div>Please upload a cover letter and CV (as a single PDF file with your name in the filename) to <a href=\"https://cernbox.cern.ch/s/nwOHOmJtBDJHGrx\">https://cernbox.cern.ch/s/nwOHOmJtBDJHGrx</a> (this is set up as a confidential drop-box), and ask three references to upload letters of recommendation with your name in the filename to the same URL. Please use the link and do NOT email us the application or letters. Use the contact email only if you have questions about the position or technical difficulties uploading to the link and do NOT send emails with attachments.</div>",
+      "regions": [
+        "Europe",
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://triumf.ca/research/particle-physics/atlas/"
+      ],
+      "contact_email": null,
+      "created": "2026-04-08T16:19:51.835553+00:00",
+      "updated": "2026-04-08T20:32:39.756928+00:00",
+      "addedAt": "2026-04-09T06:35:39.160Z",
+      "isNew": true
+    },
+    {
+      "id": "3141705",
+      "title": "ATLAS post-doc at CERN",
+      "institution": "Harvard U., Phys. Dept.",
+      "deadline": "2026-05-09",
+      "description": "<div>The Laboratory for Particle Physics and Cosmology at Harvard University invites applications for a Post-Doctoral Fellowship to be associated with the ATLAS experiment. Applicants for this position should have a Ph.D. in experimental particle physics. Experience with state-of-the-art detector systems and with the analysis software of a particle physics experiment are required.</div><div><br></div><div>The successful applicant is expected to be stationed at CERN and work with Prof. Melissa Franklin on the muon spectrometer. including maintenance, operations and performance of the NSW muon detector. Applicants should send a curriculum vitae, a list of publications, and a statement of research interest, and arrange for three (3) letters of reference to be sent electronically to Melissa Franklin (melissafranklin@g.harvard.edu). Applications received by April 15, 2026, will receive full consideration. I will accept applications after that date if the position has not been filled.</div><div><strong> Basic Qualifications</strong> Candidates for this position must have completed their Ph.D. degree by the</div><div>appointment start date.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/31835"
+      ],
+      "contact_email": null,
+      "created": "2026-04-08T19:27:11.802055+00:00",
+      "updated": "2026-04-08T20:30:53.366615+00:00",
+      "addedAt": "2026-04-09T06:35:39.160Z",
+      "isNew": true
+    },
+    {
+      "id": "3141101",
+      "title": "Open call for Postdoctoral Programme",
+      "institution": "IJCLab, Orsay",
+      "deadline": "2026-07-31",
+      "description": "<div>The <a href=\"http://www.universite-paris-saclay.fr/en/graduate-schools/graduate-school-physics\">Physics Graduate School</a> of <a href=\"http://www.universite-paris-saclay.fr/\">Université Paris-Saclay</a> has been awarded funding by the European Union under the <a href=\"http://marie-sklodowska-curie-actions.ec.europa.eu/actions/cofund\">Marie Skłodowska Curie COFUND action</a>, call 2024.</div><div><br></div><div>Subject to the signature of the grant agreement, UPSaclay STAR φ will allow the recruitment of up to <strong>41 international postdoctoral researchers</strong> over two calls, for <strong>24-month research projects</strong> in a wide range of research areas in Physics.</div><div><br></div><div>IJClab is part&nbsp;of&nbsp;the&nbsp;UPSaclay Graduate School perimeter&nbsp;and&nbsp;involved&nbsp;in&nbsp;the&nbsp;DUNE hardware FD2-VD construction&nbsp;and&nbsp;ProtoDUNEs data analysis. The team is involved in the simulation and analysis of data collected in 2025 by the ProtoDUNE's detectors at the CERN Neutrino Platform. We specialized our group in the <a href=\"https://github.com/DeepLearnPhysics/SPINE\">SPINE ML sofware</a> that is being used for SBND, ICARUS and DUNE physics studies as well as low energy calibration.</div><div><br></div><div>The candidate are strongly encouraged to contact the IJClab team (yoann.kermaidic@ijclab.in2p3.fr) to discuss the research project before submitting the application. The PhD thesis must have been defended before August 2026.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "ProtoDUNE-VD",
+        "ProtoDUNE-HD",
+        "CERN-CERN-SPS-NP04",
+        "Fermilab-MI-DUNE"
+      ],
+      "urls": [
+        "https://www.cofund-physics.universite-paris-saclay.fr/index.php/about-the-program/"
+      ],
+      "contact_email": null,
+      "created": "2026-04-08T09:46:10.403980+00:00",
+      "updated": "2026-04-08T15:49:43.856098+00:00",
+      "addedAt": "2026-04-09T06:35:39.160Z",
+      "isNew": true
+    },
+    {
       "id": "3140024",
       "title": "Single spin asymmetry of J/ψ production in STAR experiment and EIC",
       "institution": "CTU, Prague",
@@ -6411,6 +6497,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-08T09:50:54.224Z",
-  "totalJobs": 239
+  "lastUpdated": "2026-04-09T06:35:39.161Z",
+  "totalJobs": 242
 }
