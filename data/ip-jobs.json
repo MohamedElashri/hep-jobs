@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3142416",
+      "title": "Postdoctoral research position in experimental neutrino physics",
+      "institution": "LPC, Caen",
+      "deadline": "2026-05-16",
+      "description": "<div>Fixed-term (CDD) postdoc researcher contract to explore the physics potential of a monitored and tagged neutrino beam for precise short-baseline neutrino physics.</div><div><br></div><div>The position will be within the framework of the <a href=\"https://nuscope.web.cern.ch/\">nuSCOPE</a> project at CERN, which is formed by the merger of the ENUBET and NuTag collaborations. The <em>Laboratoire de Physique Corpusculaire de Caen </em>(<a href=\"https://www.lpc-caen.in2p3.fr/\">LPC Caen</a>) has a long-standing involvement in neutrino experiments and has recently joined the nuSCOPE project. The proposed position aims at expanding the laboratory's role in neutrino oscillation precision measurements for the next generation of oscillation experiments and reinforcing the existing expertise in Liquid Argon (LAr) neutrino detectors. Within this context, the postdoc position will focus on quantifying key technical requirements to ensure high performance in implementing the tagging concept for large-scale neutrino detectors. These inputs will be crucial to ensure a higher control of the main source of systematic uncertainty impacting long-baseline neutrino oscillation experiments, while performing precise measurements of neutrino-nucleus scattering processes.</div><div><br></div><div>The successful candidate is expected to play a leading role in simulation studies and data analyses aiming at reaching a realistic evaluation of the time resolution of the neutrino detector. More specifically, the focus is on exploiting the scintillation light signal in the LAr-TPC, characterizing the photon detection system design to maximize its performance, and evaluating the impact on the accessible short-baseline physics in nuSCOPE.</div><div><br></div><div>The position will be located at LPC Caen, within the <a href=\"https://www.lpc-caen.in2p3.fr/recherche/astroparticules-et-multi-messagers/\">GrAMM group</a>, with an interdisciplinary involvement around neutrino physics and gravitational waves. The position is supported through the \"ToPROGRESS - Toward PRecisiOn enerGy neutRino mEaSurementS\" project, financed by the <a href=\"https://www.normandie.fr/normandie-recherche\">“Label d’Excellence” program</a> of the Normandie Region. Short stays at CERN or other partner laboratories are foreseen.</div><div><br></div><div>The expected start of the contract is in May 2026 and will have a maximum duration of 18 months.</div><div><br></div><div>We encourage applications from candidates with diverse backgrounds and career paths who are interested in contributing to experimental particle physics. Experience in areas such as particle physics, detector development, and data analysis is highly valued. Familiarity with neutrino physics and/or detector technologies such as LAr-TPCs will be an asset, but is not mandatory. The group is committed to gender equality and diversity and strongly encourages applications from women and other underrepresented groups.</div><div><br></div><div>Applications should be submitted via the “Apply form” at this <a href=\"https://ensicaen.nous-recrutons.fr/poste/1z2y008ssq-post-doctorante-visant-a-explorer-le-potentiel-physique-dun-faisceau-de-neutrinos-controle-et-marque-pour-la-physique-des-neutrinos-a-courte-distance/\">link</a>. The application should include a cover letter with a statement of interests (explaining the scientific interests and motivation to join the group). Also required are CV, a short list of most relevant publications, and up to three reference letters.</div><div><br></div><div>The review of applications will start as soon as possible and continue until the position is filled.</div><div><br></div><div>For further information, contact: Dr. Chiara Lastoria (lastoria@lpccaen.in2p3.fr)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://ensicaen.nous-recrutons.fr/poste/1z2y008ssq-post-doctorante-visant-a-explorer-le-potentiel-physique-dun-faisceau-de-neutrinos-controle-et-marque-pour-la-physique-des-neutrinos-a-courte-distance/"
+      ],
+      "contact_email": null,
+      "created": "2026-04-09T14:05:10.629083+00:00",
+      "updated": "2026-04-09T21:02:23.064282+00:00",
+      "addedAt": "2026-04-10T08:30:50.101Z",
+      "isNew": true
+    },
+    {
       "id": "3141690",
       "title": "Postdoctoral researcher on ATLAS at CERN",
       "institution": "TRIUMF",
@@ -6497,6 +6522,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-09T08:31:13.435Z",
-  "totalJobs": 242
+  "lastUpdated": "2026-04-10T08:30:50.102Z",
+  "totalJobs": 243
 }
