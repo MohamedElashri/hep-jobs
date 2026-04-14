@@ -1,6 +1,84 @@
 {
   "jobs": [
     {
+      "id": "3144437",
+      "title": "Postdoc Position in Astroparticle Physics",
+      "institution": "Geneva U.",
+      "deadline": "2026-05-15",
+      "description": "<div>The Department of Nuclear and Particle Physics (DPNC) of the University of Geneva has an <strong>immediate opening</strong> for a</div><div>&nbsp;</div><div>Postdoc Position in Astroparticle Physics</div><div>&nbsp;</div><div>We are offering a postdoctoral physicist position to an outstanding and highly motivated candidate to join the Space Astroparticle Physics group to work on instrument development and data analyses with two space missions, the POLAR-2 mission, a Gamma-Ray Burst polarimeter that will be launched in 2028, and LunPAN, an instrument suite for a comprehensively mapping of the lunar energetic particle environment, currently under study as a payload on a lunar orbiter to be launched around 2031.</div><div>&nbsp;</div><div>The DPNC group is a key participant in several astroparticle and astrophysics space missions, such as AMS, DAMPE and POLAR, the predecessor of POLAR-2. The group is the PI institute of both the LunPAN and POLAR-2 projects.</div><div>&nbsp;</div><div>We are looking for a recent Ph.D graduate to play a leading role in the instrument development effort of these two missions, in particular in the prototype test and calibration, and to contribute to the preparation of exploiting the science data, including simulation, detector response and advanced data analyses techniques. The DPNC groups is a pioneer in the application of Deep Learning models for astroparticle data analyses.&nbsp;</div><div>&nbsp;</div><div>The position is for a fixed term of 1 year initially, with possibility of extension. The candidate is required to have a Ph.D in experimental particle, astroparticle or astrophysics and to have demonstrated the ability to independently complete a complex physics measurement or a hardware project. Experience with particle detector hardware and advanced data analysis techniques will be a strong asset.</div><div>&nbsp;</div><div>Interested candidates are requested to submit a brief statement of research interests, a CV, and to arrange 2-3 letters of recommendations to be sent to Prof. Xin Wu (<a href=\"mailto:xin.wu@unige.ch\">xin.wu@unige.ch</a>). Applications will be accepted until the position is filled. Further inquiries can be sent to the same address.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "POLAR-2"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-14T08:14:04.447044+00:00",
+      "updated": "2026-04-14T15:17:14.916902+00:00",
+      "addedAt": "2026-04-14T16:58:14.005Z",
+      "isNew": true
+    },
+    {
+      "id": "3144421",
+      "title": "Postdoctoral Fellow positions on the ATLAS experiment",
+      "institution": "Simon Fraser U., Burnaby (main)",
+      "deadline": "2026-05-11",
+      "description": "<div>The High Energy Physics group at the Simon Fraser University (SFU) in Vancouver, Canada, has an opening for up to two Postdoctoral Fellow positions on the ATLAS experiment.</div><div><br></div><div>The SFU ATLAS group currently consists of about 20 scientists including 4 faculty members: Matthias Danninger, Dugan O'Neil, Luise Poley, and Bernd Stelzer involved in the ATLAS experiment at CERN (<a href=\"http://atlas.cern.ch/\">atlas.cern.ch</a>).&nbsp;The group has strong ties to TRIUMF (Canada's national subatomic physics laboratory) and other local HEP groups in Vancouver.</div><div><br></div><div>Members of our group are actively involved in a wide range of analyses, including: a wide range of Beyond the Standard Model searches (Long-Lived Particles and new resonances), Higgs physics and top physics. The SFU group has taken leading roles in the ATLAS Inner Detector track and vertex reconstruction and has a significant involvement in the construction of the new Inner Tracker (ITk) strip detector. Our group has also taken a leading role in the development of Canada's contribution to ATLAS computing.&nbsp;</div><div><br></div><div>The successful candidate will be expected to lead part of the group’s current and future physics analysis efforts, and to participate in the supervision of graduate students. They are also expected to contribute to the ATLAS ITk upgrade. The position is preferably based at SFU (with travel to CERN as needed). In special cases a CERN-based position can be discussed.&nbsp;</div><div><br></div><div>Qualified candidates must have a Ph.D. in particle or astroparticle physics by the time of appointment. The initial appointment will be for 1 year but will be renewable upon mutual agreement for 2 additional years.&nbsp;Salary will be competitive, and depend upon experience. Interested individuals are asked to submit via email a cover letter including a research statement, a CV, and arrange to have 3 reference letters sent to: <a href=\"mailto:sfu-atlas-postdoc@sfu.ca\">sfu-atlas-postdoc@sfu.ca</a>.&nbsp;&nbsp;</div><div><br></div><div>Applications received by May 11th, 2026 will receive full consideration.&nbsp;Review of applications will continue until the position is filled.</div><div><br></div><div>Please contact Prof. Matthias Danninger (<a href=\"mailto:alister@physics.ubc.ca\">mdanning@sfu.ca</a>) for further information.&nbsp;</div><div>SFU is&nbsp;committed to ensuring that no individual is denied access to employment opportunities for reasons unrelated to&nbsp;ability or qualifications. Consistent with this principle, we will advance the interests of underrepresented&nbsp;members of the work force, specifically Indigenous peoples, persons with disabilities, visible minorities, and&nbsp;women; embrace gender and sexual diversity; ensure that equal opportunity is afforded to all who seek&nbsp;employment at the University; and treat all employees equitably. Thus, candidates that belong to underrepresented&nbsp;groups in Physics are particularly welcome to apply.</div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-14T07:52:03.014746+00:00",
+      "updated": "2026-04-14T15:13:50.288281+00:00",
+      "addedAt": "2026-04-14T16:58:14.005Z",
+      "isNew": true
+    },
+    {
+      "id": "3144405",
+      "title": "Study of jet properties with the STAR experiment at RHIC",
+      "institution": "CTU, Prague",
+      "deadline": "2026-05-21",
+      "description": "<div>Jets, collimated sprays of particles, are considered as an ideal tool for studies of the theory of strong interaction (quantum chromodynamics, QCD) in proton-proton collisions at high energies accessible at the largest colliders in the world, RHIC at BNL and LHC at CERN. Moreover, in heavy-ion collisions, jets serve as a valuable probe of the quark-gluon plasma (QGP), a new state of matter in which basic building blocks of matter, quarks and gluons are deconfined and resemble the state of our Universe in the first moments after the Big Bang. High statistics data collected by the STAR experiment at RHIC in combination with new analysis techniques allow to study jets including also their sub-structure and bring thus new, more detailed information about QCD and QGP properties. The project is focused on the experimental task of jet reconstruction and its direct application to the STAR data along with performing various Monte Carlo simulations.</div><div>&nbsp;</div><div><strong>Secondment opportunity:</strong></div><div>Physics Department, Yale University, USA, 4 months, studies of jet properties in high energy proton-proton and heavy-ion collisions in the STAR experiment at RHIC, training in big data analysis, Monte Carlo simulations</div><div>Co-supervisor:&nbsp;Prof. Helen Caines (Yale University)</div><div><br></div><div><strong>Application for CTU:</strong></div><div>Application for doctoral studies (to commence the study on October 1, 2026)&nbsp;- submission from <strong>April 27, 2026 to May 21, 2026</strong>.</div><div>&nbsp;</div><div>Note that this call is only for funding within PICTUS fellowship programme. Students also&nbsp;<strong>have to</strong>&nbsp;apply to our PhD program (Nuclear Engineering, see details at&nbsp;<a href=\"https://fjfi.cvut.cz/en/applicants/doctoral-studies/admission-procedure-phd\">https://fjfi.cvut.cz/en/applicants/doctoral-studies/admission-procedure-phd</a>).&nbsp;<strong>Note that the deadline to apply to the PhD program is May 21st</strong>.</div><div>&nbsp;</div><div><strong>Benefits and Conditions of PICTUS fellowship:</strong></div><div>Gross monthly salary of 69 300&nbsp;CZK/month*</div><div>Family allowance 8 888 CZK/month (for applicants with dependent family members)</div><div>Travel support for conferences and secondment at Warsaw University of Technology (prof. Daniel Kikola)</div><div>&nbsp;</div><div><strong>More Information:&nbsp;</strong><a href=\"https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/\">https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/</a> Topic 21</div><div>&nbsp;</div><div><strong>Recommendation letters: </strong>Arrange for two letters of support to be sent to jana.bielcikova@fjfi.cvut.cz</div><div><br></div><div>Contact: Jana Bielcikova, <a href=\"mailto:jana.bielcikova@fjfi.cvut.cz\">jana.bielcikova@fjfi.cvut.cz</a></div><div>&nbsp;</div><div><strong>More Information: </strong></div><ul><li><a href=\"https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/\">https://international.cvut.cz/jobs-at-ctu/pictus-phd-fellowship-programme/</a></li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "BNL-RHIC-STAR"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-14T07:10:24.882444+00:00",
+      "updated": "2026-04-14T15:13:03.767424+00:00",
+      "addedAt": "2026-04-14T16:58:14.005Z",
+      "isNew": true
+    },
+    {
       "id": "3143909",
       "title": "Research Assistant Professor - Computational Particle Physics",
       "institution": "Chicago U., EFI",
@@ -24,7 +102,7 @@
       "created": "2026-04-13T17:29:32.405221+00:00",
       "updated": "2026-04-13T17:47:32.742517+00:00",
       "addedAt": "2026-04-14T08:33:36.736Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3143250",
@@ -6633,6 +6711,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-14T08:33:36.737Z",
-  "totalJobs": 247
+  "lastUpdated": "2026-04-14T16:58:14.005Z",
+  "totalJobs": 250
 }
