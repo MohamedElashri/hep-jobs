@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3143909",
+      "title": "Research Assistant Professor - Computational Particle Physics",
+      "institution": "Chicago U., EFI",
+      "deadline": "2026-05-13",
+      "description": "<div>The Enrico Fermi Institute of the University of Chicago invites applications for a Research Assistant Professor position in Computational Particle Physics. The successful candidate will work under the supervision of Professor David Miller to lead and advance the U.S. ATLAS Computing Operations program at the University of Chicago, which supports a Tier 2 computing center and a dedicated Analysis Facility serving hundreds of physicists across the U.S. ATLAS collaboration at the CERN Large Hadron Collider.</div><div>&nbsp;</div><div>The scope of the position spans multiple interconnected areas:</div><ul><li>Development and operation of next-generation analysis systems for the High-Luminosity LHC era, including columnar analysis frameworks, scalable distributed computing platforms, and interactive analysis environments, with direct user-facing support for physicists working at the analysis facility.</li><li>Statistical inference infrastructure: the candidate is expected to contribute to and build upon modern Python-based statistical modeling tools such as pyhf, supporting likelihood publication, large-scale analysis combinations, and result reinterpretation across the ATLAS collaboration and the broader HEP community.</li><li>An emerging research program in agentic AI for HEP analysis, developing LLM-based systems with integrated domain knowledge of ATLAS workflows, statistical inference, and analysis facility infrastructure.</li><li>Community training and user engagement: the candidate will develop and maintain documentation, tutorials, and training materials for the analysis facility and associated tools, and will organize workshops and bootcamps to support the broader HEP analysis community in adopting modern computational methods.</li></ul><div>&nbsp;The successful candidate will maintain an active physics analysis program, contribute to the intellectual leadership of the group, and contribute to the training and mentorship of early-career researchers in modern analysis techniques and scientific computing. They will work closely with postdoctoral scholars, graduate students, and research staff at UChicago and partner institutions, and will be expected to pursue independent funding and to engage with national initiatives including IRIS-HEP, the U.S. ATLAS Operations program, and the APS DPF community. Travel to CERN and other collaboration sites will be required.</div><div>&nbsp;</div><div>The term of the appointment will be for up to three years, with the possibility of renewal. The position is expected to begin August 1, 2026.</div><div>&nbsp;</div><div>This position is benefits-eligible. The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the&nbsp;<a href=\"https://mybenefits.nfp.com/UChicago/benefits-guide/\">Benefits Guidebook</a>.</div><div><br></div><div><strong>Qualifications</strong></div><div><br></div><div><strong>Required</strong></div><ul><li>At least three years of post-doctoral experience in experimental high energy physics.</li><li>Demonstrated record of community-facing software contributions and engagement with the HEP physics analysis community.</li><li>Demonstrated experience developing training materials, documentation, or instructional resources for scientific software, and a track record of organizing or contributing to workshops, bootcamps, or similar community training activities.</li></ul><div><strong>Preferred</strong></div><ul><li>Experience with statistical inference frameworks for HEP, including Python-based tools such as pyhf, and familiarity with likelihood publication and analysis combination workflows.</li><li>Experience with detector hardware QC software, database integration, or instrumentation software for large-scale experimental systems.</li><li>A record of scientific community engagement through activities such as journal refereeing, participation in national planning exercises, or service on professional organization committees (e.g., APS DPF Coordinating Panel for Software and Computing).</li></ul><div><strong>Application Instructions</strong></div><div><strong>Required Materials</strong></div><ul><li>Cover letter</li><li>CV</li><li>List of publications</li><li>Two confidential letters of recommendation (requested via Interfolio)</li></ul><div>Applications must be submitted at:&nbsp;<a href=\"https://apply.interfolio.com/184441\">https://apply.interfolio.com/184441.</a>&nbsp;Review of applications begins May 13, 2026 and will continue until the position is filled.</div><div><br></div><div><strong>Equal Employment Opportunity Statement</strong></div><div>The University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's&nbsp;<a href=\"https://www.uchicago.edu/about/non_discrimination_statement/\">Notice of Nondiscrimination</a>.</div><div>Job seekers in need of a reasonable accommodation to complete the application process should call 773-834-3988 or email&nbsp;<a href=\"mailto:equalopportunity@uchicago.edu\">equalopportunity@uchicago.edu</a>&nbsp;with their request.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "OTHER"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "cs"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-13T17:29:32.405221+00:00",
+      "updated": "2026-04-13T17:47:32.742517+00:00",
+      "addedAt": "2026-04-14T08:33:36.736Z",
+      "isNew": true
+    },
+    {
       "id": "3143250",
       "title": "Director/Senior Electronics Design Engineer for Instrumentation Design Lab",
       "institution": "U. Kansas, Lawrence",
@@ -6607,6 +6633,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-13T12:45:43.407Z",
-  "totalJobs": 246
+  "lastUpdated": "2026-04-14T08:33:36.737Z",
+  "totalJobs": 247
 }
