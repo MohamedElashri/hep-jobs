@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3144657",
+      "title": "Postdoctoral Fellow (ATLAS)",
+      "institution": "U. Victoria (main)",
+      "deadline": "2026-05-15",
+      "description": "<div>The University of Victoria Particle Physics Group invites applications for a Postdoctoral Fellow position working on the ATLAS experiment at the CERN LHC.</div><div><br></div><div>The ATLAS group at Victoria consists of about thirty scientists including seven faculty members – Justin Albert, Richard Keeler, Michel Lefebvre, Rob McPherson, Heather Russell, Randall Sobie, and Dominique Trischuk – making significant contributions to ATLAS liquid argon calorimetry, muon spectrometer, trigger, computing, analysis tool development, and physics analysis. The group is also active in upgrades of the ATLAS inner tracker, liquid argon calorimeter electronics, and the muon new small wheels.</div><div><br></div><div><strong>In addition to analysis of ATLAS collision data, the successful candidate will be expected to take a leading role in either ATLAS Inner Tracker or trigger software upgrades. </strong></div><div><br></div><div>The candidate should have completed a PhD by the time of the appointment. Experience in particle detector design, construction, readout electronics, data acquisition, computing and/or data analysis would be useful for the position. <strong>The position will be based at CERN.</strong> The starting date will be negotiated with the successful candidate, and the salary will be based on experience. The position will be full time.</div><div><br></div><div>Candidates should send a CV, a cover letter, and arrange to have at least three letters of recommendation sent to:</div><div><br></div><div>Professor Rob McPherson</div><div>Dept. of Physics and Astronomy</div><div>University of Victoria</div><div>PO Box 1700 STN CSC</div><div>Victoria, BC, CANADA V8W 2Y2</div><div>Fax: +1.250-721-7752</div><div>Email: vispa@uvic.ca</div><div><br></div><div>The preferred method of correspondence is via email to Tammy McLash at <a href=\"mailto:vispa@uvic.ca\">vispa@uvic.ca</a>.</div><div><br></div><div>Please clearly indicate that you are applying to the ATLAS PDF position in any correspondence.</div><div><br></div><div><strong>Review of applications will begin on 15 May 2026 and will continue until the positions are filled</strong>. All qualified candidates are encouraged to apply. The University of Victoria is committed to upholding the values of equity, diversity, and inclusion in our living, learning and work environments. In pursuit of our values, we seek members who will work respectfully and constructively with differences and across levels of power. We actively encourage applications from members of groups experiencing barriers to equity. Read our full equity statement here: <a href=\"https://www.uvic.ca/equity/employment-equity/statement/\">www.uvic.ca/equitystatement</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.uvic.ca/science/physics/vispa/research/projects/atlas/index.php"
+      ],
+      "contact_email": null,
+      "created": "2026-04-14T19:55:10.415233+00:00",
+      "updated": "2026-04-14T21:37:48.945240+00:00",
+      "addedAt": "2026-04-15T08:33:16.672Z",
+      "isNew": true
+    },
+    {
       "id": "3144437",
       "title": "Postdoc Position in Astroparticle Physics",
       "institution": "Geneva U.",
@@ -24,7 +52,7 @@
       "created": "2026-04-14T08:14:04.447044+00:00",
       "updated": "2026-04-14T15:17:14.916902+00:00",
       "addedAt": "2026-04-14T16:58:14.005Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3144421",
@@ -50,7 +78,7 @@
       "created": "2026-04-14T07:52:03.014746+00:00",
       "updated": "2026-04-14T15:13:50.288281+00:00",
       "addedAt": "2026-04-14T16:58:14.005Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3144405",
@@ -76,7 +104,7 @@
       "created": "2026-04-14T07:10:24.882444+00:00",
       "updated": "2026-04-14T15:13:03.767424+00:00",
       "addedAt": "2026-04-14T16:58:14.005Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3143909",
@@ -6711,6 +6739,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-14T16:58:14.005Z",
-  "totalJobs": 250
+  "lastUpdated": "2026-04-15T08:33:16.673Z",
+  "totalJobs": 251
 }
