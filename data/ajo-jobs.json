@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "id": "ajo-31950",
+      "title": "Postdoctoral Scholarship Program in Space and Astro-Informatics",
+      "institution": "Ariel University",
+      "deadline": "2026-05-13",
+      "description": "(*The deadline has been extended to May 12th*) (*People interested in\n   applying with Prof. Ido Ben-Dayan should also notify about their\n   application by a direct email to idobd@ariel.ac.il *) Ariel University\n   (AU) invites excellent candidates to apply for a unique Postdoctoral\n   Scholarship Program in Space and Astro-Informatics, which will enhance\n   academic cooperation through international scientific collaborations.\n   The core research themes integrate faculty members from multiple\n   departments across the university and from a broad range of\n   disciplines, including astrophysics, cosmology, remote sensing (from\n   space and toward space), as well as other research areas that\n   integrate space, either as the subject of study or as a research\n   platform, with big data. These data may originate from large-scale\n   observational surveys or be generated through advanced numerical and\n   computational simulations. Further information about faculty members,\n   research activities, achievements, and publications is available on\n   the Center&#x2019;s website: https://www.ariel.ac.il/wp/agas For more\n   information about Ariel University:\n   https://www.ariel.ac.il/wp/au-international/ Compensation and Benefits\n   Compensation Type Salary Currency 467 Compensation Range $38,000USD to\n   $40,000USD Included Benefits Ariel University will award Postdoctoral\n   scholarships of 120,000 NIS per year for up to two years. In addition,\n   postdoctoral fellows in the program will be eligible for conference\n   travel funding of up to USD 1,200 to support presentation at\n   international conference(s), subject to prior approval and\n   reimbursement based on actual expenses and the applicable exchange\n   rates. Fellows must apply to the AU authorities to receive this\n   additional funding. Compensation Notes The compensation is in the form\n   of a scholarship rather than a salary. Application Details Application\n   Instructions\n   https://www.ariel.ac.il/wp/agas/2026/02/11/outstanding-postdoctoral-researchers-in-space-and-astro-informatics-2026/\n   Link to Online Application\n   https://www.ariel.ac.il/wp/agas/wp-content/uploads/sites/309/2026/02/Call-for-A&#xFFFD;&#xFFFD;\n   Publication Start Date 2026 Mar 15 Application Deadline 2026 May 12",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Ariel%20University/Physics/31950?rss"
+      ],
+      "contact_email": "idobd@ariel.ac.il",
+      "created": "2026-04-14T16:00:00.000Z",
+      "updated": "2026-04-14T16:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-04-16T08:33:26.822Z",
+      "isNew": true
+    },
+    {
+      "id": "ajo-31948",
+      "title": "Postdoc position in Cosmology and Theoretical High Energy Physics",
+      "institution": "Ariel University",
+      "deadline": null,
+      "description": "We are looking for postdocs! The Physics Department of Ariel University (https://www.ariel.ac.il/wp/physics/en/)\n   invites applications for Postdoc position in Cosmology and Theoretical\n   High Energy Physics broadly defined in the research group of Prof. Ido\n   Ben-Dayan. Applicants must hold a Ph.D. degree in Physics or\n   Astronomy, and should have research experience in at least one of the\n   topics. The postdoc employment will be for 2 years, with a possible\n   extension to a third year, contingent on funding and productivity The\n   annual salary is set by a predetermined matrix from the University.\n   The postdoc will join the efforts of the research group and can also\n   pursue his own research. To apply, please send a short CV (maximum 2\n   pages), a list of publications and a cover letter (1 page) to the\n   academicjobsonline system, as well as 3 letters of recommendation\n   uploaded directly by the letter writers. Selected candidates will be\n   asked to send additional documents, as detailed in\n   https://www.ariel.ac.il/wp/postdocs/apply/required-documents/. The\n   position is open until filled.",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/Ariel%20University/Physics/31948?rss"
+      ],
+      "contact_email": null,
+      "created": "2026-04-14T16:00:00.000Z",
+      "updated": "2026-04-14T16:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-04-16T08:33:26.822Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31848",
       "title": "PhD position, Ariel University, Israel",
       "institution": "Ariel University",
@@ -49,6 +99,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-15T08:33:16.685Z",
-  "totalJobs": 2
+  "lastUpdated": "2026-04-16T08:33:26.822Z",
+  "totalJobs": 4
 }

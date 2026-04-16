@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3145438",
+      "title": "Postdoctoral Fellow",
+      "institution": "LBNL, NSD",
+      "deadline": "2026-05-31",
+      "description": "<div>The Relativistic Nuclear Collisions Program (RNC) of the Nuclear Science Division at Lawrence Berkeley National Laboratory (LBNL) is seeking outstanding candidates for one or more <strong>Postdoctoral Fellow</strong> positions.</div><div>&nbsp;</div><div>RNC scientists have significant responsibilities and contributions in ALICE at the LHC, in the STAR and sPHENIX experiments at the Relativistic Heavy Ion Collider, and at Jefferson Lab. RNC researchers are also active contributors to the development of the physics program for the ePIC experiment at EIC and are leading the design of the ePIC Silicon Vertex Tracker.</div><div>&nbsp;</div><div>Primary focus areas for the position(s) include:</div><ol><li>Contributions to the ePIC Silicon Vertex Tracker, through software and simulation work and/or hardware development</li><li>Data analysis for the ALICE or sPHENIX experiments</li><li>AI/ML research in support of RNC Nuclear Physics priorities&nbsp;</li></ol><div><strong>You will:</strong></div><ul><li>Contribute to one or more of the focus areas described above, and/or to other RNC experimental research activities,</li><li>Publish papers/reports in refereed journals.</li></ul><div>&nbsp;<strong>We are looking for:</strong></div><ul><li>A recent Ph.D. in experimental nuclear or high-energy physics, or a closely related field at the time the position starts,</li><li>Experience with modern data analysis, simulation, and computing,</li><li>Proficiency in written and oral dissemination of scientific results,</li><li>Ability to travel to experimental sites, collaboration meetings, workshops and conferences.</li></ul><div>&nbsp;<strong>Desired skills/knowledge:</strong></div><ul><li>Ability to advise and coach student assistants in research.</li></ul><div>&nbsp;<strong>Requested application materials: Please submit your CV, a publication list, a statement of research interests, and arrange for three letters of reference to be sent via email to John Arrington (</strong><a href=\"mailto:jarrington@lbl.gov\"><strong>jarrington@lbl.gov</strong></a><strong>) and Michele Anne (</strong><a href=\"mailto:mmanne@lbl.gov\"><strong>mmanne@lbl.gov</strong></a><strong>).</strong></div><div><strong>For inquiries regarding this search, please contact John Arrington. Applications received before April 30th will receive full consideration. Applications received after that date will be considered until the position(s) are filled.</strong></div><div>&nbsp;</div><div><strong>Additional information:</strong></div><ul><li><strong>Appointment type: </strong>This position is represented by a union for collective bargaining purposes.</li></ul><div>This is a full-time 2 year, postdoctoral appointment with the possibility of renewal based upon satisfactory job performance, continuing availability of funds and ongoing operational needs. You must have less than 3 years of paid postdoctoral experience. Salary for Postdoctoral positions depends on years of experience post-degree.</div><ul><li><strong>Salary range:</strong> The salary range for this position is $5,757 - $6,903 per month and is expected to start at $6,475.00 or above. Postdoctoral positions are paid on a step schedule per union contract and salaries will be predetermined based on postdoctoral step rates. Each step represents one full year of completed post-Ph.D. postdoctoral experience.</li><li><strong>Background check: </strong>This position is subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment.</li><li><strong>Work modality: </strong>Work will be primarily performed at:<strong> </strong>Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA. A REAL ID or other acceptable form of identification is required to access Berkeley Lab sites (for more information<a href=\"https://securityandemergencyservices.lbl.gov/\"> click here</a>).</li></ul><div>&nbsp;<strong>Want to learn more about working at Berkeley Lab? Please visit: </strong><a href=\"http://careers.lbl.gov/\"><strong>careers.lbl.gov</strong></a></div><div>&nbsp;</div><div>Equal Employment Opportunity Employer: The foundation of Berkeley Lab is our Stewardship Values: Team Science, Service, Trust, Innovation, and Respect; and we strive to build community with these shared values and commitments. Berkeley Lab is an Equal Opportunity Employer. We heartily welcome applications from all who could contribute to the Lab's mission of leading scientific discovery, excellence, and professionalism. In support of our rich global community, all qualified applicants will be considered for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or other protected categories under State and Federal law.</div><div>&nbsp;</div><div>Misconduct Disclosure Requirement: As a condition of employment, the finalist will be required to disclose if they are subject to any final administrative or judicial decisions within the last seven years determining that they committed any misconduct, are currently being investigated for misconduct, left a position during an investigation for alleged misconduct, or have filed an appeal with a previous employer.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobs.lbl.gov/jobs/postdoctoral-fellow-multiple-openings-7425"
+      ],
+      "contact_email": null,
+      "created": "2026-04-15T18:44:44.073101+00:00",
+      "updated": "2026-04-15T19:54:29.139898+00:00",
+      "addedAt": "2026-04-16T08:33:26.163Z",
+      "isNew": true
+    },
+    {
+      "id": "3145021",
+      "title": "Professorship (W 2) Experimental Particle Physics",
+      "institution": "Bergische U., Wuppertal (main)",
+      "deadline": "2026-06-01",
+      "description": "<div>The University of Wuppertal is a dynamic, networked and research-oriented campus</div><div>university. Collectively, more than 25,000 researchers, academic staff and students face the</div><div>challenges of science, education, culture, economics, society, technology and the</div><div>environment.</div><div><br></div><div>The University of Wuppertal invites applications for a professorship in experimental</div><div>elementary particle physics. The position will be based in the School of Mathematics and</div><div>Natural Sciences. We are looking for an outstanding personality who will continuously</div><div>develop this area in research and teaching.</div><div><br></div><div><strong>DUTIES</strong></div><ul><li>Contribution to the operation of the ATLAS detector at CERN during the high luminosity phase of the Large Hadron Collider, in particular sharing of responsibility for the maintenance and the operation of the detector control system of the ATLAS Inner Tracker Pixel detector.</li><li>Steering and leading the analysis of ATLAS data, expanding the spectrum of analysis topics pursued at the University of Wuppertal.</li><li>Establishment of collaborations with other research groups in the physics research group</li><li>Interdisciplinary cooperation with other researchers at the university in the activity field “Artificial Intelligence for Empowering the Future”</li><li>Establishment of an additional research project in field of experimental particle physics at an intermediate time scale, for example on the development of components for future detectors in the context of one of the Detector Research and Development (DRD) collaborations at CERN</li><li>Teaching courses covering the full spectrum of experimental physics; scientific management of the electronics lab course</li><li>Development of new teaching concepts in experimental physics using digital tools</li><li>Active participation in the further and new development of courses offered in Physics</li></ul><div><strong>REQUIREMENTS</strong></div><ul><li>Comprehensive experience in analysing data recorded with the ATLAS detector or the CMS detector at CERN. Experience in one of these areas is desirable: Higgs boson physics, top quark physics, physics of weak gauge bosons, quantum chromodynamics, or direct searches for new particles</li><li>Experience in leading research groups in experimental collaborations at the Large Hadron Collider at CERN</li><li>Experience in the acquisition of third-party funding in experimental particle physics, demonstrated for example by contributions to grant proposals of collaborative research or grant proposals to the DFG</li><li>Experience in teaching at universities; experience with independent teaching of courses or the development of new concepts and formats of teaching are considered as an additional qualification</li><li>Proficiency of the German language (at least level B2) or willingness to acquire adequate proficiency within two years</li><li>Experience in the areas of detector assembly, detector operation, software development, the identification and reconstruction of particles and the application of event generators are considered as additional qualifications</li><li>Experience in public relations and teaching physics to the general public, in particular at schools, is desirable</li></ul><div>From 2027 onwards the experimental particle physics group will reside in a new building</div><div>featuring modern laboratories and an experimental hall.</div><div><br></div><div><strong>QUALIFICATIONS</strong></div><ul><li>Completed degree (master or equivalent from university or university of applied sciences) in physics.</li><li>Special aptitude for academic work, usually demonstrated by the quality of a doctorate, in experimental particle physics. A doctoral dissertation with a topic on the analysis of data of proton-proton collisions at the Large Hadron Collider of a topic of detector development is desirable</li><li>Further relevant scientific achievements performed during a first professorship include junior professorships, habilitations, employment as a research assistant at a university or at a non-university research institution and scientific positions in business, in administration or another social field in Germany or abroad</li><li>Pedagogical aptitude, which is proven by appropriate previous experience or, exceptionally, demonstrated in the appointment procedure</li></ul><div>You are able to demonstrate your qualification for the position by publications on</div><div>measurements with the multi-purpose detectors at the Large Hadron Collider, to which you</div><div>have made leading contributions in the context of the corresponding collaborations, relevant</div><div>teaching experience, international orientation (e.g., international collaborations, activities in</div><div>national and international bodies), the successful acquisition of third-party funds, project</div><div>experience. Please enclose relevant certificates and supporting documents with your</div><div>application.</div><div><br></div><div>At the University of Wuppertal, we appreciate individual and cultural differences of our</div><div>employees and support gender equality, equal opportunities, reconciliation of family and</div><div>working life. Applications from persons of any gender and persons with disabilities as well as</div><div>persons with an equivalent status are highly welcome. In accordance with the Gender</div><div>Equality Act of North Rhine-Westphalia, women will be given preferential consideration</div><div>unless there are compelling reasons in favour of an applicant who is not female. The same</div><div>applies to applications from disabled persons, who will be given preference in the case of</div><div>equal suitability.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://stellenausschreibungen.uni-wuppertal.de"
+      ],
+      "contact_email": null,
+      "created": "2026-04-15T12:44:33.099843+00:00",
+      "updated": "2026-04-15T14:20:02.299603+00:00",
+      "addedAt": "2026-04-16T08:33:26.163Z",
+      "isNew": true
+    },
+    {
       "id": "3144657",
       "title": "Postdoctoral Fellow (ATLAS)",
       "institution": "U. Victoria (main)",
@@ -26,7 +78,7 @@
       "created": "2026-04-14T19:55:10.415233+00:00",
       "updated": "2026-04-14T21:37:48.945240+00:00",
       "addedAt": "2026-04-15T08:33:16.672Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3144437",
@@ -6739,6 +6791,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-15T08:33:16.673Z",
-  "totalJobs": 251
+  "lastUpdated": "2026-04-16T08:33:26.164Z",
+  "totalJobs": 253
 }
