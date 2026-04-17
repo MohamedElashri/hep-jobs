@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "id": "3145666",
+      "title": "Postdoctoral research position in JUNO neutrino experiment",
+      "institution": "LP2I, Bordeaux",
+      "deadline": "2026-07-15",
+      "description": "<div>The JUNO (Jiangmen Underground Neutrino Observatory) experiment is a 20 kilo-ton multi-purpose underground liquid scintillator (LS) detector located in China, designed to observe neutrinos from nuclear reactors at a distance of 53 km. Thanks to its excellent energy resolution and large fiducial volume, JUNO aims to determine the neutrino mass hierarchy and perform precise measurements of several oscillation parameters. Additionally, JUNO will explore key topics in neutrino and astroparticles physics, including supernova detection and proton decay. Data collection began in August 2025, and the first results from 59 days of reactor neutrino data have already established JUNO as the world leading experiment for the precision of the solar oscillation parameters.</div><div><br></div><div>The LP2i group is strongly committed to the JUNO project, with activities centred on the use and analysis of the small photomultiplier system (SPMT), for which the laboratory developed the front-end electronics, as well as on simulation optimisation and reactor neutrino data analysis.</div><div><br></div><div>The successful candidate will be actively involved in analysing data from the SPMT system and in developing and optimising simulations for the JUNO experiment. They will also participate in reactor data analysis, with a focus on background rates and energy spectra, which are crucial for the precise determination of the neutrino mass hierarchy.</div><div><strong>Expected skills</strong>: The candidate should have been awarded a PhD between 2025 and 2026. They should demonstrate a high degree of independence and possess skills in both hardware and software development.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "JUNO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-16T08:48:19.865764+00:00",
+      "updated": "2026-04-16T15:17:41.949427+00:00",
+      "addedAt": "2026-04-17T08:33:19.857Z",
+      "isNew": true
+    },
+    {
+      "id": "3145722",
+      "title": "Postdoctoral Fellow in Experimental Neutrino Physics",
+      "institution": "Winnipeg U.",
+      "deadline": "2026-05-14",
+      "description": "<div><a href=\"https://www.northstarats.com/University-of-Winnipeg/Postdoctoral-Fellow-in-Experimental-Neutrino-Physics/90096\">https://www.northstarats.com/University-of-Winnipeg/Postdoctoral-Fellow-in-Experimental-Neutrino-Physics/90096</a></div><div><br></div><div><strong>Postdoctoral Fellow in Experimental Neutrino Physics - University of Winnipeg / TRIUMF / Hyper-Kamiokande Collaboration</strong></div><div><br></div><div>The University of Winnipeg invites applications for a&nbsp;<strong>postdoctoral fellow in experimental particle physics</strong>&nbsp;to work on the Hyper-Kamiokande neutrino experiment and the Intermediate Water Cherenkov Detector (IWCD),&nbsp;<strong>for a 2-year term</strong>&nbsp;position.</div><div><br></div><div>The Postdoctoral Fellow will be primarily based at the University of Winnipeg, with extended research stays at TRIUMF (on the University of British Columbia campus in Vancouver) with significant travel to Japan for detector deployment, initial water fill and drone imaging campaigns, and commissioning and early data-taking. They will work closely with an international collaboration across North America, Japan, and Europe.</div><div><br></div><div><strong>Project Overview and Scientific Scope:</strong></div><div>The Winnipeg group plays a leading role in the design, deployment, and analysis of photogrammetry systems for both Hyper-K and IWCD. These systems are essential for precision detector geometry, alignment, and calibration, directly impacting reconstruction performance and systematic uncertainties in early physics measurements.</div><div>This position offers a unique opportunity to own a critical detector calibration system and connect it directly to first physics results in a next-generation neutrino experiment.</div><div>In addition to fixed photogrammetry systems, drone-based imaging campaigns will be conducted immediately following the initial detector water fill. These datasets will play a central role in early detector characterization.</div><div><br></div><div><strong>Responsibilities:</strong></div><div>The successful candidate will lead the photogrammetry and geometry program within the Winnipeg Hyper-K effort, including:</div><ul><li>Leading photogrammetry analysis and reconstruction, including 3D reconstruction of detector geometry from fixed and drone-based imaging.</li><li>Validation and uncertainty quantification of detector geometry.</li><li>Owning the interface between geometry and physics, including propagation of geometry uncertainties into reconstruction and simulation.</li><li>Contributions to detector calibration frameworks</li><li>Playing a central role in detector commissioning and early operations</li><li>Leading or co-leading a first physics analysis, particularly in areas sensitive to detector geometry and systematics (e.g., event reconstruction performance, detector response modeling)</li><li>Participating in on-site deployment and data-taking campaigns in Japan</li></ul><div><strong>Qualifications:</strong></div><ul><li>PhD in experimental particle physics or a closely related field</li><li>Strong experience in at least one of:</li><li>Detector calibration or reconstruction</li><li>Photogrammetry / computer vision / 3D reconstruction</li><li>Scientific data analysis (C++/Python/ROOT)</li><li>Interest in connecting detector performance to physics measurements</li><li>Ability to take initiative and leadership within a collaborative environment</li></ul><div><strong>Why This Position Is Unique:</strong></div><div>This role is designed for a candidate who wants to take ownership of a detector-critical system and translate it into physics impact. The successful applicant will:</div><ul><li>Lead a key calibration system for a flagship international experiment</li><li>Be directly involved in first data and first physics from Hyper-K</li><li>Gain hands-on experience in detector deployment and commissioning in Japan</li><li>Develop a research profile spanning:</li><li>Instrumentation</li><li>Reconstruction and calibration</li><li>Physics analysis</li></ul><div>The position is subject to budgetary approval.</div><div>The salary will be $50,000–$60,000 CAD per year (with additional travel support). This position is eligible for extended health benefits, including pension.</div><div><br></div><div><strong>Application Process:</strong></div><div>Interested candidates should send:</div><ul><li>a cover letter</li><li>a current curriculum vitae</li><li>a research statement</li><li>contact information of two professional references</li></ul><div>In addition, you may also submit a writing sample (e.g., working paper or journal publication).</div><div>Applicants must submit all the above materials through The University of Winnipeg’s online recruitment system. Please click on the \"Apply\" link below to submit your application.</div><div>Enquiries about the position may be addressed to Dr. Blair Jamieson at bl.jamieson@uwinnipeg.ca.</div><div>&nbsp;</div><div>The University of Winnipeg is committed to equity, diversity and inclusion and recognizes that a diverse staff and faculty benefits and enriches the work, learning and research environments, and is essential to academic and institutional excellence. We welcome applications from all qualified individuals and encourage women, racialized persons, Indigenous persons, persons with disabilities, and 2SLGBTQ+ persons to confidentially self-identify at time of application.</div><div>The University of Winnipeg is committed to ensuring employment opportunities are accessible for all applicants. If you require accommodation supports during the recruitment process, please contact human_resources@uwinnipeg.ca.</div><div><br></div><div>The personal information of applicants is collected under the authority of the University of Winnipeg Act and 36(1)(b) of the Freedom of Information and Protection of Privacy Act. All personal information collected via the recruitment process is used to assess the applicant’s suitability, eligibility, and qualifications for employment, and to otherwise support recruitment activities. This information will be provided to participating members of the recruitment process. Questions regarding the collection of your personal information may be directed to the Director, HR Services, 515 Portage Avenue, Winnipeg, MB, R3B 2E9 or human_resources@uwinnipeg.ca.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-16T14:30:39.424553+00:00",
+      "updated": "2026-04-16T15:16:53.944625+00:00",
+      "addedAt": "2026-04-17T08:33:19.857Z",
+      "isNew": true
+    },
+    {
       "id": "3145438",
       "title": "Postdoctoral Fellow",
       "institution": "LBNL, NSD",
@@ -23,7 +71,7 @@
       "created": "2026-04-15T18:44:44.073101+00:00",
       "updated": "2026-04-15T19:54:29.139898+00:00",
       "addedAt": "2026-04-16T08:33:26.163Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3145021",
@@ -50,7 +98,7 @@
       "created": "2026-04-15T12:44:33.099843+00:00",
       "updated": "2026-04-15T14:20:02.299603+00:00",
       "addedAt": "2026-04-16T08:33:26.163Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3144657",
@@ -6791,6 +6839,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-16T08:33:26.164Z",
-  "totalJobs": 253
+  "lastUpdated": "2026-04-17T08:33:19.857Z",
+  "totalJobs": 255
 }
