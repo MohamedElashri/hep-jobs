@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "id": "3146250",
+      "title": "PhD Opportunities in Particle and Astroparticle Physics",
+      "institution": "Warwick U.",
+      "deadline": "2026-05-08",
+      "description": "<div><strong>PhD Opportunities in Particle and Astroparticle Physics – ATLAS, JUNO, or PandaX</strong></div><div><em>University of Warwick | Department of Physics | Starting October 2026</em></div><div><br></div><div><strong>Higgs Physics, Precision Neutrino Measurements, and Dark Matter Searches</strong></div><div><br></div><div><strong>About the Projects</strong></div><div>Key open questions in particle and astroparticle physics range from understanding</div><div>electroweak symmetry breaking and the Higgs potential, to determining the properties</div><div>of neutrinos and uncovering the nature of dark matter. Addressing these challenges</div><div>requires complementary approaches across the energy and intensity frontiers,</div><div>combining high-energy collider experiments with precision low-energy measurements</div><div>and ultra-low-background detection techniques.</div><div><br></div><div>We offer PhD opportunities across three major experimental programmes at the</div><div>forefront of international research: ATLAS, JUNO, and PandaX experiments. We invite applicants to apply with us to the SJTU-Warwick Joint PhD Programme.</div><div><br></div><div><strong>ATLAS: Higgs Physics and Electroweak Symmetry Breaking</strong></div><div>The Large Hadron Collider enables detailed studies of the Higgs sector and electroweak</div><div>symmetry breaking. Vector boson scattering (VBS) provides a key probe, particularly</div><div>through longitudinal gauge boson scattering, while rare processes and searches for</div><div>physics beyond the Standard Model extend sensitivity to new phenomena.</div><div>A central objective is the observation and measurement of Higgs boson pair production,</div><div>which directly constrains the Higgs self-coupling and the structure of the Higgs</div><div>potential.</div><div><br></div><div>The Warwick ATLAS group contributes to physics analysis, trigger development, and the</div><div>Inner Tracker (ITk) upgrade for the High-Luminosity LHC, offering opportunities in both</div><div>data analysis and detector work.</div><div><br></div><div><strong>JUNO: Precision Neutrino Measurements</strong></div><div>The Jiangmen Underground Neutrino Observatory is a next-generation liquid scintillator detector delivering unprecedented precision in neutrino oscillation measurements.</div><div>Now entering a data-rich phase, JUNO enables determination of the neutrino mass</div><div>ordering, precision tests of the three-flavour framework, and searches for new physics.</div><div>This project involves data analysis, reconstruction and calibration development, and</div><div>detector performance studies in a high-statistics environment.</div><div><br></div><div><strong>PandaX: Dark Matter Searches and Detector Development</strong></div><div>The PandaX experiment searches for dark matter using liquid xenon time projection</div><div>chambers in an ultra-low-background underground environment. As sensitivitiesimprove, neutrino-induced backgrounds become increasingly relevant, linking dark</div><div>matter and neutrino physics.</div><div><br></div><div>The programme combines rare-event data analysis with detector development,</div><div>including commissioning, calibration, and R&amp;D for next-generation experiments.</div><div><br></div><div><strong>Research Focus</strong></div><div>The PhD project will involve analysing real experimental data and developing advanced</div><div>techniques for precision measurements and background control. Depending on the</div><div>chosen project, the work will include:</div><ul><li>Development of reconstruction and analysis algorithms</li><li>Signal and background modelling and statistical inference</li><li>Application of machine learning techniques</li><li>Detector simulation and performance studies</li><li>Contributions to detector commissioning, calibration, and upgrades</li></ul><div><strong>Funding: SJTU–Warwick Joint PhD Programme</strong></div><div><br></div><div>These PhD opportunities are part of the SJTU–Warwick Joint PhD Programme, a</div><div>collaboration between Shanghai Jiao Tong University and University of Warwick</div><div>supporting jointly supervised doctoral research.</div><ul><li>Dual PhD degrees from SJTU and Warwick</li><li>Joint supervision across both institutions</li><li>Research periods in the UK and China</li><li>Fully funded Warwick-home studentships (tuition fees, stipend, research support)</li></ul><div><strong>Practical Information</strong></div><div>If the application is successful, the PhD project(s) will start on 1 October 2026 and run for 42 months. Students will be based at Warwick and SJTU, with extended research stays and travel between the UK and China for detector work, data analysis, and collaboration activities. Further details about the programme are available on the SJTU-Warwick Joint PhD Programme</div><div>webpage.</div><div><br></div><div><strong>How to Apply</strong></div><div>Interested candidates should contact Dr. Xianguo Lu (<a href=\"mailto:Xianguo.Lu@warwick.ac.uk\">Xianguo.Lu@warwick.ac.uk</a>)</div><div>[JUNO and PandaX] and Dr. Karolos Potamianos (Karolos.Potamianos@warwick.ac.uk)[ATLAS] before 8 May 2026 at the latest for enquiries and expressions of interest. The</div><div>deadline for submitting a course application is 15 May 2026.</div>",
+      "regions": [
+        "Europe",
+        "Asia"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "JUNO",
+        "PandaX"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-17T12:25:46.632650+00:00",
+      "updated": "2026-04-17T14:54:52.807695+00:00",
+      "addedAt": "2026-04-18T08:14:08.441Z",
+      "isNew": true
+    },
+    {
+      "id": "3146039",
+      "title": "PhD in neutrino physics - Dune experiment",
+      "institution": "APC, Paris",
+      "deadline": "2026-05-08",
+      "description": "<div>This thesis offer within the AstroParticle and Cosmology Laboratory (APC) is part of the Deep Underground Neutrino Experiment (DUNE). DUNE is an international neutrino experiment under development, hosted in the United States, that brings together the efforts of more than 1400 scientists and engineers from more than 200 institutions around the world. Designed primarily as a neutrino oscillation experiment, it aims to deepen our knowledge of this phenomenon, including determining the mass order of neutrinos, measuring the phase of charge-parity symmetry violation (if it is non-zero), improving the accuracy of oscillation parameters, and testing the three-flavor paradigm. To do this, the world's most intense neutrino beam is being built at FNAL (Fermilab), and 1300 km away, deep underground, at the Sandford Underground Research Facility (South Dakota), four gigantic distant detector modules are planned. These modules are liquid argon time projection chambers (LArTPC), each containing 17 kilotonnes of liquid argon. Thanks to its colossal and well-shielded detectors, DUNE can expand its field of study and analyze neutrinos from sources other than the beam.</div><div><br></div><div>The APC team is interested in studying atmospheric neutrinos, produced in the Earth's upper atmosphere, which pass through the planet and can interact with DUNE's distant detectors. The atmospheric sample covers a wide range of energies, encompassing that of the DUNE beam (about 0.8 to 10 GeV), and can also be used to study neutrino oscillations, providing sensitivity to the neutrino mass order and the θ₂₃ mixing angle. Neutrinos with energies less than 1 GeV (sub-GeV) have also been shown to offer sensitivity to the CP violation phase.</div><div><br></div><div>The DUNE Distant Detectors are state-of-the-art instruments, the largest LArTPC ever designed. The experiment is conducting an ambitious prototyping programme to validate this ever-evolving technology, hosted on CERN's neutrino platform, on a large scale. Two detectors, called protoDUNEs, were built and allowed to test three different reading technologies. Two technologies have been selected for the first two remote sensor modules: the first, wire-based, and the second, PCB-based. Neutrinos are detected through their interactions with argon nuclei within the LArTPC. These interactions release energetically charged particles that ionize and excite liquid argon. The electrons are moved by an electric field applied to three reading planes oriented at different angles, where they induce signals. LArTPCs can produce highly accurate 3D images of neutrino events, which can span several meters. These instruments produce large amounts of data that require several processing steps before the relevant physical variables are obtained. Typically, machine learning methods are used to optimize performance.</div><div><br></div><div>At CERN, protoDUNES are characterised using beams of charged particles, which makes it possible to study the detector's response to these particles, such as electrons, muons, protons, pions, etc. However, these test beams can only collect a very small number of neutrinos.</div><div><br></div><div>This PhD is funded by a joint UChicago-CNRS project entitled \"Exploiting Liquid Argon Instruments for sub-GeV Neutrinos\" (ELAIN), which brings together the DUNE team from the APC and a team from the University of Chicago working on the Short Baseline Near Detector (SBND) detector of the FNAL. SBND is an LArTPC similar in design to DUNE's Horizontal Drift instrument, located 110 meters from the neutrino beam target and recording more than one million neutrino events per year. The project aims to use the real neutrino interaction data recorded by SBND to study the performance of DUNE against atmospheric low-energy (sub-GeV) neutrinos. In this context, the proposed thesis will focus on the reconstruction of events in DUNE, in close collaboration with the University of Chicago team.</div><div><br></div><div>The work consists of the analysis of data, simulated and real, in order to:</div><div><br></div><div>- Study existing reconstruction methods in DUNE, using both simulations and charged particle beam data from protoDUNES</div><div>- Compare the performance obtained with single-trace events in the protoDUNE and SBND detectors</div><div>- Study the reconstruction of neutrino events using the simulation of the DUNE distant detector and compare the expected performance of DUNE to low-energy neutrino interactions with SBND</div><div>- Estimate the systematic uncertainties related to the reconstruction, in particular those that have the greatest impact on the determination of the oscillation parameters with the atmospheric sample</div><div>Regular remote meetings will be organised between the APC team and the University of Chicago team, as well as face-to-face meetings in Paris and CERN, and annual visits to Chicago</div><div><br></div><div>A strong interest in computer science (software development, machine learning techniques, etc.) is desirable.</div><div><br></div><div>To apply to this funded PhD, applications must be submitted via the CNRS portal:</div><div><a href=\"https://emploi.cnrs.fr/Offres/Doctorant/UMR7164-SANMER-037/Default.aspx\">https://emploi.cnrs.fr/Offres/Doctorant/UMR7164-SANMER-037/Default.aspx</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/Doctorant/UMR7164-SANMER-037/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-04-17T09:52:02.960947+00:00",
+      "updated": "2026-04-17T14:53:03.710896+00:00",
+      "addedAt": "2026-04-18T08:14:08.441Z",
+      "isNew": true
+    },
+    {
       "id": "3145666",
       "title": "Postdoctoral research position in JUNO neutrino experiment",
       "institution": "LP2I, Bordeaux",
@@ -23,7 +78,7 @@
       "created": "2026-04-16T08:48:19.865764+00:00",
       "updated": "2026-04-16T15:17:41.949427+00:00",
       "addedAt": "2026-04-17T08:33:19.857Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3145722",
@@ -46,7 +101,7 @@
       "created": "2026-04-16T14:30:39.424553+00:00",
       "updated": "2026-04-16T15:16:53.944625+00:00",
       "addedAt": "2026-04-17T08:33:19.857Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3145438",
@@ -6839,6 +6894,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-17T08:33:19.857Z",
-  "totalJobs": 255
+  "lastUpdated": "2026-04-18T08:14:08.442Z",
+  "totalJobs": 257
 }
