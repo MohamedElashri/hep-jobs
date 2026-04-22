@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3147418",
+      "title": "Postdoctoral Position in Neutrino Physics – SBND and DUNE Experiments",
+      "institution": "IRL PPC, Chicago",
+      "deadline": "2026-06-30",
+      "description": "<div>The postdoctoral researcher will play a central role in developing and optimizing advanced event reconstruction techniques for&nbsp;<strong>liquid argon time projection chambers (LArTPCs)</strong>, with a focus on the&nbsp;<strong>SPINE framework</strong>. The project will also involve leveraging SBND developments to enhance reconstruction performance for the&nbsp;<strong>DUNE experiment</strong>, including analysis of data from the&nbsp;<strong>ProtoDUNE detectors</strong>. Additionally, the candidate will have the opportunity to contribute to high-level physics analyses within the&nbsp;<strong>SBN Program</strong>, particularly upcoming oscillation analyses.</div><div><br></div><div>The postdoc will join the neutrino group at the&nbsp;<strong>Particle Physics and Cosmology Laboratory (IRL PPC)</strong>, supervised by&nbsp;<strong>Dr. Laura Zambelli</strong>&nbsp;and&nbsp;<strong>Dr. Cédric Cerna</strong>. The group is based at the&nbsp;<strong>Enrico Fermi Institute, University of Chicago</strong>, offering a vibrant academic environment in one of the world’s most dynamic cities. The position provides direct access to&nbsp;<strong>Fermilab</strong>&nbsp;and the&nbsp;<strong>SBND experiment</strong>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "Fermilab-FNAL-Booster-SBND"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-21T18:56:57.824232+00:00",
+      "updated": "2026-04-21T20:56:22.089306+00:00",
+      "addedAt": "2026-04-22T08:34:36.330Z",
+      "isNew": true
+    },
+    {
+      "id": "3147358",
+      "title": "Assistant Professor Position",
+      "institution": "KEK, Tsukuba",
+      "deadline": "2026-05-13",
+      "description": "<div>Institute of Particle and Nuclear Studies is seeking to fill one Assistant Professor position with tenure. The successful candidate will belong to the Instrumentation Technology Development Center (ITDC) and will play a leading role in the development of next-generation electronics promoted by the Center. The candidate is expected to proactively engage in one or more of the following frontiers: development of ASICs and Monolithic Active Pixel Sensors (MAPS) for current and future particle and nuclear physics experiments; development of ASICs operable in cryogenic environments for future quantum technology applications; and research and development of AI-based automated design and optimization techniques for ASICs. Through these activities, the appointee will support international particle and nuclear physics experiments from a technological perspective and promote the societal implementation of the developed technologies. The workplace is the Tsukuba campus. (In principle, there will be no changes to job description or work location.)</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.kek.jp/en/career/ipns25-6e"
+      ],
+      "contact_email": null,
+      "created": "2026-04-21T13:06:50.501526+00:00",
+      "updated": "2026-04-21T17:15:46.323752+00:00",
+      "addedAt": "2026-04-22T08:34:36.330Z",
+      "isNew": true
+    },
+    {
       "id": "3146250",
       "title": "PhD Opportunities in Particle and Astroparticle Physics",
       "institution": "Warwick U.",
@@ -6894,6 +6945,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-21T08:35:57.735Z",
-  "totalJobs": 257
+  "lastUpdated": "2026-04-22T08:34:36.330Z",
+  "totalJobs": 259
 }
