@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3147766",
+      "title": "PhD M/F Study of QCD properties with the ALICE experiment at CERN-LHC",
+      "institution": "LPC, Clermont-Ferrand",
+      "deadline": "2026-06-01",
+      "description": "<div>Building a new event classifier to unravel the QCD properties of hadronic matter with the ALICE experiment at the CERN-LHC.</div><div><br></div><div>At extremely high temperature, ordinary matter undergoes a phase transition towards a state of matter where its elementary constituents, quarks and gluons, can roam freely, the Quark-Gluon Plasma (QGP) [1]. It is believed that the universe was made of a QGP a few microseconds after the Big Bang. Being a perfect liquid, the QGP exhibits collective properties. It can be created in high-energy nucleus-nucleus collisions at the LHC. Our understanding of QGP behaviour was overthrown in 2010 when the LHC started. Until then, the QGP was studied by comparing particle properties in heavy systems and in lighter systems where the QGP is a priori not produced: proton-proton (pp) and proton-lead (p-Pb). These light systems, where a priori, the required extreme energy densities should not be reached, were then considered as references. Surprisingly, at LHC energies, in a small fraction of these collisions the number of produced particles is similar to that in nucleus-nucleus collisions at lower energies where the QGP is observed. More surprisingly, emblematic signatures of QGP formation were observed [2]. The burning question is how the QGP can be formed in small systems? And the corollary, what mechanisms are involved in the initial state of the collision that creates a high enough temperature and energy density for the phase transition of nuclear matter? To address this question, we propose to develop a novel way of classifying hadronic interactions based on a 2-D mapping of the charged particles produced in the final state of the collision.&nbsp;</div><div>ALICE (A Large Ion Collider Experiment) is one of four major experiments installed at the LHC , CERN, is devoted to the QGP study [3]. In 2022, the LHC entered a new exploitation phase, RUN 3, for which all detectors of the experiment were upgraded to sustain the highest interaction rate reached and allowing large data sample to be collected. ALICE benefits from many detector upgrades, such as the Inner Tracking System (ITS) [4] and the addition of a new detector, the Muon Forward Tracker (MFT) [5]. Both detectors are highly segmented silicon pixel detector allowing the reconstruction of the charged particles tracks through their energy deposit in the pixel matrix. The ITS is cylindrical, centered on the interaction point with layers parallel to the z axis of the collision and designed to measure charged particles in the central rapidity region. The MFT is a spectrometer made of planes perpendicular to the z axis of the collision and designed to measure charged particles in the forward region. Uniquely at the LHC, ALICE is able to measure charged particle multiplicity, through tracks, simultaneously in the central and forward rapidity regions. With this thesis, we propose to build a new event classifier made as the 2D correlation of the charged particle multiplicity measured in the two rapidity regions.</div><div><br></div><div>The PhD student will take benefit of the large data sample collected by the ALICE experiment during the LHC-RUN 3 including the ITS and MFT and develop analysis technics to extract the charged particle multiplicity density in the two considered rapidity regions as well as the charged particle multiplicity distribution. The feasibility of the first step was demonstrated by the first preliminary measurement of the charged particle density at central and forward rapidities by ALICE presented for the first time in 2025 at Moriond and Quark matter conferences [6]. In a second step he/she will build the 2D correlation allowing a mapping of the final state and the interpretation of the measurement in the context of QCD. He/She will play a central role in developing the analysis strategy and associated software using the ALICE Online-Offline software framework, O2 [7].&nbsp;</div><div><br></div><div>He/She will participate to the experimental work of the collaboration contributing to the data taking and service work in relation with the thesis topic. The student will present his/her work in international conferences. He/She will be integrated in the French community, having the opportunity to participate to events such as those organized by the GDR (Groupement de Recherche) QCD and the annual QGP-France meeting. The result of the data analysis will be published in peer reviewed journals and conference proceedings.</div><div><br></div><div>The PhD student will be based at LPCA (CNRS/IN2P3/UCA), Clermont-Ferrand, France in the ALICE team. The ALICE-Clermont team is currently composed of 6 (teachers)-researchers, a post-doc and 2 PhD students with a long-standing expertise of ALICE hardware, data taking and physics analysis. The PhD student will be a member of the ALICE collaboration [8], an international collaboration composed of more than 2000 physicists from all continents. The PhD student will perform regular trips to CERN to pursue the experimental work and participate in collaboration meetings. The student will regularly present his/her work in the collaboration working groups and to an external jury (comité de suivi de thèse) ensuring continuous progress in the thesis work. Travels to CERN will be funded by the ALICE-Clermont team.&nbsp;The gross salary is 2300 euros per month with 44 days of annual leave.</div><div><br></div><div>Aplication through the CNRS portal : <a href=\"https://emploi.cnrs.fr/Offres/Doctorant/UMR6533-SARPOR-002/Default.aspx?lang=EN\">https://emploi.cnrs.fr/Offres/Doctorant/UMR6533-SARPOR-002/Default.aspx?lang=EN</a></div><div><br></div><div>[1] N. Cabibbo and G. Parisi: Phys. Lett. 59B (1975)</div><div>[2] PLB 727 (2013) 371 arXiv:1307.1094 | PLB 726 (2013) 164 arXiv:1307.3237 | PLB 719 (2013) 29 arXiv:1212.2001| PRC 90 (2014) 044906 arXiv:1409.1792| JHEP 1009 (2010) 091 arXiv:1009.4122 | For a complete review of Run 1+2 ALICE experimental results see Eur. Phys. J. C 84 (2024) 813 arXiv:2211.04384&nbsp;</div><div>[3] K. Aamodt et al. (ALICE Collaboration), JINST 3, S08002 (2008) <a href=\"http://iopscience.iop.org/article/10.1088/1748-0221/3/08/S08002/pdf\">http://iopscience.iop.org/article/10.1088/1748-0221/3/08/S08002/pdf</a></div><div>[4] J. Phys. G 41 (2014) 087002 <a href=\"https://cds.cern.ch/record/1625842/files/0954-3899_41_8_087002.pdf?version=1\">https://cds.cern.ch/record/1625842/files/0954-3899_41_8_087002.pdf?version=1</a></div><div>[5] <a href=\"https://cds.cern.ch/record/1981898/files/ALICE-TDR-018.pdf\">https://cds.cern.ch/record/1981898/files/ALICE-TDR-018.pdf</a></div><div>[6] <a href=\"https://moriond.in2p3.fr/2025/QCD/\">https://moriond.in2p3.fr/2025/QCD/</a> | <a href=\"https://indico.cern.ch/event/1334113/\">https://indico.cern.ch/event/1334113/</a></div><div>[7] <a href=\"https://github.com/AliceO2Group/O2Physics\">https://github.com/AliceO2Group/O2Physics</a>.</div><div>[8] <a href=\"https://alice-collaboration.web.cern.ch\">https://alice-collaboration.web.cern.ch</a></div><div>[9] https://root.cern/install/</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/Doctorant/UMR6533-SARPOR-002/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-04-22T14:59:58.140736+00:00",
+      "updated": "2026-04-22T16:49:10.569357+00:00",
+      "addedAt": "2026-04-23T08:35:35.303Z",
+      "isNew": true
+    },
+    {
       "id": "3147418",
       "title": "Postdoctoral Position in Neutrino Physics – SBND and DUNE Experiments",
       "institution": "IRL PPC, Chicago",
@@ -24,7 +51,7 @@
       "created": "2026-04-21T18:56:57.824232+00:00",
       "updated": "2026-04-21T20:56:22.089306+00:00",
       "addedAt": "2026-04-22T08:34:36.330Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3147358",
@@ -49,7 +76,7 @@
       "created": "2026-04-21T13:06:50.501526+00:00",
       "updated": "2026-04-21T17:15:46.323752+00:00",
       "addedAt": "2026-04-22T08:34:36.330Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3146250",
@@ -6945,6 +6972,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-22T08:34:36.330Z",
-  "totalJobs": 259
+  "lastUpdated": "2026-04-23T08:35:35.304Z",
+  "totalJobs": 260
 }
