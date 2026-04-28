@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3149130",
+      "title": "PhD position - Liquid Argon TPC Prototype performance study for a Far detector of the DUNE experiment",
+      "institution": "LPSC, Grenoble",
+      "deadline": "2026-08-31",
+      "description": "<div>Neutrino oscillations are currently the strongest experimental evidence of physics beyond the Standard Model. Worldwide long-term efforts have already provided precise measurements of most of the oscillation parameters (PMNS matrix). One of the remaining challenging measurements is the CP violation phase (deltaCP), which can be obtained only with a long-baseline experiment taking advantage of the matter effect along the neutrino path.</div><div><br></div><div>DUNE is the next and ultimate experiment allowing us to measure the parameters that govern neutrino oscillation, with the primary goals of getting definitive and precise measurements of the oscillation parameters. This includes deltaCP and the mass hierarchy and will allow a test of the three-neutrino paradigm. The neutrinos will be produced at Fermilab and detected 1300 km away in a new underground laboratory (1500 m deep) in South Dakota by four large (17 kt) liquid Argon TPC detectors. DUNE is an international collaboration in charge of designing, building, operating, and analysing the data of the far and near detectors.</div><div>Measuring the deltaCP phase at a value different from 0 or pi would represent the discovery of CP violation in the leptonic sector, providing a possible explanation for the matter-antimatter asymmetry in the universe. Besides the main neutrino oscillation measurement, other interesting physics topics will be studied, taking advantage of very large detectors and low background conditions, such as the search for proton decay and the detection and characterisation of the flux from possible core-collapse supernova within our galaxy.</div><div><br></div><div>Two detectors will be built using a known and robust technology: Time Projection Chamber with liquid Argon. In Europe, CERN developed a new electron collection technology for the Charge Readout Plane (CRP) based on perforated PCBs collecting the electrons drifting vertically. French groups are deeply involved in the Vertical Drift technology and the construction of the Vertical Drift far detector. Two large prototypes have been built at CERN and are now in performance study in order to prove the feasibility of such large detectors. The Vertical Drift prototype (the Module 0) has acquired its first beam data over the Summer 2025 and is currently taking cosmic data.</div><div><br></div><div>The LPSC team is composed of 5 permanent researchers and is involved in the Vertical Drift CRP production (2025-2027) for the far detector and in the analysis of beam and cosmic data of the prototype. Detector characterisation from the prototype will help us to improve Vertical Drift simulation of the DUNE experiment and will lead to new systematics evaluation, allowing us to produce a more realistic sensitivity estimate of the measurement of the neutrino oscillation parameters foreseen in DUNE.</div><div>The PhD student will focus on the analysis of the prototype data as well as on the simulated future far detector. The detector needs to be fully characterized (drift uniformity, detector stabilities, etc.) and its performance estimated (charge calorimetry resolution, track reconstruction, particle identification, etc.). This work will allow us to study the interactions of hadrons on Argon nuclei and decrease the associated systematics uncertainties in the oscillation analysis. All these topics are fundamental to the DUNE experiment. The PhD student will have a unique opportunity to characterise the largest liquid Argon TPC in the world and produce results in various physics topics, and will participate actively in various DUNE physics working groups. The outcome of these studies will be used to improve the sensitivity of the DUNE experiment with realistic detector performances.</div><div>The PhD student will also have the opportunity to participate in the assembly of the same detector as the one used in its neutrino oscillation analysis.</div><div><br></div><div>Questions and applications, consisting of a CV, a cover letter, and two reference letters, will be sent directly to Jean-Sébastien Réal (real@in2p3.fr) and Steven Calvez (calvez@lpsc.in2p3.fr).</div><div><br></div><div>Applications will be reviewed immediately until the position has been filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-27T13:52:06.896122+00:00",
+      "updated": "2026-04-27T20:30:52.402133+00:00",
+      "addedAt": "2026-04-28T08:49:02.742Z",
+      "isNew": true
+    },
+    {
       "id": "3148015",
       "title": "Postdoctoral position in fixed-target experimental physics",
       "institution": "CCNU, Wuhan, Inst. Part. Phys.",
@@ -6996,6 +7021,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-27T08:50:38.269Z",
-  "totalJobs": 261
+  "lastUpdated": "2026-04-28T08:49:02.743Z",
+  "totalJobs": 262
 }
