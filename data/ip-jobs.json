@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3149678",
+      "title": "Research Associate for the Project “Cluster of Excellence Quantum Universe” Project “MADMAX”",
+      "institution": "U. Hamburg, Dept. Phys.",
+      "deadline": "2026-05-07",
+      "description": "<div><strong>Your responsibilities</strong></div><div>Duties include academic services in the project named above. Research associates may also pursue independent research and further academic qualifications.</div><div>The Cluster of Excellence “Quantum Universe” performs research to understand mass and gravity at the interface between quantum physics and cosmology. The research team includes leading scientists from mathematics, particle physics, astrophysics, and cosmology at the University of Hamburg and DESY.</div><div>The Axion is a prime candidate to explain the Dark Matter problem of the universe. It is independently predicted by Peccei Quinn (PQ) symmetry breaking to explain the strong CP problem.</div><div>MADMAX is an experimental approach to search for Dark Matter axions with a mass around 100 μeV, a mass range favored by a class of theoretical models. The new approach makes use of the idea of a copper mirror in connection with dielectric layers inside a strong magnetic field that boosts the axion to photon conversion to a detectable rate in the microwave frequency regime around 30 GHz.</div><div>The successful candidate is expected to take over a leading role within the MADMAX collaboration in the development, characterization and implementation of important parts of the experimental system, such as the microwave radiometer, the first stage detector element and the dielectric haloscope booster.</div><div>Postdoctoral research associates will become members of the Quantum Universe Research School (QURS), which provides academic and key skills training, as well as career planning support. In addition, they will receive individual budgets to facilitate the attendance of summer schools and conferences, and to support other educational measures. Additional travel money for project-specific duties will be provided by the hosting research groups. Postdoctoral research associates may participate in the supervision of doctoral researchers, teaching at the University, and in the organization of the Cluster via an early career council.</div><div><br></div><div><strong>Your profile</strong></div><div>A university degree in a relevant field.</div><div>Research experience equivalent to a PhD.</div><div>Formal requirements for this position are research experiences equivalent to a PhD in microwave engineering, experimental physics, astronomy, or a closely related field. Candidates should have a background in microwave technology, microwave engineering, experimental radio astronomy or closely related topics. Experience with RF signal simulation tools like ADS, COMSOL, CST or similar as well as experience with cryogenic equipment is an advantage.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "MADMAX"
+      ],
+      "urls": [
+        "https://www.uni-hamburg.de/stellenangebote/ausschreibung.html?jobID=59054468ac0161e93d7b7be27f785fa8359ebdd8"
+      ],
+      "contact_email": null,
+      "created": "2026-04-28T08:04:21.185204+00:00",
+      "updated": "2026-04-28T14:30:06.921754+00:00",
+      "addedAt": "2026-04-29T08:45:50.277Z",
+      "isNew": true
+    },
+    {
       "id": "3149130",
       "title": "PhD position - Liquid Argon TPC Prototype performance study for a Far detector of the DUNE experiment",
       "institution": "LPSC, Grenoble",
@@ -23,7 +50,7 @@
       "created": "2026-04-27T13:52:06.896122+00:00",
       "updated": "2026-04-27T20:30:52.402133+00:00",
       "addedAt": "2026-04-28T08:49:02.742Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3148015",
@@ -7021,6 +7048,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-28T08:49:02.743Z",
-  "totalJobs": 262
+  "lastUpdated": "2026-04-29T08:45:50.277Z",
+  "totalJobs": 263
 }
