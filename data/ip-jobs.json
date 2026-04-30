@@ -1,6 +1,159 @@
 {
   "jobs": [
     {
+      "id": "3150050",
+      "title": "PhD Position in Experimental Astroparticle Physics (NA61/SHINE)",
+      "institution": "KIT, Karlsruhe, IAP",
+      "deadline": "2026-05-31",
+      "description": "<div><strong>PhD Position in Experimental Astroparticle Physics</strong></div><div><br></div><div><strong>Nuclear Fragmentation Measurements for Precision Cosmic-Ray Astrophysics</strong></div><div><br></div><div>Modern space-borne experiments measure Galactic cosmic-ray fluxes with percent-level precision, yet their interpretation, including searches for dark matter and the origin of cosmic antimatter, is limited by nuclear fragmentation cross sections known only to 20% or worse. The successful candidate will help close this gap by measuring how cosmic-ray nuclei fragment into secondary particles, using new data from the <a href=\"https://shine.web.cern.ch/\">NA61/SHINE</a> experiment at CERN.</div><div><br></div><div>The position focuses on the analysis of NA61/SHINE data taken with cosmic-ray nuclei from Li to Si at beam energies of 12.5 and 150 GeV/nucleon. The work includes detector calibration, particle identification with the time-of-flight and time-projection-chamber systems of the NA61/SHINE spectrometer, and the extraction of fragmentation cross sections. Depending on interest, the research may also involve the development of improved cross-section parameterizations and their implementation in cosmic-ray propagation calculations.</div><div><br></div><div>The position is based at the <a href=\"https://www.iap.kit.edu/english/\">Institute for Astroparticle Physics</a> of the Karlsruhe Institute of Technology. The PhD student will receive graduate training within the Karlsruhe School of Elementary Particle and Astroparticle Physics (KSETA) and will be embedded in an active astroparticle-physics environment, including groups working on the Pierre Auger Observatory and IceCube. Research visits to CERN and close collaboration within the NA61/SHINE collaboration are foreseen.</div><div><br></div><div>At the end of the three-year period, the candidate will have acquired broad expertise in experimental techniques of particle physics, scientific computing, and the astrophysics of Galactic cosmic rays.</div><div><br></div><div>As an equal-opportunity employer, KIT explicitly encourages applications from women and from all others who will bring additional diversity to the university. Applicants with disabilities will be preferentially considered if suitably qualified.</div><div><br></div><div>The position is funded by the Deutsche Forschungsgemeinschaft (DFG), limited to three years, with a salary following the Tarifvertrag des öffentlichen Dienstes (75% E13 TV-L). The preferred starting date is <strong>as soon as possible</strong>, with a starting date no later than <strong>September 2026</strong>.</div><div><br></div><div><br></div><div><strong>Qualification</strong></div><div>The successful candidate should hold an MSc degree in particle physics, astroparticle physics, nuclear physics, or a closely related field, with very good results. Good English skills are required. We are looking for candidates with a strong interest in experimental particle physics and cosmic-ray astrophysics, together with a working knowledge of data analysis and scientific computing in C++ or Python.</div><div><br></div><div><strong>Application</strong></div><div>Please send a cover letter, curriculum vitae, and BSc and MSc academic transcripts (please indicate grading system if not evident), and arrange for at least one reference letter to be sent separately. Please send the application to Michael Unger (michael.unger@kit.edu). Full consideration will be given to applications arriving before May 31st, 2026. Applications submitted after this date will be considered until the position is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-NA-061"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-29T14:01:30.460762+00:00",
+      "updated": "2026-04-30T08:01:47.279188+00:00",
+      "addedAt": "2026-04-30T08:46:02.289Z",
+      "isNew": true
+    },
+    {
+      "id": "3150037",
+      "title": "PhD Position in Experimental Hadron Physics",
+      "institution": "CTU, Prague",
+      "deadline": "2026-05-12",
+      "description": "<div>The Faculty of Nuclear Sciences and Physical Engineering (FNSPE) of the Czech Technical University (CTU) in Prague announces a&nbsp;<strong>doctoral student position</strong>&nbsp;in&nbsp;<strong>experimental hadron physics</strong>&nbsp;with expected start date 01 October 2026.</div><div><br></div><div>The position is established within a project 101220549 funded by the European Research Council (ERC) titled “Hunting three-body forces”. The selected doctoral student will join the ALICE group at the CTU in Prague and will measure the femtoscopic correlation functions for three hadrons within the ALICE experiment at the LHC. The project aims at studying with high precision the residual strong interaction of hyperons and nucleons in three-body systems. These measurements will impact our understanding of hyperonic matter with implications on the structure of neutron stars.</div><div>The position will be based at CTU, Prague, with travels and possible short stays at CERN.</div><div><br></div><div>The main responsibilities of the student will be:</div><ul><li>Involvement in the scientific research activities of research groups led by Dr. Raffaele Del Grande;</li><li>Physics analysis of data from the ALICE experiment at the LHC, with a focus on measurements of three-body correlation functions with the femtoscopy technique;</li><li>Participation in the operation and support of the ALICE experiment infrastructure;</li><li>Fulfilment of scientific research and educational activity plans;</li><li>Publication of scientific research results;</li><li>Active participation in national and international conferences;</li><li>Participation in internships;</li><li>Transfer of the acquired knowledge to other staff members and students, in a form of&nbsp;<em>e.g.&nbsp;</em>workshops.</li></ul><div><strong>Required qualifications:</strong></div><ul><li>Completed&nbsp;<a href=\"http://m.sc/\">M.Sc</a>. degree program in a European University a foreign equivalent University recognised in Czech Republic by Act No. 111/1998 Coll., on Higher Education Institutions and on Amendments and Supplements to some other Acts (The Higher Education Act);</li><li>Experience in scientific research within a professional research team, preferably in the field of particle or nuclear physics;</li><li>Proficiency in English, both written and spoken;</li><li>Working knowledge of a modern programming language (<em>e.g.&nbsp;</em>C, C++, Python);</li><li>Creative approach to solving work tasks.</li></ul><div><strong>Contract conditions and Salary:</strong></div><ul><li>1.0 FTE fixed-term contract from October 2026 till August 2030</li><li>Gross salary 45,000 CZK/month (approx. 1,850 EUR/month at current exchange rate) plus PhD scholarship 13,000 CZK/month (approx. 530 EUR/month at current exchange rate)</li><li>Six weeks of vacation per year</li><li>Travel funds to attend conferences and workshops</li></ul><div><strong>Application:</strong></div><div>To apply, please send an email to Dr. Raffaele Del Grande (raffaele.del.grande@fjfi.cvut.cz) with the following attachments:</div><ul><li>Curriculum Vitae of the candidate;</li><li>Brief statement of research interests (motivation letter);</li><li>Copy of a&nbsp;<a href=\"http://m.sc/\">M.Sc</a>. degree diploma or certificates of studies, or its foreign equivalent with a translation and certified signature; candidates must complete all&nbsp;<a href=\"http://m.sc/\">M.Sc</a>. degree requirements before starting their appointment;</li><li>A list of lectures and courses completed during previous studies (up to the time of application), a list of published works (if any), and other results of professional activity with their possible evaluation;</li><li>Three letters of references;</li><li>Overview of conference and workshop presentations (if any);</li></ul><div>The application and all the listed above annexes must be signed by the applicant.</div><div><br></div><div>The deadline for sending the applications is&nbsp;<strong>May 12, 2026 at 24:00 CET.</strong></div><div>Candidates will be preselected based on the submitted documents. Only those who pass this initial screening will be contacted by May 13, 2026, and invited for an interview on May 15, 2026. If you do not receive communication by May 13, 2026, please consider your application unsuccessful. For the interview, the candidate is asked to prepare a 15 minutes presentation to introduce his/her CV and research experience.</div><div><br></div><div>After the interview, the successful candidate will have to go through the official recruitment procedure to the Doctoral School at FNSPE CTU in Prague, in the field of study: Nuclear Engineering, specialisation Experimental Nuclear and Particle Physics. The Doctoral School program starts on October 1, 2026 with the application deadline on May 21, 2026:&nbsp;<a href=\"https://www.fjfi.cvut.cz/en/education/doctoral-study/admission-procedure\">https://www.fjfi.cvut.cz/en/education/doctoral-study/admission-procedure</a></div><div><br></div><div>For more information, please contact Dr. Raffaele Del Grande (raffaele.del.grande@fjfi.cvut.cz).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-29T08:01:12.355265+00:00",
+      "updated": "2026-04-29T16:15:31.508060+00:00",
+      "addedAt": "2026-04-30T08:46:02.289Z",
+      "isNew": true
+    },
+    {
+      "id": "3149733",
+      "title": "Postdoctoral Position in Collider Physics",
+      "institution": "UCLA, Los Angeles (main)",
+      "deadline": "2026-06-01",
+      "description": "<div>We invite applications for a Postdoctoral Scholar position in collider physics in the Department of Physics and Astronomy at the University of California, Los Angeles (UCLA). The UCLA group, led by Profs. Bachtis, Hauser, and Saltzberg, is involved in several high-profile activities in the CMS experiment at CERN, in the areas of L1 Trigger and Muon system upgrades. The group has recently made major analysis contributions in long-lived particle searches, high-mass resonant searches, Higgs self-coupling measurements, and precision measurements of the&nbsp;W and Z boson masses. The successful candidate will work closely with Prof. Bachtis, and is expected to initiate a new data analysis effort while strongly contributing to the algorithms, firmware, integration, installation, and commissioning of the Global Muon Trigger (GMT) for the High Luminosity LHC. Through the GMT work, the successful candidate will have the opportunity to work closely with cutting-edge Versal SoCs.</div><div>The Postdoctoral Scholar appointment is contingent upon evidence of a doctoral degree, documentation of employment eligibility in compliance with the Immigration Reform and Control Act of 1986, funding availability, and approval of the Dean of the Division of Graduate Education. Applicants must have received (or expect to soon receive) a PhD in physics, astrophysics, or a closely related discipline. The tentative starting date is Summer or Fall 2026.&nbsp;</div><div>The position will be for an initial term of two years, with the possibility of extension, contingent upon performance and availability of funding. Salary range: $71,491 per year or higher.</div><div><br></div><div><strong>Application Process</strong></div><div>Qualified applicants should submit all their materials as a&nbsp;single PDF to&nbsp;&nbsp;<a href=\"mailto:EEPpostdoctoralsearch@physics.ucla.edu\">EEPpostdoctoralsearch@physics.ucla.edu</a>. The PDFshould include:&nbsp;</div><ul><li>A CV, including a publication list highlighting major contributions and links to github/gitlab profiles&nbsp;</li><li>A brief statement of past research and future goals (three pages or fewer)</li><li>Names and contact information of three references that will submit letters of recommendations</li></ul><div>The letter writers should submit their recommendation letters directly to <a href=\"mailto:EEPpostdoctoralsearch@physics.ucla.edu\">EEPpostdoctoralsearch@physics.ucla.edu</a></div><div><br></div><div>The deadline for receiving all materials is June 1st 2026.&nbsp;</div><div><br></div><div><strong>About UCLA</strong></div><div>As a University employee, you will be required to comply with all applicable University policies and/or collective bargaining agreements, as may be amended from time to time. Federal, state, or local government directives may impose additional requirements.</div><div>The University of California is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or other protected status under state or federal law.</div><div>As a condition of employment, the finalist will be required to disclose if they are subject to any final administrative or judicial decisions within the last seven years determining that they committed any misconduct, are currently being investigated for misconduct, left a position during an investigation for alleged misconduct, or have filed an appeal with a previous employer.</div><div>“Misconduct” means any violation of the policies or laws governing conduct at the applicant’s previous place of employment, including, but not limited to, violations of policies or laws prohibiting sexual harassment, sexual assault, or other forms of harassment, discrimination, dishonesty, or unethical conduct, as defined by the employer.</div><div><a href=\"https://policy.ucop.edu/doc/4000385/SVSH\"> UC Sexual Violence and Sexual Harassment Policy</a></div><div><a href=\"https://policy.ucop.edu/doc/1001004/Anti-Discrimination\"> UC Anti-Discrimination Policy for Employees, Students and Third Parties</a></div><div><a href=\"https://www.ucop.edu/academic-personnel-programs/_files/apm/apm-035.pdf\"> APM - 035: Affirmative Action and Nondiscrimination in Employment</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-28T21:50:32.297565+00:00",
+      "updated": "2026-04-29T16:12:40.415761+00:00",
+      "addedAt": "2026-04-30T08:46:02.289Z",
+      "isNew": true
+    },
+    {
+      "id": "3149734",
+      "title": "Postdoctoral positions in hep-ex/astro-ph",
+      "institution": "Beijing, Inst. High Energy Phys.",
+      "deadline": "2026-10-01",
+      "description": "<div>The experimental physics group of Prof. Igor Ostrovskiy at the Institute of High Energy Physics (IHEP), Chinese Academy of Sciences, is looking for 1-2 excellent postdocs with background in high energy, nuclear, or astroparticle physics.</div><div><br></div><div>The group currently consists of two postdocs, graduate and visiting students, engineering and technical staff, and is leading preparations for the next-generation searches for magnetic monopoles and other exotics in cosmic rays and in ancient Antarctic ice, as well as being involved with the ongoing and planned searches at CERN. The postdoc will play a central role in one of these efforts.</div><div><br></div><div>The successful candidate should have the following skills:</div><div><br></div><div>1. Experience developing complex simulations in one or both of the following frameworks: Geant4, CORSIKA</div><div>2. Data analysis using Python and ROOT</div><div><br></div><div>The primary location is the IHEP's main campus in Beijing. Work-related travel to CERN, Tibetan plateau, and, potentially, to the Vostok Station in Antarctica may be expected.</div><div><br></div><div>The position offers competitive salary. Excellent candidates will be assisted in applying for the additional fellowships and extra funds from CAS/IHEP during the appointment. Outstanding postdocs may get promoted to a tenure-track faculty position at IHEP.</div><div><br></div><div>Candidates will need to have completed their Ph.D.&nbsp;in Physics or a related field at the start of appointment.</div><div><br></div><div>Start date is flexible, but early availability is welcome. Initial term is 2 years.</div><div><br></div><div>Applicants should send their CV and a statement of purpose (explaining your scientific goals and how your qualifications will allow you to achieve them) to Prof. Igor Ostrovskiy (igor.ostrovskiy@ihep.ac.cn). Please also provide the names and contact information of three references who will supply letters of recommendation upon request.</div><div><br></div><div>Email Prof. Igor Ostrovskiy with any questions.</div><div>Email: <a href=\"mailto:igor.ostrovskiy@ihep.ac.cn\">igor.ostrovskiy@ihep.ac.cn</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-29T01:17:19.791764+00:00",
+      "updated": "2026-04-29T16:11:57.671687+00:00",
+      "addedAt": "2026-04-30T08:46:02.289Z",
+      "isNew": true
+    },
+    {
+      "id": "3150040",
+      "title": "4-year PhD scholarship (NCN-funded) in P-ONE - analysis of data from the first experimental line",
+      "institution": "Cracow, INP",
+      "deadline": "2026-06-01",
+      "description": "<div>The <strong>Institute of Nuclear Physics</strong> Polish Academy of Sciences (INP PAS) in <strong>Krakow, Poland</strong>, offers a <strong>PhD position</strong> in astroparticle neutrino physics: analysis data from the first expermiental line of the <strong>Pacific Ocean Neutrino Experiment (P-ONE)</strong>.</div><div><br></div><div>The INP PAS (<a href=\"http://www.ifj.edu.pl\">www.ifj.edu.pl</a>) is a leading research institute in Poland with a well-established position in both accelerator and astroparticle high-energy physics experiments, including ATLAS, ALICE, LHCb, Pierre Auger and others.</div><div><br></div><div>The Pacific Ocean Neutrino Experiment (P-ONE) is under rapid development in the Pacific Ocean west off Vancouver, Canada, aiming to deploy its first regular measurement line in 2026 with two prototype lines already in operation. It aims to study <strong>cosmogenic (astrophysical) neutrinos</strong> of very high energies (10 TeV – 10 PeV) from their possible sources in the sky and also to study diffuse flux of such neutrinos. The confirmation of IceCube’s discoveries from 2013 is still needed but the main purpose of the new neutrino telescope is to provide larger rates of neutrino events and – moreover – a better coverage of the sky, aiming especially to the southern sky with its Galactic Center and Galactic Plane.</div><div><br></div><div>The proposed work will be devoted to studies of the <strong>experiment’s first data</strong>. It will include work on detector simulation software for better understanding of the incoming data, and <strong>studies of atmospheric muons spectra</strong> that will be available with the first line. The analyses of early data will be essential to understand the detector, trigger and software performance but also to measure the muon background to the eventually searched astrophysical neutrinos.</div><div><br></div><div>The Institute of Nuclear Physics PAS (<a href=\"http://www.ifj.edu.pl/\">www.ifj.edu.pl</a>) has been for many years a member of the international collaboration that built and operated the Baikal-GVD telescope. Following the Russian invasion in the Ukraine the cooperation was stopped and the group is continuing its experience in the newly-formed P-ONE Collaboration, having organized the Collaboration Meeting in May 2023.</div><div><br></div><div><strong>Requirements to the candidate:</strong></div><div>- MSc in astrophysics, particle physics or related;</div><div>- interest in data analysis and computer simulations;</div><div>- skills at computer programming (Python, C++), preferably knowledge of Machine Learning techniques;</div><div>- fluent communication (verbal and written) in English,</div><div>- knowledge of either ROOT of numpy/scipy packages would be very welcome.</div><div><br></div><div>The recruitment process involves an<strong> oral entrance exam</strong> covering topics in <strong>general and particle/astro-particle physics</strong>. The list of questions is known and can be found at: <a href=\"https://kisd.ifj.edu.pl/wp-content/uploads/2026/02/IFJ-PAN_Zakres-egzaminow-2026-2027.pdf\">https://kisd.ifj.edu.pl/wp-content/uploads/2026/02/IFJ-PAN_Zakres-egzaminow-2026-2027.pdf</a> (only sections 1 &amp; 2).</div><div><br></div><div><strong>Applications should include:</strong></div><div>- detailed CV including a brief description of your research interest;</div><div>- a reference letter (preferably two) sent directly to: <a href=\"mailto:pawel.malecki@ifj.edu.pl\">pawel.malecki@ifj.edu.pl</a>,</div><div>- a letter of motivation;</div><div>- a list of publications and references (if available).</div><div>The CV should contain a consent to the processing of the personal data for the purpose of the recruitment.</div><div>Applications and any questions should be directed to: pawel.malecki@ifj.edu.pl</div><div><br></div><div>We offer a <strong>4-years contract</strong> starting in October 2026, partly financed from a <strong>NCN SONATA-BIS grant</strong>, with a stipend of around 4400 - 4700 PLN/month in the first 2 years and 6000 - 6500 PLN/month in the 3rd and 4th year. The work will lead to a dissertation (PhD thesis). The dissertation will involve computer simulations, and analysis of experimental data. The work will be carried out in collaboration with foreign partners; it will include working trips and participation in collaboration meetings and conferences (funding available).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "P-ONE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-29T09:09:57.991768+00:00",
+      "updated": "2026-04-29T16:11:13.821295+00:00",
+      "addedAt": "2026-04-30T08:46:02.289Z",
+      "isNew": true
+    },
+    {
+      "id": "3150078",
+      "title": "PhD Position in Experimental Hadron Physics",
+      "institution": "CTU, Prague",
+      "deadline": "2026-05-12",
+      "description": "<div>The Faculty of Nuclear Sciences and Physical Engineering (FNSPE) of the Czech Technical University (CTU) in Prague announces a <strong>doctoral student position</strong> in <strong>experimental hadron physics</strong> with expected start date 01 October 2026.</div><div><br></div><div>The position is established within a project 101220549 funded by the European Research Council (ERC) titled “Hunting three-body forces”. The selected doctoral student will join the ALICE group at the CTU in Prague and will measure the femtoscopic correlation functions for three hadrons within the ALICE experiment at the LHC. The project aims at studying with high precision the residual strong interaction of hyperons and nucleons in three-body systems. These measurements will impact our understanding of hyperonic matter with implications on the structure of neutron stars.</div><div>The position will be based at CTU, Prague, with travels and possible short stays at CERN.</div><div><br></div><div>The main responsibilities of the student will be:</div><ul><li>Involvement in the scientific research activities of research groups led by Dr. Raffaele Del Grande;</li><li>Physics analysis of data from the ALICE experiment at the LHC, with a focus on measurements of three-body correlation functions with the femtoscopy technique;</li><li>Participation in the operation and support of the ALICE experiment infrastructure;</li><li>Fulfilment of scientific research and educational activity plans;</li><li>Publication of scientific research results;</li><li>Active participation in national and international conferences;</li><li>Participation in internships;</li><li>Transfer of the acquired knowledge to other staff members and students, in a form of e.g. workshops.</li></ul><div><strong>Required qualifications:</strong></div><ul><li>Completed <a href=\"http://M.Sc\">M.Sc</a>. degree program in a European University a foreign equivalent University recognised in Czech Republic by Act No. 111/1998 Coll., on Higher Education Institutions and on Amendments and Supplements to some other Acts (The Higher Education Act);</li><li>Experience in scientific research within a professional research team, preferably in the field of particle or nuclear physics;</li><li>Proficiency in English, both written and spoken;</li><li>Working knowledge of a modern programming language (e.g. C, C++, Python);</li><li>Creative approach to solving work tasks.</li></ul><div><strong>Contract conditions and Salary:</strong></div><ul><li>1.0 FTE fixed-term contract from October 2026 till August 2030</li><li>Gross salary 45,000 CZK/month (approx. 1,850 EUR/month at current exchange rate) plus PhD scholarship 13,000 CZK/month (approx. 530 EUR/month at current exchange rate)</li><li>Six weeks of vacation per year</li><li>Travel funds to attend conferences and workshops</li></ul><div><strong>Application:</strong></div><div>To apply, please send an email to Dr. Raffaele Del Grande (raffaele.del.grande@fjfi.cvut.cz) with the following attachments:</div><ul><li>Curriculum Vitae of the candidate;</li><li>Brief statement of research interests (motivation letter);</li><li>Copy of a <a href=\"http://M.Sc\">M.Sc</a>. degree diploma or certificates of studies, or its foreign equivalent with a translation and certified signature; candidates must complete all <a href=\"http://M.Sc\">M.Sc</a>. degree requirements before starting their appointment;</li><li>A list of lectures and courses completed during previous studies (up to the time of application), a list of published works (if any), and other results of professional activity with their possible evaluation;</li><li>Three letters of references;</li><li>Overview of conference and workshop presentations (if any);</li></ul><div>The application and all the listed above annexes must be signed by the applicant.</div><div><br></div><div>The deadline for sending the applications is <strong>May 12, 2026 at 24:00 CET</strong>.</div><div>Candidates will be preselected based on the submitted documents. Only those who pass this initial screening will be contacted by May 13, 2026, and invited for an interview on May 15, 2026. If you do not receive communication by May 13, 2026, please consider your application unsuccessful. For the interview, the candidate is asked to prepare a 15 minutes presentation to introduce his/her CV and research experience.</div><div><br></div><div>After the interview, the successful candidate will have to go through the official recruitment</div><div>procedure to the Doctoral School at FNSPE CTU in Prague, in the field of study: Nuclear Engineering, specialisation Experimental Nuclear and Particle Physics. The Doctoral School program starts on October 1, 2026 with the application deadline on May 21, 2026: <a href=\"https://www.fjfi.cvut.cz/en/education/doctoral-study/admission-procedure\">https://www.fjfi.cvut.cz/en/education/doctoral-study/admission-procedure</a></div><div><br></div><div>For more information, please contact Dr. Raffaele Del Grande</div><div>(raffaele.del.grande@fjfi.cvut.cz).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-29T15:59:33.982997+00:00",
+      "updated": "2026-04-29T16:09:36.238363+00:00",
+      "addedAt": "2026-04-30T08:46:02.289Z",
+      "isNew": true
+    },
+    {
       "id": "3149678",
       "title": "Research Associate for the Project “Cluster of Excellence Quantum Universe” Project “MADMAX”",
       "institution": "U. Hamburg, Dept. Phys.",
@@ -25,7 +178,7 @@
       "created": "2026-04-28T08:04:21.185204+00:00",
       "updated": "2026-04-28T14:30:06.921754+00:00",
       "addedAt": "2026-04-29T08:45:50.277Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3149130",
@@ -7048,6 +7201,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-29T08:45:50.277Z",
-  "totalJobs": 263
+  "lastUpdated": "2026-04-30T08:46:02.290Z",
+  "totalJobs": 269
 }
