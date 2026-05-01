@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "id": "3150389",
+      "title": "Research Scientist - ATLAS Experiment",
+      "institution": "Chicago U., EFI",
+      "deadline": "2026-05-30",
+      "description": "<div>The Enrico Fermi Institute at the University of Chicago invites applications for a Research Scientist to be associated with the ATLAS Experiment at the Large Hadron Collider.</div><div><br></div><div>The UChicago ATLAS group carries out a broad and dynamic physics program, plays a central role in major detector upgrades, and is actively engaged in Run 3 operations. The successful candidate will be expected to lead innovative searches for physics beyond the Standard Model and make significant contributions to the Inner Tracker Pixel Upgrade for the High Luminosity LHC. The Research Scientist will work closely with faculty, postdoctoral researchers, and students. The position will be primarily based at CERN, Switzerland.</div><div><br></div><div>The expected start date is August 1, 2026 for a one year term with possible reappointment.  The salary range for this position is $70,000 - $88,000.</div><div>&nbsp;</div><div>This position is benefits-eligible. The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the&nbsp;<a href=\"https://mybenefits.nfp.com/UChicago/benefits-guide/\">Benefits Guidebook</a>.</div><div><br></div><div><strong>Qualifications</strong></div><div>Required</div><ul><li>PhD in Physics</li><li>At least three years of postdoctoral experience</li><li>Experience with detector development or operations</li></ul><div><br></div><div>Preferred</div><ul><li>Experience with searches for physics Beyond the Standard Model, in particular a strong technical background with long-lived/or unconventional searches</li><li>Experience coordinating analysis teams&nbsp;</li></ul><div><br></div><div><strong>Application Instructions</strong></div><div>Required Materials</div><ul><li>Cover letter</li><li>Current CV</li><li>Research Statement</li><li>At least 3 confidential letters of recommendation (requested via Interfolio)</li></ul><div>&nbsp;</div><div>Applications must be submitted at:&nbsp;&nbsp;<a href=\"https://apply.interfolio.com/185162\">https://apply.interfolio.com/185162</a>.</div><div>Review of applications begins May 30, 2026 and will continue until the position is filled.</div><div><br></div><div><strong>Equal Employment Opportunity Statement</strong></div><div>The University of Chicago is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender, gender identity or expression, national or ethnic origin, shared ancestry, age, status as an individual with a disability, military or veteran status, genetic information, or other protected classes under the law. For additional information please see the University's&nbsp;<a href=\"https://www.uchicago.edu/about/non_discrimination_statement/\">Notice of Nondiscrimination</a>.</div><div><br></div><div>Job seekers in need of a reasonable accommodation to complete the application process should call 773-834-3988 or email&nbsp;<a href=\"mailto:equalopportunity@uchicago.edu\">equalopportunity@uchicago.edu</a>&nbsp;with their request.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "OTHER"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-30T15:08:05.194748+00:00",
+      "updated": "2026-04-30T19:40:20.964693+00:00",
+      "addedAt": "2026-05-01T08:39:08.265Z",
+      "isNew": true
+    },
+    {
+      "id": "3150346",
+      "title": "Two Postdoctoral positions in LHCb",
+      "institution": "CCNU, Wuhan, Inst. Part. Phys.",
+      "deadline": "2026-07-31",
+      "description": "<div><strong>Job description:</strong></div><div>The experimental particle group at the Institute of Particle Physics (IOPP), Central China Normal University (CCNU)&nbsp;is seeking&nbsp;twoPostdoctoral Researchers to&nbsp;join&nbsp;the LHCb experiment at the Large Hadron Collider.&nbsp;</div><div><br></div><div>The CCNU group is active in a wide range of research areas, with a focus on CP violation in B hadrons and hyperons, rare decays in heavy flavour physics, and electroweak physics (including single W and Z properties), top quark physics and jet-related studies. Successful candidates will be expected to take a leading role on one of these areas.&nbsp;</div><div><br></div><div>The positions are initially&nbsp;offered&nbsp;for two years,&nbsp;with&nbsp;the&nbsp;possibility of extension&nbsp;or promotion&nbsp;based on&nbsp;funding&nbsp;availability&nbsp;and performance. The successful applicants&nbsp;are expected to be&nbsp;based at Wuhan, China, with occasional travels to CERN as needed.&nbsp;Acompetitive salary commensurate&nbsp;with&nbsp;experience&nbsp;will be provided, starting from 240,000 CNY per annum.&nbsp;</div><div><br></div><div><strong>Information and application</strong></div><div>Applicants must hold a&nbsp;PhD in particle&nbsp;physics or a closely related field. Candidates who are close to finish their PhD thesis are also encouraged to apply.&nbsp;The role requires experiences in&nbsp;data analysis is expected,&nbsp;to work on physics&nbsp;topics&nbsp;in one of&nbsp;the group’s focus areas,&nbsp;such as CP violation in the B-hadrons and hyperons, rare decays, or electroweak/Top/Jet physics,&nbsp;and to&nbsp;supervise graduate students.</div><div><br></div><div>Interested applicants should&nbsp;submit&nbsp;their applications (a curriculum vitae&nbsp;and arrangement of at least three reference letters) to&nbsp;us:&nbsp;<a href=\"mailto:yuehong.xie@cern.ch\">yuehong.xie@cern.ch</a>&nbsp;and&nbsp;<a href=\"mailto:hang.yin@cern.ch\">hang.yin@cern.ch</a>.</div><div><br></div><div>Review of applications will begin immediately and&nbsp;continue&nbsp;until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-04-30T08:30:46.966803+00:00",
+      "updated": "2026-04-30T18:55:22.427471+00:00",
+      "addedAt": "2026-05-01T08:39:08.265Z",
+      "isNew": true
+    },
+    {
       "id": "3150050",
       "title": "PhD Position in Experimental Astroparticle Physics (NA61/SHINE)",
       "institution": "KIT, Karlsruhe, IAP",
@@ -25,7 +75,7 @@
       "created": "2026-04-29T14:01:30.460762+00:00",
       "updated": "2026-04-30T08:01:47.279188+00:00",
       "addedAt": "2026-04-30T08:46:02.289Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3150037",
@@ -50,7 +100,7 @@
       "created": "2026-04-29T08:01:12.355265+00:00",
       "updated": "2026-04-29T16:15:31.508060+00:00",
       "addedAt": "2026-04-30T08:46:02.289Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3149733",
@@ -75,7 +125,7 @@
       "created": "2026-04-28T21:50:32.297565+00:00",
       "updated": "2026-04-29T16:12:40.415761+00:00",
       "addedAt": "2026-04-30T08:46:02.289Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3149734",
@@ -100,7 +150,7 @@
       "created": "2026-04-29T01:17:19.791764+00:00",
       "updated": "2026-04-29T16:11:57.671687+00:00",
       "addedAt": "2026-04-30T08:46:02.289Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3150040",
@@ -126,7 +176,7 @@
       "created": "2026-04-29T09:09:57.991768+00:00",
       "updated": "2026-04-29T16:11:13.821295+00:00",
       "addedAt": "2026-04-30T08:46:02.289Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3150078",
@@ -151,7 +201,7 @@
       "created": "2026-04-29T15:59:33.982997+00:00",
       "updated": "2026-04-29T16:09:36.238363+00:00",
       "addedAt": "2026-04-30T08:46:02.289Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3149678",
@@ -7201,6 +7251,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-04-30T08:46:02.290Z",
-  "totalJobs": 269
+  "lastUpdated": "2026-05-01T08:39:08.266Z",
+  "totalJobs": 271
 }
