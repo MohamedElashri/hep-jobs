@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "id": "ajo-31914",
+      "title": "2026 Visiting Researcher",
+      "institution": "Perimeter Institute for Theoretical Physics",
+      "deadline": null,
+      "description": "Visiting Researcher\n   -------------------\n\n   Perimeter Institute encourages applications from scientists in\n   theoretical physics who wish to spend time at Perimeter Institute\n   while on sabbatical leave from their faculty positions at home\n   institutes. These select visiting researcher positions span the range\n   of research areas including quantum matter, cosmology, mathematical\n   physics, particle physics, quantum fields and strings, quantum\n   foundations, quantum gravity, quantum information and strong gravity.\n   Outstanding researchers in related fields are welcome to submit\n   applications.\n\n   While most visits last for days or weeks, Perimeter also allows\n   researchers to explore what kind of progress can be made during stays\n   as long as a full year. Over longer stays, visiting researchers become\n   an intrinsic part of the research group. They may co-supervise\n   graduate students, forming close bonds while exposing them to a\n   completely different line of research, help organize workshops, or\n   enjoy the freedom to follow a spontaneous inspiration. Read about one\n   visiting researcher's experience.\n\n   Perimeter Institute offers a dynamic, multi-disciplinary environment\n   with maximum research freedom and opportunity to collaborate, take\n   part in workshops and conferences as well as enjoy the productive\n   atmosphere and amenities of the award-winning facility.\n\n   Application checklist:\n\n     * CV\n\n     * List of publications\n\n     * Research Statement\n\n   If you require additional information or have questions, please\n   contact VisitorServices@perimeterinstitute.ca. Application reviews\n   take place in January, April, July and October. You can anticipate to\n   hear back regarding your application by the end of these months for\n   future visits. Please submit your application at least 6 months in\n   advance of your arrival date.\n\n   ---------------------------------------------------------------------\n\n   Perimeter Institute provides support throughout the application\n   process for applicants with disabilities. We work with you to\n   understand the impact of your disability to appropriately accommodate\n   you during the application/interview process. Please contact\n   accessibility@perimeterinstitute.ca for assistance.",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/PI/Research/31914?rss"
+      ],
+      "contact_email": "VisitorServices@perimeterinstitute.ca",
+      "created": "2026-05-01T16:00:00.000Z",
+      "updated": "2026-05-01T16:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-05-03T08:34:24.393Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31950",
       "title": "Postdoctoral Scholarship Program in Space and Astro-Informatics",
       "institution": "Ariel University",
@@ -51,6 +75,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-02T08:30:32.000Z",
-  "totalJobs": 2
+  "lastUpdated": "2026-05-03T08:34:24.393Z",
+  "totalJobs": 3
 }
