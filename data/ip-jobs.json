@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "id": "3151061",
+      "title": "PhD Position on the design of a self-triggered readout architecture for ultra-fast sampling",
+      "institution": "LPC, Clermont-Ferrand",
+      "deadline": "2026-06-15",
+      "description": "<div>In modern high-energy physics experiments, the extremely precise measurement of particle arrival times (resolution on the order of tens of picoseconds) has become an essential requirement to cope with very high luminosity and event pile-up. The ultra-fast analog signal sampling technique has established itself as one of the highest-performing methods, as illustrated by the success of the SAMPIC family of circuits.</div><div><br></div><div>Recently, the SPIDER ASIC was developed for the LHCb experiment (at the CERN LHC), proposing a multi-bank digitization architecture that is highly efficient in terms of dead time. Like SAMPIC, it is self-triggered but optimized for a signal arrival that is quasi-synchronous with the clock. However, for most applications outside of large collider detectors, circuits must be able to operate with random signals. This means that a new circuit should be capable of continuously sampling the signal like SAMPIC, offering multi-bank switching capability to optimize dead time like SPIDER, and triggering digitization autonomously without waiting for a global external validation signal, just like its two predecessors.</div><div><br></div><div>This PhD project is at the heart of a joint Research and Technology (R\\&amp;T) program between the LPCA (Clermont-Ferrand), IJCLab, and IRFU (Saclay). The objective is to design the architecture of this next generation of fast samplers.</div><div><br></div><div>The main objective is to evolve the architecture of the SPIDER circuit, in 65 nm CMOS technology, to make the sampling continuous while maintaining autonomous triggering, keeping excellent temporal resolution performances, and limiting power consumption. This mixed-signal microelectronics design work will be structured around three main axes:</div><div><br></div><div><em>Axis 1: Modeling and System Architecture Work</em></div><div>Before designing the transistors at the physical level, specification and architectural definition work is essential to validate the system's behavior when faced with high, random data fluxes. The PhD student will model the complete architecture of the circuit (sampling cell matrix/matrices, time memory management, trigger logic) using a behavioral description language (SystemVerilog). This step will help support and refine the architectural choices and verify the circuit's functionality against various scenarios.</div><div><br></div><div><em>Axis 2: Design and Optimization of the Analog Block and Embedded Digital Logic</em></div><div>The input stage must be redesigned to extend the self-triggering and buffering functions to continuous sampling. The addressing of the Switched-Capacitors Arrays inherited from SPIDER will need to be adapted to allow continuous writing and sampling switching driven by the local trigger.</div><div>This step will require developments on the analog side as well as developing the logic (RTL) to manage the allocation of the analog memory blocks.</div><div><br></div><div><em>Axis 3: Integrated Digital Correction</em></div><div>The digitization of the samples is affected by systematic non-uniformities, which must be corrected after acquisition. The goal of this 3rd axis is to explore the feasibility of an at least partial correction embedded directly on the chip (pedestal subtraction) and, if applicable, to develop its implementation (including the calibration of coefficients through dedicated acquisitions).</div><div><br></div><div><strong>Location</strong></div><div>The activity of the LPCA (Clermont Auvergne Physics Laboratory), located on the Cézeaux campus in Aubière, is dedicated to Particle and Nuclear Physics, Cosmology, and Theoretical Physics, as well as applications in the fields of Health and Environment. This laboratory includes technical support and development services and platforms for its scientific activities and those conducted with its partners.</div><div><br></div><div>The project will be carried out within the LPCA's MiCA (Clermont Auvergne Microelectronics) platform. The intern will be supervised by a research engineer specializing in mixed-signal design, and will interact with digital design experts. This topic is of strong interest to the MiCA platform, offering an open field of applications and demonstrating both academic and industrial relevance.</div><div><br></div><div><strong>Required Profile</strong></div><div>You hold a Master's degree or an Engineering degree (equivalent to 5 years of higher education), with a specialization in microelectronics/integrated circuit design and verification. You have a solid foundation in integrated circuit architecture as well as analog and digital design, and you are proficient in at least one HDL language.</div><div><br></div><div>You possess a strong sense of investigation and methodology. You demonstrate curiosity, autonomy, and the ability to see a project through to completion.</div><div><br></div><div><strong>Contacts</strong></div><div>To apply, please send a CV and a cover letter to:</div><div>Hervé Chanal: herve.chanal@clermont.in2p3.fr</div><div><br></div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-04T17:52:52.732528+00:00",
+      "updated": "2026-05-04T18:59:45.066386+00:00",
+      "addedAt": "2026-05-05T08:44:14.435Z",
+      "isNew": true
+    },
+    {
       "id": "3150797",
       "title": "Senior Research Fellow in Experimental EUV Nanophotonics & Free-Electron Physics",
       "institution": "Nanyang Technol. U.",
@@ -27,7 +50,7 @@
       "created": "2026-05-03T12:37:51.574048+00:00",
       "updated": "2026-05-03T21:18:24.307762+00:00",
       "addedAt": "2026-05-04T08:49:38.471Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3150794",
@@ -54,7 +77,7 @@
       "created": "2026-05-03T10:30:41.066359+00:00",
       "updated": "2026-05-03T21:17:02.896437+00:00",
       "addedAt": "2026-05-04T08:49:38.471Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3150389",
@@ -7307,6 +7330,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-04T08:49:38.472Z",
-  "totalJobs": 273
+  "lastUpdated": "2026-05-05T08:44:14.437Z",
+  "totalJobs": 274
 }
