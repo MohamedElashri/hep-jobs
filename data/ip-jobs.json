@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3151524",
+      "title": "Call for postdoctoral positions at Université Paris-Saclay",
+      "institution": "U. Paris-Saclay",
+      "deadline": "2026-07-15",
+      "description": "<div>The Graduate School of Physics at Université Paris-Saclay, France, is launching the second call of its new postdoctoral fellowship program:&nbsp;UPSaclay-STAR-φ, supported by the EU Marie Skłodowska-Curie COFUND.&nbsp;The program will recruit up to&nbsp;41 international postdoctoral researchers&nbsp;over two calls,&nbsp;for&nbsp;24-month projects&nbsp;in one of the&nbsp;40 laboratories&nbsp;of the Graduate School, working on various fields from fundamental to applied physics.&nbsp;The CMS group of CEA-Saclay IRFU (contact:&nbsp;<a href=\"mailto:julie.malcles@cea.fr\">julie.malcles@cea.fr</a>) is a possible host group, among others.&nbsp;</div><div>The application deadline for the first call is July 15, 2026 at 5pm and the expected start of fellowships early 2027 (flexible).</div><div><br></div><div>Applicants will have to propose their own research project, with freedom of choice (in agreement with the thematics of interest of the CEA-Saclay/IRFU CMS team).</div><div><br></div><div>The CMS CEA-Saclay group has contributed to the design, construction and operation of the ECAL of CMS and is involved in the upgrades of&nbsp;the CMS detector (ECAL, MTD and HGCal).&nbsp;</div><div>The group is involved in the ECAL calibration and our analysis activities in Run3 include Higgs to Zy, double Higgs in the bb tautau channel, deep learning for ECAL and MTD reconstruction and various&nbsp;topics related to the diphoton channel (ttH/tH and its CP properties, high mass searches, interference to constraint the Higgs boson natural width with the mass measurement).&nbsp;</div><div><br></div><div>To be eligible,&nbsp;applicants must&nbsp;not have resided or carried out their main activity in France for more than 12 months during the 3 years&nbsp;preceding the deadline for applications.</div><div><br></div><div>For further information, please visit:</div><div><a href=\"http://www.cofund-physics.universite-paris-saclay.fr/\">http://www.cofund-physics.universite-paris-saclay.fr/</a></div><div><br></div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "http://www.cofund-physics.universite-paris-saclay.fr/"
+      ],
+      "contact_email": null,
+      "created": "2026-05-05T12:48:11.796488+00:00",
+      "updated": "2026-05-05T19:15:55.624189+00:00",
+      "addedAt": "2026-05-06T09:13:19.450Z",
+      "isNew": true
+    },
+    {
+      "id": "3151958",
+      "title": "PhD in Data Science - Research in AI for the Physical Sciences",
+      "institution": "Coll. William and Mary",
+      "deadline": "2026-05-31",
+      "description": "<div><strong>Company Description</strong></div><div>William &amp; Mary, located in Williamsburg, Virginia, combines the strengths of a leading research institution with the personalized environment of a liberal arts and sciences university. With over three centuries of academic excellence, W&amp;M is recognized as a top-tier institution and one of the best values in the United States. The university offers a broad range of majors and pre-professional programs, with particular strengths in STEM and computational disciplines. W&amp;M is distinguished by its emphasis on close faculty-student collaboration, research opportunities, and a commitment to providing transformative educational experiences.</div><div><br></div><div><strong>Role Description</strong></div><div>The PhD Position in Data Science – Research in AI for Nuclear and Particle Physics at William &amp; Mary is a full-time, on-site position located in Williamsburg, VA. The candidate will conduct advanced research on the application of artificial intelligence (AI) and machine learning (ML) methods to address challenges in nuclear and particle physics, with potential applications in astrophysics and medical physics.</div><div>Responsibilities include designing and developing novel algorithms, collaborating with faculty and interdisciplinary teams, analyzing experimental and simulated data, publishing results in peer-reviewed journals, and contributing to seminars and conferences. The position provides opportunities to engage with large-scale scientific collaborations, including experiments at national laboratories such as Jefferson Lab and Brookhaven National Laboratory.</div><div>The role may also involve mentoring graduate and undergraduate students and contributing to a collaborative research environment.</div><div><br></div><div><strong>Qualifications</strong></div><ul><li>Proficiency in data science tools and programming, including Python and relevant AI/ML libraries (e.g., PyTorch, TensorFlow, Scikit-learn)</li><li>Strong foundation in machine learning, statistical modeling, and data analysis</li><li>Background in physics (nuclear, particle, astrophysics, or related areas) or demonstrated ability to work at the interface of ML and the physical sciences</li><li>Experience with scientific computing and data-intensive workflows; familiarity with high-performance computing environments is a plus</li><li>Strong research skills, including the ability to design studies, analyze results, and communicate findings effectively</li><li>Demonstrated ability or potential to publish research in peer-reviewed venues and present at conferences</li><li>Ability to work independently and collaboratively in interdisciplinary teams</li></ul><div><br></div><div><br></div><div><strong>Application Materials:</strong></div><div>Applicants should submit a curriculum vitae (CV), a brief statement of research interests, and arrange for two letters of reference to be provided.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-05T18:59:26.035844+00:00",
+      "updated": "2026-05-05T19:15:11.094380+00:00",
+      "addedAt": "2026-05-06T09:13:19.450Z",
+      "isNew": true
+    },
+    {
       "id": "3151061",
       "title": "PhD Position on the design of a self-triggered readout architecture for ultra-fast sampling",
       "institution": "LPC, Clermont-Ferrand",
@@ -21,7 +72,7 @@
       "created": "2026-05-04T17:52:52.732528+00:00",
       "updated": "2026-05-04T18:59:45.066386+00:00",
       "addedAt": "2026-05-05T08:44:14.435Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3150797",
@@ -7330,6 +7381,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-05T08:44:14.437Z",
-  "totalJobs": 274
+  "lastUpdated": "2026-05-06T09:13:19.452Z",
+  "totalJobs": 276
 }

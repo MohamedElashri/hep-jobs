@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "ajo-32031",
+      "title": "RIKEN iTHEMS &#8211; NCTS Joint Postdoctoral Position",
+      "institution": "National Center for Theoretical Sciences",
+      "deadline": null,
+      "description": "The National Center for Theoretical Sciences (NCTS), Taiwan, and RIKEN\n   iTHEMS (RIKEN Center for Interdisciplinary Theoretical and\n   Mathematical Sciences), Japan, jointly invite applications for a joint\n   postdoctoral position in theoretical physics. The fellow will be a\n   member of both institutes, with the formal appointment held at NCTS.\n\n   The position is designed to provide an early-career theorist with\n   exceptional intellectual freedom, offering opportunities to\n   collaborate across two of Asia&#x2019;s leading theoretical physics\n   communities, with researchers spanning a broad range of subfields and\n   their interfaces. A full list of researchers is available at\n   https://ithems.riken.jp/en/members (RIKEN iTHEMS) and\n   https://www.phys.ncts.ntu.edu.tw/en/people/center_scientists (NCTS\n   Physics Division).\n\n   Applications are welcome in any area of theoretical physics.\n   Preference will be given to candidates working in cross-disciplinary\n   directions, particularly at the interface between high-energy theory\n   and condensed matter physics.\n\n   The position is primarily based at NTU in Taipei, and the fellow is\n   expected to spend approximately half of the time at RIKEN iTHEMS in\n   Wako, Saitama, Japan. During visits to RIKEN iTHEMS, partial support\n   for living expenses in Japan will be provided.\n\n   The appointment is for two years, renewable for an additional two\n   years (2+2), subject to a satisfactory mid-term review. The starting\n   date is flexible, with a target of Fall 2026. The total annual\n   compensation &#x2014; salary plus financial support for travel, computing\n   equipment, and other research-related expenses &#x2014; is approximately\n   NT$1,200,000 (&#x2248; JPY 6,000,000) per year (gross, before income tax and\n   standard payroll deductions for National Health Insurance and labor\n   pension contributions). The fellow is also eligible for reimbursement\n   of one-way economy-class airfare to Taiwan. NCTS will also provide the\n   standard visa support and assistance with relocation to Taiwan.\n\n   Applications should be submitted through AcademicJobsOnline and\n   include:\n   &#x2022; Curriculum vitae with publication list\n   &#x2022; Research statement (up to 3 pages)\n   &#x2022; Three letters of recommendation, uploaded directly by the\n   recommenders via AcademicJobsOnline\n\n   Applicants must hold a Ph.D. in physics or a closely related field by\n   the start date. Applications will be reviewed as they arrive until the\n   position is filled.\n\n   Inquiries may be addressed to Ms. Chao-Jung Kuo\n   (chaojungkuo@phys.ncts.ntu.edu.tw) or Prof. Pei-Ming Ho\n   (pmho@phys.ntu.edu.tw).\n\n   NCTS is an equal opportunity employer, and RIKEN iTHEMS welcomes\n   individuals as members on an equal opportunity basis. We welcome\n   applications from candidates of all backgrounds.",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "PHD",
+        "JUNIOR"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/National%20Center%20for%20Theoretical%20Sciences/Physics%20Division%20%28NTU%29/32031?rss"
+      ],
+      "contact_email": "chaojungkuo@phys.ncts.ntu.edu.tw",
+      "created": "2026-05-04T16:00:00.000Z",
+      "updated": "2026-05-04T16:00:00.000Z",
+      "source": "AcademicJobsOnline",
+      "addedAt": "2026-05-06T09:13:20.822Z",
+      "isNew": true
+    },
+    {
       "id": "ajo-31914",
       "title": "2026 Visiting Researcher",
       "institution": "Perimeter Institute for Theoretical Physics",
@@ -75,6 +100,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-05T08:44:14.448Z",
-  "totalJobs": 3
+  "lastUpdated": "2026-05-06T09:13:20.822Z",
+  "totalJobs": 4
 }
