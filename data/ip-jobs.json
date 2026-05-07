@@ -1,6 +1,111 @@
 {
   "jobs": [
     {
+      "id": "3152321",
+      "title": "Fellowship opportunities in experimental Particle Physics",
+      "institution": "U. Bristol (main)",
+      "deadline": "2026-06-15",
+      "description": "<div>The <strong>Experimental Particle Physics Group at the University of Bristol</strong> invites expressions of interest from outstanding researchers who wish to apply for independent research fellowships/grants hosted by our group. We are particularly keen to support applicants for <a href=\"https://royalsociety.org/grants/university-research/\"><strong>University Research Fellowships (URF)</strong></a><strong> </strong>and <a href=\"https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/\"><strong>Ernest Rutherford Fellowships (ERF)</strong></a><strong>.</strong></div><div><br></div><div>We are a diverse and active group engaged in a broad range of experimental programmes, including LHCb, CMS, DUNE, Mu3e, LZ, BESIII, SHiP, detector R&amp;D, and medical applications. We also have strong expertise in AI and computing for particle physics. More about our research activities can be found <a href=\"https://bristol.ac.uk/physics/research/particle/\">here.</a>&nbsp;</div><div><br></div><div>We welcome expressions of interest from candidates with a compelling scientific vision and a strong track record of research excellence.</div><div><br></div><div><strong>How to Apply</strong></div><div>Send an outline research proposal <strong>together</strong> with a two-page CV <strong>and</strong> publication list to James.Brooke@bristol.ac.uk.</div><div><br></div><div><strong>Deadlines:</strong></div><div>Make sure your research proposal and CV reach us at the latest by:</div><div><strong>URF:</strong> 20th of May 2026</div><div><strong>ERF:</strong> 15th of June 2026</div><div><br></div><div>Selected candidates will then receive support from the particle physics group and the University to formulate a strong proposal.</div><div><br></div><div><strong>Why Bristol?</strong>&nbsp;</div><div>The University of Bristol’s particle physics group is internationally recognised for its leadership across multiple international collaborations and innovation in experimental methods. We offer an excellent environment for fellows, including mentoring, support with proposal development, access to high-performance computing and detector facilities, and opportunities to lead new initiatives within our group. We are committed to a supportive, inclusive research environment and welcome applications from underrepresented groups.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-06T15:46:37.190780+00:00",
+      "updated": "2026-05-06T18:39:19.217718+00:00",
+      "addedAt": "2026-05-07T08:53:31.043Z",
+      "isNew": true
+    },
+    {
+      "id": "3151969",
+      "title": "PhD position in ALICE experiment",
+      "institution": "SUBATECH, Nantes",
+      "deadline": "2026-05-31",
+      "description": "<div>Ultra-relativistic heavy ion collisions delivered by the CERN Large Hadron Collider (LHC) provides extreme conditions of temperature and density of nuclear matter allowing the study of Quark Gluon Plasma, a deconfined state of quarks and gluons, predicted by Quantum ChromoDynamics (QCD).</div><div>&nbsp;</div><div>Quarkonia, pairs of heavy quark and anti-quark, are produced very early during a heavy ion collision. Therefore, they are very useful to understand the initial stages of such collisions and characterize the QGP evolution and properties. Indeed, they are very sensitive to the temperature of the medium created during the heavy ion collision. If the temperature is high enough, the charmed quark pairs initially produced will be dissolved in the medium. This phenomenon is called quarkonia suppression.</div><div>&nbsp;</div><div>The measurements done at LHC during Run 1 and 2 shed a new light on quarkonia production mechanisms. In particular, the J/ø suppression is not as high as expected in the most central collisions. Indeed, the massive production of charm quarks at the LHC energies allows these quarks, after interaction in QGP, to form a new quarkonia state. This regeneration mechanism could explain the observed production of charmonia.</div><div>&nbsp;</div><div>However, the constraints that such measurements provide on theoretical models are still limited since the measurements are done on inclusive charmonia production. The Run 3 at LHC allows to separate the charmonia directly produced during the collisions from the ones produced by other particle decays such as B meson. The separation of these two components is necessary to understand the production and interaction with the medium of charmonia. This is possible in Run3 with ALICE thanks to the new Muon Forward Tracker detector that has been installed in the experiment.</div><div>&nbsp;</div><div>The goal of the PhD will be to study the quarkonia production in the muon decay channel at forward rapidities using data collected during the Run3 ALICE data taking in pp, pO, Ne-Ne, OO and/or Pb-Pb. The candidate will be involved in the data analysis on one of the topics of interest currently explored by the group.</div><div><br></div><div>The candidate will join the SUBATECH PLASMA team (9 permanent physicists and 2 PhD students). He/she will be involved in ALICE experiment analysis software developments, and the calibration of the detectors (MFT, Muon spectrometer).</div><div>As part of the ALICE collaboration the candidate will have access to the data and computing resources of the collaboration (computing grid, software…).</div><div>&nbsp;</div><div>Several stays at CERN (Switzerland) are foreseen.</div><div>&nbsp;</div><div>Results will be presented in collaboration meetings, documented in internal analysis notes and published in scientific journals. At least one talk in an international conference is expected during the PhD.</div><div>&nbsp;</div><div>&nbsp;</div><div><strong>How to apply:</strong></div><div>The candidate should apply on the AMETHIS platform (<a href=\"https://amethis.doctorat.org/amethis-client/prd/consulter/offre/3496\">https://amethis.doctorat.org/amethis-client/prd/consulter/offre/3496</a>) ONLY before 31st of May 2026.</div><div>The following documents will be requested and should be uploaded on the platform:</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curriculum Vitae</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Motivation Letter</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Marks and ranking&nbsp;for each of the academic years (Master and Bachelor) with a copy of diploma (or engineer cycle)</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Letter of support of the direct supervisor of the Master 2 internship, if relevant support letter from M1 internship supervisor</div><div>&nbsp;</div><div><br></div><div><strong>Qualifications:</strong></div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master degree in particle physics, hadronic physics or nuclear physics</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good knowledge in programming (C++ or object oriented language, python)</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Good knowledge in english&nbsp;(writing, speaking)</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skills in teamwork and communication</div><div>&nbsp;</div><div><strong>Start of PhD</strong>: Oct 2026</div><div><br></div><div><br></div><div>&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [
+        "https://amethis.doctorat.org/amethis-client/prd/consulter/offre/3496"
+      ],
+      "contact_email": null,
+      "created": "2026-05-05T20:07:45.868733+00:00",
+      "updated": "2026-05-06T17:25:52.940808+00:00",
+      "addedAt": "2026-05-07T08:53:31.043Z",
+      "isNew": true
+    },
+    {
+      "id": "3152317",
+      "title": "Precision eV spectroscopy with quantum sensors for Beyond Standard Model searches",
+      "institution": "LPC, Caen",
+      "deadline": "2026-06-07",
+      "description": "<div>The ASGARD (Aluminium Superconducting Grid Array for Radiation Detection) project is a next-generation experiment aiming to perform precision tests of the Standard Model through eV-scale spectroscopy of short-lived radioactive isotopes using quantum sensors. It will be located at the DESIR facility at GANIL, France’s national radioactive ion beam facility, and will probe Beyond Standard Model physics at the TeV scale via nuclear beta decays. ASGARD will utilize superconducting tunnel junction detectors in a custom dilution refrigerator operating below 100 mK, with the long-term goal of extending nuclear recoil spectroscopy across the nuclear chart. This thesis is part of the CaeSAR Excellence Cluster program.</div><div><br></div><div>The PhD candidate will be involved in both experimental and computational aspects of the project, including detector operation, data analysis, and simulation development.</div><div><br></div><div><strong>Activities include:</strong></div><ul><li>construction and commissioning of a radioactive ion beam injection line</li><li>contribution to thermal simulations of the heat budget of the dilution refrigerator and detector system</li><li>preparation, handling, and operation of superconducting tunnel junction detectors before and during beam time</li><li>data analysis of radioactive decays for precision tests of the Standard Model and validation of simulations</li></ul><div><br></div><div>As a natural extension, the student will also contribute to the BeEST and SALER collaborations, which use related technologies for sterile neutrino searches and other precision tests of fundamental symmetries.</div><div><br></div><div><strong>We welcome candidates with a strong interest in:</strong></div><ul><li>nuclear and low-energy particle physics</li><li>condensed matter physics and superconductivity</li><li>scientific programming (e.g. C++, Python)</li></ul><div><br></div><div><strong>In return</strong>, the candidate will join a collaborative and supportive research environment within the LPC Caen group, working closely with the supervisor and a team of PhD students and postdoctoral researchers. Supervision is adapted to the individual, with hands-on guidance in the early stages and a clear goal of developing scientific independence over the course of the PhD. The project includes substantial experimental involvement both locally and abroad, as well as opportunities for training at other international laboratories and participation in advanced schools. The student will be encouraged to present their work regularly and to develop strong scientific communication skills. We aim to provide an open, inclusive, and respectful working environment, and to support students in building a solid foundation for a range of future career paths, both within and outside academia.</div><div>&nbsp;</div><div>The successful candidate will be assigned to the Precision Measurements at Low Energy group, within the Laboratoire de Physique Corpusculaire de Caen (LPCC - UMR6534).</div><div>The LPC CAEN, with about 100 staff, is a joint research unit (UMR6534) depending on three supervisory bodies: the CNRS, the University of Caen Normandy (UNICAEN) and the Ecole Nationale Supérieure d'Ingénieurs de Caen (ENSICAEN). It is located on Campus 2 of the University of Caen Normandy (Campus Côte de Nacre) and is part of the research park of ENSICAEN (<a href=\"http://www.lpc-caen.in2p3.fr/\">www.lpc-caen.in2p3.fr/</a>).</div><div><br></div><div>Applications are to be submitted at: <a href=\"https://doctorat.campusfrance.org/CF202648665\">https://doctorat.campusfrance.org/CF202648665</a></div><div><br></div><div>Two reference letters are to be sent to hayen at <a href=\"http://lpccaen.in2p3.fr\">lpccaen.in2p3.fr</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics.ins-det",
+        "cond-mat"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-06T14:40:59.836551+00:00",
+      "updated": "2026-05-06T17:13:30.394266+00:00",
+      "addedAt": "2026-05-07T08:53:31.043Z",
+      "isNew": true
+    },
+    {
+      "id": "3152322",
+      "title": "ATLAS Postdoctoral Fellow",
+      "institution": "Carleton U. (main)",
+      "deadline": "2026-06-21",
+      "description": "<div><strong>ATLAS Postdoctoral Fellow with Carleton University (May 2026)</strong></div><div><br></div><div>The Carleton University Particle Physics Group in Ottawa, Canada, invites applications for a <strong>postdoctoral fellow position on the ATLAS experiment</strong> at the CERN LHC. The Carleton ATLAS group currently consists of six faculty members: Alain Bellerive, Dag Gillberg, Kevin Graham, Jesse Heilman, Thomas Koffas, and Manuella Vincter. The group typically has five postdoctoral fellows and approximately fourteen graduate students.</div><div><br></div><div>The Carleton ATLAS group was responsible for the construction of two forward calorimeter modules of the FCal and, more recently, for the assembly of the Small-strip Thin Gap Chambers for the muon spectrometer on the New Small Wheel. Currently, the Carleton group is participating in the commissioning of the inner tracker (ITk project) through contributions to the radiation-hard thin Si sensors and the readout electronics of the microstrip system. The Carleton group contributes to the physics exploration at the LHC, working on Standard Model analyses, emerging jet studies and Higgs physics. For more information about the ATLAS experiment, go to https://atlas.cern/.</div><div><br></div><div>We are interested in candidates who hold a Ph.D. degree in experimental particle physics and wish to take a leading role in the operation of the ATLAS experiment in an area such as e/gamma performance, muon software and simulation, tracking and reconstruction, particle flow algorithm and jets, NSW DQ monitoring, ITk deployment, detector commissioning or in-situ performance. The successful candidate is also expected to take part in physics analyses compatible with our research program and to help with the supervision of our students. <strong>The position could be located at CERN or Carleton University in Ottawa, Canada.</strong> We seek a candidate willing to work 50% on physics analyses and 50% on detector/performance activities enumerated above.</div><div><br></div><div>The candidate should send by email a CV, a statement of research interests, and arrange to send three letters of recommendation to:</div><div>Professor Alain Bellerive</div><div>Email: <a href=\"mailto:alainb@physics.carleton.ca\">alainb@physics.carleton.ca</a></div><div>Further group details can be found here: <a href=\"https://atlas.physics.carleton.ca/\">https://atlas.physics.carleton.ca/</a></div><div><br></div><div>We are committed to fostering diversity within our community as a source of excellence, cultural enrichment and social strength.&nbsp;We are active in advancing Equity, Diversity, and Inclusion (EDI) within our research group and beyond, and we encourage applications from individuals committed to advancing EDI.&nbsp;All qualified persons are encouraged to apply. <strong>Review of applications will begin on June 21, 2026 and will continue until the position is filled</strong>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://physics.carleton.ca/sites/default/files/content-files/RA-job-ad-May2026_posted.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-05-06T16:41:16.608109+00:00",
+      "updated": "2026-05-06T17:12:31.031861+00:00",
+      "addedAt": "2026-05-07T08:53:31.043Z",
+      "isNew": true
+    },
+    {
       "id": "3151524",
       "title": "Call for postdoctoral positions at Université Paris-Saclay",
       "institution": "U. Paris-Saclay",
@@ -25,7 +130,7 @@
       "created": "2026-05-05T12:48:11.796488+00:00",
       "updated": "2026-05-05T19:15:55.624189+00:00",
       "addedAt": "2026-05-06T09:13:19.450Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3151958",
@@ -49,7 +154,7 @@
       "created": "2026-05-05T18:59:26.035844+00:00",
       "updated": "2026-05-05T19:15:11.094380+00:00",
       "addedAt": "2026-05-06T09:13:19.450Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3151061",
@@ -7381,6 +7486,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-06T09:13:19.452Z",
-  "totalJobs": 276
+  "lastUpdated": "2026-05-07T08:53:31.046Z",
+  "totalJobs": 280
 }
