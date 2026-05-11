@@ -1,6 +1,95 @@
 {
   "jobs": [
     {
+      "id": "3153705",
+      "title": "Research Assistant Navigation",
+      "institution": "Fraunhofer Center, Hamburg",
+      "deadline": "2026-06-30",
+      "description": "<div>Satellite-based navigation (GNSS) is established in civil shipping, but is susceptible to interference and manipulation. Therefore, satellite-independent navigation systems are becoming increasingly important to compensate for GNSS failures and strengthen the resilience of maritime navigation.</div><div>For our research field of ship and fleet management, we are looking for a research assistant (m/f/d) to develop robust navigation methods and sensor data processing as soon as possible. Your tasks will include:</div><ul><li>Data acquisition of novel sensors, including quantum-based systems</li><li>Development of algorithms for state and parameter estimation (e.g. Kalman filter, SLAM, particle filter)</li><li>Sensor fusion of heterogeneous sensor data</li><li>Field tests with our research boat</li></ul><div>Ready for change? Then apply now and make a difference! After receiving your online application, you will receive an automatic confirmation of receipt. Then we will get back to you as soon as possible and tell you what happens next.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "math-ph",
+        "quant-ph",
+        "stat",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobs.fraunhofer.de/job-invite/84437/"
+      ],
+      "contact_email": null,
+      "created": "2026-05-11T09:36:44.850211+00:00",
+      "updated": "2026-05-11T17:58:32.336567+00:00",
+      "addedAt": "2026-05-11T20:47:22.226Z",
+      "isNew": true
+    },
+    {
+      "id": "3153703",
+      "title": "PhD in dark matter research with quantum sensors",
+      "institution": "Zaragoza U.",
+      "deadline": "2026-10-04",
+      "description": "<div><strong>Deadline on July 1st, 2026</strong></div><div><br></div><div>Do you want to start a professional career in astroparticle physics research or quantum technologies and are looking for support to carry out a PhD? What about a doctoral thesis on dark matter experimental research in the <a href=\"https://cordis.europa.eu/project/id/101118911\">DarkQuantum</a> project?</div><div><br></div><div><strong>Candidates</strong>:</div><ul><li>We seek excellent and motivated candidates with good University qualifications in a physics degree or similar, ready to embark in a doctoral program (master or equivalent level).</li><li>We will value previous experience in particle or astroparticle physics experiments, RF, cryogenics, or quantum sensors as well as interest and expertise in instrumental developments and software knowledge.</li></ul><div><strong>Position</strong>:</div><div>The PhD position is a four-year contract compatible with standard UNIZAR pre-doctoral positions.</div><div>Salary complements are foreseen if the candidate is successful in competitive public pre-doctoral fellowship calls.</div><div>The candidates will enjoy a lively research environment at CAPA as well as in the IAXO and RADES international collaborations.</div><div>As part of the doctoral program, they will have the opportunity to perform stays in other collaborating institutions as well as to attend schools and conferences.</div><div>The Universidad de Zaragoza is committed to the “European Charter for Researchers” and the “Code of Conduct for the Recruitment of Researchers”, and has been recognized by the European Commission with the Human Resources Strategy for Researchers (HRS4R) award. <a href=\"https://hrs4r.unizar.es/en\">https://hrs4r.unizar.es/en</a></div><div><br></div><div><strong>Application</strong>:</div><div>Interested candidates should send:</div><ul><li>CV,</li><li>a letter of motivation</li><li>and the certificate of University qualifications</li></ul><div>to: iaxorecruitment@unizar.es.</div><div><br></div><div><strong>Deadline</strong>:</div><div>The starting time of the contracts can be negotiated with the selected candidates. The selection process is expected to take place by 1st July 2026, although candidacies may be accepted at any time, also after that date, until satisfactory candidates are selected.&nbsp;</div><div><br></div><div><strong>About us:</strong></div><div><strong>CAPA</strong></div><div>The Centro de Astropartículas y Física de Altas Energías (<a href=\"https://capa.unizar.es/?lang=en#pll_switcher\">CAPA</a>) is a research institute of the University of Zaragoza, devoted to fundamental questions in astroparticle physics, cosmology and high-energy physics. CAPA hosts a dynamic and interdisciplinary research environment, with strong activity in both theory and experiment. Its scientific program addresses key open problems such as the nature of dark matter, cosmology, and physics beyond the Standard Model, with significant contributions in theoretical cosmology, astrophysics, and gravitational physics, alongside the development of advanced detection technologies in dark matter and axions searches. A defining feature of the institute is its close interplay between theory, phenomenology and experimental development, together with active participation in large-scale international collaborations. CAPA is strongly connected to frontier infrastructures such as the Laboratorio Subterráneo de Canfranc (LSC), leading European research centres and state-of-the-art detector development facilities&nbsp;</div><div>The host group of the position plays a leading role in the<a href=\"https://rades.upct.es/home.html\"> RADES</a> project and in the recently awarded<a href=\"https://cordis.europa.eu/project/id/101118911\"> DarkQuantum</a> ERC Synergy Grant, which will constitute the main framework of the PhD. These efforts focus on the development of novel axion haloscope concepts and, in particular, on the implementation of quantum sensing techniques that could surpass the sensitivity of conventional approaches and open new parameter space in the search for dark matter axions. In parallel, the group is also active in more established haloscope strategies, incorporating quantum-limited amplifiers and other innovations to enhance performance, especially in the low-frequency regime. Part of the RADES program will be integrated within the BabyIAXO (<a href=\"https://iaxo.desy.de/\">IAXO</a>) infrastructure, currently under construction at DESY (Hamburg), providing a unique experimental platform. In addition, the candidate will have opportunities to participate in data-taking activities at CERN. Some of the quantum sensors developed within DarkQuantum are also expected to be deployed underground at the Laboratorio Subterráneo de Canfranc (LSC). The project is embedded in a broad international collaboration, with strong connections to leading institutions in quantum technologies such as ENS Paris, Aalto University and Karlsruhe Institute of Technology.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "cs",
+        "hep-ex",
+        "physics",
+        "quant-ph",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "IAXO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-11T09:10:21.636998+00:00",
+      "updated": "2026-05-11T17:54:07.397885+00:00",
+      "addedAt": "2026-05-11T20:47:22.226Z",
+      "isNew": true
+    },
+    {
+      "id": "3153704",
+      "title": "Postdoctoral position in dark matter research with quantum sensors",
+      "institution": "Zaragoza U.",
+      "deadline": "2026-07-31",
+      "description": "<div>The position offered here is intended to reinforce the leadership role of the CAPA group in the DarkQuantum project, which involves development of axion haloscopes, quantum sensors, and the corresponding ancillary systems, cryogenics, RF readout, electronics,… It will also include simulation and data analysis tasks. The work will be done in close connection with the rest of members of the RADES and IAXO international collaborations, including first-level institutions like DESY (Hamburg), MPP (Munich) or CERN (Geneva). This is a partial call for positions of the ERC-SyG DarkQuantum project. Additional calls are foreseen for a later moment of the project.&nbsp;</div><div>The candidate is expected to engage in central aspects of the DarkQuantum project, take important responsibilities, and in doing so enjoy high visibility in the RADES and IAXO collaborations. He/she will have the opportunity to lead particular research tasks, and present their work and represent the group/collaboration in international conferences.</div><div><strong>Benefits:</strong></div><div>The post-doc position is two-year Unizar postdoctoral research contracts (N1 level), with salary equivalent to Ramón y Cajal senior researcher figure in Spain. The candidate will count with resources to perform visits and attend conferences and meetings related with their work. He/she will be allowed to reserve a small fraction of his/her worktime (about 20%) to develop research topics of their own initiative in relation with wider research portfolio of the host group. The candidate will enjoy a lively research environment at CAPA as well as in the IAXO and RADES international collaborations. The DarkQuantum project ensures adequate resources in terms of research infrastructure and equipment during all the postdoctoral period.</div><div>In addition, if interested, he/she will have the opportunity to participate in outreach and teaching activities of the department, the latter within the University rules for the involvement of researchers in teaching duties, and always with sufficiently low intensity so as not to endanger the main research activity.</div><div><strong>Candidates</strong>:</div><ul><li>A Ph.D. is required</li><li>We seek excellent and motivated candidates with experimental particle physics and/or quantum technologies background.</li><li>We will value previous experience in laboratory and analysis skills related with quantum sensing, like cryogenic, RF instrumentation, etc.</li><li>Generic expertise in instrumental developments and software knowledge is also valued.</li><li>The post-doc candidate will be expected to take important responsibilities in RADES, manage work packages, supervise the work of students and technicians. For these we will value proof of independence, team work, and presentation skills.</li></ul><div>&nbsp;<strong>How to apply:</strong></div><div>Candidates should send the following documents to: iaxorecruitment@unizar.es</div><ul><li>CV</li><li>A letter of motivation</li><li>Two letters of recommendation to be send to the same address upon request</li></ul><div><strong>Contact:&nbsp;</strong></div><ul><li><a href=\"https://inspirehep.net/authors/1004911\">Irastorza, Igor Garcia</a> (Igor.Irastorza@cern.ch)</li></ul><div><strong>Letters of Reference should be sent to:&nbsp;</strong></div><ul><li>iaxorecruitment@unizar.es</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "cs",
+        "gr-qc",
+        "hep-ex",
+        "physics",
+        "physics.ins-det",
+        "quant-ph"
+      ],
+      "experiments": [
+        "IAXO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-11T09:15:22.865581+00:00",
+      "updated": "2026-05-11T17:45:15.249005+00:00",
+      "addedAt": "2026-05-11T20:47:22.226Z",
+      "isNew": true
+    },
+    {
       "id": "3152344",
       "title": "Experimental Neutrino Physics Postdoctoral Associate (MicroBooNE, SBND, DUNE)",
       "institution": "IIT, Chicago (main)",
@@ -7618,6 +7707,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-11T09:07:19.487Z",
-  "totalJobs": 285
+  "lastUpdated": "2026-05-11T20:47:22.228Z",
+  "totalJobs": 288
 }
