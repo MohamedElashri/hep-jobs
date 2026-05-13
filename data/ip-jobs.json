@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3154558",
+      "title": "Postdoc in Real-Time Data Analysis with LHCb",
+      "institution": "Indiana U., Bloomington (main)",
+      "deadline": "2026-06-10",
+      "description": "<div>Postdoc in Real-Time Data Analysis with LHCb at Indiana University</div><div>&nbsp;</div><div>The Physics Department at Indiana University Bloomington invites applications for a postdoctoral position with its group working on the LHCb experiment at the Large Hadron Collider.&nbsp;</div><div>&nbsp;</div><div>The successful candidate will focus on developing LHCb's real-time data analysis systems, including the GPU-based software trigger. This work will include development of algorithms for heterogeneous computing architectures and implementation of AI/ML in a real-time environment. The candidate will also have the opportunity to conduct measurements using LHCb's Run 3 proton-proton, heavy-ion, and fixed-target data.</div><div>&nbsp;</div><div>A Ph.D. in experimental high-energy or nuclear physics is required by time of appointment. The appointment could begin as early as July 1, 2026.</div><div>&nbsp;</div><div>Applications, including a CV, a statement of research interests, and three letters of reference, should be submitted through the application portal located at: <a href=\"https://indiana.peopleadmin.com/postings/33217\"><strong>https://indiana.peopleadmin.com/postings/33217</strong></a></div><div>&nbsp;</div><div>Review of applications will begin on June 10 and will continue until the position is filled. The position is annually renewable, assuming satisfactory performance. For questions, please contact the Physics Department at 812-855-1247 or Thomas Boettcher (tboettch@iu.edu).</div><div>&nbsp;</div><div>Indiana University is an equal opportunity employer and provider of ADA services and prohibits discrimination in hiring. <a href=\"https://policies.iu.edu/policies/ua-01-non-discrimination/index.html\">See Indiana University Notice of Non-Discrimination here which includes contact information.</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://indiana.peopleadmin.com/postings/33217"
+      ],
+      "contact_email": null,
+      "created": "2026-05-12T14:57:06.974386+00:00",
+      "updated": "2026-05-12T19:13:13.671605+00:00",
+      "addedAt": "2026-05-13T09:00:00.322Z",
+      "isNew": true
+    },
+    {
       "id": "3153705",
       "title": "Research Assistant Navigation",
       "institution": "Fraunhofer Center, Hamburg",
@@ -7707,6 +7735,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-12T08:57:24.105Z",
-  "totalJobs": 288
+  "lastUpdated": "2026-05-13T09:00:00.324Z",
+  "totalJobs": 289
 }
