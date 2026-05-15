@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3155340",
+      "title": "Postdoc in superconducting detector development",
+      "institution": "Washington U., St. Louis",
+      "deadline": "2026-06-19",
+      "description": "<div>The Astrophysics, Particle Astrophysics, and Space Sciences group of the Department of Physics at WashU in St. Louis invites applications for a postdoctoral position, for a negotiable start around September 6, 2026. The appointment is expected to be up to 2 years with subsequent year-to-year extension depending on performance and funding.</div><div><br></div><div>The postdoc will work in the group of Prof. Karthik Ramanathan, primarily on the development of novel superconducting detectors for particle physics applications. These include qubit-based detectors (QPDs/SQUATs) and Kinetic Inductance Detectors (KIDs). The project scope is expected to run the gamut from design to on-site nano-fabrication to device testing in the group’s dilution refrigerator, along with analyzing collected data. There is scope for the postdoc to define their own additional sub-projects – e.g., developing new sub-eV energy calibration techniques – and also interface with a larger experimental collaboration.</div><div><br></div><div>Candidates with QIS backgrounds (e.g., working with superconducting transmons) are highly encouraged to apply given an expected transferable skillset.</div><div><br></div><div><strong>Qualifications:</strong></div><ul><li>Ph.D. in physics (or related field) prior to start date.</li><li>Previous experience with superconducting device design, cryogenics, and nanofabrication is strongly preferred.</li></ul><div><strong>Please apply to the position at </strong><a href=\"https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR94253\">https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR94253</a></div><div><br></div><div><em>Washington University in St. Louis is committed to the principles and practices of equal employment opportunity. It is the University’s policy to provide equal opportunity and access to persons in all job titles without regard to race, ethnicity, color, national origin, citizenship (where prohibited by federal law), age, religion, sex, sexual orientation, gender identity or expression, disability, protected veteran status, or genetic information.</em></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Physics_JR94253"
+      ],
+      "contact_email": null,
+      "created": "2026-05-14T13:35:04.812202+00:00",
+      "updated": "2026-05-14T15:37:13.024210+00:00",
+      "addedAt": "2026-05-15T09:02:30.194Z",
+      "isNew": true
+    },
+    {
       "id": "3154558",
       "title": "Postdoc in Real-Time Data Analysis with LHCb",
       "institution": "Indiana U., Bloomington (main)",
@@ -7735,6 +7762,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-14T08:55:23.620Z",
-  "totalJobs": 289
+  "lastUpdated": "2026-05-15T09:02:30.196Z",
+  "totalJobs": 290
 }
