@@ -23,34 +23,53 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
+      - name: Check if weekday
+        id: check-day
+        run: |
+          DAY=$(date +%u)
+          if [ "$DAY" -ge 6 ]; then
+            echo "is_weekend=true" >> $GITHUB_OUTPUT
+            echo "It's weekend, skipping"
+          else
+            echo "is_weekend=false" >> $GITHUB_OUTPUT
+            echo "It's weekday, continuing"
+          fi
+
       - name: Checkout repository
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Node.js
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
       - name: Build website
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         run: |
           echo "🔬 Building HEP Jobs Tracker..."
           node build-modular.js
 
       - name: Setup GitHub Pages
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         uses: actions/configure-pages@v4
 
       - name: Upload to GitHub Pages
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         uses: actions/upload-pages-artifact@v3
         with:
           path: './site'
 
       - name: Deploy to GitHub Pages
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         id: deployment
         uses: actions/deploy-pages@v4
 
       - name: Commit updated data
+        if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
