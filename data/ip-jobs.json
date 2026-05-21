@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+      "id": "3158069",
+      "title": "Postdoctoral position on the eEDM experiment at JILA",
+      "institution": "JILA, Boulder",
+      "deadline": "2026-10-31",
+      "description": "<div>A postdoctoral position is available at JILA, in the University of Colorado, to work on JILA’s electron electric dipole moment (eEDM) experiment. The project, jointly advised by Jun Ye and Eric Cornell, is responsible for the current most stringent limit on the eEDM.</div><div><br></div><div>Our goal is to break the Standard Model of particle physics or else set important new constraints trying. We are looking for committed and motivated candidates. JILA is a leading center for AMO physics located in Boulder, Colorado at the edge of the Rocky Mountains.</div><div><br></div><div>The experiment is a highly technical effort involving multiple cw and pulsed lasers, ion-beam optics, ion traps, rotational and electronic molecular spectroscopy, ultra-high vacuum, magnetic measurement and shielding, cryogenic design, numerical modeling, extensive computer-driven experimental control and data-acquisition, and analysis of statistical and systematic errors. The successful candidate will know about a few of these things and want to learn about the rest. The incoming postdoc will work with a lively, energetic group of physicists.</div><div><br></div><div>The start date is negotiable, preferably late 2026 or early 2027. The application and any questions may be sent to Eric Cornell, <a href=\"mailto:cornell@jila.colorado.edu\">cornell@jila.colorado.edu</a>. To apply please send a CV, a 2-4 page statement of research experience, a short cover letter, and the names of two professional references. We will review applications starting 15 June 2026 until the position is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-20T22:19:07.713306+00:00",
+      "updated": "2026-05-20T22:26:03.007141+00:00",
+      "addedAt": "2026-05-21T09:06:55.421Z",
+      "isNew": true
+    },
+    {
+      "id": "3157988",
+      "title": "Two PhD positions in experimental high-energy particle physics (CMS experiment)",
+      "institution": "Riga Tech. U.",
+      "deadline": "2026-06-24",
+      "description": "<div>CMS-Latvia group is looking for PhD students in experimental high-energy physics to perform research on the<a href=\"https://home.cern/science/experiments/cms\"> Compact Muon Solenoid (CMS)</a> experiment at the European Organisation for Nuclear Research (CERN). A successful candidate would join the research cluster at the Riga Technical University (RTU)<a href=\"https://www.rtu.lv/en/hep/contacts-hep\"> Institute of Particle Physics and Accelerator Technologies (IPPAT)</a> and be enrolled into a doctoral study programme \"Particle Physics and Accelerator Technologies\".</div><div><br></div><div><strong>Expected start date - October 2026.</strong></div><div><br></div><div><strong>About Us. </strong>CMS-Latvia group, led by IPPAT, is formed by a collaboration between the two leading universities in Latvia -<a href=\"https://www.rtu.lv\"> Riga Technical University</a> and the University of Latvia. Our current physics focus is on the study of the properties of the top quark and the Higgs boson, as well as searches for new physics. Furthermore, our group is involved in the<a href=\"https://cds.cern.ch/record/2667167/files/CMS-TDR-020.pdf\"> MIP Timing Detector (MTD)</a> sub-detector and <a href=\"https://cds.cern.ch/record/2714892\">Level-1 Trigger (L1T</a>) project<strong>s</strong> at CMS. At present, CMS-Latvia group comprises three senior staff and eight doctoral students, as well as a research engineer.</div><div><br></div><div>In addition to our experimental high-energy physics (HEP) activities, our Institute is also involved in accelerator technologies development projects at CERN.</div><div><br></div><div><strong>About You. </strong>The applicant should have a master’s degree in physics, mathematics or another closely related field of science by the start time of the PhD (October 2026). The ideal candidate will have at least some programming experience using Python and/or C++, good understanding of methods of analysing experimental data, as well as existing knowledge of modern physics topics, such as quantum mechanics and particle physics.</div><div><br></div><div>Minimum requirements:</div><ul><li>Master’s degree in physics, mathematics or a closely related field of science;</li><li>Excellent English proficiency (at least CEFR B2 or equivalent);</li><li>Eligibility to work or to apply for work in the EU.</li></ul><div><strong>About the project.</strong> A successful candidate will join an established and dynamic research cluster at the IPPAT working towards their thesis at the CMS experiment, where they will undertake a physics study in a given CMS Physics Analysis Group (PAG), as well as contribute to the detector development and/or offline computing projects.</div><div><br></div><div>The target thesis topics will be aligned with the group’s existing research program: the study of multi-boson physics, with a focus on di-Higgs production or studies of Top quark decay substructure at CMS, or direct searches for new physics using experimentally challenging final states (b-quarks, c-quarks, taus with low transverse momenta). In case of previous experience or deep-rooted interest in other areas of experimental HEP, such as Standard Model physics, b-physics or soft-QCD studies, among others, alternative thesis topics could be made available.</div><div><br></div><div>In parallel to their thesis analysis, the successful candidate will contribute to the development of one or more areas of the MTD sub-detector or L1T projects at CMS. These can include mechanics, assembly and integration, reconstruction software and/or the detector control and safety systems. Alternatively, if deemed more suitable, the candidate will be involved in the development and maintenance related tasks for the<a href=\"https://wlcg.web.cern.ch/\"> WLCG</a> Tier-2 computing site at RTU.</div><div><br></div><div>This is a 4 year PhD project, with an option to finish as early as 3.5 years after the commencement of the degree programme, provided the student has fulfilled all the required criteria for the award of the degree. The successful candidate will apply for and be granted a position in the doctoral study program in “Particle physics and accelerator technologies” and graduate with a PhD in the field of <em>Physics and Astronomy</em>.</div><div><br></div><div>As part of their studies, the successful candidate will relocate to Latvia for the first year of study. Following this, the student will be given the opportunity to spend up to 24 months on a long-term attachment (LTA) at CERN. The candidate will return to the home institution for the final year of study and for the submission and defence of their thesis.</div><div><br></div><div><strong>What we offer.</strong></div><ul><li>Opportunity to work one of the most prominent research collaborations in the world;</li><li>Work in a dynamic and fast-growing research cluster;</li><li>Opportunity to spend a prolonged time based at CERN;</li><li>Highly competitive remuneration.</li></ul><div><strong>In case of several exceptional applicants, additional positions may be made available.</strong></div><div><br></div><div><strong>How to apply.</strong> The applicants should write to hep@rtu.lv or to karlis.dreimanis@rtu.lv and provide the following documentation:</div><ul><li>CV;</li><li>Cover letter outlining their interest in the position advertised;</li><li>At least one and no more than two reference letters sent by the author of the reference directly to <a href=\"mailto:karlis.dreimanis@rtu.lv\">karlis.dreimanis@rtu.lv</a>;</li><li>Proof of eligibility to work or to apply to work in the EU;</li><li>Academic transcript of the master’s level education and a photocopy of the Master’s Diploma (if available);</li><li>Proof of English proficiency (this can include previous education having been obtained in English).</li></ul><div>All aforementioned documents should reach us no later than by noon of the 24th of June 2026.</div><div><br></div><div>Selected candidates will be invited to a short interview (held remotely via teleconferencing tools) in the week following the application deadline. The successful candidates will be enrolled into the doctoral study program in “Particle physics and accelerator technologies”.</div><div><br></div><div><strong>We kindly invite applications from all regions of the world for these positions</strong>, however, please do note that, due to the constraints of the funding model, preference will be given to EU/EEA applicants as well as candidates from the United Kingdom.</div><div>For further information, please, contact hep@rtu.lv or karlis.dreimanis@rtu.lv</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-20T07:29:40.023595+00:00",
+      "updated": "2026-05-20T17:01:27.153284+00:00",
+      "addedAt": "2026-05-21T09:06:55.421Z",
+      "isNew": true
+    },
+    {
       "id": "3157675",
       "title": "PhD positions in experimental Astroparticle Physics",
       "institution": "Dortmund U.",
@@ -29,7 +77,7 @@
       "created": "2026-05-19T17:29:33.790687+00:00",
       "updated": "2026-05-19T19:26:12.168841+00:00",
       "addedAt": "2026-05-20T09:06:21.443Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3156829",
@@ -7884,6 +7932,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-20T09:06:21.443Z",
-  "totalJobs": 294
+  "lastUpdated": "2026-05-21T09:06:55.423Z",
+  "totalJobs": 296
 }
