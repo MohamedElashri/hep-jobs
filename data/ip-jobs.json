@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "id": "3152602",
+      "title": "Postdoc",
+      "institution": "SCE, Israel",
+      "deadline": "2026-09-30",
+      "description": "<div><br></div>",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "PHD",
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-07T13:02:54.977758+00:00",
+      "updated": "2026-05-22T14:30:01.655599+00:00",
+      "addedAt": "2026-05-25T09:19:53.397Z",
+      "isNew": true
+    },
+    {
       "id": "3158275",
       "title": "Postdoctoral position with the LHCb experiment",
       "institution": "Marseille, CPPM",
@@ -25,7 +49,7 @@
       "created": "2026-05-21T11:47:56.028097+00:00",
       "updated": "2026-05-21T15:39:20.891654+00:00",
       "addedAt": "2026-05-22T09:05:17.883Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3158069",
@@ -7959,6 +7983,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-22T09:05:17.885Z",
-  "totalJobs": 297
+  "lastUpdated": "2026-05-25T09:19:53.399Z",
+  "totalJobs": 298
 }
