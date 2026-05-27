@@ -1,6 +1,193 @@
 {
   "jobs": [
     {
+      "id": "3160167",
+      "title": "Postdoctoral Positions in Hadron Collider Physics at the LHC with the ATLAS Detector",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-06-10",
+      "description": "<div>The High Energy Physics Institute in Barcelona (IFAE-Barcelona) announces the opening of two Postdoctoral Positions to participate in its hadron collider experimental program using the ATLAS detector at the LHC. IFAE is one of the top research centers in Spain conducting experimental and theoretical research at the frontier of fundamental physics, as well as developing cutting-edge detector technology. In 2012, 2016, and 2025 IFAE was awarded the distinction of “Severo Ochoa” Centre of Excellence by the Spanish Ministry of Economy and Competitiveness.&nbsp;</div><div><br></div><div>General information about IFAE is available at <a href=\"http://www.ifae.es\">http://www.ifae.es</a>.&nbsp;</div><div><br></div><div>IFAE maintains a strong presence in the ATLAS experiment, with major responsibilities on the maintenance and operation of the TileCal hadronic calorimeter and the Level-1 Topological Trigger system, and participates in the Pixel detector and trigger upgrade. The group has also developed an exciting and broad research program that includes precision measurements of the top quark (e.g., four-top-quark production) and the Higgs boson (e.g., top-Higgs Yukawa coupling, di-Higgs and tri-Higgs production), and searches for new phenomena beyond the Standard Model (e.g., supersymmetry, vector-like fermions, leptoquarks, additional light or heavy Higgs bosons, etc.).&nbsp;</div><div><br></div><div>The successful postdoctoral candidates will join the IFAE-ATLAS group and will participate in first-class research with the ATLAS detector. They will participate in the analysis of the data collected during Run 2 and Run 3 of the LHC and the upgrade activities of the ATLAS detector in preparation for the High-Luminosity LHC. The duration of the positions are 2 years.</div><div><br></div><div>Applicants should hold a Ph.D. in Experimental Particle Physics, which should have been obtained during the last three years. They should provide a curriculum vitae, a brief description of research interests, and arrange for three letters of recommendation to be sent by e-mail to Dr. Imma Riu (<a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>), Dr. Tamara Vázquez Schröder (<a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>) and <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a> stating the job reference (IFAE2026/26_ATLAS_2 Postdocs ) as the subject of the message. Applications should ideally be received by <strong>10 June 2026 </strong>but will remain open until filled. The selected candidates are expected to start working in IFAE as soon as possible and no later than Fall 2026.</div><div><br></div><div>IFAE is an equal opportunity employer committed to diversity in the workplace, and we welcome applications from all qualified candidates. Women are particularly encouraged to apply.&nbsp;</div><div><br></div><div>Sending CVs to the above addresses implies consent to the <a href=\"https://www.ifae.es/about/legal-warning\">IFAE's legal warning on data privacy</a>. The application must contain a personal identification number (DNI, NIE or passport) in order to proceed to the verification of absence of conflict of interest required by Recovery and Resilience Mechanism of the Spanish Government.</div><div><br></div><div><strong>Contact: </strong><a href=\"https://inspirehep.net/authors/991637\">Riu, Imma</a> (<a href=\"mailto:imma.riu@cern.ch\">imma.riu@cern.ch</a>); <a href=\"https://inspirehep.net/authors/1073034\">Vazquez Schroeder, Tamara</a> (<a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>)</div><div><strong>Letters of Reference should be sent to: </strong><a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>, <a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>, <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a></div><div><strong>More Information: </strong><a href=\"https://www.ifae.es/careers/jobs/2026/05/two-postdoctoral-research-positions-in-the-atlas-group-at-ifae/\">https://www.ifae.es/careers/jobs/2026/05/two-postdoctoral-research-positions-in-the-atlas-group-at-ifae/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.ifae.es/careers/jobs/2026/05/two-postdoctoral-research-positions-in-the-atlas-group-at-ifae/"
+      ],
+      "contact_email": null,
+      "created": "2026-05-26T17:44:58.542136+00:00",
+      "updated": "2026-05-26T18:20:16.331715+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
+      "id": "3158947",
+      "title": "Postdoc job at the CMS experiment",
+      "institution": "Kansas State U., Manhattan",
+      "deadline": "2027-01-08",
+      "description": "<div>The Physics Department at Kansas State University invites applications for a postdoctoral research associate position in experimental high energy physics with the CMS experiment at the LHC.</div><div>&nbsp;</div><div>The Kansas State CMS group (Prof. Ivanov, Kaadze, Maravin) is involved in operations and upgrades of the forward pixel, hadron calorimeter, and MIP timing detector (MTD) of the CMS, as well as in measurements of the Higgs boson’s properties and searches for new physics. A new postdoc will be expected to join the ongoing study of H boson production with the di-tau lepton final state using Run 3 data and participate in the group’s CMS hardware and operations activities.</div><div>&nbsp;</div><div>The group is looking for an outstanding applicant who has obtained, or is about to obtain, a Ph.D. in Experimental Particle Physics. Candidates should have strong data analysis skills, especially with machine learning techniques, and preferably have experience in hardware.</div><div>&nbsp;</div><div>For inquiries, please contact Yurii Maravin (<a href=\"mailto:Yurii.Maravin@cern.ch\">Yurii.Maravin@cern.ch</a>). Interested candidates should submit a CV, a list of publications with primary contributions, a description of research history and research interests, and arrange for three letters of recommendation to be sent to Yurii Maravin.</div><div>&nbsp;</div><div>Kansas State University is an Equal Opportunity Employer of individuals with disabilities and protected veterans and actively seeks diversity among its employees. Background checks might be required.</div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-23T10:57:09.463306+00:00",
+      "updated": "2026-05-26T14:19:51.786184+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
+      "id": "3158953",
+      "title": "Postdoctoral Research Position in Machine Learning for Collider Experiments",
+      "institution": "Weizmann Inst.",
+      "deadline": "2026-09-07",
+      "description": "<div><strong>Postdoctoral Research Position in Machine Learning for Collider Experiments</strong></div><div><br></div><div><strong>About the Group</strong></div><div>The Gross group at the Weizmann Institute of Science plays a leading role at the intersection of machine learning and experimental particle physics. Central to the group’s diverse research activities are the core problems of detector reconstruction and simulation in collider experiments. Research targets both direct applications within the ATLAS experiment and independent, methods-focused publications in EPJC, PRL/PRD, and MLST or machine learning conference workshops. For more information about the group please visit: <a href=\"https://www.weizmann.ac.il/particle/gross/\">https://www.weizmann.ac.il/particle/gross/</a>&nbsp;</div><div><strong>Central research activities</strong></div><ul><li>Lead the deployment of hypergraph and transformer-based particle reconstruction algorithms within the ATLAS experiment for high-luminosity runs</li><li>Develop fast surrogate models for detector simulation and reconstruction, extending the Parnassus framework</li><li>Train multimodal foundation models to optimize detector data representations</li><li>Publish independent machine learning methodology papers in physics and computer science journals</li><li>Collaborate with PhD students and present work at leading conferences in the field</li></ul><div><strong>Qualifications</strong></div><ul><li>PhD in particle physics, astrophysics, computer science, or a closely related field</li><li>Experience with machine learning (PyTorch preferred)</li><li>Experience with reconstruction and/or simulation algorithms at particle physics experiments&nbsp;</li><li>Familiarity with generative models and transformers is highly desirable</li><li>Ability to lead research projects, supervise students, and publish results independently</li></ul><div><strong>Opportunities</strong></div><ul><li>Support for methods-focused ML research with application to particle physics and beyond</li><li>Access to local GPU cluster</li><li>Extended visits to CERN</li><li>Competitive postdoctoral salary</li><li><a href=\"https://www.weizmann.ac.il/wsos/fellowship-aid/postdoctoral-fellows\">https://www.weizmann.ac.il/wsos/fellowship-aid/postdoctoral-fellows</a></li><li>Enhanced fellowships available on competitive basis through external programs:</li><li><a href=\"https://azrielifoundation.org/fellows/internationalpostdoctoral\">https://azrielifoundation.org/fellows/internationalpostdoctoral</a></li><li><a href=\"https://zuckermanstem.org/ourprograms/postdoc-program\">https://zuckermanstem.org/ourprograms/postdoc-program</a></li></ul><div><strong>How to Apply</strong></div><div>Interested candidates should send a CV, a brief description of research interests and experience, and the contact information for 2-3 references to Prof. Eilam Gross at <a href=\"mailto:eilam.gross@weizmann.ac.il\">eilam.gross@weizmann.ac.il</a>. Review of applications will begin immediately and continue until the position is filled.</div>",
+      "regions": [
+        "Europe",
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.weizmann.ac.il/particle/gross/"
+      ],
+      "contact_email": null,
+      "created": "2026-05-24T07:28:29.866863+00:00",
+      "updated": "2026-05-26T14:16:03.262356+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
+      "id": "3158925",
+      "title": "Postdoctoral Position in experimental high-energy collider physics",
+      "institution": "Bern U., LHEP",
+      "deadline": "2026-06-03",
+      "description": "<div>The Laboratory for High Energy Physics (LHEP) and Albert Einstein Center for Fundamental</div><div>Physics (AEC) at the University of Bern invite applications for a</div><div><br></div><div><strong>Postdoctoral Position in experimental high-energy collider physics</strong></div><div><br></div><div>The LHEP/AEC group is actively involved in the physics program of the ATLAS experiment at the</div><div>CERN LHC, including the analysis of data and detector upgrades for the HL-LHC. The physics</div><div>interests are focused on the search for new physics beyond the Standard Model. For the HL-LHC ,</div><div>we implement the opto-electrical signal conversion for the new ITk pixel detector readout.</div><div>Furthermore, we started efforts towards the FCC-ee that will involve detector development and</div><div>physics studies. We have in-house mechanical and electronics workshops as well as a scientific</div><div>computing cluster to support the work.</div><div><br></div><div>The successful candidate is expected to play a leading role in the current activities of the group</div><div>and proactively shape the plans for ATLAS and the FCC. Applicants must have a completed PhD</div><div>in experimental high-energy physics with an academic age of ideally less than three years (in any</div><div>case not exceeding six years). Preference will be given to candidates with a strong background in</div><div>particle physics detectors. The initial duration of the contract is for two years, extendable. The</div><div>position will be located in Bern.</div><div><br></div><div>Candidates are requested to send a short letter of application illustrating the research interests and</div><div>motivation to join our group. Also required are CV, a list of publications, and the names and e-mail</div><div>addresses of three references (we will ask the references to send letters after an initial selection).</div><div><br></div><div>The <strong>review of applications will start June 3rd, 2026 </strong>and continue until the position is filled.</div><div><br></div><div>Please <strong>send applications packages by email with subject “Collider PostDoc application” to:</strong></div><div><strong>alexandra.gerber-huisman@unibe.ch.</strong></div><div><br></div><div>For further information, contact: Prof. Dr. Michele Weber, michele.weber@unibe.ch</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-FCC"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-22T17:57:52.582566+00:00",
+      "updated": "2026-05-26T14:13:33.152590+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
+      "id": "3158776",
+      "title": "PhD position in ATLAS physics",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-06-10",
+      "description": "<div>The High Energy Physics Institute in Barcelona (IFAE-Barcelona) announces the opening of a Predoctoral Position to participate in its hadron collider experimental program using the ATLAS detector at CERN’s Large Hadron Collider (LHC). IFAE is one of the top research centers in Spain conducting experimental and theoretical research at the frontier of fundamental physics, as well as developing cutting-edge detector technology. In 2012, 2016 and 2024, IFAE was awarded the distinction of “Severo Ochoa” Centre of Excellence by the Spanish Ministry of Economy and Competitiveness.</div><div>&nbsp;</div><div>General information about IFAE is available at <a href=\"http://www.ifae.es\">http://www.ifae.es</a>.</div><div>&nbsp;</div><div>IFAE maintains a strong presence in the ATLAS experiment at the LHC, with major responsibilities on the calibration and maintenance of the Tile Calorimeter hadronic calorimeter and the Level-1 Topological Trigger system, and participates in the upgrade of TileCal, the trigger system and the Pixel detector. The IFAE-ATLAS group has developed an exciting and broad research program that includes precision measurements of the top quark and the Higgs boson, and searches for new phenomena beyond the Standard Model.</div><div>&nbsp;</div><div>The successful PhD candidate will join the IFAE-ATLAS group and will participate in first-class research with the ATLAS detector. They will play a leading role in physics analysis using the full Run 2 and Run 3 datasets, and participate in the upgrade activities of the ATLAS detector for the High-Luminosity LHC period.</div><div>&nbsp;</div><div>Interested candidates with an excellent CV, a demonstrable English level, a pro-active attitude and good communications skills, are encouraged to apply. IFAE is an equal opportunity employer committed to diversity in the workplace, and we welcome applications from all qualified candidates.</div><div>&nbsp;</div><div>Applications must be submitted to Dr. Imma Riu (<a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>) and <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a> <strong>by&nbsp;June 10, 2026</strong>, including the job reference (IFAE2026/25_ATLAS_PhDStudent) in the subject of the e-mail.</div><div>&nbsp;</div><div>The mail should include a motivation letter, up-to-date CV, and a full list of university grades, and arrange for two letters of reference to be sent to the above e-mail addresses. You may contact Dr. Imma Riu and Dr. Tamara Vázquez Schröder for any questions related to this job opening.</div><div>&nbsp;</div><div><strong>Contact:</strong> Imma Riu (<a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>) and Tamara Vázquez Schröder (<a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>)</div><div><strong>Letters of Reference should be sent to:</strong> <a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>, <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a></div><div><strong>More Information: </strong><a href=\"https://www.ifae.es/careers/jobs/2026/05/phd-position-in-atlas-group-at-ifae/\">https://www.ifae.es/careers/jobs/2026/05/phd-position-in-atlas-group-at-ifae/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.ifae.es/careers/jobs/2026/05/phd-position-in-atlas-group-at-ifae/"
+      ],
+      "contact_email": null,
+      "created": "2026-05-22T14:01:49.635664+00:00",
+      "updated": "2026-05-26T14:08:15.072462+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
+      "id": "3158771",
+      "title": "PhD position – Neutrino Mass Ordering determination with KM3NeT/ORCA using advanced analysis and machine learning tools",
+      "institution": "LPC, Caen",
+      "deadline": "2026-05-30",
+      "description": "<div>Neutrino oscillations provide compelling evidence for physics beyond the Standard Model. While most oscillation parameters have been measured with increasing precision, the ordering of neutrino masses (Normal or Inverted Ordering) remains one of the key open questions in particle physics. Its determination is essential for a complete understanding of the neutrino sector and has implications for both particle physics and cosmology.</div><div><br></div><div>KM3NeT (Cubic Kilometer Neutrino Telescope) is a next-generation neutrino observatory currently under construction in the Mediterranean Sea. One of its detectors, ORCA (Oscillation Research with Cosmics in the Abyss), is specifically designed to study atmospheric neutrino oscillations in the energy range of 1–100 GeV and to determine the Neutrino Mass Ordering (NMO). ORCA consists of vertical detection lines equipped with Digital Optical Modules (DOMs), each containing 31 photomultiplier tubes that detect Cherenkov light emitted by charged particles produced in neutrino interactions in water.</div><div>As the detector approaches its full configuration, ORCA will collect one of the world’s largest samples of atmospheric neutrinos in this energy range, enabling high-precision oscillation measurements.</div><div>The PhD student will be involved in the preparation and analysis of KM3NeT/ORCA data. The main focus will be on the development of advanced analysis tools to improve event reconstruction and classification. In particular, the student will design, train, and validate machine learning algorithms (including deep neural networks and Transformer-based architectures) to reconstruct neutrino energy, direction, and interaction topology.</div><div><br></div><div>These developments will contribute directly to improving the sensitivity to the Neutrino Mass Ordering and to refining the measurement of oscillation parameters.</div><div><br></div><div>The project includes:</div><ul><li>Development of a generic event containment criterion accounting for the evolving detector geometry</li><li>Implementation of machine learning models for energy, direction, and topology reconstruction</li><li>Application of these methods to the experimental determination of the neutrino mass ordering</li></ul><div>The work will be carried out in close collaboration with members of the KM3NeT collaboration across Europe. The PhD student will actively participate in collaboration meetings and present results at international conferences and workshops.</div><div><br></div><div><strong>Research environment:</strong></div><div>The PhD will take place at LPC Caen (CNRS/IN2P3 – ENSICAEN – Université de Caen Normandie), a laboratory with strong expertise in neutrino oscillation physics and artificial intelligence applied to particle physics. The team is actively involved in KM3NeT, contributing to detector calibration, simulation, and data analysis.</div><div><br></div><div>The student will have access to local computing resources, including dedicated GPU servers, as well as national computing facilities (IN2P3 computing center) for large-scale analyses. Close collaborations with other KM3NeT groups in Europe are expected.</div><div><br></div><div><strong>Profile:</strong></div><div>Applicants should:</div><ul><li>Hold a Master’s degree (or equivalent) in particle physics, nuclear physics, instrumentation, or data science</li><li>Have experience in data analysis, Monte Carlo simulations, and scientific programming (Python, C++, or similar)</li><li>Show strong motivation for experimental research in large collaborations</li><li>Demonstrate autonomy, teamwork skills, and proficiency in English</li></ul><div>Experience in machine learning, signal processing, or statistical methods is a plus.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "KM3NeT"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-22T12:53:16.582378+00:00",
+      "updated": "2026-05-26T14:05:37.686461+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
+      "id": "3158770",
+      "title": "PhD student in Strong-field QED Experiments",
+      "institution": "DESY",
+      "deadline": "2026-06-21",
+      "description": "<div>DESY, with more than 2900 employees at its two locations in Hamburg and Zeuthen, is one of the world's leading research centres. Its research focuses on decoding the structure and function of matter, from the smallest particles of the universe to the building blocks of life. In this way, DESY contributes to solving the major questions and urgent challenges facing science, society and industry. With its ultramodern research infrastructure, its interdisciplinary research platforms and its international networks, DESY offers a highly attractive working environment in the fields of science, technology and administration as well as for the education of highly qualified young scientists.</div><div><br></div><div>The FTX group shapes the physics case and develops detector technologies and concepts for future accelerator-based particle physics experiments. It has strong expertise in the preparations for a future electron-positron collider and its detectors as well as for laser-electron experiments to study Quantum-Electrodynamics in the yet unexplored regime of strong fields. PhD students in FTX become members of the PIER graduate school and through this receive offers for academic training, soft skills, and career planning. In the context of the ERC Synergy project \"NP-QED\", DESY will plan and conduct experiments to probe strong-field QED up to the non-perturbative regime using electron beams and intense laser boosted by plasma mirrors. The FTX group is driving the development of key parts of the experiment, designing and building the detection systems based on detailed simulations of the strong-field QED processes. Among the applications of strong-field QED is the collision of highly focused electron and positron beams in future high-energy colliders, where it influences the experimental environment in terms of background conditions and the luminosity spectrum.</div><div><br></div><div><strong>About your role:</strong></div><ul><li>Simulate strong-field QED effects in laser-electron collisions</li><li>Develop an optimised detection systems based on simulations and test measurement campaigns</li><li>Conduct measurement campaigns at CEA Saclay and DESY</li><li>Analyse the resulting data and evaluate the impact on the design of high-energy colliders</li></ul><div><strong>Good reasons to join:</strong></div><div>Look forward to a unique working environment on our international research campus. Respectful cooperation and the well-being of our DESY employees are particularly important to us. Gender equality is an important aspect for us. To support work life balance we offer flexible working hours, variable part-time, job-sharing models and participation in mobile work (up to 50%). You will benefit from our family-friendly and collegial atmosphere, our established health management and occupational pension provision. As a public funded employer, we offer you a secure workplace and facilitate your individual career with our comprehensive training and development opportunities. Remuneration is according to the regulations of the TV-AVH. DESY offers its employees a financial supplement for a German job ticket (Deutschland-Ticket) at both locations.</div><div><br></div><div><strong>About you:</strong></div><ul><li>Master in experimental physics</li><li>Advanced knowledge in particle physics as well as in detectors and/or accelerators</li><li>Experience in programming (C++, python, ... ) and hands-on laboratory work</li><li>Team ability and very good English language skills</li></ul><div><strong>For further information please contact Jenny List (jenny.list@desy.de).</strong></div><div><br></div><div>DESY in Hamburg does not grant doctoral degrees directly but collaborates with the University of Hamburg. Candidates for thesis research will have to satisfy the terms of admission for doctoral theses of the University of Hamburg. PhD students receive a monthly salary of 67% of the payment of the remuneration group 13 TVöD (Federal Government).</div><div><br></div><div>Please submit your complete application documents (letter of motivation, CV, relevant certificates and two letters of references) via our application portal. Please use our online tool for the submission of the letters of reference:&nbsp;<a href=\"https://www.desy.de/career/additional_application_documents/index_eng.html\">Additional application documents</a></div><div>We look forward to receiving your application via our application portal:</div><div><br></div><div><a href=\"https://www.desy.de/career/online_application/index_eng.html?p=18404:10:0&amp;jobid=FHDO011/2026&amp;P_LANG=en\">Apply now&nbsp;</a></div><div><br></div><div>DESY promotes equal opportunities and diversity. The professional development of women is very important to us and therefore we strongly encourage women to apply for the vacant position. Applications from severely disabled persons will be given preference if they are equally qualified&nbsp;<a href=\"https://sbv.desy.de/\">(sbv.desy.de)</a>.</div><div><br></div><div>You can find further information here:&nbsp;</div><div><a href=\"https://www.desy.de/career/\">https://www.desy.de/career/</a></div><div><br></div><div>Deutsches Elektronen-Synchrotron DESY</div><div>Personalabteilung&nbsp;</div><div>Notkestraße 85&nbsp;</div><div>22607 Hamburg</div><div>Phone: +49 40 8998-3392</div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "physics",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://v22.desy.de/e67416/records314808/index_eng.html"
+      ],
+      "contact_email": null,
+      "created": "2026-05-22T12:29:36.362127+00:00",
+      "updated": "2026-05-26T14:01:40.523358+00:00",
+      "addedAt": "2026-05-27T09:07:15.048Z",
+      "isNew": true
+    },
+    {
       "id": "3152602",
       "title": "Postdoc",
       "institution": "SCE, Israel",
@@ -7983,6 +8170,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-26T09:08:40.813Z",
-  "totalJobs": 298
+  "lastUpdated": "2026-05-27T09:07:15.050Z",
+  "totalJobs": 305
 }
