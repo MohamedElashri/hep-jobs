@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3162065",
+      "title": "Postdoctoral Position in Data Analysis with Machine Learning",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-07-15",
+      "description": "<div>The Experimental Particle Physics Group (ETP) at the Karlsruhe Institute of Technology (KIT) invites applications for junior and senior postdoctoral research associates to work on machine-learning methods for particle physics, with a focus on inter-experimental data science applications and/or their use in CMS.</div><div><br></div><div>Candidates should have a Ph.D. in experimental particle physics or a closely related field or should have acquired one by the time of starting the appointment. Further, candidates should have excellent data analysis, computing and programming skills, and in-depth experience with machine-learning applications.</div><div><br></div><div>The selected candidate will work in a scientifically active environment with extensive national and international collaborations.</div><div><br></div><div>The position is expected to start in autumn 2026, with the exact starting date to be agreed upon, but applications will be considered until the position is filled. To ensure full consideration, applications should be received by July 15, 2026.</div><div><br></div><div><strong>Application documents:</strong></div><ul><li>Curriculum Vitae (CV); listing contacts for feedback on individual research topics is encouraged.</li><li>Three reference letters.</li><li>In case the candidate does not have a Ph.D. yet, a statement from the supervisor about the timeline to acquire it should be included.</li></ul><div>We strongly encourage applications from candidates of diverse backgrounds and perspectives.</div><div><br></div><div>All material is to be sent to:</div><div><strong>Jan Kieseler</strong></div><div><strong>jan.kieseler@kit.edu</strong></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-05-28T12:16:16.703694+00:00",
+      "updated": "2026-05-28T19:04:22.728628+00:00",
+      "addedAt": "2026-05-29T09:08:37.552Z",
+      "isNew": true
+    },
+    {
       "id": "3161035",
       "title": "Full-time doctoral scholarship holder in the field of experimental particle physics",
       "institution": "Antwerp U.",
@@ -25,7 +50,7 @@
       "created": "2026-05-27T12:41:46.636375+00:00",
       "updated": "2026-05-27T15:20:07.215897+00:00",
       "addedAt": "2026-05-28T09:31:26.961Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3160167",
@@ -8197,6 +8222,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-28T09:31:26.962Z",
-  "totalJobs": 306
+  "lastUpdated": "2026-05-29T09:08:37.553Z",
+  "totalJobs": 307
 }
