@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3162933",
+      "title": "PhD position in Electronics Engineering",
+      "institution": "Rome U., Tor Vergata",
+      "deadline": "2026-06-09",
+      "description": "<div>PhD positions in Electronics Engineering are open at the University of Rome Tor Vergata.</div><div>One of the positions will be founded by the National Laboratories of Frascati (LNF) and can be devoted to the ATLAS ITk project at CERN. ITk is the new Inner Tracker for the High Luminosity Phase of Large Hadron Collider at CERN, expected to start in 2030. The LNF has the responsibility to assemble and commissioning one pixel outer endcap, of about 1000 silicon modules. The candidate has the opportunity to contribute in modules testing, data acquisition, and detector control system in the context af a large international collaboration.</div><div>Informations about how to apply are in</div><div><a href=\"https://phd.uniroma2.it/web/concorso42.aspx?s=&amp;i=1009&amp;m=&amp;l=EN&amp;p=&amp;a=\">https://phd.uniroma2.it/web/concorso42.aspx?s=&amp;i=1009&amp;m=&amp;l=EN&amp;p=&amp;a=</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://phd.uniroma2.it/web/concorso42.aspx?s=&i=1009&m=&l=EN&p=&a="
+      ],
+      "contact_email": null,
+      "created": "2026-05-29T21:14:16.088556+00:00",
+      "updated": "2026-05-30T17:27:28.461195+00:00",
+      "addedAt": "2026-06-01T09:49:07.507Z",
+      "isNew": true
+    },
+    {
       "id": "3162065",
       "title": "Postdoctoral Position in Data Analysis with Machine Learning",
       "institution": "KIT, Karlsruhe",
@@ -23,7 +51,7 @@
       "created": "2026-05-28T12:16:16.703694+00:00",
       "updated": "2026-05-28T19:04:22.728628+00:00",
       "addedAt": "2026-05-29T09:08:37.552Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3161035",
@@ -8222,6 +8250,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-05-29T09:08:37.553Z",
-  "totalJobs": 307
+  "lastUpdated": "2026-06-01T09:49:07.509Z",
+  "totalJobs": 308
 }
