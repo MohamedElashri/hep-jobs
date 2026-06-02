@@ -95,16 +95,22 @@
     <script>
         (function() {
             const savedTheme = localStorage.getItem('theme') || 'light';
+            const themeMap = {
+                light: '#f5f7fb',
+                dark: '#161a23',
+                night: '#161a23',
+                collider: '#0f1720',
+                contrast: '#050505'
+            };
+            const validThemes = ['light', 'night', 'collider', 'contrast'];
+            const theme = savedTheme === 'dark' ? 'night' : (validThemes.includes(savedTheme) ? savedTheme : 'light');
             const html = document.documentElement;
-            if (savedTheme === 'dark') {
+            html.dataset.theme = theme;
+            if (theme !== 'light') {
                 html.classList.add('dark');
-                html.classList.add('no-transition');
-                // Apply dark background immediately to prevent flash
-                html.style.backgroundColor = '#1a1b26';
-            } else {
-                // Apply light background immediately to prevent flash
-                html.style.backgroundColor = '#f6f8fa';
             }
+            html.classList.add('no-transition');
+            html.style.backgroundColor = themeMap[theme] || themeMap.light;
         })();
     </script>
 </head>
@@ -113,8 +119,8 @@
         <div class="container">
             <div class="header-top">
                 <div class="header-left">
-                    <h1 class="clickable-title" onclick="window.location.reload()">🔬 Experimental HEP Jobs Tracker</h1>
-                    <p class="subtitle" id="pageSubtitle">Experimental High Energy Physics Career Opportunities (In the last {{daysBack}} days)</p>
+                    <h1 class="clickable-title" onclick="window.location.reload()">HEP Jobs</h1>
+                    <p class="subtitle" id="pageSubtitle">Experimental physics openings from the last {{daysBack}} days</p>
                 </div>
                 <div class="header-right">
                     <div class="header-stats-inline">
@@ -127,20 +133,36 @@
                             <span class="stat-label-inline">Active</span>
                         </div>
                     </div>
-                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
-                        <span class="theme-icon">🌙</span>
-                    </button>
+                    <div class="theme-picker" id="themePicker" aria-label="Choose theme">
+                        <button class="theme-swatch active" data-theme="light" aria-label="Light theme" title="Light">
+                            <span style="background:#f5f7fb"></span>
+                            <span style="background:#2563eb"></span>
+                            <span style="background:#16a34a"></span>
+                        </button>
+                        <button class="theme-swatch" data-theme="night" aria-label="Night theme" title="Night">
+                            <span style="background:#161a23"></span>
+                            <span style="background:#38bdf8"></span>
+                            <span style="background:#a78bfa"></span>
+                        </button>
+                        <button class="theme-swatch" data-theme="collider" aria-label="Collider theme" title="Collider">
+                            <span style="background:#0f1720"></span>
+                            <span style="background:#f59e0b"></span>
+                            <span style="background:#14b8a6"></span>
+                        </button>
+                        <button class="theme-swatch" data-theme="contrast" aria-label="High contrast theme" title="High contrast">
+                            <span style="background:#050505"></span>
+                            <span style="background:#f8fafc"></span>
+                            <span style="background:#facc15"></span>
+                        </button>
+                    </div>
                 </div>
             </div>
             
             <div class="header-bottom">
                 <nav class="source-nav">
                     <a href="#" class="nav-link active" data-source="all">All Jobs</a>
-                    <span class="nav-separator">•</span>
                     <a href="#" class="nav-link" data-source="inspirehep">InspireHEP</a>
-                    <span class="nav-separator">•</span>
                     <a href="#" class="nav-link" data-source="ajo">AcademicJobsOnline</a>
-                    <span class="nav-separator">•</span>
                     <a href="#" class="nav-link" data-source="desy">DESY</a>
                 </nav>
                 <div class="last-updated">

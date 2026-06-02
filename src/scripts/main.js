@@ -12,7 +12,7 @@ class JobsApp {
         this.rankFilters = document.querySelectorAll('.rank-filter input[type="checkbox"]');
         this.resultsSummary = document.getElementById('resultsSummary');
         this.emptyResults = document.getElementById('emptyResults');
-        this.themeToggle = document.getElementById('themeToggle');
+        this.themeButtons = document.querySelectorAll('.theme-swatch');
         this.modal = document.getElementById('jobModal');
         this.modalClose = document.getElementById('modalClose');
         this.previewPopup = document.getElementById('previewPopup');
@@ -58,7 +58,9 @@ class JobsApp {
             checkbox.addEventListener('change', () => this.filterJobs());
         });
 
-        this.themeToggle.addEventListener('click', () => this.toggleTheme());
+        this.themeButtons.forEach(button => {
+            button.addEventListener('click', () => this.setTheme(button.dataset.theme));
+        });
 
         this.navLinks.forEach(link => {
             link.addEventListener('click', (e) => {
@@ -301,27 +303,29 @@ class JobsApp {
         }, 50);
     }
 
-    toggleTheme() {
-        const currentTheme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-        const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-        this.setTheme(newTheme);
+    normalizeTheme(theme) {
+        const validThemes = ['light', 'night', 'collider', 'contrast'];
+        if (theme === 'dark') return 'night';
+        return validThemes.includes(theme) ? theme : 'light';
     }
 
     setTheme(theme) {
-        if (theme === 'dark') {
+        const nextTheme = this.normalizeTheme(theme);
+        document.documentElement.dataset.theme = nextTheme;
+
+        if (nextTheme !== 'light') {
             document.documentElement.classList.add('dark');
         } else {
             document.documentElement.classList.remove('dark');
         }
 
-        localStorage.setItem('theme', theme);
+        localStorage.setItem('theme', nextTheme);
 
-        const themeIcon = this.themeToggle.querySelector('.theme-icon');
-        themeIcon.textContent = theme === 'light' ? '🌙' : '☀️';
-
-        this.themeToggle.setAttribute('aria-label',
-            theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'
-        );
+        this.themeButtons.forEach(button => {
+            const isActive = button.dataset.theme === nextTheme;
+            button.classList.toggle('active', isActive);
+            button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        });
     }
 
     setFilter(button) {
