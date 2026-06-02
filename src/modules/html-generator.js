@@ -43,7 +43,7 @@ class HTMLGenerator {
 
   escapeHtml(text) {
     if (!text) return "";
-    return text
+    return String(text)
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
@@ -95,9 +95,13 @@ class HTMLGenerator {
   }
 
   generateJobCard(job) {
+    const ranks = Array.isArray(job.ranks) ? job.ranks : [];
+    const regions = Array.isArray(job.regions) ? job.regions : [];
+    const experiments = Array.isArray(job.experiments) ? job.experiments : [];
+    const urls = Array.isArray(job.urls) ? job.urls : [];
     const deadline = this.formatDate(job.deadline);
     const isExpired = this.isExpired(job.deadline);
-    const hasPostdoc = job.ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
+    const hasPostdoc = ranks.some(rank => rank.toUpperCase() === 'POSTDOC');
     const isNew = job.isNew === true; // Check if this job was just added
     
     let cardClass = isExpired ? "job-card expired" : "job-card";
@@ -108,11 +112,13 @@ class HTMLGenerator {
     const isAJO = job.source === 'AcademicJobsOnline';
     const isDESY = job.source === 'DESY';
     const jobUrl = isAJO || isDESY
-      ? (job.urls && job.urls[0] ? job.urls[0] : '#')
+      ? (urls[0] ? urls[0] : '#')
       : `https://inspirehep.net/jobs/${job.id}`;
     const jobLinkText = isAJO ? 'View on AJO' : (isDESY ? 'View on DESY' : 'View on InspireHEP');
+    const sourceName = job.source || 'InspireHEP';
+    const sourceKey = isAJO ? 'ajo' : (isDESY ? 'desy' : 'inspirehep');
     
-    const ranksData = job.ranks.map(rank => rank.toUpperCase()).join(',');
+    const ranksData = ranks.map(rank => rank.toUpperCase()).join(',');
     
     // Store full job data as JSON in data attribute
     const jobData = {
@@ -120,19 +126,24 @@ class HTMLGenerator {
       title: job.title,
       institution: job.institution,
       deadline: deadline,
+      deadlineRaw: job.deadline || '',
       isExpired: isExpired,
-      regions: job.regions,
-      ranks: job.ranks,
-      experiments: job.experiments,
+      regions: regions,
+      ranks: ranks,
+      experiments: experiments,
       description: job.description || '',
-      urls: job.urls,
+      urls: urls,
       contact_email: job.contact_email,
       jobUrl: jobUrl,
-      source: job.source || 'InspireHEP'
+      source: sourceName,
+      sourceKey: sourceKey,
+      created: job.created || '',
+      updated: job.updated || '',
+      isNew: isNew
     };
 
     return `
-      <div class="${cardClass}${postdocClass}${newJobClass}" data-id="${job.id}" data-ranks="${ranksData}" data-job='${this.escapeJsonForAttribute(jobData)}'>
+      <div class="${cardClass}${postdocClass}${newJobClass}" data-id="${this.escapeHtml(job.id)}" data-source="${sourceKey}" data-deadline="${this.escapeHtml(job.deadline || '')}" data-updated="${this.escapeHtml(job.updated || '')}" data-created="${this.escapeHtml(job.created || '')}" data-institution="${this.escapeHtml(job.institution || '')}" data-ranks="${this.escapeHtml(ranksData)}" data-job='${this.escapeJsonForAttribute(jobData)}'>
         ${isNew ? '<div class="new-job-badge">NEW</div>' : ''}
         <div class="job-header">
           <h3 class="job-title">
@@ -146,31 +157,31 @@ class HTMLGenerator {
             <strong>Deadline:</strong> ${deadline}
           </div>
           ${
-            !isDESY && job.regions.length > 0
+            !isDESY && regions.length > 0
               ? `
             <div class="regions">
-              <strong>Regions:</strong> ${job.regions.join(", ")}
+              <strong>Regions:</strong> ${regions.join(", ")}
             </div>`
               : ""
           }
           ${
-            !isDESY && job.ranks.length > 0
+            !isDESY && ranks.length > 0
               ? `
             <div class="ranks">
-              <strong>Ranks:</strong> ${job.ranks.join(", ")}
+              <strong>Ranks:</strong> ${ranks.join(", ")}
             </div>`
               : ""
           }
           ${
-            job.experiments.length > 0
+            experiments.length > 0
               ? `
             <div class="experiments">
-              <strong>Experiments:</strong> ${job.experiments
+              <strong>Experiments:</strong> ${experiments
                 .slice(0, 3)
                 .join(", ")}
               ${
-                job.experiments.length > 3
-                  ? ` (+${job.experiments.length - 3} more)`
+                experiments.length > 3
+                  ? ` (+${experiments.length - 3} more)`
                   : ""
               }
             </div>`
@@ -271,6 +282,9 @@ class HTMLGenerator {
         <p>Check back later for new opportunities!</p>
       </div>` : "";
 
+    const totalJobs = inspirehepJobs.length + ajoJobs.length + desyJobs.length;
+    const activeJobs = inspirehepActiveJobs.length + ajoActiveJobs.length + desyActiveJobs.length;
+
     // Load and process template
     const template = this.loadTemplate('index.html');
     
@@ -287,8 +301,8 @@ class HTMLGenerator {
       : "Never";
     
     return template
-      .replace(/\{\{totalJobs\}\}/g, inspirehepData.totalJobs)
-      .replace(/\{\{activeJobs\}\}/g, inspirehepActiveJobs.length)
+      .replace(/\{\{totalJobs\}\}/g, totalJobs)
+      .replace(/\{\{activeJobs\}\}/g, activeJobs)
       .replace(/\{\{lastUpdated\}\}/g, updateTime)
       .replace(/\{\{daysBack\}\}/g, this.config.daysBack || 30)
       .replace(/\{\{inspirehepJobCards\}\}/g, inspirehepJobCards)

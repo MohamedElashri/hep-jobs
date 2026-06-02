@@ -1,11 +1,17 @@
 class JobsApp {
     constructor() {
-        // Current source ('all', 'inspirehep', 'ajo', or 'desy')
         this.currentSource = localStorage.getItem('currentSource') || 'all';
-        
+        this.currentFilter = localStorage.getItem('jobsFilter') || 'active';
+        this.currentView = localStorage.getItem('jobsView') || 'cards';
+        this.currentSort = localStorage.getItem('jobsSort') || 'deadline';
+
         this.searchInput = document.getElementById('searchInput');
+        this.sortSelect = document.getElementById('sortSelect');
         this.filterButtons = document.querySelectorAll('.filter-btn');
+        this.viewButtons = document.querySelectorAll('.view-btn');
         this.rankFilters = document.querySelectorAll('.rank-filter input[type="checkbox"]');
+        this.resultsSummary = document.getElementById('resultsSummary');
+        this.emptyResults = document.getElementById('emptyResults');
         this.themeToggle = document.getElementById('themeToggle');
         this.modal = document.getElementById('jobModal');
         this.modalClose = document.getElementById('modalClose');
@@ -13,14 +19,15 @@ class JobsApp {
         this.previewClose = document.getElementById('previewClose');
         this.previewViewFull = document.getElementById('previewViewFull');
         this.currentJobData = null;
-        
-        // Navigation and views
+
         this.navLinks = document.querySelectorAll('.nav-link');
         this.allView = document.getElementById('all-view');
         this.inspirehepView = document.getElementById('inspirehep-view');
         this.ajoView = document.getElementById('ajo-view');
         this.desyView = document.getElementById('desy-view');
-        
+        this.activeContainer = null;
+        this.allJobs = [];
+
         this.initEventListeners();
         this.initTheme();
         this.initModal();
@@ -28,9 +35,7 @@ class JobsApp {
         this.switchSource(this.currentSource);
     }
 
-    // Helper function to decode HTML entities in JSON strings
     decodeJsonAttribute(attrValue) {
-        // Decode only the entities we escaped: &amp; and &#x27;
         const decoded = attrValue
             .replace(/&#x27;/g, "'")
             .replace(/&amp;/g, "&");
@@ -39,9 +44,14 @@ class JobsApp {
 
     initEventListeners() {
         this.searchInput.addEventListener('input', () => this.filterJobs());
-        
+        this.sortSelect.addEventListener('change', () => this.setSort(this.sortSelect.value));
+
         this.filterButtons.forEach(btn => {
-            btn.addEventListener('click', (e) => this.setFilter(e.target));
+            btn.addEventListener('click', () => this.setFilter(btn));
+        });
+
+        this.viewButtons.forEach(btn => {
+            btn.addEventListener('click', () => this.setView(btn));
         });
 
         this.rankFilters.forEach(checkbox => {
@@ -49,13 +59,11 @@ class JobsApp {
         });
 
         this.themeToggle.addEventListener('click', () => this.toggleTheme());
-        
-        // Source navigation
+
         this.navLinks.forEach(link => {
             link.addEventListener('click', (e) => {
                 e.preventDefault();
-                const source = link.getAttribute('data-source');
-                this.switchSource(source);
+                this.switchSource(link.getAttribute('data-source'));
             });
         });
     }
@@ -63,171 +71,78 @@ class JobsApp {
     switchSource(source) {
         this.currentSource = source;
         localStorage.setItem('currentSource', source);
-        
-        // Update active navigation
+
         this.navLinks.forEach(link => {
-            if (link.getAttribute('data-source') === source) {
-                link.classList.add('active');
-            } else {
-                link.classList.remove('active');
-            }
+            link.classList.toggle('active', link.getAttribute('data-source') === source);
         });
-        
-        // Switch views and hide/show rank filters
+
+        this.allView.classList.toggle('active', source === 'all');
+        this.inspirehepView.classList.toggle('active', source === 'inspirehep');
+        this.ajoView.classList.toggle('active', source === 'ajo');
+        this.desyView.classList.toggle('active', source === 'desy');
+
+        document.getElementById('rankFilters').style.display = source === 'inspirehep' ? 'block' : 'none';
+
         if (source === 'all') {
-            this.allView.classList.add('active');
-            this.inspirehepView.classList.remove('active');
-            this.ajoView.classList.remove('active');
-            this.desyView.classList.remove('active');
-            document.getElementById('rankFilters').style.display = 'none';
             this.populateAllView();
-        } else if (source === 'inspirehep') {
-            this.allView.classList.remove('active');
-            this.inspirehepView.classList.add('active');
-            this.ajoView.classList.remove('active');
-            this.desyView.classList.remove('active');
-            document.getElementById('rankFilters').style.display = 'block';
-        } else if (source === 'ajo') {
-            this.allView.classList.remove('active');
-            this.ajoView.classList.add('active');
-            this.inspirehepView.classList.remove('active');
-            this.desyView.classList.remove('active');
-            document.getElementById('rankFilters').style.display = 'none';
-        } else if (source === 'desy') {
-            this.allView.classList.remove('active');
-            this.desyView.classList.add('active');
-            this.inspirehepView.classList.remove('active');
-            this.ajoView.classList.remove('active');
-            document.getElementById('rankFilters').style.display = 'none';
         }
-        
-        // Get jobs from current view
-        let container;
-        if (source === 'all') {
-            container = document.getElementById('jobsContainerAll');
-        } else if (source === 'inspirehep') {
-            container = document.getElementById('jobsContainerInspireHEP');
-        } else if (source === 'ajo') {
-            container = document.getElementById('jobsContainerAJO');
-        } else {
-            container = document.getElementById('jobsContainerDESY');
-        }
-        this.allJobs = Array.from(container.querySelectorAll('.job-card'));
-        
-        // Update statistics for current view
+
+        this.activeContainer = this.getContainerForSource(source);
+        this.allJobs = Array.from(this.activeContainer.querySelectorAll('.job-card'));
+
+        this.syncControls();
         this.updateStats();
-        
-        // Reset filters
-        this.searchInput.value = '';
-        this.filterButtons.forEach(btn => {
-            if (btn.getAttribute('data-filter') === 'all') {
-                btn.classList.add('active');
-            } else {
-                btn.classList.remove('active');
-            }
-        });
-        
         this.filterJobs();
+    }
+
+    getContainerForSource(source) {
+        if (source === 'all') return document.getElementById('jobsContainerAll');
+        if (source === 'inspirehep') return document.getElementById('jobsContainerInspireHEP');
+        if (source === 'ajo') return document.getElementById('jobsContainerAJO');
+        return document.getElementById('jobsContainerDESY');
+    }
+
+    syncControls() {
+        this.filterButtons.forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-filter') === this.currentFilter);
+        });
+
+        this.viewButtons.forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-view') === this.currentView);
+        });
+
+        this.sortSelect.value = this.currentSort;
+        this.applyViewClass();
     }
 
     updateStats() {
         const totalJobs = this.allJobs.length;
         const activeJobs = this.allJobs.filter(job => !job.classList.contains('expired')).length;
-        
-        // Update stat elements
         const totalJobsEl = document.getElementById('totalJobs');
         const activeJobsEl = document.getElementById('activeJobs');
-        
-        if (totalJobsEl) {
-            // Check if it's the new inline stat structure, stat-value structure, or old stat structure
-            if (totalJobsEl.classList.contains('stat-value-inline') || totalJobsEl.classList.contains('stat-value')) {
-                totalJobsEl.textContent = totalJobs;
-            } else {
-                totalJobsEl.textContent = `Total Jobs: ${totalJobs}`;
-            }
-        }
-        
-        if (activeJobsEl) {
-            if (activeJobsEl.classList.contains('stat-value-inline') || activeJobsEl.classList.contains('stat-value')) {
-                activeJobsEl.textContent = activeJobs;
-            } else {
-                activeJobsEl.textContent = `Active: ${activeJobs}`;
-            }
-        }
+
+        if (totalJobsEl) totalJobsEl.textContent = totalJobs;
+        if (activeJobsEl) activeJobsEl.textContent = activeJobs;
     }
 
     populateAllView() {
         const allContainer = document.getElementById('jobsContainerAll');
-        const inspirehepContainer = document.getElementById('jobsContainerInspireHEP');
-        const ajoContainer = document.getElementById('jobsContainerAJO');
-        const desyContainer = document.getElementById('jobsContainerDESY');
-        
-        // Clear the all container
+        const sourceContainers = [
+            document.getElementById('jobsContainerInspireHEP'),
+            document.getElementById('jobsContainerAJO'),
+            document.getElementById('jobsContainerDESY')
+        ];
+
         allContainer.innerHTML = '';
-        
-        // Clone and add all jobs from each source
-        const allJobs = [];
-        const seenIds = new Set();
-        
-        // Get InspireHEP jobs
-        const inspirehepJobs = Array.from(inspirehepContainer.querySelectorAll('.job-card'));
-        inspirehepJobs.forEach(job => {
-            const jobId = job.getAttribute('data-id');
-            if (!seenIds.has(jobId)) {
-                const clonedJob = job.cloneNode(true);
-                allJobs.push(clonedJob);
-                seenIds.add(jobId);
-            }
-        });
-        
-        // Get AJO jobs
-        const ajoJobs = Array.from(ajoContainer.querySelectorAll('.job-card'));
-        ajoJobs.forEach(job => {
-            const jobId = job.getAttribute('data-id');
-            if (!seenIds.has(jobId)) {
-                const clonedJob = job.cloneNode(true);
-                allJobs.push(clonedJob);
-                seenIds.add(jobId);
-            }
-        });
-        
-        // Get DESY jobs
-        const desyJobs = Array.from(desyContainer.querySelectorAll('.job-card'));
-        desyJobs.forEach(job => {
-            const jobId = job.getAttribute('data-id');
-            if (!seenIds.has(jobId)) {
-                const clonedJob = job.cloneNode(true);
-                allJobs.push(clonedJob);
-                seenIds.add(jobId);
-            }
-        });
-        
-        // Sort all jobs by updated date (non-expired first, then by most recently updated)
-        allJobs.sort((a, b) => {
-            const aExpired = a.classList.contains('expired');
-            const bExpired = b.classList.contains('expired');
-            
-            if (aExpired !== bExpired) {
-                return aExpired ? 1 : -1;
-            }
-            
-            // If both expired or both active, sort by updated date (newest first)
-            const aData = this.decodeJsonAttribute(a.getAttribute('data-job'));
-            const bData = this.decodeJsonAttribute(b.getAttribute('data-job'));
-            const aUpdated = new Date(aData.updated);
-            const bUpdated = new Date(bData.updated);
-            
-            return bUpdated - aUpdated;
-        });
-        
-        // Add sorted jobs to container
-        allJobs.forEach(job => {
-            allContainer.appendChild(job);
+
+        sourceContainers.forEach(container => {
+            Array.from(container.querySelectorAll('.job-card')).forEach(job => {
+                allContainer.appendChild(job.cloneNode(true));
+            });
         });
     }
 
     initModal() {
-        // Add event listeners to all view full description buttons
         document.addEventListener('click', (e) => {
             if (e.target.classList.contains('btn-view-full')) {
                 const jobCard = e.target.closest('.job-card');
@@ -238,17 +153,14 @@ class JobsApp {
             }
         });
 
-        // Close modal when clicking the X button
         this.modalClose.addEventListener('click', () => this.closeModal());
 
-        // Close modal when clicking outside the modal content
         this.modal.addEventListener('click', (e) => {
             if (e.target === this.modal) {
                 this.closeModal();
             }
         });
 
-        // Close modal with Escape key
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && this.modal.classList.contains('show')) {
                 this.closeModal();
@@ -259,53 +171,47 @@ class JobsApp {
     showModal(jobData) {
         document.getElementById('modalTitle').textContent = jobData.title;
         document.getElementById('modalInstitution').textContent = jobData.institution;
-        
-        // Build meta information
+
         let metaHTML = '';
+        metaHTML += `<div><strong>Source:</strong> ${jobData.source || 'InspireHEP'}</div>`;
         metaHTML += `<div><strong>Deadline:</strong> <span class="${jobData.isExpired ? 'expired-text' : ''}">${jobData.deadline}</span></div>`;
-        
-        // Skip regions and ranks for DESY jobs
+
         const isDESY = jobData.source === 'DESY';
-        
+
         if (!isDESY && jobData.regions && jobData.regions.length > 0) {
             metaHTML += `<div><strong>Regions:</strong> ${jobData.regions.join(', ')}</div>`;
         }
-        
+
         if (!isDESY && jobData.ranks && jobData.ranks.length > 0) {
             metaHTML += `<div><strong>Ranks:</strong> ${jobData.ranks.join(', ')}</div>`;
         }
-        
+
         if (jobData.experiments && jobData.experiments.length > 0) {
             metaHTML += `<div><strong>Experiments:</strong> ${jobData.experiments.join(', ')}</div>`;
         }
-        
+
         document.getElementById('modalMeta').innerHTML = metaHTML;
-        
-        // Set full description
+
         const description = jobData.description || 'No description available.';
         document.getElementById('modalDescription').innerHTML = description;
-        
-        // Build actions
+
         let actionsHTML = '';
-        
+
         if (jobData.jobUrl) {
-            const linkText = jobData.source === 'DESY' ? 'View on DESY' : 
-                           jobData.source === 'AcademicJobsOnline' ? 'View on AJO' : 
+            const linkText = jobData.source === 'DESY' ? 'View on DESY' :
+                           jobData.source === 'AcademicJobsOnline' ? 'View on AJO' :
                            'View on InspireHEP';
             actionsHTML += `<a href="${jobData.jobUrl}" target="_blank" class="btn-apply">${linkText}</a>`;
-        } else if (jobData.inspireHepUrl) {
-            actionsHTML += `<a href="${jobData.inspireHepUrl}" target="_blank" class="btn-apply">View on InspireHEP</a>`;
         } else if (jobData.urls && jobData.urls.length > 0) {
             actionsHTML += `<a href="${jobData.urls[0]}" target="_blank" class="btn-apply">External Link</a>`;
         }
-        
+
         if (jobData.contact_email) {
             actionsHTML += `<a href="mailto:${jobData.contact_email}" class="btn-contact">Contact</a>`;
         }
-        
+
         document.getElementById('modalActions').innerHTML = actionsHTML;
-        
-        // Show modal
+
         this.modal.classList.add('show');
         document.body.style.overflow = 'hidden';
     }
@@ -316,7 +222,6 @@ class JobsApp {
     }
 
     initPreviewPopup() {
-        // Click on job description to show preview
         document.addEventListener('click', (e) => {
             if (e.target.closest('.job-description')) {
                 const jobCard = e.target.closest('.job-card');
@@ -327,17 +232,14 @@ class JobsApp {
             }
         });
 
-        // Close preview when clicking X button
         this.previewClose.addEventListener('click', () => this.closePreview());
 
-        // Close preview when clicking outside
         this.previewPopup.addEventListener('click', (e) => {
             if (e.target === this.previewPopup) {
                 this.closePreview();
             }
         });
 
-        // View full description button opens the modal
         this.previewViewFull.addEventListener('click', () => {
             this.closePreview();
             if (this.currentJobData) {
@@ -345,7 +247,6 @@ class JobsApp {
             }
         });
 
-        // Close with Escape key
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && this.previewPopup.classList.contains('show')) {
                 this.closePreview();
@@ -355,40 +256,34 @@ class JobsApp {
 
     extractFirstParagraph(html) {
         if (!html) return 'No description available.';
-        
-        // Create a temporary div to parse HTML
+
         const temp = document.createElement('div');
         temp.innerHTML = html;
-        
-        // Try to get the first paragraph
+
         const firstP = temp.querySelector('p');
         if (firstP && firstP.textContent.trim().length > 0) {
             return firstP.outerHTML;
         }
-        
-        // If no paragraph, get first div or just truncate text
+
         const firstDiv = temp.querySelector('div');
         if (firstDiv && firstDiv.textContent.trim().length > 0) {
             return firstDiv.outerHTML;
         }
-        
-        // Fallback: get first 300 characters
+
         const text = temp.textContent.trim();
         if (text.length > 300) {
             return `<p>${text.substring(0, 300)}...</p>`;
         }
-        
+
         return html;
     }
 
     showPreview(jobData) {
         this.currentJobData = jobData;
-        
-        // Extract and show first paragraph
+
         const firstParagraph = this.extractFirstParagraph(jobData.description);
         document.getElementById('previewText').innerHTML = firstParagraph;
-        
-        // Show preview popup
+
         this.previewPopup.classList.add('show');
     }
 
@@ -397,11 +292,9 @@ class JobsApp {
     }
 
     initTheme() {
-        // Check for saved theme preference or default to light mode
         const savedTheme = localStorage.getItem('theme') || 'light';
         this.setTheme(savedTheme);
-        
-        // Remove no-transition class and inline styles after initial render
+
         setTimeout(() => {
             document.documentElement.classList.remove('no-transition');
             document.documentElement.style.backgroundColor = '';
@@ -415,53 +308,157 @@ class JobsApp {
     }
 
     setTheme(theme) {
-        // Apply theme class to html element
         if (theme === 'dark') {
             document.documentElement.classList.add('dark');
         } else {
             document.documentElement.classList.remove('dark');
         }
-        
-        // Save preference
+
         localStorage.setItem('theme', theme);
-        
-        // Update theme toggle icon
+
         const themeIcon = this.themeToggle.querySelector('.theme-icon');
         themeIcon.textContent = theme === 'light' ? '🌙' : '☀️';
-        
-        // Update toggle button aria-label
-        this.themeToggle.setAttribute('aria-label', 
+
+        this.themeToggle.setAttribute('aria-label',
             theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode'
         );
     }
 
     setFilter(button) {
-        this.filterButtons.forEach(btn => btn.classList.remove('active'));
-        button.classList.add('active');
+        this.currentFilter = button.getAttribute('data-filter');
+        localStorage.setItem('jobsFilter', this.currentFilter);
+        this.syncControls();
+        this.filterJobs();
+    }
+
+    setView(button) {
+        this.currentView = button.getAttribute('data-view');
+        localStorage.setItem('jobsView', this.currentView);
+        this.syncControls();
+        this.filterJobs();
+    }
+
+    setSort(sortValue) {
+        this.currentSort = sortValue;
+        localStorage.setItem('jobsSort', sortValue);
         this.filterJobs();
     }
 
     filterJobs() {
-        const searchTerm = this.searchInput.value.toLowerCase();
-        const activeFilter = document.querySelector('.filter-btn.active').dataset.filter;
-        
-        // Only check rank filters for InspireHEP source
-        const selectedRanks = this.currentSource === 'inspirehep' ? 
-            Array.from(document.querySelectorAll('.rank-filter input[type="checkbox"]:checked'))
-                .map(checkbox => checkbox.value) : [];
-        
+        if (!this.activeContainer) return;
+
+        const searchTerm = this.searchInput.value.trim().toLowerCase();
+        const selectedRanks = this.currentSource === 'inspirehep'
+            ? Array.from(document.querySelectorAll('.rank-filter input[type="checkbox"]:checked'))
+                .map(checkbox => checkbox.value)
+            : [];
+
+        this.clearGroupHeadings();
+        this.sortJobs();
+
+        let visibleCount = 0;
+
         this.allJobs.forEach(job => {
             const matchesSearch = this.matchesSearchTerm(job, searchTerm);
-            const matchesFilter = this.matchesFilter(job, activeFilter);
-            const matchesRank = this.currentSource === 'inspirehep' ? 
-                this.matchesRankFilter(job, selectedRanks) : true;
-            
-            if (matchesSearch && matchesFilter && matchesRank) {
-                job.classList.remove('hidden');
-            } else {
-                job.classList.add('hidden');
+            const matchesFilter = this.matchesFilter(job, this.currentFilter);
+            const matchesRank = this.currentSource === 'inspirehep'
+                ? this.matchesRankFilter(job, selectedRanks)
+                : true;
+            const isVisible = matchesSearch && matchesFilter && matchesRank;
+
+            job.classList.toggle('hidden', !isVisible);
+            if (isVisible) visibleCount += 1;
+        });
+
+        this.applyViewClass();
+
+        if (this.currentView === 'deadlines') {
+            this.renderDeadlineGroups();
+        }
+
+        this.updateResultsSummary(visibleCount);
+        this.emptyResults.classList.toggle('hidden', visibleCount > 0);
+    }
+
+    sortJobs() {
+        const sortedJobs = [...this.allJobs].sort((a, b) => this.compareJobs(a, b));
+        sortedJobs.forEach(job => this.activeContainer.appendChild(job));
+        this.allJobs = sortedJobs;
+    }
+
+    compareJobs(a, b) {
+        const aExpired = a.classList.contains('expired');
+        const bExpired = b.classList.contains('expired');
+
+        if (this.currentFilter !== 'expired' && aExpired !== bExpired) {
+            return aExpired ? 1 : -1;
+        }
+
+        if (this.currentSort === 'updated') {
+            const diff = this.dateValue(b.dataset.updated, 0) - this.dateValue(a.dataset.updated, 0);
+            if (diff !== 0) return diff;
+        } else if (this.currentSort === 'source') {
+            const sourceDiff = this.sourceLabel(a.dataset.source).localeCompare(this.sourceLabel(b.dataset.source));
+            if (sourceDiff !== 0) return sourceDiff;
+        } else if (this.currentSort === 'institution') {
+            const institutionDiff = (a.dataset.institution || '').localeCompare(b.dataset.institution || '');
+            if (institutionDiff !== 0) return institutionDiff;
+        } else {
+            const diff = this.dateValue(a.dataset.deadline, Number.POSITIVE_INFINITY) -
+                this.dateValue(b.dataset.deadline, Number.POSITIVE_INFINITY);
+            if (diff !== 0) return diff;
+        }
+
+        return a.textContent.localeCompare(b.textContent);
+    }
+
+    applyViewClass() {
+        if (!this.activeContainer) return;
+
+        this.activeContainer.classList.toggle('view-list', this.currentView === 'list');
+        this.activeContainer.classList.toggle('view-deadlines', this.currentView === 'deadlines');
+        this.activeContainer.classList.toggle('view-cards', this.currentView === 'cards');
+    }
+
+    clearGroupHeadings() {
+        if (!this.activeContainer) return;
+
+        this.activeContainer.querySelectorAll('.job-group-heading').forEach(heading => heading.remove());
+    }
+
+    renderDeadlineGroups() {
+        const visibleJobs = this.allJobs.filter(job => !job.classList.contains('hidden'));
+        const groupCounts = visibleJobs.reduce((counts, job) => {
+            const group = this.getDeadlineGroup(job);
+            counts[group] = (counts[group] || 0) + 1;
+            return counts;
+        }, {});
+
+        let currentGroup = '';
+
+        visibleJobs.forEach(job => {
+            const group = this.getDeadlineGroup(job);
+            if (group !== currentGroup) {
+                currentGroup = group;
+                const heading = document.createElement('div');
+                heading.className = 'job-group-heading';
+                heading.textContent = `${group} (${groupCounts[group]})`;
+                this.activeContainer.insertBefore(heading, job);
             }
         });
+    }
+
+    getDeadlineGroup(job) {
+        if (job.classList.contains('expired')) return 'Expired';
+
+        const deadline = this.parseDate(job.dataset.deadline);
+        if (!deadline) return 'No deadline';
+
+        const days = this.daysUntil(deadline);
+        if (days <= 7) return 'Due this week';
+        if (days <= 14) return 'Due next week';
+        if (days <= 31) return 'Due this month';
+        return 'Later deadlines';
     }
 
     matchesSearchTerm(job, searchTerm) {
@@ -473,6 +470,10 @@ class JobsApp {
         switch (filter) {
             case 'active':
                 return !job.classList.contains('expired');
+            case 'new':
+                return job.classList.contains('new-job') && !job.classList.contains('expired');
+            case 'closing-soon':
+                return this.isClosingSoon(job);
             case 'expired':
                 return job.classList.contains('expired');
             case 'all':
@@ -482,13 +483,79 @@ class JobsApp {
     }
 
     matchesRankFilter(job, selectedRanks) {
-        if (selectedRanks.length === 0) return true; // If no ranks selected, show all
-        
+        if (selectedRanks.length === 0) return true;
+
         const jobRanks = job.dataset.ranks ? job.dataset.ranks.split(',') : [];
-        if (jobRanks.length === 0) return selectedRanks.includes('OTHER'); // Jobs without ranks are considered "OTHER"
-        
-        // Check if job has any of the selected ranks
+        if (jobRanks.length === 0) return selectedRanks.includes('OTHER');
+
         return jobRanks.some(rank => selectedRanks.includes(rank.trim()));
+    }
+
+    isClosingSoon(job) {
+        if (job.classList.contains('expired')) return false;
+
+        const deadline = this.parseDate(job.dataset.deadline);
+        if (!deadline) return false;
+
+        const days = this.daysUntil(deadline);
+        return days >= 0 && days <= 14;
+    }
+
+    updateResultsSummary(visibleCount) {
+        const total = this.allJobs.length;
+        const expiredCount = this.allJobs.filter(job => job.classList.contains('expired')).length;
+        const source = this.currentSource === 'all' ? 'all sources' : this.sourceLabel(this.currentSource);
+        const filterLabel = this.filterLabel(this.currentFilter);
+        const hiddenExpired = this.currentFilter === 'active' && expiredCount > 0
+            ? ` · ${expiredCount} expired hidden`
+            : '';
+
+        this.resultsSummary.textContent = `Showing ${visibleCount} of ${total} ${filterLabel} jobs from ${source}${hiddenExpired}`;
+    }
+
+    filterLabel(filter) {
+        const labels = {
+            active: 'active',
+            new: 'new',
+            'closing-soon': 'closing soon',
+            expired: 'expired',
+            all: 'total'
+        };
+
+        return labels[filter] || 'matching';
+    }
+
+    sourceLabel(source) {
+        const labels = {
+            all: 'All Jobs',
+            inspirehep: 'InspireHEP',
+            ajo: 'AcademicJobsOnline',
+            desy: 'DESY'
+        };
+
+        return labels[source] || source || 'Unknown source';
+    }
+
+    parseDate(dateString) {
+        if (!dateString) return null;
+
+        const date = new Date(dateString);
+        return Number.isNaN(date.getTime()) ? null : date;
+    }
+
+    dateValue(dateString, fallback) {
+        const date = this.parseDate(dateString);
+        return date ? date.getTime() : fallback;
+    }
+
+    daysUntil(date) {
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        const deadline = new Date(date);
+        deadline.setHours(0, 0, 0, 0);
+
+        return Math.ceil((deadline - today) / (1000 * 60 * 60 * 24));
     }
 }
 

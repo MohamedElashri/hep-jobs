@@ -262,10 +262,18 @@ body {
 .filters {
     background: var(--bg-secondary);
     padding: 1.5rem;
-    border-radius: 10px;
+    border-radius: 8px;
     box-shadow: 0 2px 10px var(--shadow-color);
     margin-bottom: 2rem;
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search-row {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: end;
+    margin-bottom: 1rem;
 }
 
 .search-input {
@@ -274,7 +282,6 @@ body {
     border: 2px solid var(--border-color);
     border-radius: 8px;
     font-size: 16px;
-    margin-bottom: 1rem;
     transition: border-color 0.3s ease;
     background-color: var(--bg-secondary);
     color: var(--text-primary);
@@ -285,13 +292,40 @@ body {
     border-color: var(--text-accent);
 }
 
+.sort-control {
+    min-width: 190px;
+    display: grid;
+    gap: 0.35rem;
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.sort-select {
+    min-height: 48px;
+    padding: 0 2.5rem 0 0.85rem;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+    font: inherit;
+    cursor: pointer;
+}
+
+.sort-select:focus {
+    outline: none;
+    border-color: var(--text-accent);
+}
+
 .filter-buttons {
     display: flex;
-    gap: 1rem;
+    gap: 0.75rem;
     flex-wrap: wrap;
 }
 
-.filter-btn {
+.filter-btn,
+.view-btn {
     padding: 0.5rem 1rem;
     border: 2px solid var(--border-color);
     background: var(--bg-secondary);
@@ -303,10 +337,27 @@ body {
 }
 
 .filter-btn:hover,
-.filter-btn.active {
+.filter-btn.active,
+.view-btn:hover,
+.view-btn.active {
     background: var(--text-accent);
     color: white;
     border-color: var(--text-accent);
+}
+
+.view-controls {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    padding-top: 1rem;
+    margin-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.results-summary {
+    margin-top: 1rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
 }
 
 .new-jobs-legend {
@@ -390,9 +441,23 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
 }
 
+.jobs-container.view-list,
+.jobs-container.view-deadlines {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+}
+
+.job-group-heading {
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 1rem 0 0.25rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
 .job-card {
     background: var(--bg-secondary);
-    border-radius: 12px;
+    border-radius: 8px;
     padding: 1.5rem;
     box-shadow: 0 4px 15px var(--shadow-color);
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
@@ -402,6 +467,67 @@ body {
     gap: 0;
     min-height: 26em;
     position: relative;
+}
+
+.view-list .job-card,
+.view-deadlines .job-card {
+    min-height: auto;
+    padding: 1rem 1.25rem;
+    grid-template-columns: minmax(0, 1.4fr) minmax(220px, 0.9fr) auto;
+    grid-template-rows: auto;
+    column-gap: 1rem;
+    align-items: center;
+}
+
+.view-list .job-header,
+.view-deadlines .job-header {
+    grid-column: 1;
+}
+
+.view-list .job-meta,
+.view-deadlines .job-meta {
+    grid-column: 2;
+}
+
+.view-list .job-actions,
+.view-deadlines .job-actions {
+    grid-column: 3;
+}
+
+.view-list .job-header,
+.view-deadlines .job-header,
+.view-list .job-meta,
+.view-deadlines .job-meta {
+    margin-bottom: 0;
+}
+
+.view-list .job-title,
+.view-deadlines .job-title {
+    font-size: 1.05rem;
+    margin-bottom: 0.25rem;
+}
+
+.view-list .job-institution,
+.view-deadlines .job-institution {
+    font-size: 0.95rem;
+}
+
+.view-list .job-meta,
+.view-deadlines .job-meta {
+    font-size: 0.85rem;
+}
+
+.view-list .job-description,
+.view-deadlines .job-description,
+.view-list .btn-view-full,
+.view-deadlines .btn-view-full {
+    display: none;
+}
+
+.view-list .job-actions,
+.view-deadlines .job-actions {
+    margin-top: 0;
+    justify-content: flex-end;
 }
 
 /* New job highlighting */
@@ -604,9 +730,28 @@ body {
     text-align: center;
     padding: 3rem;
     background: var(--bg-secondary);
-    border-radius: 12px;
+    border-radius: 8px;
     box-shadow: 0 4px 15px var(--shadow-color);
     color: var(--text-primary);
+}
+
+.empty-results {
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    color: var(--text-primary);
+}
+
+.empty-results h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.35rem;
+}
+
+.empty-results p {
+    color: var(--text-secondary);
 }
 
 .footer {
@@ -1089,6 +1234,22 @@ body {
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
         gap: 1rem;
     }
+
+    .view-list .job-card,
+    .view-deadlines .job-card {
+        grid-template-columns: minmax(0, 1fr) auto;
+    }
+
+    .view-list .job-actions,
+    .view-deadlines .job-actions {
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    .view-list .job-meta,
+    .view-deadlines .job-meta {
+        grid-column: 1 / -1;
+    }
     
     .clickable-title {
         font-size: 2rem;
@@ -1178,10 +1339,22 @@ body {
     .filters {
         padding: 1rem;
     }
+
+    .search-row {
+        grid-template-columns: 1fr;
+    }
+
+    .sort-control {
+        min-width: 0;
+    }
     
     .filter-buttons {
         justify-content: center;
         gap: 0.5rem;
+    }
+
+    .view-controls {
+        justify-content: center;
     }
     
     .filter-btn {
@@ -1282,14 +1455,36 @@ body {
         align-items: center;
     }
     
-    .filter-btn {
+    .filter-btn,
+    .view-btn {
         width: 100%;
         max-width: 200px;
         text-align: center;
     }
+
+    .view-controls {
+        flex-direction: column;
+        align-items: center;
+    }
     
     .job-card {
         padding: 1rem;
+    }
+
+    .view-list .job-card,
+    .view-deadlines .job-card {
+        grid-template-columns: 1fr;
+        align-items: start;
+    }
+
+    .view-list .job-header,
+    .view-deadlines .job-header,
+    .view-list .job-meta,
+    .view-deadlines .job-meta,
+    .view-list .job-actions,
+    .view-deadlines .job-actions {
+        grid-column: auto;
+        grid-row: auto;
     }
     
     .job-title {
@@ -1306,7 +1501,8 @@ body {
     }
     
     .btn-apply,
-    .btn-contact {
+    .btn-contact,
+    .btn-view-full {
         width: 100%;
         text-align: center;
         padding: 0.8rem;

@@ -153,15 +153,34 @@
 
     <main class="container">
         <div class="filters">
-            <input type="text" id="searchInput" placeholder="Search jobs..." class="search-input">
-            <div class="filter-buttons">
-                <button class="filter-btn active" data-filter="all">All Jobs</button>
-                <button class="filter-btn" data-filter="active">Active Only</button>
-                <button class="filter-btn" data-filter="expired">Expired</button>
+            <div class="search-row">
+                <input type="text" id="searchInput" placeholder="Search title, institution, region, experiment..." class="search-input">
+                <label class="sort-control">
+                    <span>Sort</span>
+                    <select id="sortSelect" class="sort-select">
+                        <option value="deadline">Deadline soonest</option>
+                        <option value="updated">Recently updated</option>
+                        <option value="source">Source</option>
+                        <option value="institution">Institution</option>
+                    </select>
+                </label>
             </div>
+            <div class="filter-buttons" aria-label="Job status filters">
+                <button class="filter-btn active" data-filter="active">Active</button>
+                <button class="filter-btn" data-filter="new">New</button>
+                <button class="filter-btn" data-filter="closing-soon">Closing Soon</button>
+                <button class="filter-btn" data-filter="expired">Expired</button>
+                <button class="filter-btn" data-filter="all">All</button>
+            </div>
+            <div class="view-controls" aria-label="Job view options">
+                <button class="view-btn active" data-view="cards">Cards</button>
+                <button class="view-btn" data-view="list">List</button>
+                <button class="view-btn" data-view="deadlines">Deadlines</button>
+            </div>
+            <div class="results-summary" id="resultsSummary" aria-live="polite"></div>
             <div class="new-jobs-legend">
                 <span class="new-badge-example">NEW</span>
-                <span class="legend-text">Jobs highlighted in green with a "NEW" badge were added since the last update</span>
+                <span class="legend-text">Added since the last update</span>
             </div>
             <div class="rank-filters" id="rankFilters">
                 <h4>Filter by Rank:</h4>
@@ -183,6 +202,11 @@
                     </label>
                 </div>
             </div>
+        </div>
+
+        <div class="empty-results hidden" id="emptyResults">
+            <h2>No jobs match these filters</h2>
+            <p>Try a broader search or switch to All to include expired listings.</p>
         </div>
 
         <!-- All Jobs View (Unified) -->
