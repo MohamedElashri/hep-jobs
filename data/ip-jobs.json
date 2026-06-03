@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "id": "3164590",
+      "title": "Postdoctoral Fellow of Physics (Experimental Particle Physics)",
+      "institution": "Coll. William and Mary",
+      "deadline": "2026-06-03",
+      "description": "<div>The Department of Physics at William &amp; Mary, a public university of the Commonwealth of Virginia, invites applications for a postdoctoral fellow position, expected to begin August 1, 2026.</div><div><br></div><div>We seek an individual with expertise in experimental particle physics to join the William &amp; Mary (W&amp;M) particle physics group. The faculty of the W&amp;M experimental particle physics group work on the Fermilab based neutrino experiments, NOvA, MINERvA, and DUNE. Applicants should possess experience in experimental particle physics, which may include experimental data handling and analysis, software development, and/or detector related hardware design, construction, and operation. The appointed researcher will be expected to take on hardware or software/analysis responsibilities in DUNE and assume a leading role in the analysis of data from NOvA. In DUNE, the W&amp;M group is active in the NDLAr, TMS, HV, and FD-HD consortia. In NOvA the group works on three flavor oscillation physics, but broadly active in its full physics program.</div><div><br></div><div>Additional details about the job and application process may be found at:</div><div><br></div><div><a href=\"https://williammary.wd12.myworkdayjobs.com/en-US/WM/job/Postdoctoral-Fellow-of-Physics--Experimental-Particle-Physics-_JR101780\">https://williammary.wd12.myworkdayjobs.com/en-US/WM/job/Postdoctoral-Fellow-of-Physics--Experimental-Particle-Physics-_JR101780</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "FNAL-E-0929"
+      ],
+      "urls": [
+        "https://williammary.wd12.myworkdayjobs.com/en-US/WM/job/Postdoctoral-Fellow-of-Physics--Experimental-Particle-Physics-_JR101780"
+      ],
+      "contact_email": null,
+      "created": "2026-06-02T18:11:26.572128+00:00",
+      "updated": "2026-06-02T19:56:34.082854+00:00",
+      "addedAt": "2026-06-03T09:35:37.168Z",
+      "isNew": true
+    },
+    {
       "id": "3162933",
       "title": "PhD position in Electronics Engineering",
       "institution": "Rome U., Tor Vergata",
@@ -8250,6 +8279,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-02T13:35:31.706Z",
-  "totalJobs": 308
+  "lastUpdated": "2026-06-03T09:35:37.169Z",
+  "totalJobs": 309
 }
