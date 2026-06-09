@@ -1,6 +1,88 @@
 {
   "jobs": [
     {
+      "id": "3165788",
+      "title": "POSTDOCTORAL RESEARCH ASSOCIATE AT PURDUE UNIVERSITY",
+      "institution": "Purdue U., West Lafayette",
+      "deadline": "2026-06-30",
+      "description": "<div>The High Energy Physics Group at Purdue University has an opening for a postdoctoral research associate to work on the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC).</div><div>&nbsp;</div><div>The Purdue CMS group has extensive involvement in many aspects of CMS, including hardware, software, and physics analysis. We are pursuing an exciting physics program with a focus on searches for new physics beyond the Standard Model and precision measurements of Standard Model processes. Purdue plays a leading role in the Phase-II tracker upgrades for the High-Luminosity LHC, utilizing in-house facilities to design, assemble, and test silicon detectors, their subcomponents, and support structures.&nbsp;At Purdue we operate a Tier-2 computer center, providing resources for data analysis both locally and as part of the CMS computing Grid.</div><div>&nbsp;</div><div>The successful candidate is expected to take on a leadership role in the forward pixel detector upgrade project and would share responsibility for overseeing high-volume pixel sensor module assembly and testing at Purdue.&nbsp;They would also be expected to develop event reconstruction algorithms and lead physics analyses in the areas of Higgs precision measurements and top quark decays, working closely together with graduate and undergraduate students. The candidate will also contribute to our group’s efforts in the development of precision tracking and vertex reconstruction within jets for analysis of heavy flavor production and tagging. Candidates should have a Ph.D. in experimental particle physics, detector hardware experience, excellent data analysis, computing and programming skills and the ability to carry out an independent research program.</div><div>&nbsp;</div><div>Screening of applicants will begin immediately and continue until the position is filled. Full consideration will be given to applications submitted by June 30, 2026. Interested candidates should send a curriculum vitae together with a short statement of relevant hardware experience and physics interests and arrange for three letters of recommendation to be sent to Prof. Matthew Jones (<a href=\"mailto:mjones@physics.purdue.edu\">mjones@physics.purdue.edu</a>).</div><div>&nbsp;</div><div>Purdue University is an Equal Opportunity Affirmative Action Employer. Applications from minority and female candidates are encouraged.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-06-06T14:17:53.200348+00:00",
+      "updated": "2026-06-08T23:07:33.273168+00:00",
+      "addedAt": "2026-06-09T09:07:04.792Z",
+      "isNew": true
+    },
+    {
+      "id": "3165786",
+      "title": "Postdoctoral Research Associate - LEGEND",
+      "institution": "ORNL, Oak Ridge (main)",
+      "deadline": "2026-06-22",
+      "description": "<div>We are seeking a Postdoctoral Research Associate who will focus on the LEGEND program’s search for neutrinoless double-beta decay of Ge-76.&nbsp;This position resides in the Neutrino Research Group in the Fundemental Nuclear &amp; Particle Physics Section, Physics Division, Physical Sciences Directorate at <a href=\"https://www.ornl.gov/\">Oak Ridge National Laboratory</a> (ORNL).</div><div>&nbsp;</div><div>As part of our research team, you will play an active role in the search for neutrinoless double-beta decay of Ge-76 with the LEGEND-200 experiment, currently operating at LNGS, help lead the R&amp;D, design, and implementation of the LEGEND-1000 experiment, and pursue R&amp;D that extends the physics potential of low-background, rare-event searches.&nbsp;</div><div>&nbsp;</div><div>The successful candidate will work closely with a range of students, other postdoctoral fellows, scientific and engineering staff, visiting scholars, as well as a large network of international collaborators. Networking opportunities extend to the group’s broad research program in low-energy neutrino interactions at the SNS and HFIR, as well as research programs in fundamental symmetries and nuclear physics within the ORNL Physics Division. Further, ORNL supports an active postdoctoral program, which provides research support, professional development, and social activities.</div><div><br></div><div><strong>Major Duties/Responsibilities:&nbsp;</strong></div><div><strong>&nbsp;</strong></div><ul><li>Assume a leading role in one or more of the group’s contributions to the LEGEND program:</li><li>Contribute to the LEGEND-200 data analysis and the development of advanced analysis routines</li><li>Contribute to the R&amp;D on advanced instrumentation, design, and simulations of the next generation LEGEND-1000 experiment.</li><li>Develop new low-background materials, scintillators, and production techniques, including custom synthesis of PEN and clean additive manufacturing processes</li><li>Integrate AI/ML into experimental design, data analysis, and detector performance evaluation workflows</li><li>Deliver ORNL’s mission by aligning behaviors, priorities, and interactions with our core values of Impact, Integrity, Teamwork, Safety, and Service. Promote equal opportunity by fostering a respectful workplace – in how we treat one another, work together, and measure success.</li></ul><div>&nbsp;</div><div><strong>Basic Qualifications:</strong></div><div><strong>&nbsp;</strong></div><ul><li>A Ph.D. in experimental nuclear physics, particle physics, or a closely related field completed within the last 5 years</li></ul><div>&nbsp;</div><div><strong>Preferred Qualifications:</strong></div><div><strong>&nbsp;</strong></div><ul><li>Hardware and/or data analysis/simulations experience relevant to rare event searches</li><li>Demonstrated experience with low-background detectors, cryogenic liquid scintillators, plastic scintillators, additive manufacturing, and/or Ge detector technology</li><li>Advanced computer programming experience, including parallel computing frameworks, C/C++, Julia and/or python</li><li>Experience with training AI surrogate and/or inverse models</li><li>Experience working in underground laboratories and/or clean rooms</li><li>Excellent written and oral communication skills.</li><li>Motivated self-starter with the ability to work independently and to actively engage with international collaborators.</li></ul>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "LEGEND"
+      ],
+      "urls": [
+        "https://jobs.ornl.gov/job/Oak-Ridge-Postdoctoral-Research-Associate-LEGEND-TN-37831/1393327000/"
+      ],
+      "contact_email": null,
+      "created": "2026-06-05T22:27:25.725128+00:00",
+      "updated": "2026-06-08T23:05:20.662607+00:00",
+      "addedAt": "2026-06-09T09:07:04.792Z",
+      "isNew": true
+    },
+    {
+      "id": "3165200",
+      "title": "ERC funded Postdoctoral position in Neutrino Astrophysics",
+      "institution": "Uppsala U. (main)",
+      "deadline": "2026-06-30",
+      "description": "<div>The astroparticle physics group in the department focuses on studying neutrinos as messengers for understanding our universe. You will work at the forefront of the field as we start a new era of IceCube with the recently completed upgrade. You will also be joining the EU-funded ACME (Astrophysics Centre for Multi-messenger studies in Europe) project, which will give further resources to your work and allow you to make connections across other experiments.</div><div><br></div><div><strong>Duties&nbsp;</strong></div><div>The successful candidate is expected to play a leading role within the IceCube collaboration, especially on neutrino astrophysics topics related to the recently installed Upgrade. Research focused on areas of deep learning, low energy astrophysics, and/or multimessenger astronomy will be given priority. In addition, the successful candidate will be responsible for enhancing the interface between SNEWS and other multi-messenger experiments as a member of the ACME project.&nbsp;</div><div><br></div><div><strong>Requirements</strong></div><div>PhD degree in physics or astronomy or a foreign degree equivalent to a PhD degree. The degree needs to be obtained by the time of the decision of employment. Priority will be given to applicants who have completed their degree no more than three years before the deadline for applications.&nbsp;Due to special circumstances, the degree may have been obtained earlier. The three-year period can be extended due to circumstances such as sick leave, parental leave, duties in labour unions, etc.&nbsp;</div><div>Proficiency in spoken and written English is required.</div><div><br></div><div><strong>Additional qualifications</strong></div><div>Experience in software programming including proficiency in Python and deep learning, data analysis, neutrino astrophysics and/or neutrino detection will be considered assets. Candidates should be able to work independently, as well as integrate into the framework of a large collaboration.&nbsp;</div><div><br></div><div>Apply here: <a href=\"https://uu.varbi.com/en/what:job/jobID:935945/\">https://uu.varbi.com/en/what:job/jobID:935945/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "ICECUBE",
+        "SNEWS"
+      ],
+      "urls": [
+        "https://uu.varbi.com/en/what:job/jobID:935945/"
+      ],
+      "contact_email": null,
+      "created": "2026-06-04T07:53:34.104541+00:00",
+      "updated": "2026-06-08T23:03:11.042846+00:00",
+      "addedAt": "2026-06-09T09:07:04.792Z",
+      "isNew": true
+    },
+    {
       "id": "3164962",
       "title": "Postdoctoral Fellow, Neutrino Physics Group, Department of Physics, College of Arts and Sciences, University of Cincinnati",
       "institution": "Cincinnati U.",
@@ -25,7 +107,7 @@
       "created": "2026-06-03T19:12:25.384890+00:00",
       "updated": "2026-06-05T21:17:16.730864+00:00",
       "addedAt": "2026-06-08T09:34:43.626Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3165666",
@@ -51,7 +133,7 @@
       "created": "2026-06-05T13:31:59.160131+00:00",
       "updated": "2026-06-05T21:10:48.331257+00:00",
       "addedAt": "2026-06-08T09:34:43.626Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3165771",
@@ -76,7 +158,7 @@
       "created": "2026-06-05T18:39:54.120073+00:00",
       "updated": "2026-06-05T21:07:13.237903+00:00",
       "addedAt": "2026-06-08T09:34:43.626Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3164594",
@@ -8411,6 +8493,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-08T09:34:43.627Z",
-  "totalJobs": 314
+  "lastUpdated": "2026-06-09T09:07:04.793Z",
+  "totalJobs": 317
 }
