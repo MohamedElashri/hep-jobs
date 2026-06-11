@@ -1,6 +1,88 @@
 {
   "jobs": [
     {
+      "id": "3167482",
+      "title": "Postdoctoral Research Associate in Experimental Neutrino Physics",
+      "institution": "U. Colorado, Boulder",
+      "deadline": "2026-07-15",
+      "description": "<div>The Experimental High Energy Physics Group at the University of Colorado Boulder invites applications for a Postdoctoral Associate position to work in the neutrino physics group. The neutrino group at the University of Colorado is very active&nbsp;in the DUNE, NA61/SHINE, T2K, and Eos collaborations. The successful candidate will be expected to play a leading role in&nbsp;detector prototyping, commissioning, and data analysis for the DUNE Near Detectors and/or the NA61/SHINE experiment. This&nbsp;position will be based in Boulder, but the applicant must be able to travel to US laboratories and CERN periodically.</div><div><br></div><div>Please apply by July 15 for full consideration.</div><div><br></div><div>For more information and to apply for the position please see <a href=\"https://jobs.colorado.edu/jobs/JobDetail/?jobId=72455\">https://jobs.colorado.edu/jobs/JobDetail/?jobId=72455</a>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "CERN-NA-061"
+      ],
+      "urls": [
+        "https://jobs.colorado.edu/jobs/JobDetail/?jobId=72455"
+      ],
+      "contact_email": null,
+      "created": "2026-06-10T21:53:26.197694+00:00",
+      "updated": "2026-06-10T21:55:35.201675+00:00",
+      "addedAt": "2026-06-11T09:28:23.514Z",
+      "isNew": true
+    },
+    {
+      "id": "3167438",
+      "title": "PhD Student in fundamental muon physics (muEDM)",
+      "institution": "PSI, Villigen",
+      "deadline": "2026-07-10",
+      "description": "<div>Your tasks</div><div>The muon electric dipole moment experiment, muEDM at PSI, is searching for a signal of CP-violation beyond the Standard-Model. Together with the international collaboration you will:&nbsp;</div><ul><li>Take first data on storage, spin precession, and frozen-spin state of muons&nbsp;</li><li>Participate in data analysis and work on dedicated aspects related to the magnetic field of the storage trap&nbsp;</li><li>Further characterizing the magnetic field of the storage trap using dedicated sensors and particle detectors&nbsp;</li><li>Contribute to a better understanding of systematic effects and help to improve experimental sensitivity</li></ul><div>Your profile</div><ul><li>Master’s degree in physics with strong interest in low energy particle physics&nbsp;</li><li>Knowledge of computational numerical methods, i.e. Monte Carlo simulations, Python for data analysis, finite element methods, etc.&nbsp;</li><li>Practical experience in experimental techniques is appreciated (e.g. electronics, detectors, DAQ)&nbsp;</li><li>Ability to work independently&nbsp;</li><li>Proficient level of English as working language in spoken and written form is mandatory&nbsp;</li><li>Knowledge of German or willingness to quickly learn German is a plus</li></ul><div>We offer</div><div>Our institution is based on an interdisciplinary, innovative and dynamic collaboration. You will profit from a systematic training on the job, in addition to personal development possibilities and our pronounced vocational training culture. If you wish to optimally combine work and family life or other personal interests, we are able to support you with our modern employment conditions and the on-site infrastructure.</div><div><br></div><div>For further information, please contact Prof. Dr Philipp Schmidt-Wellenburg, e-mail&nbsp;<a href=\"mailto:philipp.schmidt-wellenburg@psi.ch\">philipp.schmidt-wellenburg@psi.ch</a>&nbsp;or Prof. Dr Angela Papa, e-mail&nbsp;<a href=\"mailto:angela.papa@psi.ch\">angela.papa@psi.ch</a>.&nbsp;</div><div><br></div><div>Please submit your application (CV, letter of motivation, and Diploma/Extract of grades) online by&nbsp;8&nbsp;July 2026&nbsp;including addresses of at least 2 referees for the position as a PhD Student (Index-Nr. 3203-28539).</div><div><br></div><div>Paul Scherrer Institute, Human Resources Management, Serdal Varol, 5232 Villigen PSI, Switzerland</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.psi.ch/en/hr/job-opportunities/74713-phd-student-in-fundamental-muon-physics"
+      ],
+      "contact_email": null,
+      "created": "2026-06-10T11:22:44.819099+00:00",
+      "updated": "2026-06-10T15:04:15.844063+00:00",
+      "addedAt": "2026-06-11T09:28:23.514Z",
+      "isNew": true
+    },
+    {
+      "id": "3167068",
+      "title": "Postdoctoral Research in Neutrino Physics",
+      "institution": "Indiana U., Bloomington (main)",
+      "deadline": "2026-08-01",
+      "description": "<div>The Indiana University Experimental Nuclear Physics group invites applications for two postdoctoral research associates to join our team working on neutrino experiments. LEGEND is a phased neutrinoless double beta decay experiment program, with LEGEND-200 taking data at LNGS, and work ongoing towards the tonne-scale LEGEND-1000 experiment to follow. Project 8 is a program towards a next generation neutrino mass experiment based on atomic tritium. PHONON is an R&amp;D project developing a quantum sensor-based detector for reactor neutrinos, with initial deployment planned for HFIR at ORNL. Postdocs may split their time between multiple projects, aligning with their interest and program needs. The successful candidate is expected to play a strong role in data analysis, contribute to commissioning and operation of the experiments, travel domestically and internationally for experimental work, mentor students in the group, and work on local R&amp;D projects.</div><div><br></div><div>The IU experimental nuclear physics group has an active and diverse program addressing fundamental questions in nuclear physics, particle physics, and astrophysics/cosmology. Group members are leaders in a wide range of experiments, including: investigations of the flavor and spin structure of the nucleon using the STAR detector at RHIC and Belle II at KEK; studies of parity and time reversal violation between nucleons at NIST, SNS, LANSCE, JPARC, and FRM, measurements of neutrino properties at Fermilab, SNS, SURF, and LNGS, neutron decay and neutron interferometry at NIST, LANSCE, SNS, ISIS, and ILL and searches for possible exotic spin-dependent interactions. The group is a part of the Center for the Exploration of Energy and Matter (CEEM) at IU which includes research in experimental condensed matter and theoretical nuclear physics. Group members include professional staff in electronics, mechanical engineering, cryogenic design, and machinists, as well as graduate and undergraduate students. Local facilities include a low-energy neutron source (LENS) available for neutron detector development and testing, high-bay facilities for large-scale fabrication, professional and student machine shops, a polarized 3He lab, a dilution refrigerator, and a vibration isolated lab for weak force measurement. The laboratory possesses infrastructure on a scale which enables us to make major hardware contributions to experiments. Opportunities to split time with other research efforts in the group may be available.</div><div><br></div><div>A Ph.D. in experimental subatomic physics, precision measurement, or equivalent is required. Initial appointments as a postdoctoral research associate will be for one year, with expectation of renewal.</div><div><br></div><div>Applications, including a curriculum vita and three letters of reference, should be submitted through the application portal located at:&nbsp;<a href=\"https://indiana.peopleadmin.com/postings/31263\">https://indiana.peopleadmin.com/postings/31263</a></div><div><br></div><div>Questions regarding the position or application process can be directed to Prof. Walter C. Pettus (pettus@iu.edu).</div><div><br></div><div>For more information about the group research, see:&nbsp;<a href=\"https://physics.indiana.edu/research/research-areas/nuclear-physics/experimental-nuclear-physics.html\">https://physics.indiana.edu/research/research-areas/nuclear-physics/experimental-nuclear-physics.html</a></div><div><br></div><div>Indiana University is an equal employment and affirmative action employer and a provider of ADA services. All qualified applicants will receive consideration for employment based on individual qualifications. Indiana University prohibits discrimination based on age, ethnicity, color, race, religion, sex, sexual orientation, gender identity or expression, genetic information, marital status, national origin, disability status or protected veteran status.</div><div><br></div><div>Applications will be reviewed as they are received, and will continue until the position is filled. Preferred position start is summer or fall 2026.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "LEGEND",
+        "PROJECT-8"
+      ],
+      "urls": [
+        "https://indiana.peopleadmin.com/postings/31263"
+      ],
+      "contact_email": null,
+      "created": "2026-06-10T03:32:49.912502+00:00",
+      "updated": "2026-06-10T15:02:45.070952+00:00",
+      "addedAt": "2026-06-11T09:28:23.514Z",
+      "isNew": true
+    },
+    {
       "id": "3165788",
       "title": "POSTDOCTORAL RESEARCH ASSOCIATE AT PURDUE UNIVERSITY",
       "institution": "Purdue U., West Lafayette",
@@ -8493,6 +8575,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-10T09:23:02.477Z",
-  "totalJobs": 317
+  "lastUpdated": "2026-06-11T09:28:23.515Z",
+  "totalJobs": 320
 }
