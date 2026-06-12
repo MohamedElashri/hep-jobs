@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "id": "3167735",
+      "title": "Precision Nuclear & Particle Physics with Superconducting Detectors",
+      "institution": "LPC, Caen",
+      "deadline": "2026-06-24",
+      "description": "<div><strong>Thesis Subject</strong></div><div>The SALER (Superconducting Array for Low Energy Radiation) experiment aims to pioneer eV-scale spectroscopy of short-lived isotopes at a radioactive ion beam facility, opening a new pathway for precision searches for physics Beyond the Standard Model. The experiment is based on superconducting tunnel junction detectors operating below 100 mK and is a flagship project at the Facility for Rare Isotope Beams. In the coming year, SALER will reach a major milestone with its first implantation of a beta-decaying radioactive ion beam, enabling high-precision studies of weak decays. The LPC Caen group co-leads the experiment and is responsible for the development of a state-of-the-art numerical simulation of the detector response.</div><div><br></div><div>The PhD candidate will be involved in both experimental and computational aspects of the project, including detector operation, data analysis, and simulation development.</div><div><br></div><div>Activities include:</div><div>● development of a state-of-the-art eV-scale simulation of the detector response within the local team</div><div>● preparation, handling, and operation of superconducting tunnel junction detectors before and during beam time</div><div>● data analysis of radioactive decays for precision tests of the Standard Model and validation of simulations</div><div><br></div><div>As a natural extension, the student will also contribute to the BeEST and ASGARD collaborations, which use related technologies for sterile neutrino searches and other precision tests of fundamental symmetries.</div><div><br></div><div>We welcome candidates with a strong interest in:</div><div>● nuclear and low-energy particle physics</div><div>● condensed matter physics and superconductivity</div><div>● scientific programming (e.g. C++, Python)</div><div><br></div><div>In return, the candidate will join a collaborative and supportive research environment within the LPC Caen group, working closely with the supervisor and a team of PhD students and postdoctoral researchers. Supervision is adapted to the individual, with hands-on guidance in the early stages and a clear goal of developing scientific independence over the course of the PhD. The project includes substantial experimental involvement, with extended stays (typically around two months per year) at the Facility for Rare Isotope Beams during beam times, as well as opportunities for training at other international laboratories and participation in advanced schools. The student will be encouraged to present their work regularly and to develop strong scientific communication skills. We aim to provide an open, inclusive, and respectful working environment, and to support students in building a solid foundation for a range of future career paths, both within and outside academia.</div><div><br></div><div><strong>Your Work Environment</strong></div><div><br></div><div>The successful candidate will be assigned to the team « Mesures de Précision à Basse-Énergie », within the Laboratoire de Physique Corpusculaire de Caen (LPCC - UMR6534).</div><div>The LPC CAEN, with about 110 staff, is a joint research unit (UMR6534) depending on three supervisory bodies: the CNRS, the University of Caen Normandy (UNICAEN) and the Ecole Nationale Supérieure d'Ingénieurs de Caen (ENSICAEN). It is located on Campus 2 of the University of Caen Normandy (Campus Côte de Nacre) and is part of the research park of ENSICAEN (<a href=\"http://www.lpc-caen.in2p3.fr/\">www.lpc-caen.in2p3.fr/</a>).</div><div><br></div><div><strong>Applications</strong></div><div><br></div><div>Applications are accepted only through the CNRS portal: <a href=\"https://emploi.cnrs.fr/Offres/Doctorant/UMR6534-AURGON-051/Default.aspx\">https://emploi.cnrs.fr/Offres/Doctorant/UMR6534-AURGON-051/Default.aspx</a></div><div><br></div><div>Besides the application through the portal, candidates should arrange for two reference letters to be sent to hayen@lpccaen.in2p3.fr</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "cond-mat"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/Doctorant/UMR6534-AURGON-051/Default.aspx"
+      ],
+      "contact_email": null,
+      "created": "2026-06-11T07:47:26.604197+00:00",
+      "updated": "2026-06-11T22:16:32.102893+00:00",
+      "addedAt": "2026-06-12T09:23:09.502Z",
+      "isNew": true
+    },
+    {
+      "id": "3167731",
+      "title": "Senior Postdoc and Advanced Fellowship positions",
+      "institution": "King's Coll. London (main)",
+      "deadline": "2026-06-26",
+      "description": "<div>The Experimental Particle and Astroparticle Physics (EPAP) group at King’s College London welcomes applications for senior postdoc and advanced fellowship positions—details about how to apply are at the end of this advert.</div><div>&nbsp;</div><div><strong>Royal Society University Research Fellowships&nbsp;</strong></div><div><a href=\"https://royalsociety.org/grants-schemes-awards/grants/university-research/\">https://royalsociety.org/grants-schemes-awards/grants/university-research/</a>&nbsp;</div><div>(call opening on 14 July 2026, closing date 9th September)&nbsp;</div><div><br></div><div><strong>Ernest Rutherford Fellowships&nbsp;</strong></div><div><a href=\"https://www.ukri.org/opportunity/early-independence-ernest-rutherford-fellowships-2026/\">https://www.ukri.org/opportunity/early-independence-ernest-rutherford-fellowships-2026/</a></div><div>(Call opened 3rd Jun 2026, closing date 30th September)</div><div>&nbsp;</div><div><strong>Marie Curie Individual Fellowships&nbsp;</strong></div><div><a href=\"https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en\">https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en</a>&nbsp;</div><div>(Call open, closing date 9th September)</div><div>Two calls for European and Global fellowships.&nbsp;</div><div>&nbsp;&nbsp;</div><div><strong>EPAP group</strong></div><div>The Experimental Particle &amp; Astroparticle Physics (EPAP) group is a vibrant, international research team addressing major open questions in our understanding of matter by studying the nature of fundamental particles.&nbsp;</div><div>This is achieved by designing and conducting experiments and methods that can probe the properties of fundamental particles in new and sophisticated ways.&nbsp;</div><div>The group members are involved in several experiments in neutrino and dark matter (T2K, Super-Kamiokande, Hyper-Kamiokande, SNO+, Icecube, LZ) that are currently collecting data or being constructed, as well as planned experiments (XLZD, and intend to join LEGEND).&nbsp;</div><div>&nbsp;</div><div>More information about the group can be found in&nbsp;</div><div><a href=\"https://www.kcl.ac.uk/research/experimental-particle-astroparticle-physics\">https://www.kcl.ac.uk/research/experimental-particle-astroparticle-physics</a>&nbsp;</div><div>and <a href=\"https://epap.nms.kcl.ac.uk/\">https://epap.nms.kcl.ac.uk/</a>&nbsp;</div><div><a href=\"https://www.kcl.ac.uk/nms/depts/physics/about/index.aspx\">https://www.kcl.ac.uk/nms/depts/physics/about/index.aspx</a>&nbsp;</div><div><br></div><div><strong>Application&nbsp;</strong></div><div>We encourage applicants with project ideas that expand and complement our current research, including areas of gravitational waves.&nbsp;</div><div>&nbsp;</div><div>Our group is committed to diversity and especially welcomes applications from female and minority ethnic candidates and other under-represented groups in physics.&nbsp;</div><div>&nbsp;</div><div>We invite interested candidates to contact us and express interest by sending an abridged research proposal and an abridged CV. Each should be a maximum length of 2 pages.&nbsp;</div><div>Both the proposal and CV should be written considering the assessment criteria of the fellowships written in the corresponding calls.&nbsp;</div><div><br></div><div>If the candidate wants to be considered for more than one fellowship, the same CV and abridged proposal can be used - please indicate your preference for the fellowship for which you wish to be considered. By default, all candidates will be considered for all fellowships.</div><div><br></div><div>The CV and proposal must be written according to the fellowships' guidelines before submission.</div><div><br></div><div>Candidates should also provide a document answering the questions below. This is compulsory for ERF candidates, but we suggest everyone complete it.</div><div><br></div><div><strong>Name:</strong></div><div>&nbsp;</div><div><strong>Email address:</strong></div><div>&nbsp;</div><div><strong>Vision</strong> - What you are hoping to achieve with your proposed work?</div><div><em>Word limit: 500</em></div><div>&nbsp;</div><div>&nbsp;<strong>Approach </strong>– How are you going to deliver your proposed work?</div><div><em>Word limit: 1500</em></div><div>&nbsp;&nbsp;</div><div><strong>Capability to deliver</strong> – Why are you the right individual to successfully deliver the proposed work?</div><div><em>Word limit: 500</em></div><div>&nbsp;&nbsp;&nbsp;</div><div><strong>Career development </strong>– Why is this fellowship the right way to develop your career and how will you use it to benefit others?&nbsp;</div><div><em>Word limit: 500</em></div><div>&nbsp;&nbsp;</div><div><strong>List top five research publications or outputs.</strong></div><div><em>Word limit: 500</em></div><div>-----------------------------</div><div>&nbsp;The documents should be sent to EPAP_Applications@<a href=\"http://kcl.ac.uk/\">kcl.ac.uk</a>&nbsp;before June 26th.&nbsp;</div><div>&nbsp;</div><div>If you would like more details about the group, please contact Prof. Francesca Di Lodovico. We advise potential candidates to check the eligibility criteria for the calls carefully.&nbsp;</div><div>&nbsp;</div><div>We expect to make a decision on the candidates we can support by early July 2026</div><div>&nbsp;</div><div>Contact: <a href=\"mailto:EPAP_Applications@kcl.ac.uk\">EPAP_Applications@kcl.ac.uk</a>&nbsp;</div><div>Please note that the email address is case-sensitive.&nbsp;</div><div>&nbsp;</div><div>The documents should be sent to:&nbsp;<a href=\"mailto:EPAP_Applications@kcl.ac.uk\">EPAP_Applications@kcl.ac.uk</a>&nbsp;</div><div>Contact:&nbsp;</div><ul><li><a href=\"https://inspirehep.net/authors/999932\">Di Lodovico, Francesca</a> (<a href=\"mailto:francesca.di_lodovico@kcl.ac.uk\">francesca.di_lodovico@kcl.ac.uk</a>)&nbsp;</li></ul><div>More Information:&nbsp;</div><ul><li><a href=\"https://epap.nms.kcl.ac.uk/\">https://epap.nms.kcl.ac.uk/</a>&nbsp;</li></ul><div>Contact:&nbsp;Francesca Di Lodovico&nbsp;(<a href=\"mailto:francesca.di_lodovico@kcl.ac.uk\">francesca.di_lodovico@kcl.ac.uk</a>)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "HYPER-KAMIOKANDE",
+        "SUPER-KAMIOKANDE",
+        "T2K",
+        "SNO+",
+        "LZ",
+        "XLZD"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-06-11T06:44:22.893035+00:00",
+      "updated": "2026-06-11T22:12:17.360644+00:00",
+      "addedAt": "2026-06-12T09:23:09.502Z",
+      "isNew": true
+    },
+    {
+      "id": "3167730",
+      "title": "Postdoctoral Research Fellow",
+      "institution": "NTU, Taiwan",
+      "deadline": "2026-12-31",
+      "description": "<div><strong>Postdoctoral Research Fellow Position in Experimental High Energy Physics, National Taiwan University (NTU), Taipei, Taiwan</strong></div><div><br></div><div>The Experimental High Energy Physics (HEP) Group at National Taiwan University invites applications for a postdoctoral research fellow position in the CMS experiment at the LHC at CERN.</div><div><br></div><div>The ex-HEP Group at NTU consists of seven faculty members, several senior researchers, postdoctoral fellows, graduate students, and undergraduate researchers. The group plays leading roles in the CMS, Belle II, JUNO, and LEGEND experiments.</div><div><br></div><div>Within CMS, the NTU group is currently heavily involved in the construction, commissioning, and detector performance studies of the High-Granularity Calorimeter (HGCAL) upgrade for the HL-LHC. The group also participates in a broad range of physics analyses, including Higgs boson measurements, searches for physics beyond the Standard Model at high transverse momentum, Standard Model measurements involving photons, and studies of top-quark properties.</div><div><br></div><div>Applicants must hold a Ph.D. in Experimental Particle Physics (or expect to receive the degree before the appointment start date). The successful candidate is expected to take a leading role in one or more of the following areas:</div><ul><li>Physics analyses using CMS Run 3 data;</li><li>Detector performance studies and data quality monitoring;</li><li>Construction, testing, and commissioning activities for the CMS HGCAL.</li></ul><div>The position is based at NTU in Taipei, Taiwan. The appointment includes support for travel to CERN and participation in international conferences and collaboration meetings.</div><div>The position is available beginning August 1, 2026, and will remain open until filled.</div><div><strong>Application Instructions</strong></div><div>Interested candidates should submit:</div><ul><li>A cover letter;</li><li>A curriculum vitae, including a publication list;</li><li>A brief statement of research interests (approximately one page);</li><li>Contact information for three references.</li></ul><div>Application materials should be sent electronically to:</div><div><strong>Prof. Rong-Shyang Lu</strong></div><div>Department of Physics, National Taiwan University</div><div>Email: <a href=\"mailto:rslu@phys.ntu.edu.tw\">rslu@phys.ntu.edu.tw</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-06-11T06:09:06.940241+00:00",
+      "updated": "2026-06-11T22:09:08.811380+00:00",
+      "addedAt": "2026-06-12T09:23:09.502Z",
+      "isNew": true
+    },
+    {
       "id": "3167482",
       "title": "Postdoctoral Research Associate in Experimental Neutrino Physics",
       "institution": "U. Colorado, Boulder",
@@ -26,7 +107,7 @@
       "created": "2026-06-10T21:53:26.197694+00:00",
       "updated": "2026-06-10T21:55:35.201675+00:00",
       "addedAt": "2026-06-11T09:28:23.514Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3167438",
@@ -51,7 +132,7 @@
       "created": "2026-06-10T11:22:44.819099+00:00",
       "updated": "2026-06-10T15:04:15.844063+00:00",
       "addedAt": "2026-06-11T09:28:23.514Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3167068",
@@ -80,7 +161,7 @@
       "created": "2026-06-10T03:32:49.912502+00:00",
       "updated": "2026-06-10T15:02:45.070952+00:00",
       "addedAt": "2026-06-11T09:28:23.514Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3165788",
@@ -8575,6 +8656,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-11T09:28:23.515Z",
-  "totalJobs": 320
+  "lastUpdated": "2026-06-12T09:23:09.503Z",
+  "totalJobs": 323
 }
