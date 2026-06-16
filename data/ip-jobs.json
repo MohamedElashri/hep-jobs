@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3168577",
+      "title": "Associate Professor of Experimental Physics",
+      "institution": "Bohr Inst.",
+      "deadline": "2026-08-02",
+      "description": "<div>The Niels Bohr Institute announces the availability of a faculty position in any area of experimental physics, including those based on controlled experiments and observations<em>,</em> with an emphasis on paradigm-shifting science. The search is open to all areas of experimental physics, and the application will be a two-step procedure.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobportal.ku.dk/alle-opslag/?show=162579"
+      ],
+      "contact_email": null,
+      "created": "2026-06-15T10:42:38.857880+00:00",
+      "updated": "2026-06-15T16:44:19.715999+00:00",
+      "addedAt": "2026-06-16T09:47:43.941Z",
+      "isNew": true
+    },
+    {
       "id": "3167735",
       "title": "Precision Nuclear & Particle Physics with Superconducting Detectors",
       "institution": "LPC, Caen",
@@ -8656,6 +8682,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-15T10:07:28.121Z",
-  "totalJobs": 323
+  "lastUpdated": "2026-06-16T09:47:43.942Z",
+  "totalJobs": 324
 }
