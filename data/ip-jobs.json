@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3168660",
+      "title": "Postdoctoral position in Higgs physics at ATLAS",
+      "institution": "Hamburg U.",
+      "deadline": "2026-07-05",
+      "description": "<div><strong>Institution: </strong>Faculty of Mathematics, Informatics and Natural Sciences, Department of Physics, Cluster of Excellence “Quantum Universe”</div><div><strong>Salary level</strong><a href=\"https://oeffentlicher-dienst.info/c/t/rechner/tv-l/allg?id=tv-l-2026&amp;matrix=1\">: EGR. 13 TV-L</a></div><div><strong>Start date</strong>: 01.10.2026 or later, fixed for a period of three years (This is a fixed-term contract in accordance with Section 2 of the academic fixed-term labor contract act [Wissenschaftszeitvertragsgesetz, WissZeitVG]).</div><div><strong>Application deadline</strong>: 05.07.2026</div><div><strong>Scope of work</strong>: full-time position suitable for part-time</div><div><br></div><div>The Cluster of Excellence “Quantum Universe” performs research to understand mass and gravity at the interface between quantum physics and cosmology. The research team includes leading scientists from mathematics, particle physics, astrophysics, and cosmology at the University of Hamburg and DESY.</div><div><br></div><div><strong>Your responsibilities</strong></div><div>Duties include academic services in the project named above. Research associates may also pursue further academic qualifications outside of their work responsibilities.</div><div>The main focus of the position will be the interpretation of Higgs boson measurements across multiple Higgs boson production and decay channels as well as di-Higgs production. The project will be carried out in close collaboration with the DESY ATLAS group.</div><div>Postdoctoral research associates will become members of the Quantum Universe Research School (QURS), which provides academic and key skills training, as well as career planning support. In addition, they will receive individual budgets to facilitate the attendance of summer schools and conferences, and to support other educational measures. Additional travel money for project-specific duties will be provided by the hosting research groups. Postdoctoral research associates may participate in the supervision of doctoral researchers, teaching at the University, and in the organization of the Cluster via an early career council.</div><div><br></div><div><strong>Your profile</strong></div><div>A university degree in a relevant field.</div><div>At least two years of research at the level of a PhD in a relevant field.</div><div>The following requirements should be fulfilled:</div><ul><li>excellent knowledge of physics at the LHC, preferably including Higgs physics</li><li>research experience in data analysis, and preferably ATLAS software</li><li>research experience in detector R&amp;D, construction, operation, or performance</li><li>excellent programming in C++ and python and computing</li><li>excellent knowledge of statistics and statistical tools</li><li>excellent English in speaking and writing</li><li>excellent teamwork abilities and proven record of a successful collaboration in an analysis research project</li></ul><div>Universität Hamburg—University of Excellence is one of the strongest research educational institutions in Germany. Our work in research, teaching, educational and knowledge exchange activities is fostering the next generation of responsible global citizens ready to tackle the global challenges facing us. Our guiding principle “Innovating and Cooperating for a Sustainable Future in a digital age” drives collaboration with academic and nonacademic partner institutions in the Hamburg Metropolitan Region and around the world. We would like to invite you to be part of our community to work with us in creating sustainable and digital change for a dynamic and pluralist society.</div><div>The University of Hamburg is committed to equity. Diversity enriches our university life, whether in our studies, research, teaching, education, or workplace. We therefore welcome all applications, regardless of gender, gender identity, sexual orientation, ethnic or social background, age, religion or belief, disability, or chronic illness.</div><div>The University of Hamburg strives to increase the number of women in academia, and encourages qualified female academics to apply.</div><div>Severely disabled and disabled applicants with the same status will receive preference over equally qualified non-disabled applicants.</div><div><br></div><div><strong>Application deadline</strong></div><div>05.07.2026</div><div><br></div><div><strong>Application procedure</strong></div><div>Further details and the link to the online application system can be found here: <a href=\"https://www.uni-hamburg.de/stellenangebote/ausschreibung.html?jobID=79bd906ce58026704df5017c065364e444f1ce36 \">https://www.uni-hamburg.de/stellenangebote/ausschreibung.html?jobID=79bd906ce58026704df5017c065364e444f1ce36 </a></div><div><br></div><div>Use only the online application form (linked above) to submit your application with the following documents:</div><ul><li>cover letter (1 page) including your research interests related to this position</li><li>CV</li><li>copies of degree certificate(s)</li><li>please arrange for at least two letters of recommendation to be sent directly to <a href=\"mailto:bewerbungen@uni-hamburg.de\">bewerbungen@uni-hamburg.de</a> by the application deadline stating the reference number 148</li></ul><div>If you experience technical problems, send an email to <a href=\"mailto:bewerbungen@uni-hamburg.de\">bewerbungen@uni-hamburg.de</a>.</div><div>More information on <a href=\"https://www.uni-hamburg.de/en/stellenangebote/datenschutz.html\">data protection</a> in selection procedures.</div><div><br></div><div>For questions regarding the position, please contact Kerstin Tackmann (kerstin.tackmann@desy.de).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.uni-hamburg.de/stellenangebote/ausschreibung.html?jobID=79bd906ce58026704df5017c065364e444f1ce36"
+      ],
+      "contact_email": null,
+      "created": "2026-06-15T19:51:28.657126+00:00",
+      "updated": "2026-06-16T16:12:44.388675+00:00",
+      "addedAt": "2026-06-17T09:36:41.197Z",
+      "isNew": true
+    },
+    {
       "id": "3168577",
       "title": "Associate Professor of Experimental Physics",
       "institution": "Bohr Inst.",
@@ -24,7 +51,7 @@
       "created": "2026-06-15T10:42:38.857880+00:00",
       "updated": "2026-06-15T16:44:19.715999+00:00",
       "addedAt": "2026-06-16T09:47:43.941Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3167735",
@@ -8682,6 +8709,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-16T09:47:43.942Z",
-  "totalJobs": 324
+  "lastUpdated": "2026-06-17T09:36:41.198Z",
+  "totalJobs": 325
 }
