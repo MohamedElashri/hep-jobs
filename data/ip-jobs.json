@@ -1,6 +1,60 @@
 {
   "jobs": [
     {
+      "id": "3170194",
+      "title": "Non-tenured associate professor",
+      "institution": "KEK, Tanashi",
+      "deadline": "2026-08-07",
+      "description": "<div>The Institute of Particle and Nuclear Studies (IPNS) at KEK invites applications for a non-tenured associate professor position in experimental particle physics. The successful candidate will join the J-PARC muon&nbsp;<em>g</em>-2/EDM experiment (E34), an experiment to measure the muon anomalous magnetic moment and electric dipole moment with world-leading precision using a novel ultra-slow muon source, the world's first muon LINAC, and a compact storage ring. The position is funded through the KAKENHI Grant-in-Aid for Scientific Research \"Ultra-precision measurement of the muon anomalous magnetic moment and electric dipole moment: new developments\" (Project 26K21728). The candidate will be a member of the Muon and Neutron Group at IPNS and is expected to take a leading role in the development of key instrumentation and improvement of measurement precision. The workplace is the Tokai campus.</div><div>(In principle, there will be no changes to job description or work location.)</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "JPARC-E-034"
+      ],
+      "urls": [
+        "https://www.kek.jp/en/career/ipns26-1e"
+      ],
+      "contact_email": null,
+      "created": "2026-06-18T09:14:26.693486+00:00",
+      "updated": "2026-06-18T15:47:22.278470+00:00",
+      "addedAt": "2026-06-19T09:34:46.277Z",
+      "isNew": true
+    },
+    {
+      "id": "3169528",
+      "title": "Postdoctoral research associate on the CMS experiment",
+      "institution": "Notre Dame U.",
+      "deadline": "2026-08-01",
+      "description": "<div>The experimental high energy physics group at the University of Notre Dame invites applications for a postdoctoral research associate position to work on the CMS experiment at the Large Hadron Collider (LHC).&nbsp;The successful candidate is expected to play leading roles in physics analyses of the Higgs Boson, as well as installation and commissioning of the High Luminosity LHC upgrade for the Barrel Calorimeter. The position is based at CERN.Candidates must possess a Ph.D. in experimental particle physics. The position is for up to five years. The anticipated start date is September 1 2026, but the exact date is negotiable. Interested candidates should submit a curriculum vitae, a cover letter, a brief research statement, and at least three letters of reference. The position will remain open until filled; for full consideration, applications must be submitted by August 1, 2026. For more information, contact Professor Colin Jessop (cjessop@nd.edu).</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/32202"
+      ],
+      "contact_email": null,
+      "created": "2026-06-17T21:40:10.788141+00:00",
+      "updated": "2026-06-18T15:45:34.269502+00:00",
+      "addedAt": "2026-06-19T09:34:46.277Z",
+      "isNew": true
+    },
+    {
       "id": "3168660",
       "title": "Postdoctoral position in Higgs physics at ATLAS",
       "institution": "Hamburg U.",
@@ -8709,6 +8763,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-18T09:29:58.608Z",
-  "totalJobs": 325
+  "lastUpdated": "2026-06-19T09:34:46.279Z",
+  "totalJobs": 327
 }
