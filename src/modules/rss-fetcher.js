@@ -21,7 +21,15 @@ class RSSFetcher {
       const testUrl = this.config.rssUrl;
       this.log(`Testing URL: ${testUrl}`);
 
-      const response = await fetch(testUrl);
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 30000);
+      const response = await fetch(testUrl, {
+        signal: controller.signal,
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; HEPJobsBot/1.0; +https://github.com/melashri/hep-jobs)'
+        }
+      });
+      clearTimeout(timeout);
       this.log(`RSS test response: ${response.status} ${response.statusText}`);
 
       if (!response.ok) {
@@ -41,7 +49,15 @@ class RSSFetcher {
 
     try {
       this.log(`RSS URL: ${this.config.rssUrl}`);
-      const response = await fetch(this.config.rssUrl);
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 30000);
+      const response = await fetch(this.config.rssUrl, {
+        signal: controller.signal,
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; HEPJobsBot/1.0; +https://github.com/melashri/hep-jobs)'
+        }
+      });
+      clearTimeout(timeout);
 
       this.log(`HTTP Status: ${response.status} ${response.statusText}`);
 

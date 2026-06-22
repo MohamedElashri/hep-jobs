@@ -266,81 +266,101 @@ class HEPJobsTracker {
         filterTheoryJobs: true
       });
       this.dataManager.saveJobs(inspireMergedJobs);
-      
+
       const inspirehepData = {
         jobs: inspireMergedJobs,
         lastUpdated: new Date().toISOString(),
         totalJobs: inspireMergedJobs.length,
       };
-      
-      // Fetch AJO data
+
+      // Fetch AJO data with fallback
       this.log("🎓 Fetching AcademicJobsOnline jobs...");
-      const ajoExistingData = this.ajoDataManager.loadExistingJobs();
-      const shouldFetchAJO = this.shouldFetchAJO(ajoExistingData);
-      
       let ajoMergedJobs;
-      if (shouldFetchAJO) {
-        await this.rssFetcher.testApiConnectivity();
-        const ajoNewJobs = await this.rssFetcher.fetchJobs();
-        ajoMergedJobs = this.ajoDataManager.mergeJobs(ajoNewJobs, ajoExistingData, {
-          filterByAge: true,
-          daysToKeep: 30
-        });
-        this.ajoDataManager.saveJobs(ajoMergedJobs);
-      } else {
-        this.log("Using cached AcademicJobsOnline data");
+      try {
+        const ajoExistingData = this.ajoDataManager.loadExistingJobs();
+        const shouldFetchAJO = this.shouldFetchAJO(ajoExistingData);
+
+        if (shouldFetchAJO) {
+          await this.rssFetcher.testApiConnectivity();
+          const ajoNewJobs = await this.rssFetcher.fetchJobs();
+          ajoMergedJobs = this.ajoDataManager.mergeJobs(ajoNewJobs, ajoExistingData, {
+            filterByAge: true,
+            daysToKeep: 30
+          });
+          this.ajoDataManager.saveJobs(ajoMergedJobs);
+        } else {
+          this.log("Using cached AcademicJobsOnline data");
+          ajoMergedJobs = this.ajoDataManager.mergeJobs([], ajoExistingData, {
+            filterByAge: true,
+            daysToKeep: 30
+          });
+          this.ajoDataManager.saveJobs(ajoMergedJobs);
+        }
+      } catch (ajoError) {
+        this.log(`AJO fetch failed (${ajoError.message}), using cached data`, "warning");
+        const ajoExistingData = this.ajoDataManager.loadExistingJobs();
         ajoMergedJobs = this.ajoDataManager.mergeJobs([], ajoExistingData, {
           filterByAge: true,
           daysToKeep: 30
         });
         this.ajoDataManager.saveJobs(ajoMergedJobs);
       }
-      
+
       const ajoData = {
         jobs: ajoMergedJobs,
         lastUpdated: new Date().toISOString(),
         totalJobs: ajoMergedJobs.length,
       };
-      
-      // Fetch DESY data
+
+      // Fetch DESY data with fallback
       this.log("🔬 Fetching DESY jobs...");
-      const desyExistingData = this.desyDataManager.loadExistingJobs();
-      const shouldFetchDESY = this.shouldFetchDESY(desyExistingData);
-      
       let desyMergedJobs;
-      if (shouldFetchDESY) {
-        await this.desyFetcher.testApiConnectivity();
-        const desyNewJobs = await this.desyFetcher.fetchJobs();
-        desyMergedJobs = this.desyDataManager.mergeJobs(desyNewJobs, desyExistingData, {
-          filterByAge: true,
-          daysToKeep: 60
-        });
-        this.desyDataManager.saveJobs(desyMergedJobs);
-      } else {
-        this.log("Using cached DESY data");
+      try {
+        const desyExistingData = this.desyDataManager.loadExistingJobs();
+        const shouldFetchDESY = this.shouldFetchDESY(desyExistingData);
+
+        if (shouldFetchDESY) {
+          await this.desyFetcher.testApiConnectivity();
+          const desyNewJobs = await this.desyFetcher.fetchJobs();
+          desyMergedJobs = this.desyDataManager.mergeJobs(desyNewJobs, desyExistingData, {
+            filterByAge: true,
+            daysToKeep: 60
+          });
+          this.desyDataManager.saveJobs(desyMergedJobs);
+        } else {
+          this.log("Using cached DESY data");
+          desyMergedJobs = this.desyDataManager.mergeJobs([], desyExistingData, {
+            filterByAge: true,
+            daysToKeep: 60
+          });
+          this.desyDataManager.saveJobs(desyMergedJobs);
+        }
+      } catch (desyError) {
+        this.log(`DESY fetch failed (${desyError.message}), using cached data`, "warning");
+        const desyExistingData = this.desyDataManager.loadExistingJobs();
         desyMergedJobs = this.desyDataManager.mergeJobs([], desyExistingData, {
           filterByAge: true,
           daysToKeep: 60
         });
         this.desyDataManager.saveJobs(desyMergedJobs);
       }
-      
+
       const desyData = {
         jobs: desyMergedJobs,
         lastUpdated: new Date().toISOString(),
         totalJobs: desyMergedJobs.length,
       };
-      
+
       // Generate single HTML with all three sources
       this.log("Generating single-page website with all sources...");
       const html = this.htmlGenerator.generateHTML(inspirehepData, ajoData, desyData);
       this.fileManager.writeHTML(html, 'index.html');
-      
+
       // Copy assets
       this.fileManager.copyAssets();
-      
+
       this.log(`✨ Single-page build completed! InspireHEP: ${inspireMergedJobs.length} jobs, AJO: ${ajoMergedJobs.length} jobs, DESY: ${desyMergedJobs.length} jobs`, "success");
-      
+
     } catch (error) {
       this.log(`Build failed: ${error.message}`, "error");
       this.log(`Stack: ${error.stack}`, "error");
