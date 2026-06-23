@@ -1,6 +1,88 @@
 {
   "jobs": [
     {
+      "id": "3170782",
+      "title": "ATLAS LHC Postdoctoral Position",
+      "institution": "Illinois U., Urbana (main)",
+      "deadline": "2026-08-15",
+      "description": "<div>The High-Energy Physics (HEP) Group at the University of Illinois Urbana-Champaign (UIUC) invites applications for a <strong>Postdoctoral Research Associate </strong>with the <strong>ATLAS experiment at the Large Hadron Collider</strong>. The successful candidate will play a leadership role in searches for physics beyond the Standard Model, machine learning applications, and Phase-2 trigger upgrades.&nbsp;</div><div><br></div><div>UIUC is a top 10 U.S. physics university whose HEP program benefits from the National Center for Supercomputing Applications (<a href=\"https://www.ncsa.illinois.edu/\">NCSA</a>) and the Illinois Center for Advanced Study of the Universe (<a href=\"https://icasu.illinois.edu/\">ICASU</a>), providing the candidate with access to world-class computational and AI resources as well as a vibrant physics community and connections with Fermilab and Argonne National Laboratory.</div><div><br></div><div>Qualified candidates must have a PhD (or equivalent) in particle physics by the time of appointment. Applicants should use academicjobsonline to provide a cover letter, curriculum vitae including a list of publications, a statement of research interests, and arrange for three letters of reference.&nbsp;</div><div><br></div><div>Further information is available at <a href=\"https://physics.illinois.edu/people/directory/profile/benhoob\">https://physics.illinois.edu/people/directory/profile/benhoob</a>. Inquiries may be addressed to Prof. Ben Hooberman at <a href=\"mailto:benhoob@illinois.edu\">benhoob@illinois.edu</a>.&nbsp;</div><div><br></div><div>Applications received at this link by <strong>August 15, 2026</strong> will receive full consideration:</div><div><a href=\"https://academicjobsonline.org/ajo?joblst---2034-32197\">https://academicjobsonline.org/ajo?joblst---2034-32197</a></div><div><br></div><div>Review of applications will continue until the position is filled. The start date is negotiable.</div><div><br></div><div>The University of Illinois System is an equal opportunity employer, including but not limited to disability and/or veteran status, and complies with all applicable state and federal employment mandates. Please visit<a href=\"https://www.hr.uillinois.edu/cms/one.aspx?portalId=4292&amp;pageId=5705\"> Required Employment Notices and Posters</a> to view our non-discrimination statement and find additional information about required background checks, sexual harassment/misconduct disclosures, and employment eligibility review through<a href=\"https://e-verify.uscis.gov/web/media/resourcesContents/E-Verify_Participation_Poster_ES.pdf\"> E-Verify</a>.</div><div><br></div><div>Applicants with disabilities are encouraged to apply and may request a reasonable accommodation under the Americans with Disabilities Act (2008) to complete the application and/or interview process.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo?joblst---2034-32197"
+      ],
+      "contact_email": null,
+      "created": "2026-06-22T15:37:39.431627+00:00",
+      "updated": "2026-06-22T19:21:58.609162+00:00",
+      "addedAt": "2026-06-23T09:06:23.855Z",
+      "isNew": true
+    },
+    {
+      "id": "3170777",
+      "title": "Testing the electroweak sector of the Standard Model with the CMS experiment at CERN",
+      "institution": "NCBJ, Warsaw",
+      "deadline": "2026-07-22",
+      "description": "<div>We look for a strong, motivated PhD candidate who would like to participate in the CMS experiment at CERN and perform a comprehensive analysis of the same-sign WW scattering process and the WZ scattering process, with all-leptonic decays, within the theoretical framework of Effective Field Theories with higher dimension operators. The position is for 4 years and is expected to commence in October 2026. Required is a <a href=\"http://M.Sc\">M.Sc</a>. degree in particle physics obtained within the last two years. Candidates are expected to have excellent programming skills (c++, python, ROOT), experience in large experimental collaborations will be a bonus. The successful candidate will also participate in activities related to the maintenance and operation of the Overlap Muon Track Finder (OMTF) system of the CMS detector, as part of their service work within the Warsaw CMS group. To apply please follow the procedure described in <a href=\"https://gradschool.ncbj.gov.pl/admission-requirements/\">https://gradschool.ncbj.gov.pl/admission-requirements/</a>. For more info about the project write to Michal.Szleper@ncbj.gov.pl, for any other issues write to grad@ncbj.gov.pl.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://gradschool.ncbj.gov.pl/physics-thesis-topics/"
+      ],
+      "contact_email": null,
+      "created": "2026-06-22T13:17:24.816179+00:00",
+      "updated": "2026-06-22T19:19:36.413931+00:00",
+      "addedAt": "2026-06-23T09:06:23.855Z",
+      "isNew": true
+    },
+    {
+      "id": "3170791",
+      "title": "Postdoc (f/m/x) in the ALICE 3 outer tracker project",
+      "institution": "Marietta Blau Inst., Vienna",
+      "deadline": "2026-07-13",
+      "description": "<div>MBI performs a rich experimental particle physics research program, participating in accelerator and non accelerator-based experiments. The institute has major involvement in ALICE and CMS at CERN, the Belle II experiment at KEK and several Dark Matter discovery experiments. A research group works on R&amp;D of particle detectors for those experiments, as well as for their applications in medical imaging. For that, it collaborates with MedAustron, an ion cancer therapy and research center. For an upgrade of the Belle II Vertex Detector and for the future FCCee, we design and develop depleted monolithic active pixel detectors and its associated readout electronics. In this context, MBI&nbsp;is offering a postdoc position for an initial period of three years, located in Vienna.</div><div><br></div><div>Your Tasks</div><ol><li>Design of the electronics system for the ALICE Outer Tracker readout system, including front-end ASIC chip design in 65nm technology, and back-end electronics based on the FELIX platform</li><li>Further tasks may include verification and characterization of prototypes in lab tests and particle beam experiments</li><li>Leadership role within the project, including supervision of Bachelor's, Master’s and PhD students</li></ol><div>Your Profile</div><div>●&nbsp;&nbsp;&nbsp;PhD degree in either electronics or physics with a strong background in electronics</div><div>●&nbsp;&nbsp;&nbsp;Previous postdoctoral positions in the domain are strongly desirable</div><div>●&nbsp;&nbsp;&nbsp;Solid background in experimental particle physics</div><div>●&nbsp;&nbsp;&nbsp;Experience in solid-state detector R&amp;D and electronics, with emphasis on</div><ul><li>FPGA programming</li><li>ASIC design</li></ul><div>●&nbsp;&nbsp;Skills in Cadence ASIC design flow, PCB design, software and simulations for electronic circuits and device simulations, and knowledge of the interactions of particles with matter are desirable&nbsp;</div><div><br></div><div>For more information, please check <a href=\"https://oeawnr.onlyfy.jobs/en/job/gasm68nc63kcdlapoio7tkq6bzzx4o2\">this link</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [
+        "https://oeawnr.onlyfy.jobs/en/job/gasm68nc63kcdlapoio7tkq6bzzx4o2"
+      ],
+      "contact_email": null,
+      "created": "2026-06-22T18:12:46.826588+00:00",
+      "updated": "2026-06-22T19:18:45.995513+00:00",
+      "addedAt": "2026-06-23T09:06:23.855Z",
+      "isNew": true
+    },
+    {
       "id": "3170194",
       "title": "Non-tenured associate professor",
       "institution": "KEK, Tanashi",
@@ -8763,6 +8845,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-22T10:42:01.554Z",
-  "totalJobs": 327
+  "lastUpdated": "2026-06-23T09:06:23.856Z",
+  "totalJobs": 330
 }
