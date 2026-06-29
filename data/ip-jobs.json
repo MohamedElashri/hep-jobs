@@ -1,6 +1,109 @@
 {
   "jobs": [
     {
+      "id": "3173262",
+      "title": "Postdoc in particle physics",
+      "institution": "SUSTech, Shenzhen",
+      "deadline": "2026-10-31",
+      "description": "<div>The Particle Physics Group at Southern University of Science and Technology invites applications for postdoctoral research positions in the fields of particle physics and astrophysics. Successful candidates can choose to work on one of the three experiments: JUNO, SNO+, TRIDENT. As the world-largest liquid scintillator detector, JUNO will pin down the neutrino mass ordering and measure neutrino oscillation parameters with unprecedented precision in the coming few years. SNO+ searches for neutrinoless double beta decay in the world's deepest underground laboratory, probing the potential Majorana nature of neutrinos. TRIDENT aims to observe high energy astrophysical neutrinos with a deep sea neutrino telescope in Western Pacific Ocean. There are many exciting opportunities for impactful research at the frontiers of particle physics and astrophysics.</div><div><br></div><div>The initial appointment is for 2+1 years, and further renewal of the positions is possible based on mutual agreement. The start date is November 2026, though a flexible start date between November 2026 and February 2027 is also acceptable. The Southern University of Science and Technology (SUSTech) is ranked among the top 30 global institutions by the Nature Index. The university has a beautiful campus and supportive scientific environment. SUSTech offers a highly competitive salary (comparable to same-level positions in the USA), with additional benefits on social insurance, housing support, research funding and travel subsidy. Shenzhen is a modern international city known for its booming high-tech industries, high quality of living, beautiful environment, and delicious food.</div><div><br></div><div>Qualifications: Applicants should hold a PhD in physics, astronomy, or a closely related field by the start date.</div><div><br></div><div>Application instructions: To ensure full consideration, please submit the following materials by October 31, 2026.</div><div><br></div><div>1. Curriculum vitae</div><div>2. Research statement</div><div>3. Publication list</div><div>4. Three reference letters</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "hep-ex"
+      ],
+      "experiments": [
+        "JUNO",
+        "SNO+",
+        "TRIDENT"
+      ],
+      "urls": [
+        "https://phy.sustech.edu.cn/faculty/detail/id/5298.html?lang=en-us"
+      ],
+      "contact_email": null,
+      "created": "2026-06-26T13:55:41.760316+00:00",
+      "updated": "2026-06-27T02:08:28.926231+00:00",
+      "addedAt": "2026-06-29T09:35:05.344Z",
+      "isNew": true
+    },
+    {
+      "id": "3174020",
+      "title": "PhD position in Muon Radiography",
+      "institution": "Bern U., LHEP",
+      "deadline": "2026-07-15",
+      "description": "<div>The Laboratory for High Energy Physics (LHEP) and Albert Einstein Center for Fundamental Physics (AEC) at the University of Bern invite applications for a <strong>PhD position in Muon Radiography, </strong>within the framework of the Swiss National Centre of Competence in Research (NCCR) Muoniverse.</div><div><br></div><div>Muoniverse (<a href=\"http://muoniverse.ch\">muoniverse.ch</a>) brings together research teams from universities, research institutions, and partner organizations in a highly collaborative network, supported by the Muoniverse Research School, which coordinates training, exchanges, and career development for PhD students and postdoctoral researchers.</div><div><br></div><div>The successful candidate will work on the development of novel muon radiography and muography techniques for imaging subsurface geological structures and environmental systems. The project aims to advance the use of naturally occurring cosmic-ray muons for non-invasive characterization of geological targets and underground structures.</div><div><br></div><div>The position involves tight integration with the local technical and computing staff as well as interactions with other scientific fields at LHEP.</div><div><br></div><div>Applicants must have a Master’s degree or equivalent education in experimental high-energy physics. Preference will be given to candidates with experience in detector technologies or a strong background in particle physics.&nbsp;</div><div><br></div><div>Candidates are requested to send a short letter of application, their CV, and the names and e-mail addresses of two references (we will ask for letters after a pre-selection of candidates) by email to:&nbsp;<a href=\"mailto:alexandra.gerber-huisman@unibe.ch\">alexandra.gerber-huisman@unibe.ch</a>&nbsp;indicating&nbsp;<strong>PhD-muography-2026</strong>&nbsp;as reference. Review of applications will start on July 15st, 2026 and will continue until the position is filled.&nbsp;</div><div><br></div><div>For further information about this position contact:&nbsp;</div><div>Michele.weber@unibe.ch or saba.parsa@unibe.ch</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-06-26T16:18:17.753755+00:00",
+      "updated": "2026-06-26T16:29:31.396683+00:00",
+      "addedAt": "2026-06-29T09:35:05.344Z",
+      "isNew": true
+    },
+    {
+      "id": "3173764",
+      "title": "PhD position in hadronic physics with the ePIC experiment at the EIC",
+      "institution": "U. Mainz, PRISMA",
+      "deadline": "2026-07-15",
+      "description": "<div><strong><em>What is the position?</em></strong></div><div>The <a href=\"https://www.blogs.uni-mainz.de/fb08-nuclear-physics/\">Institute for Nuclear Physics (KPH)</a> at Johannes Gutenberg University Mainz (JGU) in Mainz, Germany, invites applications for a PhD position in experimental nuclear physics. The successful applicant will contribute to hardware and analysis development for the <a href=\"https://www.epic-eic.org/\">ePIC experiment</a> at the <a href=\"https://www.bnl.gov/eic/\">electron-ion collider (EIC)</a>. The EIC is a next-generation QCD facility under construction at Brookhaven National Lab in New York, USA. The ePIC collaboration is currently developing a detector to be ready for first collisions, expected mid-2030s. The PhD project focuses on:&nbsp;</div><div>(i) simulation, design, and testing of a photon calorimeter for the EIC luminosity monitor</div><div>(ii) development of reconstruction tools and physics analyses with ePIC simulation data&nbsp;</div><div>&nbsp;&nbsp;</div><div>The position comes with competitive salary and benefits (E13 TV-L at 75%), and will start Summer/Fall 2026. Funding for the position comes jointly from the HADRON-2030 program (Horizons Europe) and the PRISMA++ Cluster of Excellence (DFG).</div><div><br></div><div><strong><em>Why should I apply?</em></strong></div><div>You will have the opportunity to contribute to a cutting-edge nuclear physics experiment as a member of the international ePIC collaboration. You will gain experience in both detector development and physics reconstruction/analysis. KPH and JGU provide a stimulating environment for study and research, with access to professional development, specialized training, and networking opportunities. Come do great science in the beautiful city of Mainz!</div><div><br></div><div><strong><em>Who can apply?</em></strong></div><div>You must hold a Master’s degree in physics by the time of hire, ideally in nuclear or particle physics. Responsibilities will require data analysis, Monte Carlo simulations, programming (ROOT, C++, Python, GEANT4), and hands-on hardware work; previous experience in some of these areas is advantageous.&nbsp;</div><div><br></div><div><strong><em>How do I apply?</em></strong></div><div>Applications should be submitted through the PRISMA++ PhD Fellowship Program.&nbsp;Instructions can be found at: <a href=\"https://prisma.uni-mainz.de/en/phd-fellowship-program/\">https://prisma.uni-mainz.de/en/phd-fellowship-program/</a></div><div><br></div><div><strong><em>For full consideration, please submit by July 15, 2026.</em></strong></div><div><br></div><div><a href=\"https://seafile.rlp.net/f/9a694df3a5bf4d2084cc/\">PDF of advertisement</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://prisma.uni-mainz.de/en/phd-fellowship-program/"
+      ],
+      "contact_email": null,
+      "created": "2026-06-26T14:50:19.972944+00:00",
+      "updated": "2026-06-26T15:00:45.407575+00:00",
+      "addedAt": "2026-06-29T09:35:05.344Z",
+      "isNew": true
+    },
+    {
+      "id": "3173201",
+      "title": "Postdoctoral Research Associate Position in Experimental High-Energy Nuclear Physics (ALICE)",
+      "institution": "KoALICE",
+      "deadline": "2026-07-17",
+      "description": "<div><strong>Postdoctoral Research Associate Position in Experimental High-Energy Nuclear Physics (ALICE)</strong></div><div>&nbsp;</div><div>The Korean ALICE experiment group (KoALICE) invites applications for one postdoctoral research associate position to conduct research in experimental relativistic heavy-ion physics with the ALICE experiment at CERN.&nbsp;</div><div><strong>&nbsp;</strong></div><div>The KoALICE group consists of researchers from seven Korean universities: Chungbuk National University, Inha University, Jeonbuk National University, Pusan National University, Sejong University, Sungkyunkwan University, and Yonsei University. The group comprises 10 faculty members and more than 40 graduate students and postdoctoral researchers.</div><div>&nbsp;</div><div>KoALICE is actively involved in a broad range of physics analyses and detector-upgrade projects. The successful candidate will be expected to contribute to one or more of the following research areas:</div><div>&nbsp;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ITS3 upgrade and ALICE 3 upgrade</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High-</div><div>&nbsp;photon and jet physics using Run 3 data</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Light-flavour physics using Run 3 data</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heavy-flavour physics using Run 3 data</div><div>&nbsp;</div><div>Depending on the candidate’s research interests and the needs of the collaboration, the successful candidate will work primarily with a faculty member and research group from one of the participating KoALICE institutions. The appointment will begin on <strong>September 1, 2026</strong>, or as soon as possible thereafter. The initial contract period is two years, with the possibility of extension for up to an additional two years, subject to performance and funding availability. The successful candidate will be <strong>stationed at CERN </strong>and will actively participate in on-site ALICE physics analyses, detector-upgrade activities, and collaboration meetings.</div><div>&nbsp;</div><div><strong>Qualifications</strong></div><div><strong>&nbsp;</strong>Applicants are expected to have:</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A recent Ph.D. in nuclear physics, high-energy physics, or a related field, obtained within the past seven years at the time of employment&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in experimental data analysis and/or detector-related hardware development&nbsp;&nbsp;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficiency in written and spoken English, including the ability to communicate scientific results effectively</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrated ability to work both independently and collaboratively in an international research environment</div><div>&nbsp;</div><div><strong>Application</strong></div><div><strong>&nbsp;</strong>Applicants should submit the following materials:</div><ul><li>&nbsp;Curriculum vitae</li><li>A one-page statement of research experience and interests</li><li>List of publications</li><li>Copies of degree certificates, diplomas, and academic transcripts</li><li>Two letters of recommendation</li></ul><div>&nbsp;Applicants intending to apply, or wishing to make an inquiry, are encouraged to contact Prof. Beomkyu Kim at Sungkyunkwan University (<a href=\"mailto:kimbyumkyu@skku.edu\">kimbyumkyu@skku.edu</a>).</div><div>&nbsp;</div><div>For full consideration, application materials should be submitted by July 17, 2026. Letters of recommendation should arrive by July 24, 2026. Review of applications will begin immediately thereafter and will continue until the position is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-06-26T08:18:17.486945+00:00",
+      "updated": "2026-06-26T14:53:00.474545+00:00",
+      "addedAt": "2026-06-29T09:35:05.344Z",
+      "isNew": true
+    },
+    {
       "id": "3171474",
       "title": "Postdoc in Neutrino Physics",
       "institution": "Brookhaven Natl. Lab.",
@@ -8870,6 +8973,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-26T09:05:12.473Z",
-  "totalJobs": 331
+  "lastUpdated": "2026-06-29T09:35:05.344Z",
+  "totalJobs": 335
 }
