@@ -1,6 +1,30 @@
 {
   "jobs": [
     {
+      "id": "3174056",
+      "title": "Measurement of the radioactive properties of isotopes of interest in medical physics, and instrumental developments for the new (NA)2STARS spectrometer",
+      "institution": "SUBATECH, Nantes",
+      "deadline": "2026-07-22",
+      "description": "<div>As part of this research training you will study beta decay of neutron deficit isotopes using the technique of Total Absorption Gamma Spectroscopy (TAGS). The project will involve the study of nuclei relevant to nuclear medical applications. It will be carried out within the Nuclear Structure and Energy (SEN) group at SUBATECH using the newly developed, hybrid Total Absorption Spectrometer (TAS) called STARS.</div><div>TAGS is the preferred measurements technique for these studies as it enables efficient detection of high-energy gamma transitions following beta decay to highly excited states in the daughter nucleus. This capability allows to minimize the “Pandemonium effect”, which otherwise biases the beta decay strength distribution affecting both fundamental studies and applications.</div><div>You will work on beta decay of radioisotopes of interest for Positron Emission Tomography (PET), where accurate decay data are essential for reliable dose calculations in diagnostic medical applications.</div><div>Since 2009, the SEN team has been carrying out TAGS measurements in collaboration with research groups in Spain, the United Kingdom, Finland, Turkey, Hungary and other international collaborators to study beta decay of nuclei critical for reactor physics, nuclear structure, and astrophysics. The collaboration has conducted several measurements at international accelerator facilities such as JYFL in Finland, and RIKEN in Japan, using segmented total absorption spectrometers called DTAS (cluster of 18 NaI(Tl) detectors) and Rocinante (made of 12 BaF2 detectors).</div><div>The new STARS setup combines these high performance TAS detectors with an additional ring of fast LaBr3:Ce detectors, providing enhanced timing and spectroscopic capabilities. STARS will be commissioned at GANIL, the French national accelerator facility, during its first measurement campaign in July 2026. The nuclei studied in this project will be measured at this campaign.</div><div>In addition to data analysis, your PhD will include instrumentation developments around the new STAR spectrometer. The new STAR spectrometer will allow measuring new data in various fields of physics, including medical applications, Beyond Standard Model physics as well as nuclear energy applications. You will participate in GEANT4-based Monte-Carlo simulations to optimize the detector geometry, as well as in its testing and commissioning. It will include as well the preparation of forthcoming experiments at the DESIR facility in GANIL and at the facility of the University of Jyväskylä.</div><div>To summarize, you will receive training in beta and gamma decay spectroscopy, advanced data analysis techniques, nuclear instrumentation, and Monte-Carlo simulations. You will obtain analysis results on isotopes of interest for medical applications. You will also have the opportunity to present your work at national and international conferences. This training will provide transferable skills relevant both to academic research and industrial sector or technological careers.</div><div><br></div><div><br></div><div>Dans le cadre de ce doctorat, vous étudierez la désintégration bêta d'isotopes déficients en neutrons à l'aide de la technique de spectroscopie gamma à absorption totale (TAGS). Le projet portera sur l'étude de noyaux pertinents pour des applications en médecine nucléaire. Il sera mené au sein du groupe Structure et Énergie Nucléaires (SEN) de SUBATECH à l'aide du spectromètre à absorption totale (TAS) hybride nouvellement développé, appelé STARS.</div><div>TAGS est la technique de mesure privilégiée pour ces études, car elle permet une détection efficace des transitions gamma de haute énergie suivant la désintégration bêta vers des états hautement excités dans le noyau fils. Cette capacité permet de minimiser « l’effet Pandemonium », qui, sans cela, fausserait la distribution de l’intensité bêta, affectant à la fois les études fondamentales et les applications.</div><div>Vous travaillerez sur la désintégration bêta de radio-isotopes d'intérêt pour la tomographie par émission de positons (TEP), domaine dans lequel des données de désintégration précises sont indispensables pour effectuer des calculs de dose fiables dans le cadre d'applications médicales diagnostiques.</div><div>Depuis 2009, l'équipe SEN effectue des mesures TAGS en collaboration avec des groupes de recherche en Espagne, au Royaume-Uni, en Finlande, en Turquie, en Hongrie et d'autres partenaires internationaux afin d'étudier la désintégration bêta de noyaux essentiels pour la physique des réacteurs, la structure nucléaire et l'astrophysique. Cette collaboration a mené plusieurs mesures dans des installations d'accélérateurs internationales telles que le JYFL en Finlande et RIKEN au Japon, en utilisant des spectromètres à absorption totale segmentés appelés DTAS (18 détecteurs NaI(Tl)) et Rocinante (12 détecteurs BaF2).</div><div>La nouvelle configuration STARS combine ces détecteurs TAS haute performance avec un anneau supplémentaire de détecteurs rapides LaBr3:Ce, offrant des capacités améliorées en matière de spectroscopie. STARS sera mis en service au GANIL lors de sa première campagne de mesures en juillet 2026. Les noyaux étudiés dans le cadre de ce projet seront mesurés lors de cette campagne.</div><div>Outre l'analyse des données, votre doctorat portera sur les développements instrumentaux pour le nouveau spectromètre STAR. Ce nouveau spectromètre permettra de recueillir de nouvelles données dans des domaines variés de la physique, notamment les applications médicales, la physique au-delà du Modèle standard ainsi que les applications liées à l'énergie nucléaire. Vous participerez à des simulations Monte-Carlo basées sur GEANT4 afin d'optimiser la géométrie du détecteur, ainsi qu'à ses essais et à sa mise en service. Cela inclura également la préparation des prochaines expériences à l'installation DESIR du GANIL et à celle de l'université de Jyväskylä.</div><div>En résumé, vous recevrez une formation en spectroscopie des désintégrations bêta et gamma, en techniques avancées d'analyse de données, en instrumentation nucléaire et en simulations Monte-Carlo. Vous obtiendrez des résultats d'analyse sur des isotopes présentant un intérêt pour les applications médicales. Vous aurez également l'occasion de présenter vos travaux lors de conférences nationales et internationales. Cette formation vous permettra d'acquérir des compétences transférables, utiles tant pour la recherche universitaire que pour le secteur industriel ou les carrières technologiques.</div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-06-28T18:49:07.433422+00:00",
+      "updated": "2026-06-29T15:12:43.995093+00:00",
+      "addedAt": "2026-06-30T09:05:57.598Z",
+      "isNew": true
+    },
+    {
       "id": "3173262",
       "title": "Postdoc in particle physics",
       "institution": "SUSTech, Shenzhen",
@@ -28,7 +52,7 @@
       "created": "2026-06-26T13:55:41.760316+00:00",
       "updated": "2026-06-27T02:08:28.926231+00:00",
       "addedAt": "2026-06-29T09:35:05.344Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3174020",
@@ -51,7 +75,7 @@
       "created": "2026-06-26T16:18:17.753755+00:00",
       "updated": "2026-06-26T16:29:31.396683+00:00",
       "addedAt": "2026-06-29T09:35:05.344Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3173764",
@@ -76,7 +100,7 @@
       "created": "2026-06-26T14:50:19.972944+00:00",
       "updated": "2026-06-26T15:00:45.407575+00:00",
       "addedAt": "2026-06-29T09:35:05.344Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3173201",
@@ -101,7 +125,7 @@
       "created": "2026-06-26T08:18:17.486945+00:00",
       "updated": "2026-06-26T14:53:00.474545+00:00",
       "addedAt": "2026-06-29T09:35:05.344Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3171474",
@@ -8973,6 +8997,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-06-29T09:35:05.344Z",
-  "totalJobs": 335
+  "lastUpdated": "2026-06-30T09:05:57.599Z",
+  "totalJobs": 336
 }
