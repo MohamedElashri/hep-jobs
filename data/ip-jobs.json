@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3175944",
+      "title": "Postdoctoral Research Associate - Mu2e",
+      "institution": "Purdue U., West Lafayette",
+      "deadline": "2026-07-31",
+      "description": "<div><strong>POSTDOCTORAL&nbsp;RESEARCH&nbsp;ASSOCIATE&nbsp;AT&nbsp;PURDUE&nbsp;UNIVERSITY</strong></div><div></div><div>The&nbsp;High&nbsp;Energy&nbsp;Physics&nbsp;Group&nbsp;at&nbsp;Purdue&nbsp;University&nbsp;has&nbsp;an&nbsp;opening&nbsp;for&nbsp;a&nbsp;postdoctoral&nbsp;research&nbsp;associate&nbsp;to&nbsp;work&nbsp;on&nbsp;the&nbsp;Mu2e&nbsp;experiment&nbsp;at&nbsp;the&nbsp;Fermi&nbsp;National&nbsp;Accelerator&nbsp;Lab&nbsp;(Fermilab).</div><div></div><div>The&nbsp;Purdue&nbsp;group&nbsp;has&nbsp;important&nbsp;involvement&nbsp;in&nbsp;many&nbsp;aspects&nbsp;of&nbsp;Mu2e,&nbsp;including&nbsp;the&nbsp;design,&nbsp;construction,&nbsp;installation,&nbsp;and&nbsp;commissioning&nbsp;of&nbsp;detector&nbsp;and&nbsp;associated&nbsp;data&nbsp;acquisition&nbsp;systems,&nbsp;slow-controls,&nbsp;detector&nbsp;operations,&nbsp;simulations,&nbsp;calibrations,&nbsp;and&nbsp;data&nbsp;analysis.&nbsp;&nbsp;Specific&nbsp;areas&nbsp;of&nbsp;responsibility&nbsp;include&nbsp;the&nbsp;extinction&nbsp;monitor,&nbsp;which&nbsp;provides&nbsp;precise&nbsp;measurements&nbsp;of&nbsp;the&nbsp;time&nbsp;structure&nbsp;of&nbsp;the&nbsp;pulsed&nbsp;proton&nbsp;beam&nbsp;delivered&nbsp;to&nbsp;the&nbsp;production&nbsp;target,&nbsp;and&nbsp;the&nbsp;stopping&nbsp;target&nbsp;monitor,&nbsp;which&nbsp;provides&nbsp;the&nbsp;normalization&nbsp;needed&nbsp;to&nbsp;establish&nbsp;limits&nbsp;or&nbsp;measure&nbsp;rates&nbsp;of&nbsp;charged&nbsp;lepton&nbsp;flavor&nbsp;violation.&nbsp;&nbsp;To&nbsp;this&nbsp;end,&nbsp;Purdue&nbsp;leverages&nbsp;their&nbsp;extensive&nbsp;experience&nbsp;with&nbsp;past&nbsp;and&nbsp;ongoing&nbsp;design&nbsp;and&nbsp;construction&nbsp;of&nbsp;silicon&nbsp;pixel&nbsp;tracking&nbsp;detector&nbsp;systems&nbsp;for&nbsp;the&nbsp;Fermilab&nbsp;test&nbsp;beam&nbsp;facility,&nbsp;and&nbsp;the&nbsp;CMS&nbsp;experiment&nbsp;at&nbsp;the&nbsp;Large&nbsp;Hadron&nbsp;Collider.</div><div></div><div>The&nbsp;successful&nbsp;candidate&nbsp;is&nbsp;expected&nbsp;to&nbsp;take&nbsp;on&nbsp;a&nbsp;leadership&nbsp;role&nbsp;in&nbsp;the&nbsp;commissioning&nbsp;of&nbsp;the&nbsp;extinction&nbsp;monitor&nbsp;subdetector&nbsp;hardware,&nbsp;data&nbsp;acquisition&nbsp;system,&nbsp;and&nbsp;online&nbsp;event&nbsp;reconstruction&nbsp;software.&nbsp;They&nbsp;would&nbsp;be&nbsp;expected&nbsp;to&nbsp;interface&nbsp;closely&nbsp;with&nbsp;detector&nbsp;operations&nbsp;and&nbsp;offline&nbsp;experimental&nbsp;infrastructure&nbsp;to&nbsp;provide&nbsp;timely&nbsp;measurements&nbsp;and&nbsp;feedback&nbsp;of&nbsp;beam&nbsp;quality&nbsp;to&nbsp;the&nbsp;experiment&nbsp;and&nbsp;accelerator&nbsp;complex.&nbsp;&nbsp;The&nbsp;candidate&nbsp;would&nbsp;also&nbsp;contribute&nbsp;to&nbsp;data&nbsp;collection&nbsp;and&nbsp;analysis,&nbsp;leading&nbsp;to&nbsp;the&nbsp;first&nbsp;new&nbsp;limits&nbsp;on&nbsp;charged&nbsp;lepton&nbsp;flavor&nbsp;violation&nbsp;processes&nbsp;or&nbsp;their&nbsp;observation.&nbsp;&nbsp;Candidates&nbsp;should&nbsp;have&nbsp;a&nbsp;Ph.D.&nbsp;in&nbsp;experimental&nbsp;particle&nbsp;physics,&nbsp;detector&nbsp;hardware&nbsp;experience,&nbsp;excellent&nbsp;data&nbsp;analysis,&nbsp;computing&nbsp;and&nbsp;programming&nbsp;skills&nbsp;and&nbsp;the&nbsp;ability&nbsp;to&nbsp;carry&nbsp;out&nbsp;an&nbsp;independent&nbsp;research&nbsp;program.&nbsp;The&nbsp;position&nbsp;will&nbsp;be&nbsp;based&nbsp;at&nbsp;Fermilab&nbsp;or&nbsp;Purdue&nbsp;by&nbsp;mutual&nbsp;agreement.</div><div></div><div>Screening&nbsp;of&nbsp;applicants&nbsp;will&nbsp;begin&nbsp;immediately&nbsp;and&nbsp;continue&nbsp;until&nbsp;the&nbsp;position&nbsp;is&nbsp;filled.&nbsp;Full&nbsp;consideration&nbsp;will&nbsp;be&nbsp;given&nbsp;to&nbsp;applications&nbsp;submitted&nbsp;by&nbsp;July&nbsp;31,&nbsp;2026.&nbsp;Interested&nbsp;candidates&nbsp;should&nbsp;send&nbsp;a&nbsp;curriculum&nbsp;vitae&nbsp;together&nbsp;with&nbsp;a&nbsp;short&nbsp;statement&nbsp;of&nbsp;relevant&nbsp;hardware&nbsp;experience&nbsp;and&nbsp;physics&nbsp;interests&nbsp;and&nbsp;arrange&nbsp;for&nbsp;three&nbsp;letters&nbsp;of&nbsp;recommendation&nbsp;to&nbsp;be&nbsp;sent&nbsp;to&nbsp;Prof.&nbsp;Matthew&nbsp;Jones&nbsp;(<a href=\"mailto:mjones@physics.purdue.edu\">mjones@physics.purdue.edu</a>).</div><div></div><div>Purdue&nbsp;University&nbsp;is&nbsp;an&nbsp;Equal&nbsp;Opportunity&nbsp;Affirmative&nbsp;Action&nbsp;Employer.&nbsp;Applications&nbsp;from&nbsp;minority&nbsp;and&nbsp;female&nbsp;candidates&nbsp;are&nbsp;encouraged.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "FNAL-E-0973"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-01T16:04:07.086554+00:00",
+      "updated": "2026-07-01T16:47:57.804133+00:00",
+      "addedAt": "2026-07-02T09:03:20.383Z",
+      "isNew": true
+    },
+    {
       "id": "3174871",
       "title": "Post-doctoral researcher on CMS data analysis using Machine Learning (M/F/X)",
       "institution": "Strasbourg, IPHC",
@@ -25,7 +50,7 @@
       "created": "2026-06-30T07:18:59.326427+00:00",
       "updated": "2026-06-30T16:10:13.391438+00:00",
       "addedAt": "2026-07-01T09:07:44.606Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3174056",
@@ -9024,6 +9049,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-01T09:07:44.607Z",
-  "totalJobs": 337
+  "lastUpdated": "2026-07-02T09:03:20.384Z",
+  "totalJobs": 338
 }
