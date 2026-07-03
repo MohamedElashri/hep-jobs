@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3176438",
+      "title": "PhD position in Dark Sector searches with the NA64 fixed-target experiment",
+      "institution": "Valencia U., IFIC",
+      "deadline": "2026-09-06",
+      "description": "<div>The&nbsp;Experimental&nbsp;Neutrino&nbsp;Physics&nbsp;Group&nbsp;(<a href=\"https://neutrinos.ific.uv.es/\">https://neutrinos.ific.uv.es/</a>)&nbsp;invites&nbsp;applications&nbsp;for&nbsp;a&nbsp;PhD&nbsp;position&nbsp;in&nbsp;experimental&nbsp;particle&nbsp;physics&nbsp;at&nbsp;the&nbsp;Instituto&nbsp;de&nbsp;Física&nbsp;Corpuscular&nbsp;(IFIC,&nbsp;<a href=\"https://webific.ific.uv.es/web/\">https://webific.ific.uv.es/web/</a>).&nbsp;The&nbsp;successful&nbsp;candidate&nbsp;will&nbsp;join&nbsp;the&nbsp;group&#39;s&nbsp;activities&nbsp;within&nbsp;the&nbsp;NA64&nbsp;experiment&nbsp;at&nbsp;CERN&nbsp;(<a href=\"https://na64.web.cern.ch\">https://na64.web.cern.ch</a>),&nbsp;focusing&nbsp;on&nbsp;searches&nbsp;for&nbsp;Light&nbsp;Dark&nbsp;Matter,&nbsp;and&nbsp;other&nbsp;physics&nbsp;beyond&nbsp;the&nbsp;Standard&nbsp;Model.&nbsp;</div><div></div><div>The&nbsp;PhD&nbsp;project&nbsp;will&nbsp;be&nbsp;centred&nbsp;on&nbsp;the&nbsp;exploitation&nbsp;of&nbsp;the&nbsp;NA64&nbsp;data&nbsp;collected&nbsp;so&nbsp;far&nbsp;as&nbsp;well&nbsp;as&nbsp;the&nbsp;optimisation&nbsp;and&nbsp;design&nbsp;of&nbsp;the&nbsp;experiment&nbsp;for&nbsp;the&nbsp;next&nbsp;phase.&nbsp;The&nbsp;students&nbsp;will&nbsp;be&nbsp;mainly&nbsp;involved&nbsp;in&nbsp;the&nbsp;electron&nbsp;and&nbsp;muon&nbsp;programs&nbsp;participating&nbsp;in&nbsp;the&nbsp;following&nbsp;activities:&nbsp;</div><ul><li>Analysis&nbsp;of&nbsp;current&nbsp;NA64&nbsp;data&nbsp;and&nbsp;Monte&nbsp;Carlo&nbsp;simulations.</li><li>Phenomenology&nbsp;studies&nbsp;to&nbsp;search&nbsp;for&nbsp;new&nbsp;signatures.</li><li>Development&nbsp;of&nbsp;reconstruction&nbsp;and&nbsp;analysis&nbsp;software.</li><li>Development&nbsp;of&nbsp;new&nbsp;trigger&nbsp;algorithms&nbsp;for&nbsp;real&nbsp;time&nbsp;analysis&nbsp;and&nbsp;detector&nbsp;optimisation.</li><li>Participation&nbsp;in&nbsp;CERN&nbsp;test&nbsp;beams&nbsp;and&nbsp;data-taking&nbsp;campaigns.</li></ul><div>The&nbsp;student&nbsp;will&nbsp;work&nbsp;within&nbsp;an&nbsp;international&nbsp;collaboration.&nbsp;The&nbsp;position&nbsp;offers&nbsp;opportunities&nbsp;for&nbsp;traveling&nbsp;to&nbsp;CERN&nbsp;and&nbsp;participation&nbsp;in&nbsp;international&nbsp;conferences,&nbsp;workshops,&nbsp;and&nbsp;schools.</div><div></div><div>The&nbsp;positions&nbsp;are&nbsp;fully&nbsp;funded&nbsp;for&nbsp;4&nbsp;years.&nbsp;Applications&nbsp;will&nbsp;be&nbsp;reviewed&nbsp;on&nbsp;a&nbsp;rolling&nbsp;basis&nbsp;until&nbsp;the&nbsp;position&nbsp;is&nbsp;filled.&nbsp;The&nbsp;position&nbsp;is&nbsp;expected&nbsp;to&nbsp;start&nbsp;in&nbsp;Fall&nbsp;2026,&nbsp;although&nbsp;the&nbsp;exact&nbsp;starting&nbsp;date&nbsp;will&nbsp;depend&nbsp;on&nbsp;administrative&nbsp;procedures.</div><div></div><div>Applicants&nbsp;must&nbsp;hold&nbsp;a&nbsp;Master&#39;s&nbsp;degree&nbsp;(or&nbsp;equivalent)&nbsp;in&nbsp;high-energy&nbsp;or&nbsp;particle&nbsp;physics.&nbsp;Previous&nbsp;experience&nbsp;in&nbsp;experimental&nbsp;particle&nbsp;physics,&nbsp;Monte&nbsp;Carlo&nbsp;simulation,&nbsp;detector&nbsp;instrumentation,&nbsp;or&nbsp;data&nbsp;analysis&nbsp;is&nbsp;desirable.&nbsp;Experience&nbsp;with&nbsp;programming&nbsp;in&nbsp;Python,&nbsp;C++,&nbsp;as&nbsp;well&nbsp;as&nbsp;familiarity&nbsp;with&nbsp;&nbsp;ROOT,&nbsp;GEANT4&nbsp;or&nbsp;machine&nbsp;learning&nbsp;techniques&nbsp;will&nbsp;be&nbsp;valued&nbsp;positively.</div><div></div><div>Applicants&nbsp;are&nbsp;requested&nbsp;to&nbsp;send&nbsp;their&nbsp;application,&nbsp;including&nbsp;a&nbsp;motivation&nbsp;letter,&nbsp;CV,</div><div>academic&nbsp;transcripts&nbsp;and&nbsp;the&nbsp;contact&nbsp;information&nbsp;of&nbsp;at&nbsp;least&nbsp;two&nbsp;referees&nbsp;willing&nbsp;to&nbsp;write&nbsp;a</div><div>reference&nbsp;letter&nbsp;to&nbsp;Dr.&nbsp;Laura&nbsp;Molina&nbsp;Bueno&nbsp;(laura.molina@ific.uv.es)&nbsp;by&nbsp;September&nbsp;6th.&nbsp;</div><div></div><div>We&nbsp;are&nbsp;committed&nbsp;to&nbsp;fostering&nbsp;an&nbsp;inclusive&nbsp;and&nbsp;diverse&nbsp;research&nbsp;environment&nbsp;and&nbsp;encourage&nbsp;applications&nbsp;from&nbsp;candidates&nbsp;of&nbsp;all&nbsp;backgrounds.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-SPS-NA-064"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-02T10:39:23.001736+00:00",
+      "updated": "2026-07-02T14:33:59.879627+00:00",
+      "addedAt": "2026-07-03T09:02:48.746Z",
+      "isNew": true
+    },
+    {
       "id": "3175944",
       "title": "Postdoctoral Research Associate - Mu2e",
       "institution": "Purdue U., West Lafayette",
@@ -23,7 +48,7 @@
       "created": "2026-07-01T16:04:07.086554+00:00",
       "updated": "2026-07-01T16:47:57.804133+00:00",
       "addedAt": "2026-07-02T09:03:20.383Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3174871",
@@ -9049,6 +9074,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-02T09:03:20.384Z",
-  "totalJobs": 338
+  "lastUpdated": "2026-07-03T09:02:48.747Z",
+  "totalJobs": 339
 }
