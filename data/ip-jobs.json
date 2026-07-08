@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3177935",
+      "title": "Postdoc position on Higgs boson coupling with the top quark and the phase-2 CMS tracker at the HL-LHC",
+      "institution": "IP2I, Lyon",
+      "deadline": "2026-08-31",
+      "description": "<div><strong>Higgs boson coupling with the top quark and the phase-2 CMS tracker at the HL-LHC</strong></div><div><strong>&nbsp;</strong></div><div><strong>Position:</strong> Postdoctoral researcher</div><div><strong>Duration:</strong> 3 years</div><div><strong>Contract Start:</strong> from January 1, 2027</div><div><strong>Application Deadline:</strong> August 31, 2026</div><div><br></div><div><strong>The IP2I:</strong></div><div><br></div><div>The Institut de Physique des 2 Infinis de Lyon (IP2I), a joint laboratory of the French IN2P3/CNRS and the Université Claude Bernard Lyon 1, invites applications for a postdoctral researcher position to work on the CMS experiment.</div><div>The IP2I is a founding member of CMS and had a key role in the development, installation and commissioning of the electromagnetic calorimeter and tracking detectors. The group has also made important contributions in the area of top quark physics (top mass, top pair resonances, vector like tops…), and in the area of Higgs boson searches (Higgs to two photons decay channel, top-Higgs coupling) and standard model measurements (W boson mass). The group also has important responsibilities in the CMS upgrade effort (phase-2 outer tracker and improved muon RPC).</div><div><br></div><div><strong>Research project:</strong></div><div><br></div><div>The top-quark Yukawa coupling (Yt, coupling between the Higgs boson and the top quark) is a fundamental parameter of the Standard Model (SM). It is the largest of the Yukawa interactions, owing to the large top-quark mass, making the top quark sector highly sensitive to Beyond the SM (BSM) theories, many of which predict modifications of Yt. If Yt carries a CP-odd component, it could supply one of the missing ingredients required for electroweak baryogenesis, contributing to explain the matter–antimatter asymmetry of the Universe. The selected candidate will contribute to the precise measurement of Yt in proton-proton collisions at the LHC. To push the precision beyond world-leading results, the postdoc will exploit the large Run 3 dataset at an energy of 13.6 TeV. The integration of state-of-the-art machine learning algorithms into the analysis is foreseen as a major component of this work.</div><div><br></div><div>The CMS detector will be upgraded for the High Luminosity LHC (HL-LHC), whose start is planned for 2030. The current CMS tracker will need to be completely replaced for the HL-LHC, to sustain the radiation level induced by the large increase in LHC luminosity. The postdoc will play a leading role in the CMS tracker upgrade effort at IP2I, with the integration of the future tracker mechanical structures (so-called ‘Dees’) ongoing at the lab during the duration of the position. Additionally, work on developing improved tracking algorithms, especially via machine learning techniques, is foreseen as part of the preparation of this new detector for the HL-LHC data collection.</div><div><br></div><div>The activities will be divided approximately at 70/30% between physics analysis/reconstruction and hardware-related work.</div><div><br></div><div><strong>Application:</strong></div><div><br></div><div>The position is proposed for a 3-year period (36 months). The expected monthly salary for the position is between 3 071.50 € and 4 258.37 € brut (approx. €2 467.32 to €3 427.53 net) depending on experience (plus social benefits).</div><div><br></div><div>Candidates must hold a Ph.D. degree in particle physics or equivalent. The candidates must submit their application with (i) a letter of motivation, (ii) a CV and (iii) three letters of recommendation at the following site: <a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR5822-FLOJAC-106/Default.aspx\">https://emploi.cnrs.fr/Offres/CDD/UMR5822-FLOJAC-106/Default.aspx</a></div><div><br></div><div>Applications will be reviewed until the position is filled, but for full consideration, all materials should reach us by<strong> August 31, 2026.&nbsp;</strong></div><div><br></div><div><strong>Contacts: </strong>CHANON Nicolas (<a href=\"mailto:nicolas.pierre.chanon@cern.ch\"><strong><em>nicolas.pierre.chanon@cern.ch</em></strong></a>), LONG Kenneth (<a href=\"mailto:kenneth.long@cern.ch\">kenneth.long@cern.ch</a>)</div><div><br></div><div><strong>Address :</strong> Institut de Physique des 2 Infinis de Lyon, Domaine scientifique de la Doua, Bâtiment Paul Dirac, 4, Rue Enrico Fermi, 69622 Villeurbanne Cedex</div><div><br></div><div><strong>Letters of Reference should be sent to:&nbsp;</strong>&nbsp;<a href=\"mailto:kenneth.long@cern.ch\">kenneth.long@cern.ch</a> and <a href=\"mailto:nicolas.pierre.chanon@cern.ch\">nicolas.pierre.chanon@cern.ch</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR5822-FLOJAC-106/Default.aspx"
+      ],
+      "contact_email": null,
+      "created": "2026-07-07T09:51:52.203454+00:00",
+      "updated": "2026-07-07T14:36:51.543327+00:00",
+      "addedAt": "2026-07-08T08:51:26.985Z",
+      "isNew": true
+    },
+    {
       "id": "3176802",
       "title": "Postdoctoral position in experimental high energy particle or nuclear physics in ATLAS at the LHC",
       "institution": "Tarapaca U.",
@@ -26,7 +53,7 @@
       "created": "2026-07-05T18:48:18.914249+00:00",
       "updated": "2026-07-06T15:47:52.844879+00:00",
       "addedAt": "2026-07-07T09:05:39.651Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3176469",
@@ -53,7 +80,7 @@
       "created": "2026-07-02T18:37:10.903271+00:00",
       "updated": "2026-07-06T15:38:00.458725+00:00",
       "addedAt": "2026-07-07T09:05:39.651Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3176484",
@@ -78,7 +105,7 @@
       "created": "2026-07-02T21:43:28.226576+00:00",
       "updated": "2026-07-06T15:16:40.745318+00:00",
       "addedAt": "2026-07-07T09:05:39.651Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3176438",
@@ -9154,6 +9181,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-07T09:05:39.652Z",
-  "totalJobs": 342
+  "lastUpdated": "2026-07-08T08:51:26.986Z",
+  "totalJobs": 343
 }
