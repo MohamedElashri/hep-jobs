@@ -1,6 +1,88 @@
 {
   "jobs": [
     {
+      "id": "3179818",
+      "title": "Detector Software Engineer",
+      "institution": "Lund U. (main)",
+      "deadline": "2026-08-17",
+      "description": "<div><strong>Lund University, Scientific Data</strong></div><div>Lund University was founded in 1666 and is repeatedly ranked among the world’s top universities. The University has around 46 000 students and 8 500 staff based in Lund, Helsingborg and Malmö. We are united in our efforts to understand, explain and improve our world and the human condition.</div><div><br></div><div><strong>Your Team</strong></div><div>You will join the Scientific Data group of the Technical Division, an international team responsible for data acquisition from state-of-the-art detector systems through to the development and support of software projects for data analysis and visualisation at the beamline experimental stations.</div><div>The detectors used for recording data at the beamlines are a crucial aspect of the MAX IV scientific infrastructure, demanding specialised and dedicated support. In this domain we are looking for a Detector Software Engineer to work on the integration, commissioning and operations support of the detectors plus the ongoing development and maintenance of the associated DAQ software.</div><div>The main role of the successful candidate will be to ensure the optimal operation of the commercially-supplied detectors, both position measuring and energy resolving, especially megapixel photon-counting detectors and sCMOS cameras. Here we deal with challenging high data rates and large data volumes using modern software frameworks and computing infrastructure, integrated into high performance and sustainable services. The successful candidate will work closely with the beamline scientists in order to understand their detector requirements and deliver the optimal detector performance for different experimental techniques, while also contributing to the overall software ecosystem for data acquisition within the MAX IV edge-cloud environment. There is also scope to seek out collaborations with other institutes who are engaged in detector research and development in order to bring custom solutions to the MAX IV beam lines where needed. We encourage participation in international conferences and workshops through articles and presentations.</div><div>&nbsp;</div><div>Your primary responsibilities will include</div><ul><li>Integration of detectors into control and DAQ pipelines and support of these systems in operation, combining an understanding of the underlying principles of operation of the detectors with the ability to deliver robust scientific software engineering solutions</li><li>Liaising with commercial and non-commercial detector suppliers, trouble shooting new and existing detectors, following up with suppliers on fixes and updates</li><li>Contribution to the development of the underlying general DAQ system</li><li>Understand the detector needs of the beam lines and advise during procurement of detector systems</li><li>Carry out Site Acceptance Tests and other performance and characterization tests of different detectors (photon counting, charge integrating, energy resolving…)</li><li>Produce documentation for the support of the installed detector systems</li></ul><div>To be successful in this role you need to have the following qualifications</div><ul><li>Degree in physics, engineering, computer science or equivalent qualifications or experience</li><li>Experience working with (ideally photon) detectors for scientific applications and an understanding of their operating principles</li><li>A proven ability in software development and data analysis in a high-level programming language (Python, C++, Rust...) in a Linux environment</li><li>Good communication skills, ability to interact effectively with staff at all levels in and outside MAX IV</li><li>Ability to work as part of a multi-disciplinary team</li></ul><div>&nbsp;Below are seen as merits</div><ul><li>Advanced degree (PhD) in a relevant field</li><li>Experience with commercial X-ray detector systems typically found at synchrotron beamlines</li><li>Experience in detector development for synchrotron applications</li><li>Experience with high performance/distributed computing and networking</li><li>Experience with analysis of data in HDF5 format</li><li>Working experience at synchrotrons or other large experimental facilities</li><li>Familiarity with Continuous Integration/Continuous Deployment (CI/CD) practices.</li><li>Familiarity with containerisation technologies and Kubernetes for software and service</li><li>deployment</li><li>Experience working with FPGAs using HLS (e.g. Vivado) and/or OpenCL</li><li>Experience of the Timepix3 ASIC</li></ul><div>&nbsp;As a person you</div><ul><li>Have strong communication skills and the ability to collaborate effectively with colleagues across all levels, both within and outside the organisation.</li><li>Are a self-starter with a passion for learning new technologies</li><li>Take initiative to solve problems</li><li>Are creative, flexible and performance oriented</li><li>Have an ability to cooperate and work with others as part of a multi-disciplinary team</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://lu.varbi.com/what:job/jobID:941937/"
+      ],
+      "contact_email": null,
+      "created": "2026-07-13T09:09:16.427816+00:00",
+      "updated": "2026-07-13T14:47:25.958350+00:00",
+      "addedAt": "2026-07-14T08:43:23.691Z",
+      "isNew": true
+    },
+    {
+      "id": "3179819",
+      "title": "QUP Postdoctoral Fellows in Experimental Physics",
+      "institution": "QUP, Tsukuba",
+      "deadline": "2026-07-31",
+      "description": "<div>We are seeking outstanding applicants for <strong>several Postdoctoral Fellow positions </strong>at QUP in experimental physics.</div><div><br></div><div>The International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP) is a World Premier International Research Center Initiative (WPI) promoted by the Japanese government and hosted by the High Energy Accelerator Research Organization (KEK), the leading national high energy physics laboratory in Japan.&nbsp;</div><div><br></div><div>QUP aims to explore new quantum fields and forces and probe physical phenomena with extremely weak couplings, such as light dark matter, axions, and gravitational waves, by pioneering the weak coupling frontier through the use of cutting-edge quantum sensors and devices. QUP operates under a distinctive organizational model in which researchers from a broad range of institutions, including KEK, converge at QUP to pursue common scientific objectives. QUP's principal research activities are conducted at its central facility, with additional support provided by satellite laboratories at the University of California at Berkeley (USA), Toyota Central R&amp;D Lab., and ISAS at the Japanese space agency JAXA. These programs are designed to bridge quantum technologies with particle and fundamental physics, materials science, and biomedical applications through deeply coordinated, inter-institutional collaboration.&nbsp;&nbsp;</div><div><br></div><div>Successful candidates are expected to conduct research for the QUP experimental projects with the Principal Investigators.&nbsp;An overview of the QUP research, including the relationship between the projects, can be found at: <a href=\"https://www2.kek.jp/qup/en/research/\"><strong>https://www2.kek.jp/qup/en/research/</strong></a>. We are particularly seeking candidates who are interested in any of the following research topics:</div><ul><li>Experimental investigation of high-precision spectroscopy and dynamics of muonic atoms and molecules based on AMO physics approaches to fundamental physics, including QED.</li><li>Experimental implementation of nitrogen-vacancy centers in diamond for novel physics searches such as light dark-matter detection.</li><li>Search for axion and dark photon dark matter using superconducting qubit arrays, and demonstration of quantum advantage in quantum sensing enabled by quantum entanglement.</li><li>Searches for low-mass particle dark matter at the new underground Cryolab facility in Kamioka</li><li>Experimental studies of antimatter gravity using advanced quantum techniques for (anti)hydrogen cooling, manipulations, fountains and interferometry.</li><li>Development of superconducting cavities for gravitational-wave searches, and exploration of their potential applications to quantum computation via bosonic encoding.</li><li>Research and development of highly sensitive superconducting sensor systems, including Transition-Edge Sensors (TESs), and application of ultra-sensitive photon detection technologies to dark matter searches, high-frequency gravitational-wave searches, and fundamental experiments such as tests of QED.</li><li>Research and development of high-performance, radiation-hard semiconductor detectors, readout electronics, and system-integration technologies for X-ray, gamma-ray, and particle detection aimed at advancing next-generation gamma-ray imaging, radiation imaging, and spectroscopy technologies for diverse applications in quantum sensing, accelerator experiments, space observations, medicine, life sciences, and related fields.</li></ul><div>The position also aims to contribute to the development of new research directions in related fields.</div><div><br></div><div>&nbsp;The fellowship is offered on an annual contract basis. Each yearly contract is renewed subject to the fellow's satisfactory progress and the continuing availability of funds.<strong> The maximum term of the position is three years.</strong> Salaries are comparable to those at other prestigious institutions. For exceptionally qualified candidates, appointment as Assistant Professor may be offered for the same duration.</div><div><br></div><div>&nbsp;As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. QUP is an equal opportunity employer that will build a diverse community of scientists. We welcome qualified applicants worldwide, including women, persons with disabilities, and underrepresented minorities, regardless of race, color, religion, gender identity, etc.</div><div><br></div><div>&nbsp;Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. <strong>The posting shall remain open until the positions are filled.</strong> However, for full consideration, we encourage all candidates to apply by July 31, 2026. Applications will only be accepted via <a href=\"http://AcademicJobsOnline.org\">AcademicJobsOnline.org</a>. Applicants should submit a curriculum vitae (with an email address and citizenship), a statement of research interests, and a list of publications. Applicants should also ensure that at least three letters of reference are submitted on their behalf. They should be uploaded from this page. Email inquiries regarding the application process may be sent to: <a href=\"mailto:qup_job_inquiry@ml.post.kek.jp\"><strong>qup_job_inquiry@ml.post.kek.jp</strong></a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "astro-ph",
+        "physics.ins-det",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/32184"
+      ],
+      "contact_email": null,
+      "created": "2026-07-13T09:45:53.785505+00:00",
+      "updated": "2026-07-13T14:38:48.907954+00:00",
+      "addedAt": "2026-07-14T08:43:23.691Z",
+      "isNew": true
+    },
+    {
+      "id": "3179805",
+      "title": "Postdoc in experimental particle physics (CMS detector)",
+      "institution": "Zhejiang U.",
+      "deadline": "2027-01-02",
+      "description": "<div>The experimental high-energy physics group at Zhejiang University invites applications for a Postdoctoral Research Associate position on the CMS experiment at the Large Hadron Collider. The group is involved in flavor physics, exotic physics, Higgs boson measurements, and precision measurements.&nbsp;The group is also heavily engaged in the development of the High-Granularity Calorimeter (HGCAL) and computing operations.&nbsp;&nbsp;</div><div><br></div><div>The successful candidate will work under the supervision of Prof. Zhangqier Wang and is expected to play leading roles in physics analyses, focusing on flavor physics measurements and new physics searches, and in HGCAL upgrade activities. The position will initially be based at CERN for the first portion of the appointment, with travel between locations as needed. For the remainder of the position, the candidate can be based either at CERN or in China.</div><div><br></div><div>A Ph.D. in experimental high-energy physics is required (or will be completed soon). As part of university postdoctoral regulations, the candidate will be expected to complete standard academic milestones, including an initial research proposal review, a mid-term progress evaluation, and a final exit review. The appointment is for three years, and can be extended subject to mutual agreement and funding availability. The position is open immediately and will remain open until filled. Interested candidates should submit a cover letter, curriculum vitae, and a statement of research interests and experience (1–2 pages), and arrange for three letters of recommendation to be sent to wangzqe@zju.edu.cn.&nbsp;</div>",
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-13T07:02:12.691253+00:00",
+      "updated": "2026-07-13T14:37:51.153659+00:00",
+      "addedAt": "2026-07-14T08:43:23.691Z",
+      "isNew": true
+    },
+    {
       "id": "3178314",
       "title": "Postdoctoral Researcher on the Project 8 Neutrino Mass Experiment",
       "institution": "Gent U.",
@@ -9234,6 +9316,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-13T09:04:28.761Z",
-  "totalJobs": 345
+  "lastUpdated": "2026-07-14T08:43:23.691Z",
+  "totalJobs": 348
 }
