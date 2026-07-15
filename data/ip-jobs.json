@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "id": "3180277",
+      "title": "Experimental Particle Physics (A13 a.Z.)",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-08-31",
+      "description": "<div>The Experimental Particle Physics group (Prof. M. Cristinziani) at the Center for Particle Physics Siegen (CPPS) has an opening for a</div><div><br></div><div><strong>         Research Assistant (Akademische/r Rätin/Rat A13 a.Z.)</strong></div><div><br></div><div>full-time position starting on 1st January 2027 with some flexibility.</div><div><br></div><div>The group is part of the Cluster of Excellence \"Color meets Flavour\" and, within ATLAS, is engaged in data analysis and in the upgrade of the new silicon-based Inner Tracker (ITk) for the High-Luminosity LHC. The current analysis activities are focused on top-quark and Higgs-boson physics, flavour tagging and search for BSM physics. Example ongoing analyses are: ttH(cc), t-&gt;Hq, Vcb from top-quark decays, top Yukawa coupling from ttH, and charged lepton flavour violation in top-quark decays.</div><div><br></div><div>Candidates should have a qualified PhD in Experimental Particle Physics or a related field and should have demonstrated strong potential for outstanding achievements as independent researchers. Expertise in Machine Learning techniques are an asset. Over the coming years, the successful candidate is expected to take a leading role in top, Higgs and/or tagging at the ATLAS experiment. Engagement in the ITk pixel upgrade activities or other ongoing R&amp;D work is encouraged.</div><div><br></div><div>The position, which is based in Siegen, is a Junior Faculty Position (A13) with the possibility of acquiring a “Habilitation”. It belongs to the German science/university career path. Participation in university teaching and supervision of Master and PhD students is thus expected. Salary and benefits follow the German standards for state officials. The duration is initially fixed for two successive periods of three years (Beamter auf Zeit). Women are especially encouraged to apply.</div><div><br></div><div>The successful candidate must have a university degree and a Ph.D. in physics or a relevant field of science. Experience in particle physics research, data analysis and programming skills in C++/Python, is also required.</div><div><br></div><div>Applications, including a CV and a short description of the research experience and interests, should be sent via email (one single PDF file) to <a href=\"mailto:Markus.Cristinziani@uni-siegen.de\">Markus.Cristinziani@uni-siegen.de</a>. The deadline for submission is 31st August 2026.</div><div><br></div><div>In addition, the applicants should arrange for at least two letters of reference to be sent to the same address.</div><div><br></div><div>More Information:</div><div>&nbsp;&nbsp;<a href=\"http://www.hep.physik.uni-siegen.de\">http://www.hep.physik.uni-siegen.de</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.hep.physik.uni-siegen.de/"
+      ],
+      "contact_email": null,
+      "created": "2026-07-14T12:13:24.575038+00:00",
+      "updated": "2026-07-15T05:58:30.992747+00:00",
+      "addedAt": "2026-07-15T08:46:07.958Z",
+      "isNew": true
+    },
+    {
+      "id": "3180278",
+      "title": "Postdoctoral Fellow (Akademische Rätin/Akademischer Rat auf Zeit (f/m/d))",
+      "institution": "Freiburg U.",
+      "deadline": "2026-08-14",
+      "description": "<div>The Experimental Particle Physics group of Prof. M. Schumacher at the University of</div><div>Freiburg has an opening for a</div><div><br></div><div><strong>Postdoctoral Fellow (Akademische Rätin/Akademischer Rat auf Zeit (f/m/d))</strong></div><div><br></div><div>starting on <strong>1. November 2026</strong> or later.</div><div><br></div><div>The chair’s research focuses on the study of the Higgs particle and electroweak symmetry breaking, and the search for ‘new physics’ with the ATLAS experiment at the Large Hadron Collider (LHC) at CERN. Furthermore, we are involved in the development of novel information technologies in the field of federated scientific computing and in the operation of the Worldwide LHC Computing Grid (WLCG) infrastructure in Germany. We also contribute to physics studies for a future e+ ecollider at CERN.</div><div><br></div><div>The successful candidate is expected to participate primarily in our research activities at the ATLAS experiment. In addition to meeting the requirements for civil service appointment, candidates must have an excellent / qualified PhD in collider-based experimental particle physics, a broad and significant knowledge in the field of particle physics phenomenology and experience in large-scale high-energy physics experiments. The candidate should have demonstrated a strong potential for outstanding achievements as an independent researcher.</div><div><br></div><div>The opportunity to undertake a habilitation and further qualification is provided. There is an obligation to undertake teaching duties amounting to 4 hours per week during teaching periods.</div><div><br></div><div>The position (100% full time equivalent) is initially limited to three years with the possibility of renewal up to a total of six years. The salary will be determined in accordance with grade A13 of the state of Baden-Württemberg.</div><div><br></div><div>We will be particularly pleased to receive applications from women for the position advertised here.</div><div><br></div><div>Applications should include CV, a copy of MSc and PhD certificates including a report of the grades, a summary of research experience, an outline of research interests for the next six years and a list of three persons, who may be contacted to provide reference letters.</div><div><br></div><div>Applications collecting the above information in a <strong>single PDF file</strong> should be sent <strong>via e-mail until 14. August 2026</strong> to:</div><div>Prof. Markus Schumacher at <a href=\"mailto:markus.schumacher@physik.uni-freiburg.de\">markus.schumacher@physik.uni-freiburg.de</a></div><div><br></div><div>For further information please contact the mentioned e-mail address.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://terascale.physik.uni-freiburg.de/"
+      ],
+      "contact_email": null,
+      "created": "2026-07-14T12:17:40.076153+00:00",
+      "updated": "2026-07-14T15:48:46.824466+00:00",
+      "addedAt": "2026-07-15T08:46:07.958Z",
+      "isNew": true
+    },
+    {
       "id": "3179818",
       "title": "Detector Software Engineer",
       "institution": "Lund U. (main)",
@@ -24,7 +79,7 @@
       "created": "2026-07-13T09:09:16.427816+00:00",
       "updated": "2026-07-13T14:47:25.958350+00:00",
       "addedAt": "2026-07-14T08:43:23.691Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3179819",
@@ -53,7 +108,7 @@
       "created": "2026-07-13T09:45:53.785505+00:00",
       "updated": "2026-07-13T14:38:48.907954+00:00",
       "addedAt": "2026-07-14T08:43:23.691Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3179805",
@@ -80,7 +135,7 @@
       "created": "2026-07-13T07:02:12.691253+00:00",
       "updated": "2026-07-13T14:37:51.153659+00:00",
       "addedAt": "2026-07-14T08:43:23.691Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3178314",
@@ -9316,6 +9371,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-14T08:43:23.691Z",
-  "totalJobs": 348
+  "lastUpdated": "2026-07-15T08:46:07.959Z",
+  "totalJobs": 350
 }
