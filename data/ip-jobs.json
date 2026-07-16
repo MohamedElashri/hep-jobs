@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3180634",
+      "title": "Postdoctoral researcher on the ATLAS experiment at the LHC (M/F)",
+      "institution": "L2IT, Toulouse",
+      "deadline": "2026-08-05",
+      "description": "<div>The \"Particle Physics\" team at the Laboratoire des 2 Infinis – Toulouse (L2IT) is offering a postdoctoral position to strengthen its activities on the ATLAS experiment at the Large Hadron Collider (LHC) at CERN. The selected candidate will work within L2IT. His/Her work will focus on developing deep learning methods for the reconstruction and physical analysis of ATLAS experiment data.</div><div><br></div><div>The selected candidate will develop innovative analysis methods for the reconstruction and physical analysis of the ATLAS experiment data. The L2IT team plays a driving role within the ATLAS collaboration for the reconstruction of charged particle tracks using geometric deep learning (GDL). The person who joins us will be able to contribute to this effort, for example by applying GDL to signatures not considered in existing studies (tracks produced far from the detector center, tracks in dense environments), by using this reconstruction technique for the first time on data from Run 3 collisions, and by studying the performance achieved at the level of physical analyses. In addition, L2IT's research activity focuses on understanding the scalar sector of the Standard Model by considering both the Higgs boson and Nambu-Goldstone states. The selected candidate will be able to contribute, in particular, to studies of Higgs boson pair production.</div><div><br></div><div>We are looking for a doctor in particle physics with less than two years of experience after the PhD. Experience in machine learning and/or experience with reconstruction algorithms for particle physics would be a plus.</div><div><br></div><div>The Laboratoire des 2 Infinis - Toulouse (L2IT) is a laboratory created in 2020 to conduct research in fundamental physics with new numerical and theoretical approaches for data analysis. The laboratory's research focuses on particle physics, gravitational waves, and the equation of state of nuclear matter, and relies on complementary development of analysis methodologies and data science. L2IT is under the supervision of CNRS/IN2P3 and the Université de Toulouse.</div><div><br></div><div>The L2IT \"Particle Physics\" team contributes to the understanding of the dynamics of the scalar sector of the Standard Model through studies of the Higgs boson and the polarization of vector bosons. It participates in the development of data reconstruction software for the new Inner Tracker (ITk) that the ATLAS collaboration will install for the High Luminosity phase of the LHC. The selected candidate will work in close collaboration with other members of the \"Particle Physics\" team and with members of the \"Computing, Algorithms, and Data\" team at L2IT.</div><div><br></div><div>Application procedure:</div><div>Interested candidates must send:</div><div>1. A cover letter presenting their research project and their interest in joining the group</div><div>2. A Curriculum Vitae</div><div>3. A list of publications and internal notes to which they have contributed, highlighting their contributions</div><div>4. The email addresses of two referees; we will ask them to send letters of recommendation only after the pre-selection stage</div><div><br></div><div>The contract is for 2 years. A start in autumn 2026 is expected. The position is based in Toulouse, with the possibility of traveling to CERN if necessary.</div><div><br></div><div>mMore details in <a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR5033-ALEVAL-004/Default.aspx?lang=EN\">https://emploi.cnrs.fr/Offres/CDD/UMR5033-ALEVAL-004/Default.aspx?lang=EN</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR5033-ALEVAL-004/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-07-15T13:29:51.551231+00:00",
+      "updated": "2026-07-15T15:28:55.216719+00:00",
+      "addedAt": "2026-07-16T08:46:04.806Z",
+      "isNew": true
+    },
+    {
+      "id": "3180327",
+      "title": "PHD: X-ray phase-contrast imaging of plasma shocks using free electron lasers",
+      "institution": "U. Erlangen-Nuremberg (main)",
+      "deadline": "2026-08-31",
+      "description": "<div>The laboratory astrophysics group at the Erlangen Center for Astroparticle Physics (ECAP), of Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg is seeking an individual for a <strong>PhD position in laboratory astrophysics </strong>to work on<strong> X-ray phase-contrast imaging of plasma shocks using free electron lasers</strong>.</div><div><br></div><div>ECAP offers a strong environment in the field of astroparticle physics. Research in the group focusses on observational high-energy astrophysics (data analysis and interpretation of Fermi-LAT, H.E.S.S.), on machine learning techniques, on development of camera electronics for CTAO and the Einstein Telescope and on Laboratory astrophysics.</div><div><br></div><div>Requirements for successful applicants are a degree in Physics or equivalent. They should possess a research background and provide evidence of excellent potential. Relevant experience in plasma physics or X-ray imaging and an ability to work in a team is seen as beneficial. Supervision and teaching of undergraduate students is expected.</div><div><br></div><div>The position has a <strong>3.5-year term and can be started immediately</strong>. Applications received by <strong>August 31st, 2026</strong> will be given full consideration. Applications submitted after this date are considered until the position is filled. Renumeration starts at the German 0.5 TV-L E13 level and moves to 0.66 TV-L E13 after a trial period.</div><div><br></div><div>FAU wishes to increase the participation of women in its research activities. Therefore applications by women are particularly welcome. FAU Erlangen-Nürnberg is committed to employing individuals with disabilities and especially encourages them to apply.</div><div><br></div><div>Applications, including a Statement of Interest, CV, copies of recent certificates, and contact information of up to two reference persons should be sent to Prof. Stefan Funk (s.funk@fau.de) and to Dr. Martin Rongen (martin.rongen@fau.de).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-15T11:00:12.135182+00:00",
+      "updated": "2026-07-15T15:27:54.491770+00:00",
+      "addedAt": "2026-07-16T08:46:04.806Z",
+      "isNew": true
+    },
+    {
       "id": "3180277",
       "title": "Experimental Particle Physics (A13 a.Z.)",
       "institution": "U. Siegen (main)",
@@ -25,7 +77,7 @@
       "created": "2026-07-14T12:13:24.575038+00:00",
       "updated": "2026-07-15T05:58:30.992747+00:00",
       "addedAt": "2026-07-15T08:46:07.958Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3180278",
@@ -53,7 +105,7 @@
       "created": "2026-07-14T12:17:40.076153+00:00",
       "updated": "2026-07-14T15:48:46.824466+00:00",
       "addedAt": "2026-07-15T08:46:07.958Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3179818",
@@ -9371,6 +9423,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-15T08:46:07.959Z",
-  "totalJobs": 350
+  "lastUpdated": "2026-07-16T08:46:04.807Z",
+  "totalJobs": 352
 }
