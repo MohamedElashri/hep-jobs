@@ -1,6 +1,120 @@
 {
   "jobs": [
     {
+      "id": "3180927",
+      "title": "Research Fellow (m/f/d) in the field of experimental high-energy physics",
+      "institution": "Humboldt U., Berlin (main)",
+      "deadline": "2026-08-12",
+      "description": "<div><strong>Faculty of Mathematics and Natural Sciences</strong> – Department of Physics</div><div><strong>Research Fellow (m/f/d) in the field of experimental high-energy physics</strong> with</div><div>expected full-time employment - E 13 TV-L HU (third-party funding limited for 3 years)</div><div><br></div><div>Your responsibilities:</div><ul><li>scientific service in research with the ATLAS and LHCf experiments as a member of the Emmy Noether junior research group “LHC Measurements for the Modeling of Cosmic Ray Induced Air Showers” of Dr. Clara Leitgeb</li><li>analysis of particle spectra in the forward region of the LHC in proton-proton and proton-oxygen collisions</li><li>simulations for the development of new detectors in the forward region</li></ul><div>What you bring to the table:</div><ul><li>completed scientific university education (with very good success) and doctoral degree in physics, with specialization in particle physics or astro-particle physics</li><li>experience in data analysis and programming</li><li>experience in the use of statistical and Monte Carlo methods</li><li>ability to work in a structured and independent manner</li><li>excellent problem-solving skills</li><li>excellent team and communication skills</li><li>proficiency in spoken and written English (at least C1 level</li></ul><div>What would be desirable:</div><ul><li>knowledge of GEANT-4</li></ul><div>Your path to the HU:</div><div>Please send your complete application within 4 weeks, referencing the job ID</div><div>DR/131/26 to Humboldt-Universität zu Berlin, Faculty of Mathematics and Natural</div><div>Sciences, Department of Physics, Dr. Clara Leitgeb (located: Newtonstr. 15, 12489</div><div>Berlin), Unter den Linden 6, 10099 Berlin, Germany or preferably in electronic form as on</div><div>pdf-file to <a href=\"mailto:phyheprc@hu-berlin.de\">phyheprc@hu-berlin.de</a>.</div><div><br></div><div>Required application documents:</div><div><br></div><ul><li>letter of motivation</li><li>tabular curriculum vitae</li><li>relevant certificates</li><li>a brief research report (outlining previous research and explaining your research</li><li>interests)</li><li>3 letters of recommendation (to be received by the deadline)</li></ul><div><br></div><div>The position is scheduled to be filled as of February 1, 2027.</div><div><br></div><div>The Humboldt-Universität zu Berlin is seeking to increase the proportion of women in</div><div>research and teaching, and specifically encourages qualified female scholars to apply.</div><div>Severely disabled applicants with equivalent qualifications will be given preferential</div><div>consideration. People with an immigration history are specifically encouraged to apply.</div><div>Since we will not return your documents, please submit copies in the application only.</div><div><br></div><div>The Humboldt-Universität zu Berlin is bound by collective agreements and applies the</div><div>TV-L HU. Information on pay grading and the annual salary scale can be found here:</div><div><a href=\"https://hu.berlin/ETRL\">https://hu.berlin/ETRL</a>.</div><div><br></div><div>Information pursuant to Art. 12, 13 DSGVO on the processing of personal data at</div><div>Humboldt-Universität zu Berlin within the framework of job advertisements can be found</div><div>on our website: <a href=\"https://hu.berlin/DSGVO\">https://hu.berlin/DSGVO</a>.</div><div><br></div><div>Please visit our <a href=\"https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details?tx_jobapplications_detailview%5Baction%5D=show&amp;tx_jobapplications_detailview%5Bcontroller%5D=Posting&amp;tx_jobapplications_detailview%5Bposting_preview%5D=1009&amp;cHash=799e8e88b87ec4fb69eb9f64adc209b0\">website</a> which gives you access to the legally binding German version.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-LHC-LHCf"
+      ],
+      "urls": [
+        "https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-im-bereich-der-experimentellen-hochenergiephysik-dr-131-26"
+      ],
+      "contact_email": null,
+      "created": "2026-07-16T14:55:03.300093+00:00",
+      "updated": "2026-07-17T15:11:58.596198+00:00",
+      "addedAt": "2026-07-18T22:00:41.107Z",
+      "isNew": true
+    },
+    {
+      "id": "3180936",
+      "title": "Postdoctoral position: Detector development",
+      "institution": "Tech. U., Dortmund (main)",
+      "deadline": "2026-08-13",
+      "description": "<div>The Kröninger Group at the Department of Physics at TU Dortmund University is seeking to fill a fulltime position (39.83 hours/week, TV-L E13) for a research associate (m/f/d) on a fixed-term contract for a period of three years, to begin as soon as possible. The successful candidate will contribute to the DFG-funded Cluster of Excellence EXC 3107 “Color meets Flavor” and participate in the upgrade of the ATLAS experiment at CERN.</div><div>The Cluster of Excellence “Color meets Flavor” (<a href=\"http://www.color-meets-flavor.de/\">www.color-meets-flavor.de/</a>) aims to explain the interaction of weak and strong interactions on different energy scales in order to answer fundamental questions about the structure of matter. It is jointly organized by the Universities of Bonn, Dortmund, and Siegen, as well as Forschungszentrum Jülich.</div><div><br></div><div>YOUR TASKS:</div><ul><li>Development and construction of a pixel detector for the INSIGHT experiment,</li><li>integration and commissioning of the INSIGHT pixel detector,</li><li>construction of modules for the ATLAS ITk strip detector.</li></ul><div>WE OFFER:</div><ul><li>An inspiring research environment,</li><li>a highly motivated team,</li><li>career development and individual support, and</li><li>a wide range of opportunities for personal development.</li></ul><div>YOUR QUALIFICATION:</div><ul><li>Completed university degree with a doctorate in physics or a comparable subject.</li></ul><div>IDEALLY, YOU SHOULD BRING:</div><ul><li>Experience in detector development,</li><li>very good English skills,</li><li>willingness to travel to work on the experiment in Bonn,</li><li>ability to work independently, team spirit, sense of responsibility, and reliability.</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "INSIGHT"
+      ],
+      "urls": [
+        "https://service.tu-dortmund.de/documents/18/2120797/w36-26_wiss.+Besch%C3%A4ftigung_E13_en_pdf.pdf/6d0d3b0e-7c1d-32e1-3044-77fc757843ba"
+      ],
+      "contact_email": null,
+      "created": "2026-07-16T15:06:28.303252+00:00",
+      "updated": "2026-07-17T15:05:12.045829+00:00",
+      "addedAt": "2026-07-18T22:00:41.107Z",
+      "isNew": true
+    },
+    {
+      "id": "3180923",
+      "title": "AI Researcher / Engineer (temporary contract - 24 Months)",
+      "institution": "Saclay",
+      "deadline": "2026-09-01",
+      "description": "<div>Irfu is recruiting an engineer specialized in data processing and artificial intelligence (AI) / deep learning as part of the development of a foundation model dedicated to particle physics to address the scientific and technological challenges of the High-Luminosity Large Hadron Collider (HL-LHC).</div><div><br></div><div>Scheduled to begin operation around 2029, the HL-LHC will increase the integrated luminosity of the current LHC by a factor of ten, producing unprecedented volumes of data (on the order of several exabytes over its lifetime). This major evolution makes the development of new AI and algorithmic approaches essential, particularly for event reconstruction and physics analysis. Scientific objectives include Higgs boson physics, searches for physics beyond the Standard Model, heavy-flavour physics and QCD phenomenology.</div><div><br></div><div>Within this context, Irfu is developing a foundation model trained on large volumes of simulated and/or real data from the ATLAS, CMS and LHCb experiments to enable efficient transfer learning (fine-tuning) for a wide range of downstream physics tasks. This approach is directly inspired by the success of large language models (LLMs) and vision foundation models.</div><div><br></div><div>You will join a multidisciplinary team composed of particle physicists, scientific computing engineers and machine learning researchers.</div><div><br></div><div><strong>Main responsibilities:</strong></div><div>• Design, train and evaluate AI model architectures adapted to particle physics data.</div><div>• Develop self-supervised learning strategies using simulated and real LHC datasets.</div><div>• Develop data processing pipelines, experiment tracking tools and physics performance benchmarks.</div><div>• Contribute to scientific and technical documentation, publications and presentations at international conferences.</div><div><br></div><div><strong>LET’S TALK ABOUT YOU&nbsp;!</strong></div><div>• PhD in computational physics, signal processing/AI or a related field.</div><div>• Good knowledge of particle physics and/or nuclear physics.</div><div>• Strong background in large-scale data processing and machine learning/deep learning (neural networks, transformers, etc.).</div><div>• Proficiency with Python AI/ML frameworks (PyTorch) and the scientific Python ecosystem (NumPy, Pandas, Scikit-learn, etc.).</div><div>• Experience with collaborative software development tools such as Git and CI/CD.</div><div>• Experience working in high-performance computing environments (HPC, GPU clusters, SLURM).</div><div><br></div><div><strong>&nbsp;Additional assets:</strong></div><div>• Knowledge of HEP data formats and tools such as ROOT and HDF5.</div><div>• Experience with particle-physics-specific architectures (ParticleNet, PELICAN, Particle Transformer, JetGPT, OmniJet, etc.).</div><div>• Experience publishing scientific papers or contributing to HEP-ML open-source software.</div><div><br></div><div><strong>Personal skills:</strong></div><div>• Ability to work effectively in multidisciplinary teams and proactively propose new ideas.</div><div>• Pragmatic, rigorous and able to tackle complex problems under multiple constraints.</div><div>• Curious, adaptable, autonomous and possessing excellent interpersonal skills.</div><div>• Excellent written and spoken communication skills in both French and English, including technical English.</div><div><br></div><div>You enjoy working in a multidisciplinary team and know how to be proactive.</div><div>You are pragmatic and know how to take initiative. Your analytical skills, rigour and ability to take a step back allow you to calmly tackle complex problems under multiple constraints (deadlines to meet, major technical challenges).</div><div>You are curious, adaptable and autonomous, and have good interpersonal skills.</div><div>You have excellent written and oral communication skills in both French and English and are proficient in technical English (comprehension and written and oral expression).</div><div>&nbsp;</div><div><strong>LET’S TALK ABOUT US!</strong></div><div>Joining the CEA means joining a public research organization whose mission is to provide the French government, industry and local authorities with the means to address the major challenges of our time: the energy transition, climate change, tomorrow's energy systems, the medicine of the future, digital technologies and defense.</div><div><br></div><div>Joining the CEA means becoming part of a unique environment dedicated to research, development and innovation, with exceptional scientific culture, heritage and facilities. The CEA is also the leading French research organization in terms of patents filed.</div><div><br></div><div>Joining the CEA also means working in an organization committed to work-life balance, including a quality-of-life-at-work agreement, the possibility of teleworking up to three days per week, numerous sports and cultural activities organized through the staff committee, and dedicated bus services for employees.</div><div><br></div><div>Help shape tomorrow's innovations and become part of the CEA adventure!</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-LHC-CMS",
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-16T12:33:10.478189+00:00",
+      "updated": "2026-07-17T15:04:12.876096+00:00",
+      "addedAt": "2026-07-18T22:00:41.107Z",
+      "isNew": true
+    },
+    {
+      "id": "3180935",
+      "title": "Research Fellow (m/f/d) in the field of experimental high-energy physics",
+      "institution": "Humboldt U., Berlin (main)",
+      "deadline": "2026-08-12",
+      "description": "<div><strong>Faculty of Mathematics and Natural Sciences</strong> – Department of Physics</div><div><strong>Research Fellow (m/f/d) in the field of experimental high-energy physics</strong> with</div><div>expected 75% part-time employment - E 13 TV-L HU (third-party funding limited for 3</div><div>years)</div><div><br></div><div>Your responsibilities:</div><ul><li>scientific service in research with the ATLAS and LHCf experiments as a member of the Emmy Noether junior research group “LHC Measurements for the Modeling of Cosmic Ray Induced Air Showers” of Dr. Clara Leitgeb</li><li>analysis of particle spectra in the forward region of the LHC in proton-proton and proton-oxygen collisions</li><li>possibility for personal scientific qualification (doctorate)</li></ul><div>What you bring to the table:</div><ul><li>completed scientific university education in physics, with specialization in particle physics or astro-particle physics</li><li>experience in data analysis and programming</li><li>ability to work in a structured and independent manner</li><li>excellent problem-solving skills</li><li>excellent team and communication skills</li><li>proficiency in spoken and written English (at least C1 level)</li></ul><div>What would be desirable:</div><ul><li>experience in the use of statistical and Monte Carlo methods</li></ul><div>Your path to the HU:</div><div>Please send your complete application within 4 weeks, referencing the job ID</div><div>DR/132/26 to Humboldt-Universität zu Berlin, Faculty of Mathematics and Natural</div><div>Sciences, Department of Physics, Dr. Clara Leitgeb (located: Newtonstr. 15, 12489</div><div>Berlin), Unter den Linden 6, 10099 Berlin, Germany or preferably in electronic form as on</div><div>pdf-file to <a href=\"mailto:phyheprc@hu-berlin.de\">phyheprc@hu-berlin.de</a>.</div><div><br></div><div>Required application documents:</div><ul><li>letter of motivation</li><li>tabular curriculum vitae</li><li>relevant certificates</li><li>a brief research report (outlining previous research and explaining your research interests)</li><li>2 letters of recommendation (to be received by the deadline)</li></ul><div>The position is scheduled to be filled as of February 1, 2027.</div><div><br></div><div>The Humboldt-Universität zu Berlin is seeking to increase the proportion of women in</div><div>research and teaching, and specifically encourages qualified female scholars to apply.</div><div>Severely disabled applicants with equivalent qualifications will be given preferential</div><div>consideration. People with an immigration history are specifically encouraged to apply.</div><div>Since we will not return your documents, please submit copies in the application only.</div><div><br></div><div>The Humboldt-Universität zu Berlin is bound by collective agreements and applies the</div><div>TV-L HU. Information on pay grading and the annual salary scale can be found here:</div><div><a href=\"https://hu.berlin/ETRL\">https://hu.berlin/ETRL</a>.</div><div><br></div><div>Information pursuant to Art. 12, 13 DSGVO on the processing of personal data at</div><div>Humboldt-Universität zu Berlin within the framework of job advertisements can be found</div><div>on our website: <a href=\"https://hu.berlin/DSGVO\">https://hu.berlin/DSGVO</a>.</div><div><br></div><div>Please visit our <a href=\"https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-im-bereich-der-experimentellen-hochenergiephysik-dr-132-26\">website</a> which gives you access to the legally binding German version.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-LHC-LHCf"
+      ],
+      "urls": [
+        "https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-im-bereich-der-experimentellen-hochenergiephysik-dr-132-26"
+      ],
+      "contact_email": null,
+      "created": "2026-07-16T15:03:49.837387+00:00",
+      "updated": "2026-07-17T14:52:57.100468+00:00",
+      "addedAt": "2026-07-18T22:00:41.107Z",
+      "isNew": true
+    },
+    {
       "id": "3180634",
       "title": "Postdoctoral researcher on the ATLAS experiment at the LHC (M/F)",
       "institution": "L2IT, Toulouse",
@@ -9423,6 +9537,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-17T08:42:59.689Z",
-  "totalJobs": 352
+  "lastUpdated": "2026-07-18T22:00:41.108Z",
+  "totalJobs": 356
 }
