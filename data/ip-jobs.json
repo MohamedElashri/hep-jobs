@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "id": "3181704",
+      "title": "Postdoc Position in Particle Physics Experiment",
+      "institution": "CUHK, Shenzhen",
+      "deadline": "2026-09-30",
+      "description": "<div>We invite applications for one postdoctoral position in the <a href=\"https://yegroup.cuhk.edu.cn\">Neutrino and Dark Matter Group</a> at The Chinese University of Hong Kong, Shenzhen campus (CUHK-Shenzhen) starting in Spring 2027. The start date is negotiable.</div><div><br></div><div>The successful candidate is expected to work on either the <a href=\"https://xenonnt.org\">XENONnT dark matter experiment</a> or the <a href=\"https://arxiv.org/abs/2405.05554\">RELICS reactor neutrino experiment</a>. The candidate is also expected to work on the local R&amp;D, including a high-sensitivity Krypton measurement system. The initial appointment will be for two years, with a possibility to extend for a third year, subject to mutual agreement. The salary will be competitive, commensurate with qualifications and experience. A Ph.D in experimental particle or nuclear physics, or a closely related field, is required by the date of appointment.</div><div><br></div><div>To apply, please submit the following documents to Prof. Jingqiang Ye at&nbsp;yejingqiang@cuhk.edu.cn:</div><ul><li>Curriculum Vitae (CV)</li><li>List of publications</li><li>Research statement</li><li>Contact information for at least three referees</li></ul><div>Applicants are responsible for arranging reference letters to be sent directly by the referees to the same email address.</div><div><br></div><div>For any informal inquiries, please feel free to contact us at yejingqiang@cuhk.edu.cn.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "XENONnT"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-20T10:00:46.143930+00:00",
+      "updated": "2026-07-21T02:17:05.915756+00:00",
+      "addedAt": "2026-07-21T08:53:04.673Z",
+      "isNew": true
+    },
+    {
+      "id": "3181745",
+      "title": "Doctoral Research Associate – Machine-Learning-Based Seismic Noise Mitigation for the Einstein Telescope",
+      "institution": "U. Munster",
+      "deadline": "2026-08-15",
+      "description": "<div>The Institute for Nuclear Physics at the University of Münster invites applications for a part-time (67% FTE), 3-year Doctoral Research Associate position (salary level E13 TV-L), within the<strong> BMFTR-funded</strong> project \"<strong>Newtonian Noise Cancelling Headphones.</strong>\"</div><div><br></div><div>The successful candidate will develop machine-learning pipelines for low-latency seismic forecasting and Newtonian noise subtraction, aimed at underground gravitational-wave detectors such as the planned third-generation Einstein Telescope. Core tasks include building real-time, multi-station forecasting and noise-subtraction models using state-of-the-art deep learning; exploring spectral and multi-resolution waveform representations to improve low-frequency performance; optimizing latency and stability for real-time veto/noise-subtraction pipelines; benchmarking ML approaches against classical Wiener filtering; and designing architectures that balance sensor density, computational cost, and mitigation performance. The role also includes co-supervising BSc/MSc students and is intended to lead to a doctoral degree, with some teaching duties (4h/week during term for full-time staff).</div><div><br></div><div><strong>Requirements:</strong> Master's degree (or equivalent) in physics, geophysics, computer science, or a related field; experience with ML/optimization methods (deep learning, Bayesian optimization, reinforcement learning, surrogate modelling); strong Python and/or C/C++ skills, ideally with PyTorch, TensorFlow, or JAX; numerical simulation experience (wave propagation, FEM, etc.) is a plus, as is background in signal/time-series analysis or seismic tools (ObsPy, SPECFEM3D, AxiSEM); good English required.</div><div><br></div><div><strong>How to Apply:</strong> Send a motivation letter, CV, MSc transcript, and contacts for two references by <strong>2026-08-15</strong>, either by post to Prof. Dr. Alexander Kappes, Institut für Kernphysik, Universität Münster, Wilhelm-Klemm-Str. 9, 48149 Münster, Germany, or electronically (PDF only) to <a href=\"mailto:alexander.kappes@uni-muenster.de\">alexander.kappes@uni-muenster.de</a>.</div><div><br></div><div><strong>Contact:</strong> Dr. Waleed Esmail (<a href=\"mailto:waleed.esmail@uni-muenster.de\">waleed.esmail@uni-muenster.de</a>, +49 251 8334947) or Prof. Dr. Alexander Kappes (<a href=\"mailto:alexander.kappes@uni-muenster.de\">alexander.kappes@uni-muenster.de</a>, +49 251 8334996)</div><div><strong>Reference Number:</strong> 2026_07_19</div><div><br></div><div><strong>Link:</strong> <a href=\"https://stellen.uni-muenster.de/jobposting/da6abcab7d95bfbe3e30704dba2e8a157ad47a1c0\">https://stellen.uni-muenster.de/jobposting/da6abcab7d95bfbe3e30704dba2e8a157ad47a1c0</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "cs",
+        "physics.ins-det",
+        "physics"
+      ],
+      "experiments": [
+        "ET"
+      ],
+      "urls": [
+        "https://stellen.uni-muenster.de/jobposting/da6abcab7d95bfbe3e30704dba2e8a157ad47a1c0"
+      ],
+      "contact_email": null,
+      "created": "2026-07-20T19:42:50.941774+00:00",
+      "updated": "2026-07-20T19:58:00.361990+00:00",
+      "addedAt": "2026-07-21T08:53:04.673Z",
+      "isNew": true
+    },
+    {
+      "id": "3181705",
+      "title": "Innovative Detectors for Higgs Physics",
+      "institution": "Marseille, CPPM",
+      "deadline": "2026-09-02",
+      "description": "<div>The tenure track position (Chaire de Professeur Junior at CNRS) involves physics analyses to measure the couplings of the Higgs boson and to search physics with CERN's LHC collider. Using data from the ATLAS experiment collected during Run 3 and the High-Luminosity (HL-LHC) phase, the successful candidate will have the opportunity to make leading contributions to particle physics, building on the expertise of the local ATLAS team. The candidates should define their project with that team in one of the labs (CPPM or LPNHE).</div><div><br></div><div>Thanks to demonstrated experience and a strong interest in instrumentation, he or she will contribute to the finalization of the ATLAS detector upgrades for the HL-LHC phase, their installation, and their commissioning. Drawing on the technological expertise of the laboratory and the institute, as well as emerging developments worldwide, he/she will simultaneously conduct significant R&amp;D on innovative detectors for the future, particularly in connection with the possible future FCC-ee collider at CERN.</div><div><br></div><div>The successful candidate will be involved in existing teaching programs related to the research theme at the host laboratory's university campus. The teaching plan will be discussed with the institution's academic staff and further defined to ensure it aligns with the selected candidate's profile.</div><div><br></div><div>This position provides access to a permanent position as a senior Research Director at CNRS.</div><div><br></div><div>Application Deadline : 02 September 2026 17:00.</div><div><br></div><div>Contacts : Arnaud Duperrin (<a href=\"mailto:duperrin@cppm.in2p3.fr\">duperrin@cppm.in2p3.fr</a>) for the CPPM and José Ocariz (<a href=\"mailto:ocariz@lpnhe.in2p3.fr\">ocariz@lpnhe.in2p3.fr</a>) for the LPNHE.</div><div><br></div><div>More Information:</div><div><a href=\"https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=EN\">https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=EN</a></div><div><a href=\"https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=FR\">https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=FR</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-FCC"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CPJ/CPJ-2026-037/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-07-20T13:23:24.813707+00:00",
+      "updated": "2026-07-20T14:48:32.594168+00:00",
+      "addedAt": "2026-07-21T08:53:04.673Z",
+      "isNew": true
+    },
+    {
       "id": "3180927",
       "title": "Research Fellow (m/f/d) in the field of experimental high-energy physics",
       "institution": "Humboldt U., Berlin (main)",
@@ -9537,6 +9620,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-20T09:02:29.663Z",
-  "totalJobs": 356
+  "lastUpdated": "2026-07-21T08:53:04.674Z",
+  "totalJobs": 359
 }
