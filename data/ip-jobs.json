@@ -1,6 +1,65 @@
 {
   "jobs": [
     {
+      "id": "3182143",
+      "title": "Research Fellow on LHCb experiment",
+      "institution": "Warwick U.",
+      "deadline": "2026-08-17",
+      "description": "<div>We are seeking to appoint a Research Fellow to undertake research in the LHCb experiment, specifically to contribute to our programme of LHCb data analysis and work on maintenance and operation of the vertex locator subdetector or development of particle identification detectors for LHCb Upgrade 2. Contributions to LHCb data processing and simulation are also possible. We are looking for someone with a PhD in experimental particle physics or another relevant subject, and a proven track record of research in instrumentation and/or data analysis.&nbsp;Experience in software and modern data analysis techniques would be valuable for the role, as would good working knowledge of C++ and Python.</div><div>Candidates should have excellent communication and collaborative working skills, as well as demonstrated experience of planning and time management to deliver research goals effectively.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://warwick-careers.tal.net/vx/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/3/opp/4520-Research-Fellow-111879-0726/en-GB"
+      ],
+      "contact_email": null,
+      "created": "2026-07-21T16:15:35.384212+00:00",
+      "updated": "2026-07-21T16:34:13.682231+00:00",
+      "addedAt": "2026-07-22T08:52:06.628Z",
+      "isNew": true
+    },
+    {
+      "id": "3182115",
+      "title": "La Caixa Junior Leader Fellowship Research Associate Position in Gravitational Wave Physics",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-09-23",
+      "description": "<div><strong>La Caixa Junior Leader Fellowship</strong></div><div><strong>Research Associate Position in Gravitational Wave Physics at IFAE</strong></div><div><br></div><div>The <strong>Institut de Física d'Altes Energies (IFAE)</strong> in Barcelona, a Severo Ochoa Centre of Excellence, invites applications for a <strong>three-year postdoctoral research fellowship in Gravitational Wave (GW) Physics</strong> within the framework of the <strong>La Caixa Junior Leader Programme</strong> in Spain.</div><div><br></div><div>The Postdoctoral Junior Leader Fellowships programme aims to recruit outstanding researchers of any nationality who wish to pursue their research careers in Spain or Portugal in the STEM disciplines (Science, Technology, Engineering, and Mathematics). The programme is open to candidates who defended their thesis between September 23, 2019 and September 23, 2024.</div><div><br></div><div><strong>Programme details:</strong></div><div><a href=\"https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships\">https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships</a></div><div><strong>Application deadline:</strong> 23 September 2026, 2:00 pm (Peninsular Spain time).</div><div><br></div><div>Interested candidates are encouraged to contact IFAE, which will act as the host institution for the fellowship application.</div><div><br></div><div>IFAE is a member of the LIGO and Virgo Collaborations and is actively involved in the Einstein Telescope (ET) project, contributing to its design, research and development, and preparatory activities. Researchers at IFAE have taken on significant responsibilities within the Virgo Collaboration, particularly in the control of stray light inside the interferometer, which is one of the factors limiting its sensitivity. The group plays a major role in the commissioning, operation, and upgrade of the detector. Most recently, IFAE led the construction and installation of new baffles instrumented with photosensors around the Virgo test masses to mitigate stray-light effects.</div><div><br></div><div>IFAE is also a major contributor to the Einstein Telescope project. It coordinates the EU Horizon INFRA-DEV project supporting the ET preparatory phase and has leading responsibilities in the design of the detector's stray-light control systems. In addition, IFAE is deeply involved in detector R&amp;D and optical simulations for ET and collaborates with CERN on the design of the ET vacuum system.</div><div><br></div><div>The IFAE research programme covers a broad range of topics in gravitational-wave astrophysics and cosmology using LIGO–Virgo data. Current research includes searches for compact binary coalescence events and measurements of their mass and spin distributions; studies of primordial black holes as dark matter candidates; and searches for axion-like particle signatures in continuous gravitational-wave signals. The group also performs tests of gravity beyond General Relativity and carries out cosmological measurements with gravitational waves, including determinations of the Hubble constant and studies of inflation and phase transitions in the early Universe. In parallel, the group develops novel data-analysis techniques, including deep-learning methods and robust statistical approaches. This research naturally extends to exploring the scientific potential of next-generation gravitational-wave detectors.</div><div><br></div><div><strong>For further information, please contact:</strong></div><div><strong>Prof. Andrew Lundgren</strong> (<a href=\"mailto:alundgren@ifae.es\">alundgren@ifae.es</a>), <strong>Prof. Mario Martínez</strong> (<a href=\"mailto:mmp@ifae.es\">mmp@ifae.es</a>)</div><div>IFAE web : <a href=\"http://www.ifae.es\">www.ifae.es</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "astro-ph",
+        "gr-qc",
+        "hep-ex"
+      ],
+      "experiments": [
+        "LIGO",
+        "VIRGO",
+        "ET"
+      ],
+      "urls": [
+        "https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships"
+      ],
+      "contact_email": null,
+      "created": "2026-07-21T15:05:29.820019+00:00",
+      "updated": "2026-07-21T15:30:29.226775+00:00",
+      "addedAt": "2026-07-22T08:52:06.628Z",
+      "isNew": true
+    },
+    {
       "id": "3181704",
       "title": "Postdoc Position in Particle Physics Experiment",
       "institution": "CUHK, Shenzhen",
@@ -23,7 +82,7 @@
       "created": "2026-07-20T10:00:46.143930+00:00",
       "updated": "2026-07-21T02:17:05.915756+00:00",
       "addedAt": "2026-07-21T08:53:04.673Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3181745",
@@ -53,7 +112,7 @@
       "created": "2026-07-20T19:42:50.941774+00:00",
       "updated": "2026-07-20T19:58:00.361990+00:00",
       "addedAt": "2026-07-21T08:53:04.673Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3181705",
@@ -81,7 +140,7 @@
       "created": "2026-07-20T13:23:24.813707+00:00",
       "updated": "2026-07-20T14:48:32.594168+00:00",
       "addedAt": "2026-07-21T08:53:04.673Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3180927",
@@ -9620,6 +9679,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-21T08:53:04.674Z",
-  "totalJobs": 359
+  "lastUpdated": "2026-07-22T08:52:06.630Z",
+  "totalJobs": 361
 }
