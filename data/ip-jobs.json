@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3182468",
+      "title": "Scientific Computing Systems Engineer",
+      "institution": "PSI, Villigen",
+      "deadline": "2026-08-18",
+      "description": "<div>For our High Performance Computing and Emerging Technologies group within the Science IT, Infrastructure and Services department at Paul Scherrer Institute PSI we are looking for a</div><div><br></div><div><strong>Scientific Computing Systems Engineer</strong>&nbsp;</div><div><br></div><div>Your tasks</div><ul><li>Serve as the main systems engineer for PSI’s WLCG Tier-3 cluster computing infrastructure supporting the CERN CMS experiment</li><li>Operate, maintain, and improve Linux-based research-computing services and infrastructure</li><li>Support and interact with the Swiss CMS computing user community using the Tier-3 infrastructure</li><li>Collaborate with the national WLCG Tier-2 center operated by the Swiss National Supercomputing Center CSCS</li><li>Contribute to the shared operational responsibilities and mutual backup within our HPC/HTC services for PSI</li><li>Contribute to the planning and evolution of future Tier-3 and Tier-2 infrastructure and services in preparation for the High-Luminosity LHC (HL-LHC) era</li></ul><div>Your profile</div><ul><li>Strong expertise in Linux systems administration within production or research-computing environments</li><li>Experience with automation and DevOps practices, including configuration management tools such as Ansible or Puppet, scripting in Bash and Python, Git-based workflows, and preferably CI/CD and infrastructure-as-code concepts</li><li>Experience with monitoring, troubleshooting, and debugging complex system and software issues in production environments</li><li>Strong analytical, problem-solving, communication, and collaboration skills</li><li>Familiarity with batch systems, distributed computing infrastructure, container technologies, or high-throughput computing environments is advantageous</li><li>Familiarity with WLCG infrastructure and services or scientific computing environments is a plus</li></ul><div>We offer</div><div>Our institution is based on an interdisciplinary, innovative and dynamic collaboration. You will profit from a systematic training on the job, in addition to personal development possibilities and our pronounced vocational training culture. If you wish to optimally combine work and family life or other personal interests, we are able to support you with our modern employment conditions and the on-site infrastructure.</div><div><br></div><div>This is a fixed-term position. The employment contract will (initially) be limited to end of March 2029.</div><div><br></div><div>For further information, please contact Derek Feichtinger, phone +41 56 310 47 33.</div><div><br></div><div>Please submit your application online by <strong>18. August 2026</strong> for the position as a Scientific Computing Systems Engineer (Index-Nr. 7905-28618).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "OTHER",
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.psi.ch/en/hr/job-opportunities/74898-scientific-computing-systems-engineer"
+      ],
+      "contact_email": null,
+      "created": "2026-07-22T20:32:25.658618+00:00",
+      "updated": "2026-07-22T20:38:44.249265+00:00",
+      "addedAt": "2026-07-23T08:52:21.624Z",
+      "isNew": true
+    },
+    {
       "id": "3182143",
       "title": "Research Fellow on LHCb experiment",
       "institution": "Warwick U.",
@@ -25,7 +52,7 @@
       "created": "2026-07-21T16:15:35.384212+00:00",
       "updated": "2026-07-21T16:34:13.682231+00:00",
       "addedAt": "2026-07-22T08:52:06.628Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3182115",
@@ -57,7 +84,7 @@
       "created": "2026-07-21T15:05:29.820019+00:00",
       "updated": "2026-07-21T15:30:29.226775+00:00",
       "addedAt": "2026-07-22T08:52:06.628Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3181704",
@@ -9679,6 +9706,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-22T08:52:06.630Z",
-  "totalJobs": 361
+  "lastUpdated": "2026-07-23T08:52:21.625Z",
+  "totalJobs": 362
 }
