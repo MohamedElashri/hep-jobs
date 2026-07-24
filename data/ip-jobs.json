@@ -1,6 +1,62 @@
 {
   "jobs": [
     {
+      "id": "3182476",
+      "title": "PhD in Nuclear/Hadronic Physics: 3D structure of the nucleon",
+      "institution": "South Dakota State U.",
+      "deadline": "2026-07-31",
+      "description": "<div>We are hiring a new PhD student to start this fall semester at the South Dakota State University in Dr. M. Boër's group. For more information about our group, you can visit the webpage: <a href=\"https://sites.google.com/view/marieboer/\">https://sites.google.com/view/marieboer/</a></div><div><br></div><div>The student will participate in experimental activities at Jefferson Lab, in particular for the development of a new experiment aiming at measuring Double Deeply Virtual Compton Scattering, where virtual photons are scattered off quarks and enable access to the nucleon's 3D structure. The student will also participate in the development of a new muon detector to detect final products of this reaction, and will be involved in analyzing data from JLab experiments.</div><div><br></div><div>Minimum qualification is a bachelor in physics, interest for particles/nuclear physics and background in quantum mechanics and special relativity.</div><div><br></div><div>We are also seeking for candidates who are currently allowed to work in the US, either citizens, permanent residents or students who already have an F1 visa from another university.</div><div><br></div><div>Please contact us for more information. The position is opening now and remains open until filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-22T22:41:35.325617+00:00",
+      "updated": "2026-07-23T22:39:37.014572+00:00",
+      "addedAt": "2026-07-24T08:50:58.738Z",
+      "isNew": true
+    },
+    {
+      "id": "3182715",
+      "title": "Call for Expressions of Interest -- Ramón y Cajal Fellowship Programme 2026 – Tenure-Track Position in Gravitational-Wave Physics",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-09-30",
+      "description": "<div><strong>Call for Expressions of Interest</strong></div><div><br></div><div><strong>Ramón y Cajal Fellowship Programme 2026 – Tenure-Track Position in </strong></div><div><strong>Gravitational-Wave Physics at IFAE</strong></div><div><br></div><div>The Institut de Física d'Altes Energies (IFAE) in Barcelona, a Severo Ochoa Centre of Excellence, invites expressions of interest from candidates wishing to apply to the Ramón y Cajal (RyC) 2026 Programme in the field of Gravitational-Wave (GW) Physics.</div><div><br></div><div>The RyC Programme aims to attract outstanding postdoctoral researchers to the Spanish science, technology, and innovation system through five-year contracts. In the 2026 call, RyC fellows will receive the resources needed to lead their own research programmes, thereby establishing a clear pathway towards permanent integration into the Spanish research system. Demonstrated potential to secure competitive research funding, particularly through European Research Council (ERC) grants, is considered an important asset for successful RyC applicants.</div><div><br></div><div>IFAE is seeking candidates with a demonstrated track record of research excellence and leadership in ground-based interferometric gravitational-wave detector technology. The successful candidate is expected to play a leading role in defining and developing IFAE's experimental programme, contributing to the operation and upgrade of the LIGO and Virgo detectors and to the research and development roadmap for the Einstein Telescope.&nbsp;</div><div><br></div><div>At IFAE, RyC fellows are appointed under a tenure-track faculty scheme and receive additional strategic institutional research funding beyond that provided by the RyC Programme, as well as a salary supplement. Subject to a positive evaluation, the successful candidate will be offered a permanent research faculty position upon successful completion of the RyC fellowship.</div><div><br></div><div><strong>RyC programme details</strong></div><div><a href=\"https://www.aei.gob.es/en/convocatorias-ryc\">https://www.aei.gob.es/en/convocatorias-ryc</a></div><div><br></div><div><strong>RyC application period:</strong> 10 November 2026 – 10 December 2026.</div><div><strong>Interested candidates are encouraged to contact IFAE before the end of September 2026</strong> to allow sufficient time for the evaluation of their potential RyC 2026 fellowship application. IFAE will act as the host institution in supporting the selected candidate's application.</div><div><br></div><div>IFAE is an equal opportunity employer committed to diversity in the workplace and social integration of people with a disability. We welcome applications from all qualified candidates. People from groups that are typically underrepresented in the labour market in general and in Science and Engineering in particular, such as women, minorities, or people with a disability, are particularly encouraged to apply.</div><div><br></div><div><strong>IFAE's involvement in LIGO, Virgo, and the Einstein Telescope</strong></div><div><br></div><div>IFAE is a member of the LIGO and Virgo Collaborations and is actively involved in the Einstein Telescope (ET) project, contributing to its design, research and development, and preparatory activities. Researchers at IFAE hold leading responsibilities within the Virgo Collaboration, particularly in the control of stray light inside the interferometer, one of the factors limiting its sensitivity. The group plays a major role in the commissioning, operation, and upgrade of the detector. Most recently, IFAE led the construction and installation of new baffles instrumented with photosensors around the Virgo test masses to improve the understanding of stray-light-induced effects within the interferometer cavities. Looking ahead, IFAE aims to play a leading role in the design and construction of key components of the new Virgo recycling cavities.</div><div><br></div><div>IFAE is also a major contributor to the Einstein Telescope project. It coordinates the EU Horizon INFRADEV project supporting the ET Preparatory Phase and holds leading responsibilities for the design of the detector's stray-light control systems. In addition, IFAE is actively engaged in detector research and development, optical simulations for ET, and the design of the ET vacuum system in collaboration with CERN.</div><div><br></div><div>The IFAE research programme spans a broad range of topics in gravitational-wave astrophysics and cosmology using data from the LIGO–Virgo–KAGRA network. Current research includes searches for compact binary coalescences and measurements of their mass and spin distributions; investigations of primordial black holes as dark matter candidates; and searches for signatures of axion-like particles in continuous gravitational-wave signals. The group also conducts tests of gravity beyond General Relativity and pursues cosmological studies with gravitational waves, including measurements of the Hubble constant and investigations of inflation and phase transitions in the early Universe. In parallel, the group develops novel data-analysis techniques, including deep-learning methods and advanced statistical approaches. This research naturally extends to exploring the scientific potential of next-generation gravitational-wave detectors.</div><div><br></div><div><strong>Further information</strong></div><div><br></div><div>For further information, please contact:</div><ul><li><strong>Prof. Eugenio Coccia (</strong>eugenio.coccia@ifae.es<strong>)</strong></li><li><strong>Prof. Andrew Lundgren</strong> (alundgren@ifae.es)</li><li><strong>Prof. Mario Martínez</strong> (mmp@ifae.es)</li></ul><div><strong>IFAE website:</strong><a href=\"http://www.ifae.es\"> www.ifae.es</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "physics.ins-det",
+        "gr-qc"
+      ],
+      "experiments": [
+        "LIGO",
+        "VIRGO",
+        "ET"
+      ],
+      "urls": [
+        "https://www.ifae.es"
+      ],
+      "contact_email": null,
+      "created": "2026-07-23T08:54:09.087195+00:00",
+      "updated": "2026-07-23T14:25:07.507811+00:00",
+      "addedAt": "2026-07-24T08:50:58.738Z",
+      "isNew": true
+    },
+    {
       "id": "3182468",
       "title": "Scientific Computing Systems Engineer",
       "institution": "PSI, Villigen",
@@ -25,7 +81,7 @@
       "created": "2026-07-22T20:32:25.658618+00:00",
       "updated": "2026-07-22T20:38:44.249265+00:00",
       "addedAt": "2026-07-23T08:52:21.624Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3182143",
@@ -9706,6 +9762,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-23T08:52:21.625Z",
-  "totalJobs": 362
+  "lastUpdated": "2026-07-24T08:50:58.739Z",
+  "totalJobs": 364
 }
