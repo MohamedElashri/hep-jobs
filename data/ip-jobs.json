@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "id": "3182730",
+      "title": "Exploring PostDoc Opportunities at China’s First Test Beam Facility",
+      "institution": "CAS, IHEP, Dongguan",
+      "deadline": "2027-06-30",
+      "description": "<div><strong>Exploring PostDoc Opportunities at China’s First Test Beam Facility</strong></div><div>&nbsp;</div><div><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Overview</strong></div><div>The Beam Extended Application Group at the Institute of High Energy Physics (IHEP), Chinese Academy of Sciences (CAS), located in Dongguan, is seeking a highly motivated Postdoctoral Researcher. The position focuses on the development of the&nbsp;<strong>High-energy Proton Experiment Station (HPES)</strong>, China's first dedicated proton test beam facility, which will provide a 1.6 GeV proton beam for the particle detector evaluation and calibration. For more details, please refer to our presentations on BTTB workshops via the following link.</div><div><a href=\"https://indico.cern.ch/event/1594436/contributions/6989151/\">https://indico.cern.ch/event/1594436/contributions/6989151/</a></div><div>&nbsp;</div><div><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Environment</strong></div><div>Our group, comprising 14 senior staff, 6 postdocs, and over 20 graduate students, leads the beam extension research at the China Spallation Neutron Source (CSNS). Beyond HPES, we manage a suite of unique Chinese facilities that rank among the world's best:</div><ul><li><strong>Back-n</strong>: a white neutron source for nuclear data measurement.</li><li><strong>APEP</strong>: an 80 MeV proton beamline for irradiation hardness evaluation.</li><li><strong>HPES</strong>: a 1.6 GeV proton test beam for particle detector evaluation and calibration.</li><li><strong>MELODY</strong>: a surface muon source for μSR spectroscopy studies.</li></ul><div>The selected candidate will play a&nbsp;pivotal role&nbsp;in the construction and commissioning of HPES.</div><div>&nbsp;</div><div><strong>3. Qualifications</strong></div><ul><li><strong>Education</strong>: Ph.D. in Particle Physics, Nuclear Physics, Nuclear Technology, or a closely related field.</li><li><strong>Technical Skills</strong>: Proficiency in&nbsp;Geant4&nbsp;and/or&nbsp;ROOT&nbsp;is essential.</li><li><strong>Preferred Experience</strong>: Experience in the R&amp;D of particle detectors, particle physics data analysis, and simulation.</li><li><strong>Language</strong>: Excellent command of written and spoken English (Mandarin is not required).</li></ul><div><strong>4. Position Details</strong></div><ul><li><strong>Location</strong>: Dongguan, Guangdong (strategically located near Hong Kong, Shenzhen, and Guangzhou).</li><li><strong>Duration</strong>: Initial 2-year term, with flexible start dates (early availability is appreciated).</li><li><strong>Benefits</strong>:</li><li>Competitive salary package.</li><li>Support for applications to CAS/IHEP fellowships and additional funding.</li><li>Outstanding performers will be considered for tenure-track faculty positions at IHEP.</li></ul><div><strong>&nbsp;5. How to Apply</strong></div><div>Please send your&nbsp;CV&nbsp;and a&nbsp;Statement of Purpose&nbsp;(detailing your scientific interests and alignment with this role) to Prof. GUO Yuhang (mail to: guoyh@ihep.ac.cn).</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-24T02:12:07.535188+00:00",
+      "updated": "2026-07-24T17:30:11.956354+00:00",
+      "addedAt": "2026-07-27T09:05:31.014Z",
+      "isNew": true
+    },
+    {
       "id": "3182476",
       "title": "PhD in Nuclear/Hadronic Physics: 3D structure of the nucleon",
       "institution": "South Dakota State U.",
@@ -22,7 +45,7 @@
       "created": "2026-07-22T22:41:35.325617+00:00",
       "updated": "2026-07-23T22:39:37.014572+00:00",
       "addedAt": "2026-07-24T08:50:58.738Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3182715",
@@ -54,7 +77,7 @@
       "created": "2026-07-23T08:54:09.087195+00:00",
       "updated": "2026-07-23T14:25:07.507811+00:00",
       "addedAt": "2026-07-24T08:50:58.738Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3182468",
@@ -9762,6 +9785,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-24T08:50:58.739Z",
-  "totalJobs": 364
+  "lastUpdated": "2026-07-27T09:05:31.015Z",
+  "totalJobs": 365
 }
