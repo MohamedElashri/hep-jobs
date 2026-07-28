@@ -1,6 +1,142 @@
 {
   "jobs": [
     {
+      "id": "3183345",
+      "title": "Trigger development for long lived particle search at CMS Experiment",
+      "institution": "Istinye U., Istanbul",
+      "deadline": "2026-09-01",
+      "description": "<div>Applications are invited for 2 MSc, 2 PhD, and 1 Postdoctoral Researcher position within the TÜBİTAK 2232-A project led by Dr. Ece Aşılar at İstinye University at High Energy Particle Physics Group*, which develops next-generation trigger and data acquisition (DAQ) systems for the High-Luminosity LHC within the CMS Experiment at CERN.</div><div>*<a href=\"https://www.istinye.edu.tr/en/temelbilimler/high-energy-particle-physics-yepaf-research-group\">https://www.istinye.edu.tr/en/temelbilimler/high-energy-particle-physics-yepaf-research-group</a></div><div><strong>Opportunities</strong></div><ul><li><strong>Frequent scientific travel to CERN</strong> (test beam, cosmic-muon experiments, collaboration visits)</li><li><strong>For PhD and Postdoc positions:</strong> support for 1 international and 1 national conference per year</li><li>You can access the current TÜBİTAK scholarship amounts for the program at the link below:</li><li><a href=\"https://tubitak.gov.tr/tr/burslar/uluslararasi/arastirma-burs-programlari/2232-uluslararasi-lider-arastirmacilar-programi\">https://tubitak.gov.tr/tr/burslar/uluslararasi/arastirma-burs-programlari/2232-uluslararasi-lider-arastirmacilar-programi</a></li></ul>",
+      "regions": [
+        "Europe",
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://eceasilar.web.cern.ch/TechnicalPlots/Documents/2232-A_Ilan_English.docx.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-07-27T14:55:13.235102+00:00",
+      "updated": "2026-07-27T15:04:38.785462+00:00",
+      "addedAt": "2026-07-28T08:55:19.799Z",
+      "isNew": true
+    },
+    {
+      "id": "3183348",
+      "title": "PhD positions for designing trigger for Long lived particles at the CMS Experiment",
+      "institution": "Istinye U., Istanbul",
+      "deadline": "2026-09-01",
+      "description": "<div>Applications are invited for 2 MSc, 2 PhD, and 1 Postdoctoral Researcher position within the TÜBİTAK 2232-A project led by Dr. Ece Aşılar at İstinye University at High Energy Particle Physics Group*, which develops next-generation trigger and data acquisition (DAQ) systems for the High-Luminosity LHC within the CMS Experiment at CERN.</div><div>*<a href=\"https://www.istinye.edu.tr/en/temelbilimler/high-energy-particle-physics-yepaf-research-group\">https://www.istinye.edu.tr/en/temelbilimler/high-energy-particle-physics-yepaf-research-group</a></div><div><strong>Opportunities</strong></div><ul><li><strong>Frequent scientific travel to CERN</strong> (test beam, cosmic-muon experiments, collaboration visits)</li><li><strong>For PhD and Postdoc positions:</strong> support for 1 international and 1 national conference per year</li><li>You can access the current TÜBİTAK scholarship amounts for the program at the link below:</li><li><a href=\"https://tubitak.gov.tr/tr/burslar/uluslararasi/arastirma-burs-programlari/2232-uluslararasi-lider-arastirmacilar-programi\">https://tubitak.gov.tr/tr/burslar/uluslararasi/arastirma-burs-programlari/2232-uluslararasi-lider-arastirmacilar-programi</a></li></ul><div><br></div><div>PhD 1: Development of trigger algorithms, generation of simulated events, design of search strategies, and optimization of machine-learning techniques for long-lived particle (LLP) detection.</div><div>PhD 2: Evaluation of μTCA/ATCA hardware platforms, hardware design, and setup of test-beam (GIF++/CERN) and cosmic-muon experiments, including engineering-prototype qualification.</div><div><strong><em>Requirements</em></strong></div><ul><li>MSc degree in physics, electronics engineering, or a related field</li><li>Experience in programming (C++/Python) and data analysis</li><li>Basic knowledge of electronic hardware/FPGA (preferred for PhD 2)</li><li>Basic knowledge of machine learning (preferred for PhD 1)</li><li>Willingness and ability to travel internationally (e.g., to CERN)</li></ul><div><strong>HOW TO APPLY</strong></div><div>Candidates are kindly requested to send their CV, academic transcript(s), 2 recommendation letters (1 for bachelor students) and (if available) a list of publications to the contact address below.</div><div><strong>Project Coordinator: </strong>Dr. Ece Aşılar</div><div><strong>Institution: </strong>İstinye Üniversitesi</div><div><strong>Email: </strong><em>[</em><a href=\"mailto:ece.asilar@cern.ch\"><em>ece.asilar@cern.ch</em></a><em>]</em></div><div><strong>Email subject :</strong> [2232-A Application] [Position] [Name Surname ]</div>",
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://eceasilar.web.cern.ch/TechnicalPlots/Documents/2232-A_Ilan_English.docx.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-07-27T14:59:37.281028+00:00",
+      "updated": "2026-07-27T15:03:51.354581+00:00",
+      "addedAt": "2026-07-28T08:55:19.799Z",
+      "isNew": true
+    },
+    {
+      "id": "3183322",
+      "title": "PhD position in experimental particle physics (ATLAS)",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-08-31",
+      "description": "<div>The Center for Particle Physics in Siegen (CPPS) has an opening for <strong>a doctoral student in experimental particle physics (ATLAS)</strong></div><div><br></div><div><strong>Your tasks:</strong></div><ul><li>Perform analyses in the field of top quark physics with the data of the ATLAS experiment</li><li>Development of software for the ATLAS muon trigger</li><li>Supervision of undergraduate students</li></ul><div><strong>Your profile:</strong></div><ul><li>Very good final degree (Master of Science in physics) in the field of experimental particle physics</li><li>Ability to work independently</li><li>Experience in particle physics analyses</li><li>Knowledge of C++, python and ROOT is an advantage</li><li>Good English knowledge</li></ul><div>The position is available immediately for an appointment of initially three years. The position is located at Siegen (Germany), with the possibility of frequent travels to CERN. The university of Siegen is an interdisciplinary and cosmopolitan university with currently around 14,000 students and a range of subjects from the humanities, social sciences and economics to natural sciences, engineering and life sciences. An attractive salary is offered.</div><div><br></div><div>Applicants are requested to send their application, including a CV and academic transcripts to the contact people. Applications received by August 31st, 2026 will be given full consideration. Applications submitted after this date are considered until the position is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-27T08:42:29.010223+00:00",
+      "updated": "2026-07-27T14:39:09.691766+00:00",
+      "addedAt": "2026-07-28T08:55:19.799Z",
+      "isNew": true
+    },
+    {
+      "id": "3183340",
+      "title": "Post-Doctoral Fellowship in Neutrino Physics",
+      "institution": "Sao Paulo, Inst. Tech. Aeronautics",
+      "deadline": "2026-09-15",
+      "description": "<div>The DUNE group at the Technological Institute of Aeronautics (ITA) seeks highly qualified candidates for a Postdoctoral Research Associate position in its Physics Department. Funding is provided by a FAPESP (Fundação de Amparo à Pesquisa do Estado de São Paulo) post-doctoral position. The selected candidate will pursue foundational work to develop improvements to the Pandora liquid argon reconstruction tollkit and evaluate their impacts on the neutrino oscillation measurement program in DUNE. Software development will be a major job responsibility, with the goal to include scintillation light information in Pandora. Analysis of data from the ProtoDUNEs will be associated with the Pandora development.</div><div><br></div><div>The appointment will be for a period of two (2) years, with the potential of requesting a scholarship for another 6-12 months to be spent abroad working with collaborators in Europe or USA.</div><div><br></div><div><strong><em>Essential Qualifications:</em></strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. in particle physics, nuclear physics, or another relevant subject by the time of the appointment. Candidates with experimental and/or computational backgrounds will be considered;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Computer programming experience;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Experience with particle physics (or correlated area) data analysis;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Excellent communication skills and ability to work collaboratively on a team with varied strengths.</div><div><br></div><div><strong><em>Preferred Qualifications:</em></strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Experience with scintillation light detection, neutrino data analysis, and/or AI/ML learning techniques;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Experience in developing Monte Carlo simulation codes in C++;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Experience with collaborative software development tools (e.g., Git);</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Interest in mentoring junior scientists.</div><div><br></div><div><strong><em>Application Instructions:</em></strong></div><div>Interested candidates should submit to the e-mail address laura.paulucci@gp.ita.br the following documents:</div><div><br></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Curriculum Vitae including a list of selected publications</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Research Statement: one page, demonstrating how the desirable requirements for the position are met and explaining how your academic and professional background aligns with the research proposal</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Programming Experience Statement: one page, describing your experience with computer programming. This may include programming experience unrelated to academic research. Candidates are encouraged to optionally provide hyperlinks in the statement to one or two samples of their prior programming work that are accessible online (e.g., in a code repository hosted by GitHub).</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Two Reference Letters (to be submitted by the reference writers themselves to the same e-mail addresses).</div><div><br></div><div>For general information about this position, please contact Laura Paulucci at lpaulucc@fnal.gov.</div><div><br></div><div><strong><em>Benefits:</em></strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Monthly stipends: 12570 reais (the equivalent to 8.3 minimum wages in Brazil)</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Funding for project related expenses (travels, material, conference fees, etc - 10% of monthly stipends)</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Relocation Allowance: Grant recipients who need to move to the city where the research Host Institution is located may request the Relocation Allowance benefit (full policy at <a href=\"http://fapesp.br/7771\">fapesp.br/7771</a>)</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Maternity/Paternity Leave: period of leave without interruption of payment in the event of the birth of children (full rules at <a href=\"http://fapesp.br/8484\">fapesp.br/8484</a>).</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;Retirement benefits: Reimbursement of the social security contribution to the National Social Security Institute (INSS) (in accordance with the rules described at <a href=\"http://fapesp.br/16951\">fapesp.br/16951</a> and <a href=\"http://fapesp.br/16953\">fapesp.br/16953</a>)</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-07-27T13:18:02.490227+00:00",
+      "updated": "2026-07-27T14:36:27.874351+00:00",
+      "addedAt": "2026-07-28T08:55:19.799Z",
+      "isNew": true
+    },
+    {
+      "id": "3183342",
+      "title": "Postdoctoral Position in experimental Astroparticle Physics (XENONnT / XLZD)",
+      "institution": "Freiburg U.",
+      "deadline": "2026-09-06",
+      "description": "<div>The Astroparticle Physics Group at the Physics Institute of the University of Freiburg, Germany, invites applications for a</div><div><br></div><div><strong>Postdoctoral Position in experimental Astroparticle Physics (XENON / XLZD)</strong></div><div><br></div><div>The successful candidate will play a leading role in the XENONnT dark matter experiment, which is currently operating a 5.9t liquid xenon target at LNGS (Italy), and the future multi-ton liquid-xenon observatory XLZD.</div><div><br></div><div>The astroparticle physics group at the University of Freiburg works on liquid xenon detector design, low-background techniques, data acquisition and electronics, as well as simulations and data analysis. The group operates two liquid xenon test platforms to conduct R&amp;D, as well as spectrometers to identify low-background materials. Other ongoing projects of the group are DELight (light dark matter search with liquid helium) as well as SHiP and AMBER at CERN.</div><div><br></div><div>Applicants must have a PhD in experimental astroparticle/particle/nuclear physics. Hardware experience is necessary for the position. A background in dark matter/double-beta searches or low-background physics would be beneficial but is not strictly required. The initial duration of the contract is for two years but can be extended up to four years. It is a full-time position, salary class TV-L E13.</div><div><br></div><div>Interested candidates are encouraged to send a short motivation letter stating their research interests, CV and publication list, and the names and email addresses of three references to <a href=\"mailto:sekretariat.schumann@physik.uni-freiburg.de\">sekretariat.schumann@physik.uni-freiburg.de</a>. Please send applications in electronic form (one single pdf-file). For further information, please contact <a href=\"mailto:marc.schumann@physik.uni-freiburg.de\">marc.schumann@physik.uni-freiburg.de</a> or <a href=\"mailto:sebastian.lindemann@physik.uni-freiburg.de\">sebastian.lindemann@physik.uni-freiburg.de</a>.</div><div><br></div><div>The position is to be filled from 15 October 2026 and will remain open until filled. Applications are reviewed in the order they are received.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "nucl-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "XENONnT",
+        "XLZD"
+      ],
+      "urls": [
+        "https://uni-freiburg.de/astroparticle/"
+      ],
+      "contact_email": null,
+      "created": "2026-07-27T14:03:06.679036+00:00",
+      "updated": "2026-07-27T14:30:53.418343+00:00",
+      "addedAt": "2026-07-28T08:55:19.799Z",
+      "isNew": true
+    },
+    {
       "id": "3182730",
       "title": "Exploring PostDoc Opportunities at China’s First Test Beam Facility",
       "institution": "CAS, IHEP, Dongguan",
@@ -21,7 +157,7 @@
       "created": "2026-07-24T02:12:07.535188+00:00",
       "updated": "2026-07-24T17:30:11.956354+00:00",
       "addedAt": "2026-07-27T09:05:31.014Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3182476",
@@ -9785,6 +9921,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-27T09:05:31.015Z",
-  "totalJobs": 365
+  "lastUpdated": "2026-07-28T08:55:19.800Z",
+  "totalJobs": 370
 }
