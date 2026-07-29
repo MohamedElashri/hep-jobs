@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "id": "3183749",
+      "title": "Electronics Engineer",
+      "institution": "CERN",
+      "deadline": "2026-08-18",
+      "description": "<div><strong>Introduction</strong></div><div>Are you a skilled and experienced electronics engineer? Do you want to work in one of the world’s leading scientific Intergovernmental Organisations? Come and join a unique environment whose core value is excellence, and whose defining characteristic is teamwork. CERN, take part!</div><div>You will work in the TS-Group within the <a href=\"https://hse.cern/\">HSE Unit</a>, which is responsible for occupational health and safety, including radiation protection, environmental protection, and emergency preparedness and response. Activities cover the monitoring and reporting of the environmental and radiological impacts of the Organization’s activities.&nbsp;</div><div>In your role as an electronics engineer, you will be involved in the development and improvement of radiation and environmental monitoring solutions. This includes participating in the full lifecycle of hardware and embedded firmware development using modern methodologies and technologies.</div><div><strong>Functions</strong></div><ul><li>Design and develop mixed-signal electronics, with a focus on analogue sensor interfaces and ultra-low-current measurement circuits.</li><li>Develop and maintain embedded code in VHDL and C to support system control, data processing, and hardware interfacing.</li><li>Consolidate and maintain heterogeneous firmware and its development environment (tools, build flow, and supporting infrastructure).</li><li>Adapt the MPSoC architecture to support the required communication interfaces and onboard processing.</li><li>Develop and integrate firmware updates to meet system functional and performance requirements.</li><li>Perform functional tests to verify correct system behaviour under expected operating conditions.</li><li>Develop dedicated electronic test boards and complex test benches to evaluate electronic systems under radiation at CERN and at external irradiation facilities.</li><li>Characterise newly developed systems through measurement, analysis, and validation activities to ensure compliance with functional and performance requirements.</li><li>Identify issues during testing, troubleshoot root causes, and implement corrective improvements.</li><li>Collaborate with hardware, firmware, and software teams to ensure effective system integration and reliable operation.</li><li>Ensure proper documentation, version control, and traceability of developments using collaborative tools such as GitLab and Jira.</li></ul><div><strong>Qualifications</strong></div><div>Master's degree or PhD or equivalent relevant experience in the field of Electronics Engineering or a related field.</div><div>&nbsp;</div><div><strong>Experience:</strong></div><div>The following are required for this post:</div><ul><li>Complex HDL firmware development for FPGA, including implementation of data readout and data processing, HDL simulation, timing, and placement constraints.</li><li>Software scripting and programming languages, particularly C and Python.</li><li>Familiarity with digital design methodologies and verification flows, with experience in ASIC development.</li><li>Practical knowledge of GitLab CI/CD pipelines, including build, test, and deployment automation.</li><li>Demonstrated experience in mixed-signal electronics design, including analogue and digital board development.</li><li>Experience in precision analogue front-end design and low-current measurement techniques.</li><li>Experience with radiation monitoring tests and system characterisation under pulsed radiation fields is considered an asset.</li><li>Ability to analyse test results, troubleshoot issues, identify root causes and implement corrective improvements is considered an asset.</li></ul><div><strong>Technical competencies:</strong></div><ul><li>Design and simulation of FPGA-based electronics.</li><li>Design and simulation of front-end electronics for analogue sensors and transducers.</li><li>Development of software for embedded and real-time systems with/without OS.</li><li>Knowledge and application of instrumentation and measurement techniques.</li><li>Design of ultra-low-current circuits.</li></ul><div><strong>Behavioural competencies:</strong></div><ul><li>Working in Teams: working well in groups and readily fitting into a team; participating fully and taking an active role in team activities.</li><li>Learning and Sharing Knowledge: creating or participating in forums to exchange experience, comparing techniques and learn from others.</li><li>Communicating Effectively: delivering presentations in a structured and clear way; adjusting style and content to the audience; responding calmly and confidently to questions.</li><li>Achieving Results: dividing extensive work / projects into manageable sub-tasks with clearly defined milestones.</li><li>Demonstrating Accountability: working conscientiously and reliably; delivering on promises.</li></ul><div><strong>Language skills:</strong></div><div>Spoken and written English or French, with a commitment to learn the other language.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobs.smartrecruiters.com/CERN/744000138790099-electronics-engineer-hse-ts-ims-2026-161-ld-"
+      ],
+      "contact_email": null,
+      "created": "2026-07-28T13:42:18.770195+00:00",
+      "updated": "2026-07-28T15:33:59.372699+00:00",
+      "addedAt": "2026-07-29T08:57:13.604Z",
+      "isNew": true
+    },
+    {
+      "id": "3183367",
+      "title": "Postdoctoral Associate - CMS Experiment",
+      "institution": "U. Colorado, Boulder",
+      "deadline": "2026-09-15",
+      "description": "<div>The University of Colorado high energy physics CMS group has an opening for a postdoctoral research associate. The group is led by five faculty members: John Cumalat, Bill Ford, Kevin&nbsp;Stenson, Keith Ulmer, and Steve Wagner. The group plays leading roles in the Phase 2 Level 1 track trigger and correlator trigger upgrades and Phase 2 upgrade work on pixel sensor and electronics R&amp;D. The group is active in a variety of physics analyses searching for physics beyond the standard model including anomaly detection, exotic dark matter models, supersymmetry, and lepton flavor violation.</div><div><br></div><div>The successful candidate will be expected to play a leading role in the group’s activities on the Phase 2 Level 1 trigger&nbsp;upgrade and data analysis related to searches for physics beyond the standard model. Experience or interest in firmware&nbsp;and/or machine learning is highly desirable. Primary locations for the position are Boulder or CERN, and is negotiable&nbsp;depending on individual circumstances and specific projects.</div><div><br></div><div>For inquiries about this position, please contact Prof. Keith&nbsp;Ulmer (<a href=\"mailto:keith.ulmer@colorado.edu\">keith.ulmer@colorado.edu</a>) and/or Prof. Kevin Stenson (<a href=\"mailto:kevin.stenson@colorado.edu\">kevin.stenson@colorado.edu</a>).</div><div><br></div><div>Candidates must have a Ph.D. in particle physics or a closely related field. Applications will be reviewed as they arrive and applications will be accepted until the job is filled. For full consideration, please submit your application by September 15, 2026. Applicants will need to submit a cover letter, curriculum vitae, statement of research interests, and contact information for three references at: <a href=\"https://jobs.colorado.edu/jobs/JobDetail/?jobId=73739\">https://jobs.colorado.edu/jobs/JobDetail/?jobId=73739</a></div>",
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://jobs.colorado.edu/jobs/JobDetail/?jobId=73739"
+      ],
+      "contact_email": null,
+      "created": "2026-07-27T23:03:41.104749+00:00",
+      "updated": "2026-07-28T15:30:50.626149+00:00",
+      "addedAt": "2026-07-29T08:57:13.604Z",
+      "isNew": true
+    },
+    {
+      "id": "3183752",
+      "title": "ASIC Digital Designer",
+      "institution": "CERN",
+      "deadline": "2026-08-17",
+      "description": "<div>CERN designs, develops, and operates particle accelerators and experiments for scientific research to understand the fundamental laws of the universe. These activities may generate stray radiation due to the interaction between beams and matter. The radiation detectors installed close to the various beam lines and targets allow CERN to accurately monitor radiation levels. Within the HSE-TS-IMS Section at CERN, the team is responsible for the design and development of this specialised equipment, as well as its installation, commissioning, operation, and maintenance.</div><div>Radiation monitoring is essential to enable CERN to operate its accelerator complex and related experiments while fulfilling its legal obligations to protect the public, people working on the CERN site, and the environment. In this stringent context, the TS-IMS Section is developing a new generation of ASICs to interface ionisation chamber signals with safety-critical monitoring systems, meeting challenging performance and reliability requirements.</div><div><strong>Your responsibilities</strong></div><div>You will work among a team of engineers and technicians to:</div><ul><li>Design, simulate, and verify the digital architecture of the next-generation ASIC front-end.</li><li>Prepare RTL designs for tapeout using open-source EDA flows, including floorplanning and physical design preparation.</li><li>Support post-fabrication bring-up, system characterisation, and functional/performance validation.</li><li>Collaborate closely with analogue, verification, and SoC integration teams to ensure seamless system-level compatibility.</li></ul><div><strong>Your profile</strong></div><ul><li>Hands-on experience with open-source ASIC EDA flows (Yosys, OpenROAD, LibreLane, etc.) from RTL to GDSII.</li><li>Experience with floorplanning, constraint definition, and physical design preparation for tapeout.</li><li>Post-tapeout prototype bring-up and hardware debugging experience is advantageous.</li><li>Active contributions to open-source hardware projects or EDA toolchains are advantageous.</li><li>Experience developing SoC submodules is advantageous.</li></ul><div>Skills</div><ul><li>HDL design and simulation in VHDL, Verilog, or SystemVerilog.</li><li>Good team player: collaboration skills across analogue, digital, verification, and SoC teams.</li><li>Proficiency in Git, CI/CD pipelines, and automated verification workflows.</li><li>Knowledge of RISC-V architecture.</li><li>Familiarity with mixed-signal integration and digital interface protocols.</li><li>Comfort with Linux-based development environments and scripting for automation (Python, Bash, etc.).</li><li>Spoken and written English, with a commitment to learn French.</li></ul><div>Eligibility criteria:</div><ul><li>You are a national of a <a href=\"https://home.cern/about/member-states\">CERN Member or Associate Member State</a>.</li><li><strong>By the application deadline,</strong> you have a <strong>maximum of two years of professional experience since graduation</strong> in Electronics (or a related field) <strong>and your highest educational qualification is either a Bachelor's or Master's degree</strong>.</li><li>You have never had a CERN fellow or graduate contract before.</li><li>Applicants without University degree are not eligible.</li><li>Applicants with a PhD are not eligible.</li></ul><div><strong>Additional Information</strong></div><div>Job closing date: <strong>17.08.2026 at 23:59 CEST.</strong></div><div>Contract duration: 24 months</div><div>Working hours: 40 hours per week</div><div>Job flexibility: Hybrid</div><div>Target start date: 01-October-2026</div><div>Job reference: HSE-TS-IMS-2026-189-GRAE</div><div>Field of work: Electrical or Electronics Engineering</div><div>Benchmark job: 200050 - Electronics Engineer</div><div><strong>Global Benefits</strong></div><ul><li>A monthly stipend between 5266-5793 Swiss Francs per month (tax free) depending on your degree.</li><li>30 days of paid leave per year plus 2 weeks annual closure.</li><li>Coverage by CERN’s comprehensive health insurance scheme (for yourself, your spouse and children), and membership of the CERN Pension Fund.</li><li>Family, child and infant monthly allowances depending on your individual circumstances.</li><li>A relocation package (installation grant and travel expenses) depending on your individual circumstances.</li><li>Possibility to extend your contract up to 36 months.</li><li>On-the-job and formal training including language classes.</li></ul><div><strong>Overview of CERN - Discover a world where the impossible is made possible!</strong></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobs.smartrecruiters.com/CERN/744000138626655-asic-digital-designer-hse-ts-ims-2026-189-grae-"
+      ],
+      "contact_email": null,
+      "created": "2026-07-28T13:44:57.137184+00:00",
+      "updated": "2026-07-28T15:28:33.324821+00:00",
+      "addedAt": "2026-07-29T08:57:13.604Z",
+      "isNew": true
+    },
+    {
       "id": "3183345",
       "title": "Trigger development for long lived particle search at CMS Experiment",
       "institution": "Istinye U., Istanbul",
@@ -26,7 +107,7 @@
       "created": "2026-07-27T14:55:13.235102+00:00",
       "updated": "2026-07-27T15:04:38.785462+00:00",
       "addedAt": "2026-07-28T08:55:19.799Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3183348",
@@ -54,7 +135,7 @@
       "created": "2026-07-27T14:59:37.281028+00:00",
       "updated": "2026-07-27T15:03:51.354581+00:00",
       "addedAt": "2026-07-28T08:55:19.799Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3183322",
@@ -79,7 +160,7 @@
       "created": "2026-07-27T08:42:29.010223+00:00",
       "updated": "2026-07-27T14:39:09.691766+00:00",
       "addedAt": "2026-07-28T08:55:19.799Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3183340",
@@ -102,7 +183,7 @@
       "created": "2026-07-27T13:18:02.490227+00:00",
       "updated": "2026-07-27T14:36:27.874351+00:00",
       "addedAt": "2026-07-28T08:55:19.799Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3183342",
@@ -134,7 +215,7 @@
       "created": "2026-07-27T14:03:06.679036+00:00",
       "updated": "2026-07-27T14:30:53.418343+00:00",
       "addedAt": "2026-07-28T08:55:19.799Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3182730",
@@ -9921,6 +10002,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-28T08:55:19.800Z",
-  "totalJobs": 370
+  "lastUpdated": "2026-07-29T08:57:13.605Z",
+  "totalJobs": 373
 }
