@@ -1,6 +1,64 @@
 {
   "jobs": [
     {
+      "id": "3184568",
+      "title": "Postdoc Research Associate in Experimental Nuclear Physics",
+      "institution": "Iowa State U. (main)",
+      "deadline": "2026-08-17",
+      "description": "<div><strong>Summary of Duties and Responsibilities:</strong></div><div>This position offers an excellent opportunity for a postdoctoral researcher interested in experimental nuclear physics, machine learning, and detector development. The successful candidate will contribute to the Iowa State University Experimental Nuclear Group's leading role in the sPHENIX collaboration at Brookhaven National Laboratory, with a focus on heavy flavor and quarkonia physics. The initial emphasis will be on Foundation Model development using the sPHENIX silicon tracking system to improve collision data reconstruction as part of a collaborative Genesis Phase I project with Brookhaven National Laboratory and MIT. In addition to advanced machine learning and detector development work, the candidate will have opportunities to lead physics analyses, develop innovative analysis techniques, contribute to high-impact publications, participate in international collaborations, attend conferences, and build an independent research profile in preparation for future career advancement.</div><div><br></div><div><strong>Required Minimum Qualifications:</strong></div><div>PhD in nuclear physics, high-energy physics, or closely related field</div><div><br></div><div><strong>Preferred Qualifications:</strong></div><ul><li>Proficiency in modern programming languages (e.g., C++ and/or Python);</li><li>Experience analyzing large datasets;</li><li>Experience with software-based machine learning, including modern approaches such as foundation models and/or generative adversarial networks (GANs).</li></ul><div><strong>Department/Program &amp; College Description:</strong></div><div>The Department of Physics and Astronomy at Iowa State University is a nationally recognized research department with strengths in nuclear physics, high energy physics, astrophysics, condensed matter physics, and materials science. The department fosters a collaborative research environment, partnering closely with Ames National Laboratory and leading national research facilities, while supporting faculty, postdoctoral scholars, and students in conducting innovative, high-impact scientific research. Researchers benefit from access to world-class facilities, interdisciplinary collaborations, and opportunities to contribute to groundbreaking discoveries in both theoretical and experimental physics.</div><div><br></div><div><strong>Department Unit/Website:</strong></div><div><a href=\"https://www.physastro.iastate.edu/\">Department of Physics and Astronomy</a></div><div><br></div><div><strong>Application Instructions:</strong></div><div>To apply for this position, please click on “Apply” and complete the Employment Application. Please be prepared to enter or attach the following:</div><div>Resume/Curriculum Vitae</div><div>Letter of Application/Cover Letter</div><div><br></div><div><strong>Why Choose Iowa State University?</strong></div><div>Iowa State Employees enjoy comprehensive health and work-life benefits, including medical and dental, as well as:</div><ul><li>Retirement benefits including defined benefit and defined contribution plans</li><li>Generous vacation, holiday, and sick time and leave plans</li><li>Onsite childcare (Ames, Iowa)</li><li>Life insurance and long-term disability</li><li>Flexible Spending Accounts</li><li>Various voluntary benefits and discounts</li><li>Employee Assistance Program</li><li>Wellbeing program</li><li>Iowa State offers WorkFlex options for some positions. WorkFlex offers flexibility on when, where, and how you do your work. For more information, please speak with the Hiring Manager.</li></ul><div><em>Iowa State University is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status, and will not be discriminated against.</em></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "BNL-RHIC-SPHENIX"
+      ],
+      "urls": [
+        "https://isu.wd1.myworkdayjobs.com/en-GB/IowaStateJobs/job/Upton-NY/Postdoc-Research-Associate-in-Experimental-Nuclear-Physics_R19675"
+      ],
+      "contact_email": null,
+      "created": "2026-07-30T13:01:20.287573+00:00",
+      "updated": "2026-07-30T14:58:02.846489+00:00",
+      "addedAt": "2026-07-31T09:00:30.937Z",
+      "isNew": true
+    },
+    {
+      "id": "3184218",
+      "title": "Postdoctoral Researcher – XLZD experiment",
+      "institution": "TRIUMF",
+      "deadline": "2026-08-09",
+      "description": "<div>We are seeking applications from recent particle physics graduates for a Postdoctoral Research Fellow position with the XLZD-Canada group at TRIUMF.</div><div>The successful applicant will contribute to research and development for the next-generation large-scale liquid xenon observatory, XLZD, which aims to push the frontiers of rare-event physics through searches for WIMP dark matter, neutrinoless double beta decay (0νββ), supernova neutrinos, and other beyond-the-Standard-Model phenomena.</div><div>&nbsp;</div><div><strong>Responsibilities</strong></div><div>The successful applicant will play a leading role in the development of XLZD sensitivity studies for 0νββ searches, both for the experiment’s baseline detector design and for alternative photosensor assembly concepts. Responsibilities will include:</div><ul><li>Contributing to the development and validation of the XLZD simulation framework</li><li>Performing sensitivity studies using advanced statistical and machine learning techniques</li><li>Supporting calibration studies and detector R&amp;D activities conducted at TRIUMF in support of 0νββ searches</li><li>Preparing technical reports and disseminating results through peer-reviewed publications, conference presentations, and workshops</li><li>Contributing to the supervision and mentoring of undergraduate and graduate students</li></ul><div><strong>Knowledge and Skills</strong></div><div>The ideal candidate will have strong expertise in experimental particle physics, particularly in data analysis, simulations, and detector technologies. Desired qualifications include:</div><ul><li>Demonstrated experience in data analysis and Monte Carlo simulations</li><li>Strong programming skills in C++, with proficiency in ROOT and Geant4</li><li>Experience applying machine learning techniques to particle physics analyses</li><li>Knowledge of detector systems,&nbsp;detector calibrations&nbsp;and electronics, particularly silicon detectors and liquid noble gas detectors</li><li>Excellent interpersonal, organizational, and communication skills</li><li>Ability to work effectively within a large international collaboration</li></ul><div><strong>Minimum Qualifications</strong></div><div>Applicants must hold a recent PhD in particle physics or a closely related field (normally within the past five years), or expect to complete their PhD within the next few months.</div><div>&nbsp;</div><div><strong>Appointment Details</strong></div><div>The successful applicant will be employed by and based at TRIUMF in Vancouver, British Columbia, Canada.</div><div>The initial appointment will be for one year, with the possibility of renewal subject to satisfactory performance, mutual agreement, and continued funding availability. Salary will be competitive and commensurate with experience, and a comprehensive benefits package will be provided.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "astro-ph",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "XLZD"
+      ],
+      "urls": [
+        "https://triumf.wd10.myworkdayjobs.com/en-US/careers-at-triumf-job-postings/details/Postdoctoral-Researcher----XLZD-experiment_JR102139"
+      ],
+      "contact_email": null,
+      "created": "2026-07-29T21:16:13.904382+00:00",
+      "updated": "2026-07-30T14:56:39.989296+00:00",
+      "addedAt": "2026-07-31T09:00:30.937Z",
+      "isNew": true
+    },
+    {
       "id": "3183749",
       "title": "Electronics Engineer",
       "institution": "CERN",
@@ -10002,6 +10060,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-07-30T08:54:27.146Z",
-  "totalJobs": 373
+  "lastUpdated": "2026-07-31T09:00:30.938Z",
+  "totalJobs": 375
 }
