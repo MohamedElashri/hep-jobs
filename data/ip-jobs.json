@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3185089",
+      "title": "Postdoctoral Position in Neutrino Physics",
+      "institution": "U. Hawaii (main)",
+      "deadline": "2026-09-30",
+      "description": "<div>The Experimental Particle Physics Group led by Prof. Zepeng Li at the University of Hawaiʻi at Mānoa invites applications for a postdoctoral research associate position. The group is actively involved in the KamLAND-Zen and COHERENT experiments.</div><div>The successful candidate will primarily develop fast machine-learning algorithms for FPGA-based real-time data processing in KamLAND-Zen. Opportunities will also be available to contribute to the group’s COHERENT research program, including cryogenic CsI detector R&amp;D, machine-learning-based self-trigger development, and data analysis.</div><div>The successful candidate will join the stimulating research environment of the University of Hawaiʻi High Energy Physics Group, whose research spans neutrino physics, dark-matter searches, particle astrophysics, flavor physics, detector instrumentation, and advanced computing. The position offers significant opportunities to lead technical developments, pursue independent research, collaborate with national laboratories and international research teams, and mentor graduate and undergraduate students.</div><div><strong>Minimum Qualifications</strong></div><ul><li>A Ph.D. in experimental particle physics, nuclear physics, electrical or computer engineering, computer science, or a closely related field, completed by the start date.</li><li>Experience in at least one of the following areas: machine learning, FPGA firmware development, detector R&amp;D, or experimental data analysis.</li></ul><div><strong>Application Instructions</strong></div><div>Applicants should submit the following materials:</div><ul><li>A cover letter describing their interest in the position.</li><li>A curriculum vitae, including a publication list.</li><li>A research statement describing their previous experience and future research interests, limited to two pages.</li><li>The names and contact information of at least three references.</li></ul><div>Applicants should arrange for at least three letters of recommendation to be sent separately. Application materials and recommendation letters should be emailed to&nbsp;<a href=\"mailto:zepengli@hawaii.edu\"><strong>zepengli@hawaii.edu</strong></a>&nbsp;with the subject line&nbsp;<strong>“Postdoctoral Application – [Applicant’s Name].”</strong></div><div>Questions about the position may also be directed to Prof. Zepeng Li at&nbsp;<a href=\"mailto:zepengli@hawaii.edu\"><strong>zepengli@hawaii.edu</strong></a>.</div><div>For full consideration, applications should be received by&nbsp;<strong>September 30, 2026</strong>. Applications received after this date will continue to be reviewed until the position is filled. The position may begin as soon as the successful candidate is available to join the group.</div><div><br></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "KamLAND-Zen"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-02T00:32:50.121217+00:00",
+      "updated": "2026-08-03T14:48:41.123514+00:00",
+      "addedAt": "2026-08-04T08:56:15.295Z",
+      "isNew": true
+    },
+    {
+      "id": "3185307",
+      "title": "Experimental Physics",
+      "institution": "RWTH Aachen U.",
+      "deadline": "2026-09-09",
+      "description": "<div>RWTH Aachen University is inviting applications for the position of full professor in the area of experimental physics, to be filled by March 1, 2028. The successful candidate is expected to develop and lead an internationally visible research program in experimental particle physics, with a particular focus on particle physics at the Precision Frontier. Research activities should address high-precision experimental investigations of fundamental questions in particle physics, ranging from tests of the Standard Model to indirect searches for physics beyond it. The successful candidate will head the I. Physics Institute B. The Institute is currently involved in the AMS, CMS,</div><div>and LHCb experiments. In addition to the advertised professorship, the Institute comprises a C3 professorship participating in the CMS experiment and a newly established W2 professorship in astroparticle physics that is currently being filled.</div><div><br></div><div>The professorship will play a leading role in shaping experimental particle physics at RWTH Aachen University. This includes major scientific contributions to ongoing and future large-scale international experiments, as well as the development of innovative, precision-driven measurement programs. Relevant research directions may include, but are not limited to, precision experiments, flavour physics, modern detector technologies, and advanced data analysis methods.</div><div><br></div><div>The successful candidate is expected to contribute decisively to the strategic development of experimental particle physics at RWTH Aachen University, strengthening its national and international visibility and fostering collaborations within the faculty, across disciplines, and with national and international research partners. Interaction with theoretical research and related activities within the faculty and across other disciplines is encouraged.</div><div><br></div><div>The professorship includes teaching responsibilities in experimental physics at the bachelor’s and master’s levels, including central responsibility for the undergraduate physics laboratory course (Grundpraktikum für Physiker) and its continuous development. Active engagement in academic self-governance is expected.</div><div><br></div><div>The requirements include a doctoral degree and additional research experience, such as a habilitation (post-doctoral lecturing qualification) or equivalent achievements gained as a university researcher or professor or in a research position outside academia. Teaching ability and dedication are essential and the application should include proof of this. Fluent German is not required to start the position but the successful candidate will be expected to hold classes in German within the first 5 years.</div><div><br></div><div>We seek an internationally recognized scientist with an outstanding publication record and a proven track record of acquiring substantial external research funding. The successful candidate should have an established international research network and demonstrated experience in leading and managing large research teams or research infrastructures. Excellent communication skills and the ability to provide academic leadership within a complex institutional environment are expected.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaadlpctxh"
+      ],
+      "contact_email": null,
+      "created": "2026-08-03T09:01:17.706723+00:00",
+      "updated": "2026-08-03T14:42:39.934210+00:00",
+      "addedAt": "2026-08-04T08:56:15.295Z",
+      "isNew": true
+    },
+    {
       "id": "3184963",
       "title": "Postdoctoral Position in Experimental Astroparticle Physics and Neutrino Astronomy",
       "institution": "Tech. U., Munich (main)",
@@ -26,7 +77,7 @@
       "created": "2026-07-31T07:39:50.240275+00:00",
       "updated": "2026-07-31T16:59:27.889153+00:00",
       "addedAt": "2026-08-03T09:08:00.012Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3184568",
@@ -10088,6 +10139,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-03T09:08:00.013Z",
-  "totalJobs": 376
+  "lastUpdated": "2026-08-04T08:56:15.296Z",
+  "totalJobs": 378
 }
