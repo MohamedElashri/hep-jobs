@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3187066",
+      "title": "Call for expression of Interest ANID Postdoctoral Fellowship 2027",
+      "institution": "La Serena U.",
+      "deadline": "2026-08-30",
+      "description": "<div><strong>Position description</strong></div><div><br></div><div>Universidad de La Serena (ULS), Chile invites early-career researchers interested in contributing to the <strong>BESIII experimental program at BEPCII (Beijing Electron Positron Collider), China</strong>, to submit an expression of interest for the ANID FONDECYT Postdoctoral Fellowship 2027.</div><div><br></div><div>The selected candidate will join a growing BESIII research group at ULS in La Serena, Chile, led by Dr. Taisiya Mineeva, and will participate in the analysis of the large-statistics dataset currently collected with the BEPCII collider. Periodic research visits to Beijing, China, will be encouraged. Applicants from closely related fields with strong experience in data analysis and a track record in experimental particle physics are also encouraged to apply.</div><div><br></div><div><strong>Eligibility</strong></div><ul><li>Applicant must hold a PhD in Physics awarded after 1st January, 2023</li><li><strong>Have Chilean citizenship or permanent resident status in Chile</strong></li><li>Demonstrate research experience in experimental particle physics or a related field</li></ul><div><strong>Application</strong></div><div>Interested candidates are encouraged to submit to taisiya.mineeva@userena.cl the following:</div><ul><li>a curriculum vitae, including a complete list of publications</li><li>a brief research proposal statement aligned with the BESIII research program</li><li>the names and contact information of three potential referees</li></ul><div>Applications will be accepted until <strong>30 August 2026.</strong></div><div><br></div><div>For further information, please refer to the official ANID call for proposals:</div><div><a href=\"https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2027/\"><strong>https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2027/</strong></a></div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "BEPC-BES-III"
+      ],
+      "urls": [
+        "https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2027/"
+      ],
+      "contact_email": null,
+      "created": "2026-08-04T20:43:33.543059+00:00",
+      "updated": "2026-08-04T21:32:24.585196+00:00",
+      "addedAt": "2026-08-05T08:55:32.415Z",
+      "isNew": true
+    },
+    {
+      "id": "3186991",
+      "title": "Neutrino Post-Doctoral Position",
+      "institution": "York U., Toronto (main)",
+      "deadline": "2026-09-04",
+      "description": "<div>The York University experimental particle physics group has an opening for a postdoctoral position to work primarily on the Deep Underground Neutrino Experiment (DUNE) hosted in the US, with a possibility to also collaborate on the Tokai to Kamiokande (T2K) experiment in Japan and/or to analyze data from MINERvA, a neutrino interaction experiment that completed data</div><div>taking at Fermilab in 2019.</div><div><br></div><div>The York neutrino group is involved in the DUNE, MINERvA, ICARUS and T2K experiments. The successful candidate will have the opportunity to improve neutrino oscillation measurements in a variety of ways: through DUNE Near Detector development and through precise neutrino interaction measurements. The successful candidate will have an opportunity to help commission, simulate, and/or analyze data from new liquid argon detector prototypes of the DUNE near detector: there is a cryogenic test stand being developed on the York campus for small liquid argon detector testing, and a much larger prototype is currently in the NuMI Beamline at Fermilab, awaiting a new neutrino data-taking run. The successful candidate will also be contributing to DUNE through work on neutrino interaction measurements.</div><div><br></div><div>By the appointment start time, candidates should have a PhD degree in experimental particle physics or a related field within the last five years, (plus any career breaks). Some experience with neutrino physics is desirable, but candidates from other areas of particle physics will also be considered. Some knowledge of C++ and ROOT would be advantageous. The successful candidate will primarily be based in Toronto, but at least some travel to Fermilab in the US, CERN in Switzerland, and/or J-PARC in Japan will be expected. The position is for two years with a possible extension of a year, starting as early as September 21, 2026.</div><div><br></div><div>We encourage all qualified persons to apply. Interested candidates should send a cover letter, Curriculum Vitae, statement of research</div><div>interests, and arrange to have at least three letters of reference sent electronically to:</div><div><br></div><div>Prof. Deborah Harris deborahh@yorku.ca</div><div><br></div><div>Please send inquiries if you have questions regarding this position.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "T2K"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-04T14:52:04.931297+00:00",
+      "updated": "2026-08-04T15:05:34.864377+00:00",
+      "addedAt": "2026-08-05T08:55:32.415Z",
+      "isNew": true
+    },
+    {
       "id": "3185089",
       "title": "Postdoctoral Position in Neutrino Physics",
       "institution": "U. Hawaii (main)",
@@ -24,7 +77,7 @@
       "created": "2026-08-02T00:32:50.121217+00:00",
       "updated": "2026-08-03T14:48:41.123514+00:00",
       "addedAt": "2026-08-04T08:56:15.295Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3185307",
@@ -49,7 +102,7 @@
       "created": "2026-08-03T09:01:17.706723+00:00",
       "updated": "2026-08-03T14:42:39.934210+00:00",
       "addedAt": "2026-08-04T08:56:15.295Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3184963",
@@ -10139,6 +10192,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-04T08:56:15.296Z",
-  "totalJobs": 378
+  "lastUpdated": "2026-08-05T08:55:32.416Z",
+  "totalJobs": 380
 }
