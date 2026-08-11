@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3188922",
+      "title": "Ice Formation on Cryogenic Surfaces of Astroparticle Physics Detectors",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-08-24",
+      "description": "<div><strong>Investigation and Monitoring of Ice Formation on Cryogenic Surfaces for Astroparticle Physics Detectors</strong></div><div><br></div><div>The Institute for&nbsp;<a href=\"https://www.kceta.kit.edu/\"><strong>Experimental Particle Physics (ETP)</strong></a>&nbsp;at the&nbsp;<a href=\"https://www.kit.edu/\"><strong>Karlsruhe Institute of Technology (KIT)</strong></a>&nbsp;is advertising a position as a research assistant (65% TV-L E-13) with the opportunity to pursue a PhD. The aim of the PhD project is the investigation of adsorption of gases on cryogenic surfaces and the development of proposals for an in-situ reduction of the adsorption and possibly removal of the adsorbed materials. This work is done in collaboration with international partners in the context of the Einstein Telescope (ET) for gravitational wave detection (cryogenic mirrors) and the KATRIN neutrino mass experiment (cryogenic detector surfaces). The results will be of importance for a whole class of next-generation astroparticle physics experiments employing cryogenic quantum-detectors.</div><div><br></div><div>The mirrors of the low-frequency interferometer of Einstein Telescope will be operated in ultra-high vacuum at temperatures in the 10 – 20 K range. For full performance, cryosorption of water and other molecules on the mirror surfaces has to be limited to less than one monolayer per year.</div><div><br></div><div>A newly developed detector (approximately 1,000 cooled silicon drift diode pixels) will be used to search for the signature of so-called sterile neutrinos in the second phase of the KATRIN experiment. And, in the long term, cryogenic quantum detectors in the mK-range will be installed to improve energy resolution. Gases deposited on either of the detector surfaces can lead to a degradation of the energy resolution.&nbsp;&nbsp;</div><div><br></div><div>The VINCENT setup at KIT will be used to monitor layer thickness of adsorbed materials in test measurements under ultra-high vacuum using ellipsometry. For a long-term and continuous monitoring of ice formation, the quartz microbalance (QMB) technology will be further developed and tested to ensure reliable operation at cryogenic temperatures. In collaboration with international partners, methods for in-situ ice reduction through the active removal of ice layers and improved UHV conditioning are also being developed and tested.</div><div><br></div><div>The successful candidate will be a member of both the KATRIN and ET collaborations. You have earned a master’s degree in physics with excellent grades. You have experience in one or more of the following areas: vacuum technology (UHV), outgassing rates, cryogenics, ellipsometry, and QMB technology. Excellent written and spoken English skills are required. A basic knowledge of German will be of advantage. You will be expected to present the results of your research in conference papers and publish them in scientific journals.</div><div>The position will be compensated in accordance with TV-L Baden-Württemberg E-13 (65%) and is limited to 3 years. An extension is possible if project funding will be available. Applications should be submitted by Email to:&nbsp;<a href=\"mailto:joachim.wolf@kit.edu\">joachim.wolf@kit.edu</a>&nbsp;and&nbsp;<a href=\"mailto:ralph.engel@kit.edu\">ralph.engel@kit.edu</a>. The application should include a cover letter, a current CV including a list of publications, a link to the master’s thesis of the applicant, and two addresses for possible requests of recommendation letters. Applications received by August 24, 2026 will be given full consideration. Applications submitted after this date are considered until the position is filled.</div><div><br></div><div><em>ETP is part of the KIT Centre Elementary Particle and Astroparticle Physics (KCETA, see:&nbsp;</em><a href=\"http://www.kceta.kit.edu/\"><em>http://www.kceta.kit.edu</em></a><em>&nbsp;for further information). The rich research environment in KCETA includes large-scale projects such as the KATRIN experiment at KIT, the XENONnT experiment in LNGS, the Pierre Auger Observatory in Argentina, IceCube at the South Pole, the CMS detector at LHC, and the Belle-II experiment in Japan. Close collaborations exist with strong theoretical physics groups working on astroparticle and particle phenomenology. The Karlsruhe School of Elementary Particle and Astroparticle Physics: Science and Technology (KSETA) provides an excellent training of Ph.D. students. The candidate is required to teach and expected to co-supervise bachelor students. KIT is pursuing the strategic goal of substantially increasing gender balance and diversity of its faculty. As an equal opportunity employer, KIT explicitly encourages applications from women as well as from all others who will bring additional diversity to the university’s research and teaching. Applicants with disabilities will be preferentially considered if suitably qualified.</em></div><div><br></div><div>For more details please contact:&nbsp;</div><div><strong>Dr. Joachim Wolf (</strong><a href=\"mailto:joachim.wolf@kit.edu\"><strong>joachim.wolf@kit.edu</strong></a>) or&nbsp;<strong>Prof. Dr. Ralph Engel (</strong><a href=\"mailto:ralph.engel@kit.edu\"><strong>ralph.engel@kit.edu</strong></a><strong>)</strong></div><div><strong>Karlsruhe Institute of Technology (KIT)</strong></div><div><strong>Institut für Experimentelle Teilchenphysik</strong></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "ET",
+        "KATRIN"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-10T16:58:25.155881+00:00",
+      "updated": "2026-08-10T17:05:47.082555+00:00",
+      "addedAt": "2026-08-11T08:20:24.795Z",
+      "isNew": true
+    },
+    {
       "id": "3188044",
       "title": "Postdoctoral Research Associate in Experimental Nuclear Physics and Accelerator Physics with MOLLER",
       "institution": "Virginia U. (main)",
@@ -10246,6 +10273,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-10T08:31:34.174Z",
-  "totalJobs": 382
+  "lastUpdated": "2026-08-11T08:20:24.796Z",
+  "totalJobs": 383
 }
