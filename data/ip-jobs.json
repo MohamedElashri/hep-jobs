@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3190210",
+      "title": "Postdoctoral Fellow for particle physics research on the CMS experiment",
+      "institution": "PSI, Villigen",
+      "deadline": "2026-09-15",
+      "description": "<div>The Paul Scherrer Institute PSI is the largest research institute for natural and engineering sciences within Switzerland. We perform cutting-edge research in the fields of future technologies, energy and climate, health innovation and fundamentals of nature. By performing fundamental and applied research, we work on sustainable solutions for major challenges facing society, science and economy. PSI is committed to the training of future generations. Therefore, about one quarter of our staff are post-docs, post-graduates or apprentices. Altogether, PSI employs 2300 people.&nbsp;</div><div><br></div><div>The High-Energy Physics Group at PSI is a member of the CMS collaboration at the CERN LHC with leading contributions in detector development, operation and data analysis. The group plays an active role in the upgrade of the CMS detector for the High-Luminosity LHC and is responsible for the design and construction of the Tracker Extended PiXel TEPX system.&nbsp;</div><div><br></div><div>For the High-Energy Physics group of the Laboratory for Particle Physics we are looking for a</div><div><br></div><div><strong>Postdoctoral Fellow for particle physics research on the CMS experiment</strong></div><div><br></div><div><strong>Your tasks</strong></div><div>&nbsp;In close cooperation with scientists, students, and technicians at PSI as well as with collaborating groups you will:&nbsp;</div><div><br></div><div>* Take a leading role in the assembly, testing and qualification of pixel detector modules for the CMS TEPX detector&nbsp;</div><div>* Contribute to the integration of the TEPX detector&nbsp;</div><div>* Contribute to service work within the CMS collaboration&nbsp;</div><div>* Present the results of your work at conferences and in publications</div><div><br></div><div><strong>Your profile</strong></div><div>* You have a PhD degree in experimental particle physics&nbsp;</div><div>* You have demonstrated experience in detector testing and qualification and strong software skills&nbsp;</div><div>* Experience in data-analysis at a particle physics experiment is an asset&nbsp;</div><div>* You have proficient language skills in English and good communication skills&nbsp;</div><div>* You are motivated and independent, strive to contribute with new ideas and like to work in international collaborations</div><div><br></div><div><strong>We offer</strong></div><div>Our institution is based on an interdisciplinary, innovative and dynamic collaboration. You will profit from a systematic training on the job, in addition to personal development possibilities and our pronounced vocational training culture. If you wish to optimally combine work and family life or other personal interests, we are able to support you with our modern employment conditions and the on-site infrastructure.&nbsp;</div><div><br></div><div>Your employment contract is limited to 2 years.</div><div><br></div><div>For further information, please contact Prof. Dr Lea Caminada, phone +41 56 310 52 34.&nbsp;</div><div><br></div><div>Please submit your application online by **15 September 2026** (including list of publications and addresses of referees) for the position as a Postdoctoral Fellow (index no. 3202-28968).</div><div><br></div><div>Paul Scherrer Institut, Human Resources Management, Emily Kulowatz, Forschungsstrasse 111, 5232 Villigen PSI, Switzerland</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.psi.ch/en/hr/job-opportunities/74994-postdoctoral-fellow-for-particle-physics-research-on-the-cms-experiment"
+      ],
+      "contact_email": null,
+      "created": "2026-08-12T14:15:23.816005+00:00",
+      "updated": "2026-08-12T14:59:11.430163+00:00",
+      "addedAt": "2026-08-13T08:29:51.399Z",
+      "isNew": true
+    },
+    {
       "id": "3189558",
       "title": "PhD Position: Light Dark Matter Search with the XENONnT Experiment – ANR LowDM Project",
       "institution": "SUBATECH, Nantes",
@@ -27,7 +54,7 @@
       "created": "2026-08-11T08:22:53.295369+00:00",
       "updated": "2026-08-11T16:23:59.247150+00:00",
       "addedAt": "2026-08-12T08:28:36.840Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3188922",
@@ -10302,6 +10329,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-12T08:28:36.841Z",
-  "totalJobs": 384
+  "lastUpdated": "2026-08-13T08:29:51.400Z",
+  "totalJobs": 385
 }
