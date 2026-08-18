@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3191484",
+      "title": "Assistant Professor",
+      "institution": "Princeton U. (main)",
+      "deadline": "2026-12-01",
+      "description": "<div>The Princeton Quantum Initiative, Department of Computer Science, and Department of Electrical and Computer Engineering at Princeton University seek applications for a tenure-track assistant professor faculty position in quantum information theory and quantum computer science. Candidates in all areas of quantum science and engineering are encouraged to apply, with a special focus on quantum information theory and quantum computer science, including quantum algorithms and applications, quantum computer architecture, quantum error correction, quantum complexity theory, and fundamentals of quantum information theory. Candidates must hold a PhD in engineering, physics, computer science, materials science, or a related technical field. Candidates should have a commitment to teaching and a demonstrated ability to pursue a high impact research program. A start date of September 1, 2027 is preferred.</div><div>&nbsp;</div><div>The University is committed to fostering an academic environment that acknowledges and encourages diversity and differences. We seek faculty members who will create a climate that embraces excellence, with a strong commitment to teaching and mentoring that will enhance the work of the department and that will attract and retain a diverse student body.</div><div>&nbsp;</div><div>Applicant review will begin in December 2026. <strong>Applications will receive full consideration if they are submitted by December 1, 2026 at 11:59 PM</strong>. Applications require: a cover letter, complete curriculum vitae, descriptions of research and teaching interests, and the contact information for four references.</div><div>&nbsp;</div><div>Princeton University is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law. This position is subject to the University's background check policy.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apply.interfolio.com/191224"
+      ],
+      "contact_email": null,
+      "created": "2026-08-17T20:20:06.064836+00:00",
+      "updated": "2026-08-17T20:22:06.934369+00:00",
+      "addedAt": "2026-08-18T08:08:36.664Z",
+      "isNew": true
+    },
+    {
       "id": "3190210",
       "title": "Postdoctoral Fellow for particle physics research on the CMS experiment",
       "institution": "PSI, Villigen",
@@ -10329,6 +10355,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-17T08:12:57.786Z",
-  "totalJobs": 385
+  "lastUpdated": "2026-08-18T08:08:36.665Z",
+  "totalJobs": 386
 }
