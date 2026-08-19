@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3191931",
+      "title": "Neuromorphic Computing in Gravitational Wave Detection",
+      "institution": "Forschungszentrum Julich, ICA (PGI-4)",
+      "deadline": "2026-09-15",
+      "description": "<div>What does the early universe look like? What sound does a black hole collision make? Big questions require big instruments to measure the faintest signals, like the <strong>Einstein Telescope (ET)</strong>. Here, even the smallest disturbances influence the signal quality and an active, low-latency compensation is proposed. Hence, specialized electronics and FPGA-based data processing are essential for active mitigation of Newtonian noise.</div><div>The Peter Grünberg Institute - Integrated Computing Architectures (PGI-4/ICA) is an interdisciplinary research institute developing next-generation computing systems, including integrated circuits and processing architectures that go beyond conventional CMOS-based technologies. Our work focuses on scalable hardware for Quantum Computing and <strong>Neuromorphic Computing</strong>, bridging novel devices with real-world applications.</div><div>In the context of a BMFTR-funded project preparing the Einstein Telescope, we are looking for a <strong>Doctoral Researcher</strong> to develop a neuromorphic computing framework for noise mitigation.</div><div><br></div><div>Your Job</div><div>In addition to completing your PhD degree, your primary objective is to establish a real-time processing architecture that improves gravitational wave detection sensitivity. By utilizing embedded FPGA-based intelligence near seismic sensor arrays, you will explore methods to maximize prediction performance while minimizing data transmission and latency.</div><div><br></div><div>Your key tasks include:</div><ul><li>Evaluating neural network types for efficient hardware implementation</li><li>Developing an FPGA-optimized design</li><li>Performing device-aware training using both simulated and measured datasets</li><li>Validation of the complete sensor-to-processing hardware interface</li><li>Actively collaborating within the project group and with (inter-)national project partners</li><li>Presenting research results at (inter-)national conferences and publishing in peer-reviewed scientific journals</li></ul><div>Your Profile</div><ul><li>Master’s degree in electrical engineering, physics, computer science, or a related field</li><li>Strong academic background in embedded AI and in the design and training of neural networks&nbsp;&nbsp;&nbsp;</li><li>Practical experience in FPGA development or embedded hardware design, including HDL (VHDL/Verilog) or high-level synthesis (HLS) tools</li><li>Proficiency in programming languages (<em>e.g.</em>, Python, C++) for algorithm development, simulation, and data analysis</li><li>Background in real-time signal processing (<em>e.g.</em>, time-series data, filtering, feature extraction)</li><li>Foundational understanding of experimental physics, sensor systems, or noise mitigation strategies in complex measurement environments</li><li>Very good&nbsp;command of written and spoken English with extensive vocabulary is&nbsp;required&nbsp;(at least B2 level according to the&nbsp;<a href=\"https://go.fzj.de/languagerequirements\">CEFR</a>), ideally supported by a certificate confirming the language level.</li></ul><div>We encourage you to apply even if you do not fulfill all listed requirements.</div><div><br></div><div>Our Benefits for You</div><ul><li><strong>Networking &amp; Exchange:</strong> You will participate in (international) conferences and project meetings and actively build your scientific network. In addition, you develop highly sought-after skills in both academia and the high-tech industry</li><li><strong>Knowledge &amp; Development:</strong> Your professional development is important to us – we support you specifically and individually e.g., through training and networking opportunities specifically for doctoral candidates <a href=\"https://go.fzj.de/JuDocs\">(JuDocS)</a></li><li><strong>Research &amp; Infrastructure</strong>: You will have access to excellent scientific and technical facilities for your work</li><li><strong>Work-life balance</strong>: We offer flexible working hours to help you balance your professional and personal life. You also have the option of flexible working (in terms of location), which is generally possible after consultation and in line with upcoming tasks and (on-site) appointments</li><li><strong>Annual Leave</strong>: You get 30 days of annual leave</li><li><strong>Fair remuneration</strong>: Depending on your qualifications and assigned responsibilities, you will be classified according to pay group 13 (75%) of the TVöD-Bund. In addition to the basic salary, there is an additional year-end bonus under the collective pay agreement amounting to 75% of a monthly salary, as well as capital-forming benefits. All information about the TVöD-Bund collective agreement can be found on the <a href=\"https://go.fzj.de/bmi.tvoed\">BMI website</a> (pay scale table on page 74 of the PDF download)</li><li><strong>Perspective</strong>: The position is initially for a fixed term of 3 years but with the prospect of longer-term employment</li><li><strong>Support for international employees</strong>: Our International Advisory Service makes it easier for international employees to get started</li></ul><div>In addition to exciting tasks and a collegial working environment, we offer you much more: <a href=\"https://go.fzj.de/benefits\">https://go.fzj.de/benefits</a></div><div><br></div><div>We welcome applications from people with diverse backgrounds, e.g. in terms of age, gender, disability, sexual orientation / identity, and social, ethnic and religious origin. A diverse and inclusive working environment with equal opportunities in which everyone can realize their potential is important to us.</div><div>The following links provide further information on diversity and equal opportunities: <a href=\"https://go.fzj.de/equality\">https://go.fzj.de/equality</a> and on specific support options for women: <a href=\"https://go.fzj.de/womens-job-journey\">https://go.fzj.de/womens-job-journey</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "physics.ins-det",
+        "cs"
+      ],
+      "experiments": [
+        "ET"
+      ],
+      "urls": [
+        "https://recruiting.fz-juelich.de/jobposting/736d65a3449e1369438f29f6552d350fb474eeab0"
+      ],
+      "contact_email": null,
+      "created": "2026-08-18T17:37:21.037733+00:00",
+      "updated": "2026-08-19T04:28:56.741171+00:00",
+      "addedAt": "2026-08-19T08:09:25.966Z",
+      "isNew": true
+    },
+    {
       "id": "3191484",
       "title": "Assistant Professor",
       "institution": "Princeton U. (main)",
@@ -24,7 +52,7 @@
       "created": "2026-08-17T20:20:06.064836+00:00",
       "updated": "2026-08-17T20:22:06.934369+00:00",
       "addedAt": "2026-08-18T08:08:36.664Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3190210",
@@ -10355,6 +10383,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-18T08:08:36.665Z",
-  "totalJobs": 386
+  "lastUpdated": "2026-08-19T08:09:25.967Z",
+  "totalJobs": 387
 }
