@@ -1,6 +1,138 @@
 {
   "jobs": [
     {
+      "id": "3194199",
+      "title": "Postdoctoral Research Associate on CMS Experiment",
+      "institution": "Texas Tech. U., Lubbock",
+      "deadline": "2026-10-14",
+      "description": "<div>The High Energy Physics (HEP) group at Texas Tech University invites applications for <strong>a postdoctoral research associate position</strong> supporting our research program the Large Hadron Collider (LHC). Working under the mentorship of Professors N. Akchurin, Y. Feng, S-W. Lee, C. Madrid, and I. Volobouev, the successful candidate will have the opportunity to contribute to the <strong>Compact Muon Solenoid (CMS) experiment</strong> at the LHC in multiple capacities. Our group is actively working on analyzing CMS data, maintaining detector operations, developing upgrades for the high-luminosity LHC (HL-LHC), and conducting an extensive R&amp;D program in advanced detector technology.</div><div>The position will be initially funded for two years and is renewable based on performance and funding availability.</div><div><br></div><div><strong>Core Responsibilities:</strong></div><div>Prospective candidate will be expected to work on at least two of the following topics:</div><ul><li><strong>CMS Data Analysis</strong>: Conduct and lead analyses aimed at searches for new physics (e.g., dark sector models) and/or studies of electroweak gauge boson and the Higgs boson.</li><li><strong>HGCAL Construction and Commissioning</strong>: Take part in the assembly, installation, and commissioning of nearly 5,000 silicon sensor modules for the CMS high-granularity endcap calorimeter.</li><li><strong>Future Detector R&amp;D</strong>: Engage in an ambitious research program incorporating fast electronics, precision timing, and embedded AI/ML for the next generation of collider experiments.</li></ul><div><strong>About Us:</strong></div><div>The <strong>Texas Tech University HEP group</strong> is an active research team with significant contributions to the CMS experiment. Our work has been fundamental in the development, construction, and commissioning of the CMS hadronic calorimeters over the last two decades. Now, we have critical responsibilities for the <strong>HL-LHC</strong> upgrade, including the construction of HGCAL modules at our state-of-the-art <strong>Advanced Particle Detector Laboratory (APD-Lab)</strong>.</div><div>In addition to our focus on the CMS experiment, we are committed to <strong>detector R&amp;D</strong> for future colliders, integrating novel electronics, AI/ML methods, and heterogeneous computing solutions. Our research environment benefits from the close collaboration with campus-wide resources such as the <strong>High Performance Computing Center (HPCC)</strong>, as well as partnerships with industry and computer science experts.</div><div><br></div><div><strong>How to Apply:</strong></div><div>Each applicant should submit:</div><ol><li><strong>Curriculum Vitae</strong> (including a list of publications)</li><li><strong>Research Statement</strong> (outlining interests and relevant experience)</li><li><strong>Contact Information for at least three references</strong></li></ol><div>Applications must be submitted online at <a href=\"http://jobs.texastech.edu\"><strong>http://jobs.texastech.edu</strong></a> by selecting the <strong>Staff Positions</strong> for Texas Tech University option and then searching for the <strong>requisition ID 45861BR</strong>. For questions or additional information about the position or application process, please contact Chris Madrid directly at <strong>Chris.Madrid@ttu.edu</strong>.</div><div><strong>Review of applications will start on September 30th, 2026</strong>, and will continue until the positions are filled.</div><div><br></div><div><strong>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, disability, genetic information, or status as a protected veteran.</strong></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25898&siteid=5635&PageType=JobDetails&jobid=921346"
+      ],
+      "contact_email": null,
+      "created": "2026-08-21T21:38:38.772834+00:00",
+      "updated": "2026-08-21T22:20:34.480834+00:00",
+      "addedAt": "2026-08-24T08:14:38.371Z",
+      "isNew": true
+    },
+    {
+      "id": "3193916",
+      "title": "PhD position in nuclear physics with electron scattering",
+      "institution": "Mainz U.",
+      "deadline": "2026-09-15",
+      "description": "<div><strong><em>﻿What is the position?</em></strong></div><div>The <a href=\"https://sfb1660.de/\">Collaborative Research Center (CRC)</a> “Hadrons and Nuclei as Discovery Tools” and the <a href=\"https://www.kernphysik.uni-mainz.de/en/\">Institute for Nuclear Physics (KPH)</a> at Johannes Gutenberg-University Mainz (JGU) invite applications for a PhD position in experimental nuclear physics. The successful applicant will contribute to the newly-established <a href=\"https://sfb1660.de/n04/\">Project N04</a> within the CRC, focused on developing&nbsp;measurements of nuclear dipole resonances with the <a href=\"https://magix.uni-mainz.de/\">MAGIX</a> detector at the forthcoming <a href=\"https://www.mesa.uni-mainz.de/eng/\">MESA</a> facility. There will also be the opportunity to participate in data collection and analysis for experiments at MESA and/or MAMI.</div><div>The position is funded by the CRC with competitive salary and benefits (E13 TV-L at 75%), and will start as soon as possible. If you have a preferred start date, please indicate it in your cover letter.</div><div><br></div><div><strong><em>Why should I apply?</em></strong></div><div>KPH is home to cutting-edge labs and facilities for nuclear and hadronic physics research, including the MAMI and MESA electron accelerators. PhD students in the CRC are part of an Integrated Research Training Group, which offers special graduate lectures, a graduate club and annual graduate school, and travel support. KPH and JGU provide a stimulating environment for study and research, with access to professional development, specialized training, and international collaborations. Come do great science in the beautiful city of Mainz!</div><div><br></div><div><strong><em>Who can apply?</em></strong></div><div>You must hold a Master’s degree in physics by the time of hire, ideally in nuclear or particle physics. Responsibilities will include Monte Carlo simulations, data analysis, and programming (ROOT, C++, Python, GEANT4); previous experience in some/all of these areas is advantageous.&nbsp;</div><div><br></div><div><strong><em>How do I apply?</em></strong></div><div>Send the following documents in a single PDF file to <a href=\"mailto:tkutz@uni-mainz.de\">tkutz@uni-mainz.de</a> with the subject line “CRC1660 N04 PhD”:</div><ul><li>Cover letter, containing a brief description of research experience and interests</li><li>Curriculum Vitae</li><li>Transcript of Master’s courses</li></ul><div>Additionally, you should arrange for <em>two confidential letters of recommendation</em> to be sent directly to the same email address. Only complete applications will be considered. For full consideration, please submit by the end of September 15, 2026.</div><div><br></div><div><a href=\"https://seafile.rlp.net/f/d36655ab7dcc49f98a2f/\">PDF of advertisement</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [
+        "MAGIX",
+        "MESA",
+        "MAMI"
+      ],
+      "urls": [
+        "https://seafile.rlp.net/f/d36655ab7dcc49f98a2f/"
+      ],
+      "contact_email": null,
+      "created": "2026-08-21T08:57:19.790009+00:00",
+      "updated": "2026-08-21T15:52:17.546297+00:00",
+      "addedAt": "2026-08-24T08:14:38.371Z",
+      "isNew": true
+    },
+    {
+      "id": "3193850",
+      "title": "Innovative Technologies for Space Missions and Radiation Detection: 4 PhD scholarships",
+      "institution": "GSSI, Aquila",
+      "deadline": "2026-08-31",
+      "description": "<div>4 PhD scholarships:</div><div>*Optimal Particle identification of Single Site with Underground MKIDs Detectors; funded by the ERC project ERC OPOSSUM</div><div>*Development of an Experimental Microsatellite Platform for Extended In-Situ Space Science Research; co-funded by the Italian National Institute of Health</div><div>*Silicon Underground Radiopure Finder of Alpha Contamination Excesses; funded by the FIS project SURFACE</div><div>*ASI-RadHard: Study of radiation-induced damages on space-based sensors and electronic systems: assessments, mitigations, and qualification strategies; funded by the Italian Space Agency</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://amministrazionetrasparente.gssi.it/page/5/details/27437/call-for-applications-phd-programme-in-innovative-technologies-for-space-missions-and-radiation-detection-ay-20262027-cohort-xlii.html"
+      ],
+      "contact_email": null,
+      "created": "2026-08-21T07:29:28.037310+00:00",
+      "updated": "2026-08-21T15:45:10.413689+00:00",
+      "addedAt": "2026-08-24T08:14:38.371Z",
+      "isNew": true
+    },
+    {
+      "id": "3193899",
+      "title": "PhD student position: WOM and SiPM technology for liquid scintillator detectors",
+      "institution": "Humboldt U., Berlin (main)",
+      "deadline": "2026-09-16",
+      "description": "<div>Faculty of Mathematics and Natural Sciences – Department of Physics&nbsp;</div><div>Research fellow (m/f/d) in the field of WOM and SiPM technology for liquid&nbsp;scintillator detectors with expected 67 % part-time employment - E 13 TV-L HU (thirdparty funding limited to 3 years)&nbsp;</div><div>&nbsp;</div><div>Founded in 1810, Humboldt-Universität zu Berlin is one of Germany's leading&nbsp;universities. As a comprehensive university with over 36,000 students, it combines&nbsp;research excellence with innovative support for young talents. Their international&nbsp;networks, interdisciplinary research collaborations, and progressive teaching concepts&nbsp;shape Berlin as a center of science. The Humboldt-Universität zu Berlin holds the status&nbsp;of a university of excellence.&nbsp;</div><div>&nbsp;</div><div><strong>Your responsibilities:&nbsp;</strong></div><div>- scientific service in research in a DFG-funded research project focused on&nbsp;advancing WOM and SiPM</div><div>technology for liquid scintillator detectors, e. g. as&nbsp;deployed in the SHiP Surrounding Background Tagger&nbsp;</div><div>- research and development with an emphasis on improving spatial resolution and&nbsp;exploring alternative</div><div>wavelength-shifting materials to enhance detector&nbsp;performance&nbsp;</div><div>- work on detector hardware, simulations, and data analysis&nbsp;</div><div>- publication of research results in scientific journals and their presentation at&nbsp;national and international</div><div>conferences and workshops&nbsp;</div><div>- tasks for personal scientific qualification (doctorate/PhD)&nbsp;</div><div>&nbsp;</div><div><strong>Your qualifications:&nbsp;</strong></div><div>- completed scientific university education in physics with specialization in&nbsp;experimental particle, astro-</div><div>particle, or nuclear physics&nbsp;</div><div>- knowledge in using Linux operating systems and of C++ and Python&nbsp;</div><div>- proficiency in spoken and written English (at least C1 level)&nbsp;</div><div>- readiness for duty travels to CERN and DESY for setting up and operating of&nbsp;testbeam measurements&nbsp;</div><div>- ability to work in teams and communication skills&nbsp;</div><div>&nbsp;</div><div><strong>What would be desirable:&nbsp;</strong></div><div>- experience with scintillation detectors, SiPMs, electronics, data acquisition and&nbsp;data analysis&nbsp;</div><div>&nbsp;</div><div><strong>What we offer:&nbsp;</strong></div><div>- a modern work environment&nbsp;</div><div>- a pay scale classification (TV-L)&nbsp;</div><div>- high responsibility in different working fields&nbsp;</div><div>- structured orientation and onboarding&nbsp;</div><div>- flexible working hours (flexitime)&nbsp;</div><div>- excellent opportunities for further training&nbsp;</div><div>&nbsp;</div><div>As a family-friendly university, we promote the compatibility of work and family life.&nbsp;</div><div>&nbsp;</div><div><strong>Your path to the HU:&nbsp;</strong></div><div>Please send your complete application within 4 weeks, referencing the job ID&nbsp;DR/144/26 to Humboldt-Universität zu Berlin, Faculty of Mathematics and Natural&nbsp;Sciences, Department of Physics, Prof. Dr. Heiko Lacker (located: Newtonstraße 15,&nbsp;12489 Berlin), Unter den Linden 6, 10099 Berlin or preferably in electronic form as a&nbsp;single PDF file to <a href=\"mailto:lacker@physik.hu-berlin.de\">lacker@physik.hu-berlin.de</a>.&nbsp;</div><div>&nbsp;</div><div><strong>Required application documents:&nbsp;</strong></div><div>- letter of motivation&nbsp;</div><div>- tabular curriculum vitae&nbsp;</div><div>- proof of the required qualification (certificates, diplomas, continuing education&nbsp;certificates)&nbsp;</div><div>- Independent mailing of reference letters by two referees&nbsp;</div><div>&nbsp;</div><div>If you have further questions about the job posting or the scope of duties, please do not&nbsp;</div><div>hesitate to contact Prof. Dr. Heiko Lacker (<a href=\"mailto:lacker@physik.hu-berlin.de\">lacker@physik.hu-berlin.de</a>).&nbsp;</div><div>&nbsp;</div><div>The position is scheduled to be filled on October 1, 2026.&nbsp;</div><div>&nbsp;</div><div>The Humboldt-Universität zu Berlin is seeking to increase the proportion of women in&nbsp;research and teaching, and specifically encourages qualified female scholars to apply.&nbsp;</div><div>Severely disabled applicants with equivalent qualifications will be given preferential&nbsp;consideration.</div><div>People with an immigration history are specifically encouraged to apply.&nbsp;</div><div>Since we will not return your documents, please submit copies in the application only.&nbsp;</div><div>&nbsp;</div><div>The Humboldt-Universität zu Berlin is bound by collective agreements and applies the&nbsp;TV-L HU. Information on pay grading and the annual salary scale can be found here:&nbsp;https://hu.berlin/ETRL.&nbsp;</div><div>&nbsp;</div><div>Information pursuant to Art. 12, 13 DSGVO on the processing of personal data at&nbsp;Humboldt-Universität zu Berlin within the framework of job advertisements can be found&nbsp;on our website: https://hu.berlin/DSGVO.&nbsp;</div><div>&nbsp;</div><div>Please visit our website which gives you access to the legally binding German version: <a href=\"https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-auf-dem-gebiet-wom-und-sipm-technologie-fuer-fluessigszintillatordetektoren-dr-144-26\">https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-auf-dem-gebiet-wom-und-sipm-technologie-fuer-fluessigszintillatordetektoren-dr-144-26</a>&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-21T08:10:57.877807+00:00",
+      "updated": "2026-08-21T15:41:10.642317+00:00",
+      "addedAt": "2026-08-24T08:14:38.371Z",
+      "isNew": true
+    },
+    {
+      "id": "3193428",
+      "title": "Postdoctoral Research Associate (Stationed at Jefferson Lab)",
+      "institution": "Mississippi State U.",
+      "deadline": "2026-09-30",
+      "description": "<div>The Medium Energy Physics group at Mississippi State University invites applications for a Postdoctoral Research Associate position. The group has research interests that include studies of nucleon structure and QCD dynamics in nuclei at Jefferson Lab and Fermilab, such as the precision measurement of color propagation and fragmentation processes, the study of color transparency phenomenon, and the partonic structure of bound nucleons. Additionally, the group is interested in studying sea quarks distributions, the EMC effect, and the parton energy loss with the polarized and unpolarized Drell-Yan experiment at Fermilab.</div><div><br></div><div>We are looking for candidates who will be stationed at Jefferson Lab and will lead our efforts on ongoing CLAS12 nuclear-target data analyses for past and forthcoming experiments, such as color transparency and nuclear TMDs (Run Group D), color propagation (RG-E), and tagged EMC effects using a Low Energy Recoil Tracker (ALERT or RG-L) datasets. Additionally, the candidate will be required to contribute to the CLAS12 and ALERT service work projects. The successful candidate will be encouraged to actively participate in developing new experimental proposals at Jefferson Lab.</div><div><br></div><div>A Ph.D. in experimental nuclear or particle physics or related fields is required, along with proficiency in programming and data analysis concepts. Preferences will be given to candidates with knowledge or interest in AI techniques.</div><div><br></div><div>Candidates must apply online at <a href=\"http://explore.msujobs.msstate.edu/\">http://explore.msujobs.msstate.edu/</a>(JOB #: 511147) and include a curriculum vitae or resume, a brief statement describing research interests as well as work experiences, and at least two reference letters should be sent electronically to Dr. Lamiaa El Fassi (<a href=\"mailto:le334@msstate.edu\">le334@msstate.edu</a>).</div><div><br></div><div>Screening of applications will begin immediately and continue until the position is filled—applications received by mid. of September 2026 will receive full consideration.</div><div><br></div><div>MSU is an equal-opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, ethnicity, sex, religion, national origin, disability, age, sexual orientation, genetic information, pregnancy, gender identity, status as a U.S. veteran, and/or any other status protected by applicable law. We always welcome nominations and applications from women, members of any minority group, and others who share our passion for building a diverse community that reflects the diversity in our student population.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://explore.msujobs.msstate.edu/jobs/postdoctoral-associate-newport-news-va-virginia-united-states-188572e9-8de9-44d9-8b41-175b01e99c64"
+      ],
+      "contact_email": null,
+      "created": "2026-08-20T19:52:32.031408+00:00",
+      "updated": "2026-08-21T15:34:25.652520+00:00",
+      "addedAt": "2026-08-24T08:14:38.371Z",
+      "isNew": true
+    },
+    {
       "id": "3191931",
       "title": "Neuromorphic Computing in Gravitational Wave Detection",
       "institution": "Forschungszentrum Julich, ICA (PGI-4)",
@@ -10383,6 +10515,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-21T08:11:55.178Z",
-  "totalJobs": 387
+  "lastUpdated": "2026-08-24T08:14:38.372Z",
+  "totalJobs": 392
 }
