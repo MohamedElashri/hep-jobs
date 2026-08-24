@@ -1,6 +1,7 @@
 class JobsApp {
     constructor() {
-        this.currentSource = localStorage.getItem('currentSource') || 'all';
+        const savedSource = localStorage.getItem('currentSource') || 'all';
+        this.currentSource = ['all', 'inspirehep', 'ajo'].includes(savedSource) ? savedSource : 'all';
         this.currentFilter = localStorage.getItem('jobsFilter') || 'active';
         this.currentView = localStorage.getItem('jobsView') || 'cards';
         this.currentSort = localStorage.getItem('jobsSort') || 'deadline';
@@ -24,7 +25,6 @@ class JobsApp {
         this.allView = document.getElementById('all-view');
         this.inspirehepView = document.getElementById('inspirehep-view');
         this.ajoView = document.getElementById('ajo-view');
-        this.desyView = document.getElementById('desy-view');
         this.activeContainer = null;
         this.allJobs = [];
 
@@ -81,7 +81,6 @@ class JobsApp {
         this.allView.classList.toggle('active', source === 'all');
         this.inspirehepView.classList.toggle('active', source === 'inspirehep');
         this.ajoView.classList.toggle('active', source === 'ajo');
-        this.desyView.classList.toggle('active', source === 'desy');
 
         document.getElementById('rankFilters').style.display = source === 'inspirehep' ? 'block' : 'none';
 
@@ -98,10 +97,13 @@ class JobsApp {
     }
 
     getContainerForSource(source) {
-        if (source === 'all') return document.getElementById('jobsContainerAll');
-        if (source === 'inspirehep') return document.getElementById('jobsContainerInspireHEP');
-        if (source === 'ajo') return document.getElementById('jobsContainerAJO');
-        return document.getElementById('jobsContainerDESY');
+        const containers = {
+            all: document.getElementById('jobsContainerAll'),
+            inspirehep: document.getElementById('jobsContainerInspireHEP'),
+            ajo: document.getElementById('jobsContainerAJO')
+        };
+
+        return containers[source] || containers.all;
     }
 
     syncControls() {
@@ -131,8 +133,7 @@ class JobsApp {
         const allContainer = document.getElementById('jobsContainerAll');
         const sourceContainers = [
             document.getElementById('jobsContainerInspireHEP'),
-            document.getElementById('jobsContainerAJO'),
-            document.getElementById('jobsContainerDESY')
+            document.getElementById('jobsContainerAJO')
         ];
 
         allContainer.innerHTML = '';
@@ -178,13 +179,11 @@ class JobsApp {
         metaHTML += `<div><strong>Source:</strong> ${jobData.source || 'InspireHEP'}</div>`;
         metaHTML += `<div><strong>Deadline:</strong> <span class="${jobData.isExpired ? 'expired-text' : ''}">${jobData.deadline}</span></div>`;
 
-        const isDESY = jobData.source === 'DESY';
-
-        if (!isDESY && jobData.regions && jobData.regions.length > 0) {
+        if (jobData.regions && jobData.regions.length > 0) {
             metaHTML += `<div><strong>Regions:</strong> ${jobData.regions.join(', ')}</div>`;
         }
 
-        if (!isDESY && jobData.ranks && jobData.ranks.length > 0) {
+        if (jobData.ranks && jobData.ranks.length > 0) {
             metaHTML += `<div><strong>Ranks:</strong> ${jobData.ranks.join(', ')}</div>`;
         }
 
@@ -200,8 +199,7 @@ class JobsApp {
         let actionsHTML = '';
 
         if (jobData.jobUrl) {
-            const linkText = jobData.source === 'DESY' ? 'View on DESY' :
-                           jobData.source === 'AcademicJobsOnline' ? 'View on AJO' :
+            const linkText = jobData.source === 'AcademicJobsOnline' ? 'View on AJO' :
                            'View on InspireHEP';
             actionsHTML += `<a href="${jobData.jobUrl}" target="_blank" class="btn-apply">${linkText}</a>`;
         } else if (jobData.urls && jobData.urls.length > 0) {
@@ -533,8 +531,7 @@ class JobsApp {
         const labels = {
             all: 'All Jobs',
             inspirehep: 'InspireHEP',
-            ajo: 'AcademicJobsOnline',
-            desy: 'DESY'
+            ajo: 'AcademicJobsOnline'
         };
 
         return labels[source] || source || 'Unknown source';

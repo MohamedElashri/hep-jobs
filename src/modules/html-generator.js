@@ -110,13 +110,12 @@ class HTMLGenerator {
     
     // Determine job URL based on source
     const isAJO = job.source === 'AcademicJobsOnline';
-    const isDESY = job.source === 'DESY';
-    const jobUrl = isAJO || isDESY
+    const jobUrl = isAJO
       ? (urls[0] ? urls[0] : '#')
       : `https://inspirehep.net/jobs/${job.id}`;
-    const jobLinkText = isAJO ? 'View on AJO' : (isDESY ? 'View on DESY' : 'View on InspireHEP');
+    const jobLinkText = isAJO ? 'View on AJO' : 'View on InspireHEP';
     const sourceName = job.source || 'InspireHEP';
-    const sourceKey = isAJO ? 'ajo' : (isDESY ? 'desy' : 'inspirehep');
+    const sourceKey = isAJO ? 'ajo' : 'inspirehep';
     
     const ranksData = ranks.map(rank => rank.toUpperCase()).join(',');
     
@@ -157,7 +156,7 @@ class HTMLGenerator {
             <strong>Deadline:</strong> ${deadline}
           </div>
           ${
-            !isDESY && regions.length > 0
+            regions.length > 0
               ? `
             <div class="regions">
               <strong>Regions:</strong> ${regions.join(", ")}
@@ -165,7 +164,7 @@ class HTMLGenerator {
               : ""
           }
           ${
-            !isDESY && ranks.length > 0
+            ranks.length > 0
               ? `
             <div class="ranks">
               <strong>Ranks:</strong> ${ranks.join(", ")}
@@ -207,7 +206,7 @@ class HTMLGenerator {
           }
           <a href="${jobUrl}" target="_blank" class="btn-apply">${jobLinkText}</a>
           ${
-            job.contact_email && !isAJO && !isDESY
+            job.contact_email && !isAJO
               ? `
             <a href="mailto:${job.contact_email}" class="btn-contact">Contact</a>`
               : ""
@@ -226,7 +225,7 @@ class HTMLGenerator {
     }
   }
 
-  generateHTML(inspirehepData, ajoData, desyData = null) {
+  generateHTML(inspirehepData, ajoData) {
     // Process InspireHEP jobs
     const inspirehepJobs = inspirehepData.jobs || [];
     // Sort by updated date (newest first) and separate active/expired
@@ -264,26 +263,8 @@ class HTMLGenerator {
         <p>Check back later for new opportunities!</p>
       </div>` : "";
 
-    // Process DESY jobs
-    const desyJobs = desyData ? (desyData.jobs || []) : [];
-    const desyActiveJobs = desyJobs
-      .filter((job) => !this.isExpired(job.deadline))
-      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
-    const desyExpiredJobs = desyJobs
-      .filter((job) => this.isExpired(job.deadline))
-      .sort((a, b) => new Date(b.updated) - new Date(a.updated));
-    const desyJobCards = [
-      ...desyActiveJobs.map((job) => this.generateJobCard(job)),
-      ...desyExpiredJobs.map((job) => this.generateJobCard(job))
-    ].join("");
-    const desyNoJobsMessage = desyJobs.length === 0 ? `
-      <div class="no-jobs">
-        <h2>No jobs found</h2>
-        <p>Check back later for new opportunities!</p>
-      </div>` : "";
-
-    const totalJobs = inspirehepJobs.length + ajoJobs.length + desyJobs.length;
-    const activeJobs = inspirehepActiveJobs.length + ajoActiveJobs.length + desyActiveJobs.length;
+    const totalJobs = inspirehepJobs.length + ajoJobs.length;
+    const activeJobs = inspirehepActiveJobs.length + ajoActiveJobs.length;
 
     // Load and process template
     const template = this.loadTemplate('index.html');
@@ -309,8 +290,6 @@ class HTMLGenerator {
       .replace(/\{\{inspirehepNoJobsMessage\}\}/g, inspirehepNoJobsMessage)
       .replace(/\{\{ajoJobCards\}\}/g, ajoJobCards)
       .replace(/\{\{ajoNoJobsMessage\}\}/g, ajoNoJobsMessage)
-      .replace(/\{\{desyJobCards\}\}/g, desyJobCards)
-      .replace(/\{\{desyNoJobsMessage\}\}/g, desyNoJobsMessage)
       .replace(/<%=\s*new Date\(\)\.getFullYear\(\)\s*%>/g, new Date().getFullYear());
   }
 }

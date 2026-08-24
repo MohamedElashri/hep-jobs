@@ -37,13 +37,13 @@ jobs:
 
       - name: Checkout repository
         if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # sanad: ref=v7.0.1
         with:
           fetch-depth: 0
 
       - name: Setup Node.js
         if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # sanad: ref=v7.0.0
         with:
           node-version: '18'
 
@@ -55,29 +55,29 @@ jobs:
 
       - name: Setup GitHub Pages
         if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # sanad: ref=v6.0.0
 
       - name: Upload to GitHub Pages
         if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # sanad: ref=v5.0.0
         with:
           path: './site'
 
       - name: Deploy to GitHub Pages
         if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # sanad: ref=v5.0.0
 
       - name: Commit updated data
         if: steps.check-day.outputs.is_weekend == 'false' || github.event_name != 'schedule'
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/ip-jobs.json data/ajo-jobs.json data/desy-jobs.json
+          git add data/ip-jobs.json data/ajo-jobs.json
           if git diff --staged --quiet; then
             echo "📊 No new jobs found"
           else
-            git commit -m "🔄 Update jobs data (InspireHEP + AJO + DESY) - $(date '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "🔄 Update jobs data (InspireHEP + AJO) - $(date '+%Y-%m-%d %H:%M UTC')"
             git push
             echo "✅ Updated jobs database"
           fi

@@ -163,7 +163,6 @@
                     <a href="#" class="nav-link active" data-source="all">All Jobs</a>
                     <a href="#" class="nav-link" data-source="inspirehep">InspireHEP</a>
                     <a href="#" class="nav-link" data-source="ajo">AcademicJobsOnline</a>
-                    <a href="#" class="nav-link" data-source="desy">DESY</a>
                 </nav>
                 <div class="last-updated">
                     <span class="update-icon">🔄</span>
@@ -254,18 +253,11 @@
             {{ajoNoJobsMessage}}
         </div>
 
-        <!-- DESY Jobs View -->
-        <div id="desy-view" class="source-view">
-            <div class="jobs-container" id="jobsContainerDESY">
-                {{desyJobCards}}
-            </div>
-            {{desyNoJobsMessage}}
-        </div>
     </main>
 
     <footer class="footer">
         <div class="container">
-            <p>Data sourced from <a href="https://inspirehep.net" target="_blank">InspireHEP</a>, <a href="https://academicjobsonline.org" target="_blank">AcademicJobsOnline</a> & <a href="https://www.desy.de" target="_blank">DESY</a> • Updated daily</p>
+            <p>Data sourced from <a href="https://inspirehep.net" target="_blank">InspireHEP</a> and <a href="https://academicjobsonline.org" target="_blank">AcademicJobsOnline</a> • Updated daily</p>
             <p>&copy; <%= new Date().getFullYear() %> <a href="https://melashri.net" target="_blank">Mohamed Elashri</a></p>
         </div>
     </footer>

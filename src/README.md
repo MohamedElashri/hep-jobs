@@ -9,6 +9,7 @@ src/
 ├── build.js                 # Main build orchestrator
 ├── modules/                 # Core functionality modules
 │   ├── data-fetcher.js     # API fetching and data processing
+│   ├── rss-fetcher.js      # AcademicJobsOnline RSS fetching
 │   ├── data-manager.js     # Data storage and merging logic
 │   ├── html-generator.js   # HTML template processing
 │   └── file-manager.js     # File operations and asset copying
@@ -33,6 +34,7 @@ src/
 - Merges new jobs with existing data
 - Saves updated job data to storage
 - Handles deduplication and sorting
+- Excludes direct DESY postings from fetched and cached data
 
 ### HTMLGenerator (`src/modules/html-generator.js`)
 - Loads HTML templates
@@ -73,7 +75,7 @@ Both commands generate the same output in the `docs/` directory.
 2. **Test API**: Check InspireHEP API connectivity
 3. **Fetch Data**: Get new jobs from InspireHEP API
 4. **Merge Data**: Combine new jobs with existing data
-5. **Save Data**: Store updated job data to JSON file
+5. **Save Data**: Store updated non-DESY job data to JSON files
 6. **Generate HTML**: Process templates and create final HTML
 7. **Copy Assets**: Copy CSS and JavaScript files to output directory
 
@@ -132,7 +134,6 @@ this.config = {
   docsDir: "./site",
   jobsFile: "./data/ip-jobs.json",
   ajoJobsFile: "./data/ajo-jobs.json",
-  desyJobsFile: "./data/desy-jobs.json",
   maxJobs: 200,
   daysBack: 30,
 };

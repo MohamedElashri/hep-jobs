@@ -28,6 +28,13 @@ class DataManager {
     return { jobs: [], lastUpdated: null, totalJobs: 0 };
   }
 
+  isDESYJob(job) {
+    if (job.source === 'DESY') return true;
+
+    const institution = job.institution || '';
+    return /\bDESY\b|Deutsches Elektronen-Synchrotron/i.test(institution);
+  }
+
   mergeJobs(newJobs, existingData, options = {}) {
     const existingJobs = existingData.jobs || [];
     const currentTimestamp = new Date().toISOString();
@@ -47,11 +54,23 @@ class DataManager {
         return !hasTheoryCategory;
       });
     }
+
+    let filteredNewJobs = newJobs;
+    if (options.excludeDESYJobs) {
+      const beforeFilter = filteredExistingJobs.length + filteredNewJobs.length;
+      filteredExistingJobs = filteredExistingJobs.filter((job) => !this.isDESYJob(job));
+      filteredNewJobs = filteredNewJobs.filter((job) => !this.isDESYJob(job));
+      const removed = beforeFilter - filteredExistingJobs.length - filteredNewJobs.length;
+
+      if (removed > 0) {
+        this.log(`Filtered out ${removed} DESY job${removed === 1 ? '' : 's'}`);
+      }
+    }
     
     const existingIds = new Set(filteredExistingJobs.map((job) => job.id));
 
     // Add new jobs that don't exist, marking them with addedAt timestamp
-    const uniqueNewJobs = newJobs.filter((job) => !existingIds.has(job.id)).map((job) => ({
+    const uniqueNewJobs = filteredNewJobs.filter((job) => !existingIds.has(job.id)).map((job) => ({
       ...job,
       addedAt: currentTimestamp,
       isNew: true
