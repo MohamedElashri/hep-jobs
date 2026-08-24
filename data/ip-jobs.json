@@ -25,7 +25,7 @@
       "created": "2026-08-21T21:38:38.772834+00:00",
       "updated": "2026-08-21T22:20:34.480834+00:00",
       "addedAt": "2026-08-24T08:14:38.371Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3193916",
@@ -54,7 +54,7 @@
       "created": "2026-08-21T08:57:19.790009+00:00",
       "updated": "2026-08-21T15:52:17.546297+00:00",
       "addedAt": "2026-08-24T08:14:38.371Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3193850",
@@ -80,7 +80,7 @@
       "created": "2026-08-21T07:29:28.037310+00:00",
       "updated": "2026-08-21T15:45:10.413689+00:00",
       "addedAt": "2026-08-24T08:14:38.371Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3193899",
@@ -103,7 +103,7 @@
       "created": "2026-08-21T08:10:57.877807+00:00",
       "updated": "2026-08-21T15:41:10.642317+00:00",
       "addedAt": "2026-08-24T08:14:38.371Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3193428",
@@ -130,7 +130,7 @@
       "created": "2026-08-20T19:52:32.031408+00:00",
       "updated": "2026-08-21T15:34:25.652520+00:00",
       "addedAt": "2026-08-24T08:14:38.371Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3191931",
@@ -1304,33 +1304,6 @@
       "contact_email": null,
       "created": "2026-07-08T14:13:08.123301+00:00",
       "updated": "2026-07-08T15:21:09.968468+00:00",
-      "addedAt": "2026-07-09T09:15:09.609Z",
-      "isNew": false
-    },
-    {
-      "id": "3178269",
-      "title": "Postdoctoral researcher positions on the CMS experiment at DESY",
-      "institution": "DESY",
-      "deadline": "2026-07-23",
-      "description": "<div>The CMS DESY group is based in Hamburg and is one of the largest groups worldwide participating in the CMS Experiment at CERN. One of the many topics examined in our group is the search for particles being produced by new physics in association with top quarks. In the context of the group of Prof. F. Blekman and Dr. A. Hinzmann, we focus on the search for BSM particle decays into difficult-to-select objects, making use of the presence of top quark pair production and heavy boson production, focusing on BSM particles decaying to jets or leptons that may or may not be displaced, can be highly Lorentz-boosted and can be produced together with top quarks. Besides physics analysis, the group is also involved in the construction of the Tracker and High-Granularity Calorimeter for the Phase-2 upgrade, luminosity measurements, the alignment of the Tracker and other calibration activities, as well as algorithmic work and shifts for the detector operation.</div><div><br></div><div>The DESY CMS group is seeking to hire two postdocs to strengthen the team. The broad physics topics are direct searches for new physics in ttbar+BSM particle or diboson signatures, respectively. Successful candidates will have the opportunity to work in one of the most active groups in the CMS collaboration, work on instrumentation, and will have the opportunity to contribute to future collider studies and/or science communication.</div><div><br></div><div>About your role:</div><ul><li>Analysis of CMS Run 3 data and preparation for with a focus on the search new particles in final states with Lorentz-boosted hadronic top/H/W/Z boson decays</li><li>Selection and training of suitable algorithms, for event reconstruction and classification, including potentially machine learning/AI</li><li>Interpretation in suitable theoretical models</li><li>Contribution to software activities that are required for wider use by DESY and/or CMS</li><li>Contributions to future publications</li><li>Contribution to a technical project</li><li>Contributions to instrumentation, data taking or other similar activities (e.g. shifts)</li><li>Co-supervision of PhD students, undergraduate students and/or summer students on closely related topics</li><li>The position is aimed to be based in Hamburg, with occasional travel to CERN</li><li>Presentations at international workshops and conferences</li></ul><div>About you:</div><ul><li>Doctoral degree in experimental particle physics (or proof that a phd will be obtained before the end of 2026)</li><li>Experience in both data analysis and particle physics instrumentation.</li><li>Experience in AI/machine learning is a plus.</li><li>Strong software skills in software packages used in experimental particle physics (ROOT, C++, Python, Git)</li><li>Good teamwork and communication skills</li><li>Good English language skills</li><li>Committed to active participation to life at the lab</li><li>Ability and readiness to intermittently travel to CERN</li></ul>",
-      "regions": [
-        "Europe"
-      ],
-      "ranks": [
-        "POSTDOC"
-      ],
-      "arxiv_categories": [
-        "hep-ex"
-      ],
-      "experiments": [
-        "CERN-LHC-CMS"
-      ],
-      "urls": [
-        "https://v22.desy.de/e67416/records317045/index_eng.html"
-      ],
-      "contact_email": null,
-      "created": "2026-07-08T11:39:25.418257+00:00",
-      "updated": "2026-07-08T15:19:28.624465+00:00",
       "addedAt": "2026-07-09T09:15:09.609Z",
       "isNew": false
     },
@@ -10433,6 +10406,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-24T08:14:38.372Z",
-  "totalJobs": 392
+  "lastUpdated": "2026-08-24T11:29:36.155Z",
+  "totalJobs": 388
 }
