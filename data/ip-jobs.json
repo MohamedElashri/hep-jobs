@@ -1,6 +1,142 @@
 {
   "jobs": [
     {
+      "id": "3194864",
+      "title": "PhD position (m/f/d) in Experimental Particle Physics (ATLAS)",
+      "institution": "Bergische U., Wuppertal (main)",
+      "deadline": "2026-09-21",
+      "description": "<div>The experimental particle physics group at Wuppertal is strongly engaged in the data analysis and the upgrade and operation of the ATLAS detector at the Large Hadron Collider (LHC) at CERN. The new position is dedicated to data analysis either in the area of searches for physics beyond the standard model using top quarks or in the area of precision measurements of W(Z)-bosons. Contributions to our responsibilities for the ATLAS MC Validation Framework PAVER are expected as well as data quality shifts for the new ATLAS pixel detector presently under construction. The PhD student will have the opportunity for an extended stay at CERN.</div><div><br></div><div><strong>Professional and personal requirements:&nbsp;</strong></div><ul><li>Above-average university degree in physics (Master's degree of Science or equivalent), either already completed or expected to be completed very soon</li><li>Experience in experimental elementary particle physics or related fields of research (nuclear, hadron or astroparticle physics), through a thesis in these areas; a thesis in the area of one of the LHC experiments would be an advantage</li><li>Experience in the analysis of experimental or simulated data, or phenomenological studies</li><li>Programming skills in C++ or Python</li><li>Good knowledge of English</li></ul><div>The position is subject to the German labour law concerning non-permanent contracts in science (German: Wissenschaftszeitvertragsgesetzes [WissZeitVG]), supporting candidates aiming for graduation as Ph.D. (Dr. rerum naturalium). The contract is limited until graduation (66 % part-time employment - E 13 TV-L), initially for three years. An extension to complete the Ph.D. is possible within the legal boundaries of the WissZeitVG.</div><div><br></div><div>Applications including all relevant credentials (motivation letter, CV, proof of successful graduation if already available, job references, and if applicable, evidence of a severe disability as a PDF file) should be solely submitted via the online portal of the University of Wuppertal: <a href=\"https://stellenausschreibungen.uni-wuppertal.de/\">https://stellenausschreibungen.uni-wuppertal.de</a> under the Job-ID 26264. Kindly note that incomplete applications will not be considered.</div><div><br></div><div>The University of Wuppertal is an equal opportunity employer. Applications from persons of any gender and persons with disabilities as well as persons with an equivalent status are highly welcome. In accordance with the Gender Equality Act of North Rhine-Westphalia, women will be given preferential consideration unless there are compelling reasons in favour of an applicant who is not female. The same applies to applications from disabled persons, who will be given preference in the case of equal suitability.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://stellenausschreibungen.uni-wuppertal.de"
+      ],
+      "contact_email": null,
+      "created": "2026-08-24T09:36:22.485678+00:00",
+      "updated": "2026-08-26T00:38:05.704130+00:00",
+      "addedAt": "2026-08-26T08:13:41.431Z",
+      "isNew": true
+    },
+    {
+      "id": "3195081",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Texas U., Arlington",
+      "deadline": "2026-12-01",
+      "description": "<div>The Physics Department in the College of Science, at the University of Texas at Arlington, invites applications for a Postdoctoral Research Associate. The successful candidate will work with faculty in the UTA High Energy Physics group on the development of novel detector technologies and instrumentation concepts for future particle physics experiments. Research areas may include new and emerging quantum sensors based on nitrogen-vacancy centers, development of novel readout electronics and readout systems, and exploratory detector concepts that advance blue-sky instrumentation R&amp;D for high energy physics. The position will provide opportunities to contribute to detector design, laboratory measurements, data analysis, prototype development, publications, and proposal development, while working collaboratively with faculty, students, and external research partners.&nbsp;</div><div>&nbsp;</div><div>In accordance with USCIS regulations, successful applicants must be legally able to accept work in the United States. We are unable to sponsor or take over sponsorship of an employment Visa at this time.</div><div><br></div><div>More information about the job can be found here: <a href=\"https://uta.peopleadmin.com/postings/34650\">https://uta.peopleadmin.com/postings/34650</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://uta.peopleadmin.com/postings/34650"
+      ],
+      "contact_email": null,
+      "created": "2026-08-24T15:45:32.306431+00:00",
+      "updated": "2026-08-25T16:41:23.637051+00:00",
+      "addedAt": "2026-08-26T08:13:41.431Z",
+      "isNew": true
+    },
+    {
+      "id": "3194860",
+      "title": "Project 8 - Atomic Hydrogen Beam Development",
+      "institution": "Mainz U.",
+      "deadline": "2026-09-25",
+      "description": "<div>To strengthen its neutrino research program, the Johannes Gutenberg University Mainz invites applications for</div><div><br></div><div><strong>1 postdoctoral position (EG13 TV-L)</strong></div><div>&nbsp;</div><div>to work on next-generation neutrino mass experiments with the Project 8 (<a href=\"https://www.project8.org/\">https://www.project8.org/</a>) and KATRIN (<a href=\"https://www.katrin.kit.edu/\">https://www.katrin.kit.edu/</a>) collaborations. The position is initially term-limited to three years.</div><div>&nbsp;</div><div>In order to reach a neutrino mass sensitivity beyond the inverted mass ordering, any next-generation experiment requires an ensemble of spin-polarized and ultra-cold tritium atoms confined in a magnetic field gradient bottle as a high-brilliance source of decay electrons. To investigate the suitability of commercially available hydrogen crackers, a test stand was commissioned at Johannes Gutenberg University Mainz to perform measurements regarding cracking efficiency, beam temperature, and angular distribution. This setup is used to explore the operational limits of commercial atomic hydrogen sources and serves as the prototype test bed for a setup compatible with tritium operation. Investigation of accommodation and cooling of hydrogen and tritium atoms is investigated in collaboration with the Tritium Laboratory Karlsruhe, Germany’s premier tritium handling infrastructure.</div><div>&nbsp;</div><div>The postdoctoral scholar will research the widely unexplored, tritium-specific scattering cross sections of tritium atoms and their interaction with cold surfaces. They will investigate the implementation of resonance-enhanced multi-photon ionization (REMPI) in the cold tritium beam as a contactless, in-vacuum, and in-situ beam number density and distribution measurement method.</div><div>&nbsp;</div><div>The ideal candidate will have strong and demonstrated experimental experience, either with the generation and cooling of high-flux pulsed atomic or molecular hydrogen beams, or with precision UV-spectroscopy of light hydrogen-like species (muonium, positronium, ...). In addition to the local atomic hydrogen and collaborative tritium efforts, the local groups of Prof. Fertl and Prof. Böser have long-standing experience in the fields of precision magnetometry and sensitivity studies of experimental designs. Embedded within the stimulating environment of the PRISMA++ Cluster of Excellence, outstanding working conditions are provided including e.g. access to a detector development laboratory or various soft-skill development opportunities.</div><div>&nbsp;</div><div>Please send your application, consisting of a cover letter including a research statement (single line spacing, max. 12 pt, max. 2 pages), and your CV to <a href=\"mailto:project8jobs@lists.uni-mainz.de\">project8jobs@lists.uni-mainz.de</a>&nbsp;and arrange for three letters of reference to be sent to the same address. Review of applications will start on September 25th, 2026 and will continue until the position is filled. Please do not hesitate to contact Prof. Dr. Martin Fertl (<a href=\"mailto:mfertl@uni-mainz.de\">mfertl@uni-mainz.de</a>) or Prof. Dr. Sebastian Böser (<a href=\"mailto:sboeser@uni-mainz.de\">sboeser@uni-mainz.de</a>) in case of any questions.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics",
+        "physics.ins-det",
+        "quant-ph"
+      ],
+      "experiments": [
+        "PROJECT-8",
+        "KATRIN"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-24T09:27:23.115326+00:00",
+      "updated": "2026-08-25T16:30:00.170564+00:00",
+      "addedAt": "2026-08-26T08:13:41.431Z",
+      "isNew": true
+    },
+    {
+      "id": "3194728",
+      "title": "Postdoctoral Positions in Neutrino Physics",
+      "institution": "Lanzhou, Inst. Modern Phys.",
+      "deadline": "2026-12-31",
+      "description": "<div>The Neutrino Group at the Institute of Modern Physics (IMP), Chinese Academy of Sciences (CAS), invites applications for one to two postdoctoral research positions. The successful candidate will contribute to hardware and software development, as well as data analysis, for the NvDEx and JUNO experiments. The postdoc will work primarily with Prof. Wenjie Wu and other members of the neutrino group. The position is based mainly at the Huizhou campus in Guangdong, in the vibrant Greater Bay Area, within about one hour’s travel of Hong Kong, Guangzhou, and Shenzhen.</div><div><br></div><div>Our group is developing a neutrinoless double-beta decay (0νββ) experiment, NvDEx, to be located at CJPL, and is heavily involved in reconstruction and data analysis for JUNO. Current research topics include:</div><ol><li>R&amp;D of a high-pressure gaseous TPC for NvDEx.</li><li>Software development for negative-ion TPCs based on NvDEx.</li><li>Event reconstruction technologies in JUNO.</li><li>Data analysis aimed at determining the neutrino mass ordering and exploring new physics.</li></ol><div>The neutrino group currently consists of 3 experimentalists and 4 theorists. Group members work collaboratively to explore new physics and novel detection technologies. A postdoctoral researcher in our group is expected to contribute to:</div><ul><li>Measurements of gas properties.</li><li>Development of readout electronics for an ion TPC.</li><li>Machine-learning–based reconstruction software development.</li><li>Data analysis for JUNO.</li></ul><div>The candidate must be able to travel as needed to Lanzhou (IMP main campus), CJPL, and Jiangmen (JUNO site).</div><div><br></div><div>We are seeking candidates with a Ph.D. in experimental particle physics or nuclear physics. Experience with gaseous detectors and machine-learning–based software development is preferred but not required.</div><div><br></div><div><strong>Appointment Terms &amp; Benefits</strong></div><ul><li>Initial two-year contract, with the possibility of extension to a third year.</li><li>Competitive salary, commensurate with experience, plus opportunities to apply for supplemental grants.</li><li>Access to IMP’s high-performance computing facilities and extensive collaborative networks.</li><li>Exceptional performers may be considered for permanent positions at IMP after completion of the postdoctoral appointment.</li></ul><div><strong>Application Process</strong></div><div>Applicants should submit the following materials as a single PDF to wenjie.wu@impcas.ac.cn with the subject line:</div><div>“Postdoc Application – [Your Name]”</div><ul><li>Curriculum vitae (including publication list).</li><li>Research statement outlining past work and future interests.</li><li>Three reference letters, including one from the Ph.D. supervisor. These letters should be sent directly by the referees to the same email address, with the applicant’s name clearly indicated in the subject line.</li></ul><div>Review of applications will begin immediately and will continue until the positions are filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "NvDEx",
+        "JUNO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-24T07:26:51.436782+00:00",
+      "updated": "2026-08-25T16:25:02.011546+00:00",
+      "addedAt": "2026-08-26T08:13:41.431Z",
+      "isNew": true
+    },
+    {
+      "id": "3194709",
+      "title": "RIKEN Research Scientist (indefinite-term employment position)",
+      "institution": "Nishina Ctr., RIKEN",
+      "deadline": "2026-10-05",
+      "description": "<div>Dear Colleagues,</div><div><br></div><div>Nuclear Structure Research Group, RIKEN Nishina Center for</div><div>Accelerator-Based Science is seeking a Research Scientist or a Senior&nbsp;</div><div>Research Scientist (indefinite-term employment position), who will</div><div>conduct in-beam gamma-ray nuclear spectroscopy at RIBF.</div><div>Please refer to the following web site for more information on the</div><div>application.</div><div><br></div><div>&nbsp;<a href=\"https://www.riken.jp/en/careers/researchers/20260819_2/index.html\">https://www.riken.jp/en/careers/researchers/20260819_2/index.html</a></div><div><br></div><div>The application deadline is October 5, 2026 (noon JST; applications</div><div>must be received by this time). We look forward to receiving your</div><div>applications. Please also spread this announcement to anyone who</div><div>might be interested.&nbsp;</div><div><br></div><div>Please direct inquiries regarding research to</div><div>&nbsp;&nbsp;Hideki Ueno, Nuclear Structure Research Group</div><div>&nbsp;&nbsp;Email: ueno@riken.jp,</div><div>and all other inquiries to</div><div>&nbsp;&nbsp;Nishina Center Screening Working Group</div><div>&nbsp;&nbsp;Email: rnc-jinji@ml.riken.jp</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.riken.jp/en/careers/researchers/20260819_2/index.html"
+      ],
+      "contact_email": null,
+      "created": "2026-08-24T06:29:52.265169+00:00",
+      "updated": "2026-08-25T16:17:55.299318+00:00",
+      "addedAt": "2026-08-26T08:13:41.431Z",
+      "isNew": true
+    },
+    {
       "id": "3194199",
       "title": "Postdoctoral Research Associate on CMS Experiment",
       "institution": "Texas Tech. U., Lubbock",
@@ -10406,6 +10542,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-25T08:13:42.259Z",
-  "totalJobs": 388
+  "lastUpdated": "2026-08-26T08:13:41.432Z",
+  "totalJobs": 393
 }
