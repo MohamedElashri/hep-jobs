@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3196667",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Argonne (main)",
+      "deadline": "2026-12-31",
+      "description": "<div>The High Energy Physics Division at Argonne National Laboratory (ANL) invites applications for a&nbsp;Postdoctoral Research Associate&nbsp;position to join our team working on the&nbsp;ATLAS experiment at the Large Hadron Collider (LHC).</div><div><br></div><div>The successful candidate will contribute to a broad research program that includes&nbsp;physics analysis, detector performance studies, experiment operations, and upgrade activities. This is an exciting opportunity to work within a collaborative group with deep expertise in&nbsp;silicon detectors, Trigger/DAQ (TDAQ) systems, software, and computing.</div><div><br></div><div>The Argonne ATLAS group plays a leading role in&nbsp;detector operations&nbsp;and in major upgrade efforts, including the&nbsp;ITk Pixel detector&nbsp;and&nbsp;TDAQ systems. The group is also actively advancing work in&nbsp;high-performance computing (HPC)&nbsp;and&nbsp;machine learning (ML)&nbsp;to address future physics and detector challenges. Current physics interests include&nbsp;Standard Model measurements&nbsp;and&nbsp;searches for new phenomena.</div><div><br></div><div>We welcome applicants who are excited to contribute to both the scientific and technical aspects of the ATLAS program in a highly collaborative research environment.</div><div><br></div><div><strong>Position Requirements</strong></div><ul><li>Recent or soon-to-be-completed PhD (within the last 0-5 years) in field of experimental particle physics or a closely related field</li><li>Experience in experimental high-energy physics</li><li>Demonstrated ability to contribute to physics analysis, detector performance studies, detector operations, and/or upgrade activities</li><li>Strong skills in scientific programming, software development, and data analysis</li><li>Ability to work effectively in a collaborative, multidisciplinary research environment</li><li>Strong written and verbal communication skills</li><li>Ability to model Argonne’s core values of impact, safety, respect, integrity, and teamwork</li></ul><div><strong>Preferred Qualifications</strong></div><ul><li>Experience with the ATLAS experiment or another collider-based high-energy physics experiment</li><li>Experience with silicon detectors, Trigger/DAQ systems, or detector operations</li><li>Experience in software and computing, including distributed computing, high-performance computing (HPC), or machine learning (ML)</li><li>Interest in Standard Model measurements and/or searches for new phenomena</li></ul><div><strong>Application Review</strong></div><div>Review of applications will begin once the application is complete and will continue until the position is filled.</div><div><br></div><div><strong>Application Instructions</strong></div><ul><li>Please upload the following materials with your application in Workday:</li><li>CV/Resume, including publications and presentations</li><li>Research Statement</li><li>Unofficial Ph.D. transcripts</li><li>Copy of Ph.D. diploma, if already awarded</li></ul><div>Please also arrange for&nbsp;three letters of recommendation&nbsp;to be sent to:&nbsp;<a href=\"mailto:HEPHR@anl.gov\"><strong>HEPHR@anl.gov</strong></a></div><div><br></div><div>For further information, please contact: Dr. Walter Hopkins at <a href=\"mailto:whopkins@anl.gov\">whopkins@anl.gov</a></div><div><br></div><div>Please click on the link to apply:</div><div><br></div><div><a href=\"https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---ATLAS-Experiment-at-Large-Hadron-Collider_423342\">Postdoctoral Research Associate - ATLAS Experiment at Large Hadron Collider</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Research-Associate---ATLAS-Experiment-at-Large-Hadron-Collider_423342"
+      ],
+      "contact_email": null,
+      "created": "2026-08-27T13:58:35.850914+00:00",
+      "updated": "2026-08-27T15:28:48.707415+00:00",
+      "addedAt": "2026-08-28T11:48:12.891Z",
+      "isNew": true
+    },
+    {
+      "id": "3196519",
+      "title": "Postdoctoral position",
+      "institution": "Queen's U., Kingston",
+      "deadline": "2026-09-30",
+      "description": "<div>The experimental particle astrophysics group at Queen's University in Kingston, Canada, which is part of the McDonald Institute (<a href=\"https://mcdonaldinstitute.ca/\">https://mcdonaldinstitute.ca/</a>), expects to hire a postdoc to work on the DarkSide-20k dark matter search with Professors Philippe Di Stefano, Michela Lai, Art McDonald and Peter Skensved, and with scientists at the TRIUMF laboratory. The postdoc will be actively involved in the development, installation and commissioning of the DAQ for the DarkSide-20k experiment at Gran Sasso with 20 tonnes fiducial of liquid argon extracted from an underground source. The postdoc will also contribute to R&amp;D at Queen's using a liquid argon cryostat. The postdoc may also contribute to data analysis and operations for DEAP 3600, a 3 tonne argon dark matter search located as SNOLAB in Canada. Work will be carried out in conjunction with the TRIUMF laboratory in Vancouver, with CERN, and with Gran Sasso, where significant time may be spent.</div><div><br></div><div><strong>Required Qualifications</strong></div><div>- Candidates must have obtained a PhD in physics or applied physics, with a specialization in particle physics, nuclear physics, or instrumentation. In exceptional circumstances, PhD candidates with a firm date of defense will be considered.</div><div>- The ability to perform independent research and to communicate results verbally and in writing.</div><div>- The ability to work in a team including both graduate and undergraduate students.</div><div><br></div><div><strong>Preferred Qualifications</strong></div><div>- Experience with particle detectors, including readout, and scintillators.</div><div>- Knowledge of liquid argon.</div><div>- Experience in rare-event searches and with low backgrounds.</div><div>- Proficiency in python and root.</div><div><br></div><div><strong>Start Date, Duration, and Remuneration</strong></div><div>Full-time 1 year appointment starting December 2026, with renewal for 1 year subject to funding and performance. Remuneration will be in the range of 59-66 k$CDN/year depending on experience.</div><div><br></div><div><strong>Application</strong></div><div>Provide cover letter, full CV (including link to doctoral dissertation), 2 letters of recommendation (sent directly from the official email of the referee) to P. Di Stefano (distefan@queensu.ca). Review of applications begins October 1 2026; applications will be considered until the position is filled.</div><div><br></div><div><em>EMPLOYMENT EQUITY: The University invites applications from all qualified candidates. Queen's is committed to employment equity and diversity in the workplace and welcomes applications from women, visible minorities, Aboriginal peoples, persons with disabilities, and persons of any sexual orientation or gender identity. All qualified candidates are encouraged to apply; however, Canadians and permanent residents will be given priority. The University will provide support in its recruitment processes to applicants with disabilities, including accommodation that takes into account an applicant's accessibility needs. For more information about the position, and accommodations during the interview process, please contact P. Di Stefano (distefan@queensu.ca).</em></div><div><br></div><div>Contact: P. Di Stefano (<a href=\"mailto:distefan@queensu.ca\">distefan@queensu.ca</a>)</div><div><strong>Letters of Reference should be sent to: </strong><a href=\"mailto:distefan@queensu.ca\">distefan@queensu.ca</a></div><div><strong>More Information: </strong><a href=\"https://www.queensu.ca/academia/di-stefano/\">https://www.queensu.ca/academia/di-stefano/</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "DarkSide-20k"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-27T11:45:32.645635+00:00",
+      "updated": "2026-08-27T15:20:38.193945+00:00",
+      "addedAt": "2026-08-28T11:48:12.891Z",
+      "isNew": true
+    },
+    {
       "id": "3194864",
       "title": "PhD position (m/f/d) in Experimental Particle Physics (ATLAS)",
       "institution": "Bergische U., Wuppertal (main)",
@@ -10542,6 +10595,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-27T11:21:51.341Z",
-  "totalJobs": 393
+  "lastUpdated": "2026-08-28T11:48:12.893Z",
+  "totalJobs": 395
 }
