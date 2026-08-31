@@ -1,6 +1,84 @@
 {
   "jobs": [
     {
+      "id": "3197139",
+      "title": "Associate Research Scholar Dicke Fellow",
+      "institution": "Princeton U. (main)",
+      "deadline": "2026-10-19",
+      "description": "<div>The Princeton University Physics Department seeks exceptional Ph.D. recipients in experimental physics for an honorific postdoctoral fellowship program. Candidates from all areas of experimental physics will be considered and selected through an annual competition.&nbsp;</div><div><br></div><div>Appointments, to be made at the rank of Associate Research Scholar, will be for three years with an anticipated start date of September 1, 2027. Selected scholars will be \"Dicke Fellows\" in recognition of Princeton physicist Robert Dicke. In addition to salary and benefits, the program will provide a discretionary fund of $15,000 per year for each scholar.</div><div><br></div><div><strong>Qualifications</strong></div><div>Selected scholars are encouraged to work with existing experimental groups in the department, although those who wish to pursue a specific independent research program will also be considered. Princeton has experimental physics research programs in Atomic/Molecular, Biological, Condensed Matter, Cosmology, Gravitation, High Energy, and Particle Astrophysics. Prospective Fellows are encouraged to discuss in their application the potential research group or groups they would be interested in collaborating with.</div><div><br></div><div>This position is subject to the University's background check policy. Proof of Ph.D. must be submitted prior to start date. Candidates who are not selected for a Dicke position may also be considered for other postdoctoral positions in the Department. The work location for this position will either be on campus at Princeton University or, subject to approval, at an off-campus location where the research project is undertaken.</div><div><br></div><div>This position is not eligible for sponsorship of an H-1B Visa requiring consular processing; other Visa sponsorships (including H-1B Visas not requiring consular processing) may be available, as appropriate.</div><div>&nbsp;</div><div><strong>Application Instructions</strong></div><div>Applicants must apply online and must include a cover letter, CV, list of publications, a statement of research interests, and confidential letters from three referees. Finalists will be invited to give a research talk, either at Princeton or remotely, if travel to Princeton is not feasible.</div><div>Applications will be reviewed as they arrive. To ensure full consideration, all materials must be received by October 19, 2026.</div><div><br></div><div><strong>Equal Employment Opportunity Statement</strong></div><div>Princeton University is an <a href=\"https://rrr.princeton.edu/eop\">Equal Opportunity Employer</a> and all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability status, protected veteran status, or any other characteristic protected by law.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "cond-mat"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apply.interfolio.com/188568"
+      ],
+      "contact_email": null,
+      "created": "2026-08-28T14:24:59.017059+00:00",
+      "updated": "2026-08-28T20:26:36.281603+00:00",
+      "addedAt": "2026-08-31T08:10:56.920Z",
+      "isNew": true
+    },
+    {
+      "id": "3197110",
+      "title": "Postdoctoral Research Associate for FCC-ee Calorimeter R&D",
+      "institution": "Mainz U.",
+      "deadline": "2026-09-18",
+      "description": "<div>The Johannes Gutenberg-Universität Mainz (Germany) has an opening for a <strong>Postdoctoral Research Associate (Physicist, TV-L EG 13)</strong> to work on R&amp;D of a high-granularity calorimeter for an experiment at the FCC-ee, to be filled immediately.</div><div><br></div><div>The Mainz group has a long-standing experience in the design, construction, operation and readout of calorimeters in high energy physics, including in the NA62, SHiP and ATLAS experiments. As part of the CALICE and DRD Calo collaborations, the Mainz group has been engaging in the design and prototyping of a scintillator-based high-granularity hadronic calorimeter for the FCC-ee for more than a decade. The group is part of the Cluster of Excellence PRISMA++ “Precision Physics, Fundamental Interactions and Structure of Matter“, which focuses on key questions concerning the fundamental constituents of matter and their implications for the physics of the Universe.</div><div><br></div><div>The successful applicant is expected to contribute to <strong>R&amp;D towards a high-granularity hadronic calorimeter for the FCC-ee in the areas of 3D-printing structured scintillators, layer design and prototyping, as well as simulation-based optimisation</strong>. Mainz University with its Cluster of Excellence PRISMA++, on-campus accelerators and excellent infrastructure within the detector laboratory provides a vibrant and unique place for detector development and construction.</div><div><br></div><div>Applicants are required to have a Ph.D. (or an equivalent degree) in physics and should have research experience in experimental high energy particle physics. Experience in detector R&amp;D, construction and operation, and GEANT4 simulation are highly welcome.</div><div><br></div><div>The Johannes Gutenberg-Universität Mainz aims at increasing the percentage of women in academic positions and strongly encourages women scientists to apply.</div><div><br></div><div>The University is an equal opportunity employer and particularly welcomes applications from persons with disabilities.</div><div><br></div><div>The appointment will be initially for a period of two years, with the possibility of an extension. Qualified candidates are requested to submit their application, including a curriculum vitae, a brief description of their research experience and interests, and a list of the most relevant publications to Prof. Dr. Volker Büscher, Institut für Physik, 55099 Mainz, Germany (or via email to <a href=\"mailto:buescher@uni-mainz.de\">buescher@uni-mainz.de</a>) and to arrange for at least two letters of recommendation to be sent directly to the same address.</div><div><br></div><div>Applications will be accepted until <strong>Sept. 18, 2026</strong>.</div><div><br></div><div>Contacts:</div><div>Prof. Dr. Volker Büscher (<a href=\"mailto:buescher@uni-mainz.de\">buescher@uni-mainz.de</a>)</div><div>Prof. Dr. Lucia Masetti (<a href=\"mailto:masetti@uni-mainz.de\">masetti@uni-mainz.de</a>)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-FCC"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-28T12:02:07.831903+00:00",
+      "updated": "2026-08-28T20:04:57.420750+00:00",
+      "addedAt": "2026-08-31T08:10:56.920Z",
+      "isNew": true
+    },
+    {
+      "id": "3197109",
+      "title": "Postdoctoral Research Associate for Physics Analysis",
+      "institution": "Mainz U.",
+      "deadline": "2026-09-18",
+      "description": "<div>The Johannes Gutenberg-Universität Mainz (Germany) has an opening for a <strong>Postdoctoral Research Associate (Physicist, TV-L EG 13) </strong>to work on the ATLAS experiment, to be filled immediately.</div><div><br></div><div>The Mainz ATLAS group shares major responsibility for the construction, operation and upgrade of the L1 trigger and is involved in the liquid Argon calorimetry of ATLAS as well as the new high-granularity timing detector. Physics analysis activities include precision standard model physics, a broad range of searches for new physics, Higgs boson physics, as well as top quark physics. The ATLAS group is part of the Cluster of Excellence PRISMA++ “Precision Physics, Fundamental Interactions and Structure of Matter“, which focuses on key questions concerning the fundamental constituents of matter and their implications for the physics of the Universe.</div><div><br></div><div>The successful applicant is expected to contribute to <strong>physics analysis in the ATLAS experiment in the area of Higgs boson physics, top quark physics or searches for new physics including searches for dark matter and exotic long-lived particles</strong>. An additional participation in the Mainz L1 or HGTD projects is highly welcome. Mainz University with its Cluster of Excellence PRISMA++, on-campus accelerators, excellent infrastructure within the detector laboratory and strong HEP theory groups provides a vibrant and unique place for physics analysis at the LHC.</div><div><br></div><div>Applicants are required to have a Ph.D. (or an equivalent degree) in physics and should have research experience in experimental high energy particle physics.</div><div><br></div><div>The Johannes Gutenberg-Universität Mainz aims at increasing the percentage of women in academic positions and strongly encourages women scientists to apply.</div><div><br></div><div>The University is an equal opportunity employer and particularly welcomes applications from persons with disabilities.</div><div><br></div><div>The appointment will be initially for a period of two years, with the possibility of an extension. Qualified candidates are requested to submit their application, including a curriculum vitae, a brief description of their research experience and interests, and a list of the most relevant publications to Prof. Dr. Volker Büscher, Institut für Physik, 55099 Mainz, Germany (or via email to <a href=\"mailto:buescher@uni-mainz.de\">buescher@uni-mainz.de</a> ) and to arrange for at least two letters of recommendation to be sent directly to the same address.</div><div><br></div><div>Applications will be accepted until <strong>Sept. 18, 2026</strong>.</div><div><br></div><div>Contacts:</div><div>Prof. Dr. Volker Büscher (<a href=\"mailto:buescher@uni-mainz.de\">buescher@uni-mainz.de</a>)</div><div>Prof. Dr. Lucia Masetti (<a href=\"mailto:masetti@uni-mainz.de\">masetti@uni-mainz.de</a>)</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-08-28T11:55:28.210430+00:00",
+      "updated": "2026-08-28T20:00:08.188844+00:00",
+      "addedAt": "2026-08-31T08:10:56.920Z",
+      "isNew": true
+    },
+    {
       "id": "3196667",
       "title": "Postdoctoral Research Associate",
       "institution": "Argonne (main)",
@@ -25,7 +103,7 @@
       "created": "2026-08-27T13:58:35.850914+00:00",
       "updated": "2026-08-27T15:28:48.707415+00:00",
       "addedAt": "2026-08-28T11:48:12.891Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3196519",
@@ -51,7 +129,7 @@
       "created": "2026-08-27T11:45:32.645635+00:00",
       "updated": "2026-08-27T15:20:38.193945+00:00",
       "addedAt": "2026-08-28T11:48:12.891Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3194864",
@@ -10595,6 +10673,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-08-28T11:48:12.893Z",
-  "totalJobs": 395
+  "lastUpdated": "2026-08-31T08:10:56.922Z",
+  "totalJobs": 398
 }
