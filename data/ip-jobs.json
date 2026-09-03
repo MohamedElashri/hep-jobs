@@ -1,6 +1,142 @@
 {
   "jobs": [
     {
+      "id": "3198871",
+      "title": "R&D Scientist",
+      "institution": "NanduX",
+      "deadline": "2026-10-31",
+      "description": "<div><strong>R&amp;D Scientist</strong></div><div><strong>Location:</strong> El Segundo, California</div><div><strong>Type:</strong> Full time, in person</div><div><strong>Experience:</strong> Early career</div><div><strong>Travel:</strong> Frequent international travel, primarily to South America</div><div><br></div><div><strong>About NanduX</strong></div><div>NanduX is a mineral exploration company using its proprietary sensor platform to discover copper deposits.</div><div><br></div><div>Our mission is simple: find copper.</div><div><br></div><div>Copper is arguably the most critical of all critical minerals. It is foundational to American energy and infrastructure, from the power grid to the data centers driving the AI revolution.</div><div><br></div><div>The supply chain begins with the discovery of new deposits, but the easy copper is already gone. What remains lies deep underground and is increasingly difficult to locate using legacy technologies. This creates a massive supply bottleneck just as demand reaches an all-time high and continues to grow. It is a civilization-scale problem.</div><div><br></div><div>We are hardware-first and AI-native. We believe the next generation of discoveries will come from bringing the two together.</div><div><br></div><div>We are building this technology in El Segundo, California, and deploying it across the major mining districts of South America, which hosts the world’s largest copper reserves.</div><div><br></div><div>We have already deployed our systems at active mines in Chile. The person who joins us will help turn these early deployments into a scalable exploration platform.</div><div><br></div><div><strong>About the role</strong></div><div>We are looking for an exceptional early-career scientist who wants to build technology, deploy it in the field, and tackle a challenge of civilizational scale.</div><div><br></div><div>As an R&amp;D Scientist at NanduX, your main mission will be to build technologies that find copper. You will take new sensor concepts from benchtop prototypes through data acquisition and analysis to field deployment in the Atacama desert and other remote locations.&nbsp;</div><div><br></div><div>You will join an early team developing and deploying a portfolio of sensor systems for deep mineral exploration.</div><div>Your work will combine experimental science, sensor development, electronics, scientific software, data analysis, and field testing. You will work closely with experienced scientists and engineers and take on significant responsibility from day one.</div><div><br></div><div>This is a hands on role. You will build prototypes, design experiments, analyze data, deploy equipment in the field, and iterate.</div><div><br></div><div><strong>What you will do</strong></div><div>• Design, assemble, and test sensor prototypes</div><div>• Integrate sensors, readout electronics, data acquisition systems, and scientific software</div><div>• Design and conduct laboratory and field experiments</div><div>• Design AI-native software for data acquisition, analysis, simulation, and visualization</div><div>• Troubleshoot hardware and software under real operating conditions</div><div>• Deploy and operate technology at mineral exploration sites, including remote locations in South America</div><div>• Document results and communicate what you learned to the broader technical team</div><div><br></div><div><strong>What we are looking for</strong></div><div>First and foremost, we look for demonstrated excellence, whether in academic research, industry, or independent projects.</div><div>We welcome recent graduates, postdoctoral researchers, and scientists or engineers.</div><div><br></div><div>You may be a strong fit if you have:</div><div>• A degree in physics, geophysics, electrical engineering, or another relevant technical field.&nbsp;</div><div>• Strong experimental instincts and an interest in building physical systems</div><div>• Experience designing, building, or testing sensors or scientific instruments of any type</div><div>• Familiarity with readout electronics, data acquisition, embedded systems, or scientific programming</div><div>• A willingness to travel internationally and work in demanding field environments</div><div>A PhD is appreciated but not required. Evidence of exceptional work is what matters to us.&nbsp;</div><div>Experience in geophysics or nuclear physics instrumentation, signal processing, low power electronics, or robotics is useful but not required.</div><div><br></div><div><strong>What we offer</strong></div><div>• A salary of <strong>$100,000 to $130,000</strong>, depending on experience</div><div>• Equity ownership in NanduX</div><div>• Health insurance</div><div>• 401(k)</div><div>• Significant responsibility and room to grow as the company expands</div><div><br></div><div><strong>How to apply</strong></div><div>Apply through LinkedIn with your résumé and a short note describing something you have designed, built, measured, or discovered.</div><div>NanduX is an equal opportunity employer. We welcome applicants from different backgrounds who are excited to build technology, work in the field, and help find the copper America needs.</div><div><br></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-02T18:21:08.687071+00:00",
+      "updated": "2026-09-03T00:18:56.775337+00:00",
+      "addedAt": "2026-09-03T08:09:46.284Z",
+      "isNew": true
+    },
+    {
+      "id": "3198712",
+      "title": "PhD position in experimental particle physics",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-09-15",
+      "description": "<div>The Center for Particle Physics in Siegen (CPPS) has an opening for a doctoral student in experimental high energy physics (Lohengrin)</div><div><br></div><div><strong>Your tasks:</strong></div><ul><li>Your research actvity in the context of the Color meets Flavor Cluster of Excellence will focus on the simulation, analysis and preparation of measurments at the Lohengrin experiment, a light dark matter search experiment.</li><li>Modelling of hadronic final states in electron nucleon scattering</li><li>Development of the Lohengrin Detector Layout for hadronic final states</li><li>Preparation of the first Lohengrin data taking period at the ELSA accelerator</li></ul><div><strong>Your profile:</strong></div><ul><li>University degree in physics</li><li>Experience in the simulation, reconstruction or analysis of data in high energy physics</li><li>Programming skills (C++, Python)</li><li>Ability to work and communicate in a team</li><li>Willingness for limited travel</li><li>Very good English language skills</li><li>German language skills are desirable</li></ul><div>The position is available starting from the January 1st 2027 for an appointment of initially two years. Continued employment is intended pending funding decisions. The position is located at Siegen (Germany). The university of Siegen is an interdisciplinary and cosmopolitan university with currently around 14,000 students and a range of subjects from the humanities, social sciences and economics to natural sciences, engineering and life sciences.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Lohengrin"
+      ],
+      "urls": [
+        "https://jobs.uni-siegen.de/job/Researcher-Experimental-Particle-and-Astrophysics-57072/1425218033/"
+      ],
+      "contact_email": null,
+      "created": "2026-09-02T07:48:06.179449+00:00",
+      "updated": "2026-09-02T16:17:57.264697+00:00",
+      "addedAt": "2026-09-03T08:09:46.284Z",
+      "isNew": true
+    },
+    {
+      "id": "3198711",
+      "title": "PhD position in experimental particle physics",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-09-15",
+      "description": "<div>The Center for Particle Physics in Siegen (CPPS) has an opening for a doctoral student in experimental particle physics (ATLAS and INSIGHT)</div><div><br></div><div><strong>Your tasks:</strong></div><ul><li>Your research activity will focus on the development of microstructured silicon detector for applications in high energy physics.</li><li>Design of the electrical system and services of the silicon pixel detector for the Insight experiment at the ELSA accelerator within the CmF cluster.</li><li>Contributions to the commissioning of the ATLAS ITk Pixel Detector for the ATLAS Experiment at CERN</li><li>documentation of scientific results as well as publications</li><li>teaching activities (tutoring of exercise groups for example)</li><li>Supervision of students for Master's and Bachelor's theses</li><li>Teaching obligation: 2 SWS</li></ul><div><strong>Your profile:</strong></div><ul><li>University degree (Master's or equivalent) in Physics and</li><li>Completed university studies in Physics</li><li>Experience in the development and operation of silicon pixel or strip detectors</li><li>Programming skills (C/C++, Python)</li><li>Ability to work and communicate in a team</li><li>Willingness for limited travel</li><li>Very good English language skills</li><li>German language skills are desirable</li></ul><div>The position is available immediately for an appointment of initially three years. The position is located at Siegen (Germany). The university of Siegen is an interdisciplinary and cosmopolitan university with currently around 14,000 students and a range of subjects from the humanities, social sciences and economics to natural sciences, engineering and life sciences.&nbsp;</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "INSIGHT"
+      ],
+      "urls": [
+        "https://jobs.uni-siegen.de/job/Wissenschaftlicher-Mitarbeiterin-Experimentelle-Teilchen-und-Astroteilchenphysik-57072/1419824533/"
+      ],
+      "contact_email": null,
+      "created": "2026-09-02T07:44:42.254212+00:00",
+      "updated": "2026-09-02T15:19:04.032337+00:00",
+      "addedAt": "2026-09-03T08:09:46.284Z",
+      "isNew": true
+    },
+    {
+      "id": "3198710",
+      "title": "Postdoctoral researcher",
+      "institution": "U. Siegen (main)",
+      "deadline": "2026-09-15",
+      "description": "<div>The Center for Particle Physics in Siegen (CPPS) has an opening for a postdoctoral researcher.</div><div><br></div><div><strong>Your tasks:</strong></div><ul><li>Your research activity will focus on the development of microstructured silicon detector for applications in high energy physics.</li><li>Contributions are expected to the projects of the working group, in particular the construction of the silicon pixel detector for the Insight experiment in the CmF Cluster of Excellence, the integration and commissioning of the ATLAS ITk Pixel Detector, and the design and development of concepts for future silicon pixel detectors</li><li>Documentation of scientific results as well as publications</li><li>Supervision of students for final theses and seminar papers</li></ul><div><strong>Your profile:</strong></div><ul><li>University degree in physics</li><li>PhD in high-energy physics completed with distinction</li><li>Experience in the development and/or operation of silicon pixel or strip detectors</li><li>Programming skills (C/C++, Python)</li><li>Ability to work and communicate in a team</li><li>Willingness to travel to a limited extent</li><li>above average participation in scientific exchange (Conferences, reviews, research reports, etc.) and at least one publication in an international peer-reviewed journal.&nbsp;</li><li>Interest in interdisciplinary collaboration</li><li>Very good English skills</li></ul><div>The position is immediately open for an appointment of initially three years. The position is located in Siegen (Germany). The university of Siegen is an interdisciplinary and cosmopolitan university with currently around 14,000 students and a range of subjects from the humanities, social sciences and economics to natural sciences, engineering and life sciences.</div><div><br></div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "INSIGHT",
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://jobs.uni-siegen.de/job/Researcher-%28PostDoc%29-Experimental-Particle-and-Astroparticle-Physics-57072/1423203233/"
+      ],
+      "contact_email": null,
+      "created": "2026-09-02T07:41:36.442022+00:00",
+      "updated": "2026-09-02T15:16:50.812508+00:00",
+      "addedAt": "2026-09-03T08:09:46.284Z",
+      "isNew": true
+    },
+    {
+      "id": "3198290",
+      "title": "Ion manipulation position for Ba-tagging",
+      "institution": "McGill U., Montreal (main)",
+      "deadline": "2026-10-01",
+      "description": "<div>We are looking for a postdoc to continue our development of ion-extraction from Xe gas for Ba-tagging. While the work is motivated as potential upgrade for Xe-based neutrinoless double beta decay searches, our setup offers the possibility to also study ion extraction from other gases and develop ion sources and manipulation techniques. To apply for the position, please follow the link and apply through McGill's HR page.</div><div><a href=\"https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Rutherford-Physics/Post-doctoral-researcher_JR0000079642\">https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Rutherford-Physics/Post-doctoral-researcher_JR0000079642</a></div><div><br></div><div><strong>Position Summary:</strong></div><ul><li>Extract and identify the double-beta-decay daughter Ba-136 from a gas of the mother isotope, Xe-136, using a radiofrequency funnel and a series of ion traps.</li><li>Commission the ion transport beamline starting with the differential pumping device via a linear Paul trap to a multi-reflection time-of-flight mass spectrometer.</li><li>Characterize the in-extraction efficiency from argon and xenon gas at various operating conditions.</li><li>Optimize the MRTOF mass spectrometer for routine operation.</li><li>Advance our spatially resolved laser ablation ion sources for mass calibration and spectroscopic applications</li><li>Lead the Canadian Ba-tagging efforts that are being developed at McGill and TRIUMF</li><li>Supervise one graduate and 1-2 summer students</li><li>The appointment is initially for two years with the possibility of renewal for up to 3 years. This position is funded in part by the Arthur B. McDonald Canadian Astroparticle Physics Research Institute.</li></ul><div><strong>Qualifications:</strong></div><ul><li>Background in experimental nuclear or particle physics or in the field of ion manipulation and spectroscopy.</li><li>Problem-solving abilities, attention to detail, and the capacity to adapt to an evolving work environment.</li><li>Demonstrated ability to learn new tools and applications quickly and independently.</li><li>Time management skills, with the ability to work on multiple projects concurrently and meet deadlines.</li><li>Organizational, collaboration, and interpersonal skills.</li></ul><div><strong>Education and experience:</strong></div><ul><li>Ph.D. in physics or a closely related field at the time of appointment. Ph.D. candidates should indicate when they are expecting to fulfill their Ph.D. requirements.</li><li>Preferred background in experimental nuclear or particle physics or with expertise in ion manipulation.</li></ul><div>Candidates should reach out to Thomas Brunner if they have any questions.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det",
+        "physics.acc-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Rutherford-Physics/Post-doctoral-researcher_JR0000079642"
+      ],
+      "contact_email": null,
+      "created": "2026-09-01T18:22:48.345367+00:00",
+      "updated": "2026-09-02T15:11:48.489526+00:00",
+      "addedAt": "2026-09-03T08:09:46.284Z",
+      "isNew": true
+    },
+    {
       "id": "3197160",
       "title": "Assistant Professor",
       "institution": "U. Michigan, Ann Arbor",
@@ -10700,6 +10836,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-02T08:09:52.617Z",
-  "totalJobs": 399
+  "lastUpdated": "2026-09-03T08:09:46.286Z",
+  "totalJobs": 404
 }
