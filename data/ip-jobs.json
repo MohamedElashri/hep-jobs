@@ -1,6 +1,109 @@
 {
   "jobs": [
     {
+      "id": "3200072",
+      "title": "Long-lived particle trigger for ATLAS",
+      "institution": "Tel Aviv U. (main)",
+      "deadline": "2026-11-11",
+      "description": "<div>There is a possibility to request a fellowship: <a href=\"https://azrielifoundation.org/fellows/internationalpostdoctoral/\">https://azrielifoundation.org/fellows/internationalpostdoctoral/</a>.</div><div>The successful candidate will work on the development of new trigger strategies for the detection of&nbsp;<strong>long-lived particles (LLPs) with the ATLAS experiment at the High-Luminosity LHC</strong>. LLPs are predicted in a broad range of models of physics beyond the Standard Model and can produce unconventional detector signatures that are challenging for trigger systems optimized for prompt particles.</div><div>The project will focus on exploiting the capabilities of the upgraded&nbsp;<strong>ATLAS Level-0 Global Trigger</strong>&nbsp;to identify LLP signatures in real time. The postdoctoral researcher will study simulated signal and background samples, investigate the information provided by the calorimeter and Level-0 trigger processors, and develop event-level observables and algorithms sensitive to displaced, delayed, or otherwise non-standard signatures. Particular attention will be given to combining information from different trigger objects and to evaluating the performance, efficiency, and background rejection of the proposed selections.</div><div>The work will include software development within the ATLAS trigger framework, Monte Carlo and detector-level studies, ROOT-based data analysis, and the development and validation of new LLP trigger algorithms. The candidate will work in close collaboration with members of the ATLAS Trigger and LLP communities, with the objective of developing trigger strategies that could enhance the ATLAS sensitivity to new physics during the HL-LHC program.</div>",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-06T06:00:50.712622+00:00",
+      "updated": "2026-09-06T23:52:17.655431+00:00",
+      "addedAt": "2026-09-07T08:10:56.838Z",
+      "isNew": true
+    },
+    {
+      "id": "3199926",
+      "title": "Postdoctoral Researcher position in the ATLAS Experiment",
+      "institution": "UC, Irvine (main)",
+      "deadline": "2026-12-31",
+      "description": "<div>The experimental particle physics group at the University of California, Irvine invites applications for a postdoctoral research position to work on the ATLAS experiment at the CERN Large Hadron Collider, starting late 2026 or early 2027. The position can be based at CERN or at UC Irvine.</div><div><br></div><div>The researcher will work primarily with Prof. Daniel Whiteson, and will contribute to searches for beyond-the-standard model particles and forces, as well as development and applications of machine learning tools for particle physics more broadly. The researcher will have a wide latitude to pursue their own research agenda.</div><div><br></div><div>The ATLAS group at UCI consists of Profs Daniel Whiteson, Andre Frankenthal, Anyes Taffard and Andrew Lankford, and enjoys a close and fruitful relationship with the UCI theory and phenomenology group, as well as local experts in machine learning at the UCI Center for Machine Learning.</div><div><br></div><div>The applicant should have, or be about to gain, a Ph.D. in particle physics, and is expected to have experience from at least two years of active participation in a leading international particle physics experiment. The strongest applicants will have a record of independence and creativity and have published machine-learning related papers outside of the LHC collaborations.</div><div>Interested candidates should apply online at UCI’s online application system:<a href=\"https://recruit.ap.uci.edu/JPF10427\"> https://recruit.ap.uci.edu/JPF10427</a></div><div>Informal inquiries can be directed to Prof. Whiteson at <a href=\"mailto:daniel@uci.edu\">daniel@uci.edu</a>.</div><div><br></div><div>Applications will be reviewed as they are received, and the position will remain open until filled.</div>",
+      "regions": [
+        "Europe",
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://recruit.ap.uci.edu/JPF10427"
+      ],
+      "contact_email": null,
+      "created": "2026-09-04T18:43:52.547990+00:00",
+      "updated": "2026-09-04T21:00:22.993027+00:00",
+      "addedAt": "2026-09-07T08:10:56.838Z",
+      "isNew": true
+    },
+    {
+      "id": "3199760",
+      "title": "PhD position in experimental astroparticle physics (XENON/XLZD)",
+      "institution": "U. Zurich (main)",
+      "deadline": "2026-10-01",
+      "description": "<div>The Experimental Astroparticle Physics Group at the University of Zurich announces the opening of one PhD position in the context of the XENONnT and XLZD projects, focused on dark matter and neutrino physics with liquid xenon as target material.</div><div><br></div><div>The candidate will play a key role in the XENONnT and XLZD experiments, and the thesis work will include some of the following topics:</div><div><br></div><ul><li>Data analysis and operation of XENONnT, the detector currently operating at the</li></ul><div>Gran Sasso underground laboratory (LNGS) in Italy</div><ul><li>Participation in the large-scale Xenoscope experiment at UZH, a pathfinder project</li></ul><div>towards the realisation of XLZD</div><ul><li>Photosensor R&amp;D, new calibration sources and liquid xenon microphysics</li></ul><div>measurements with the MarmotX xenon setup at UZH</div><div><br></div><div>We are looking for exceptional candidates who are strongly motivated to pursue a</div><div>rigorous research program in an inspiring environment at the University of Zurich, and</div><div>within international collaborations. A recent master's degree in physics and a solid</div><div>background in particle or astroparticle physics are required. The ideal candidate will have</div><div>interest in both, instrumentation and data analysis.</div><div><br></div><div>Applicants should send a curriculum vitae including transcripts, a statement of research</div><div>and arrange for at least two letters of recommendation to be sent to:</div><div>Mrs. Annette Jeyakumar,</div><div>Physics Department of the University of Zurich,</div><div>Winterthurerstr. 190, CH-8057</div><div>Zurich, Switzerland;</div><div>email: annette.jeyakumar@physik.uzh.ch.</div><div><br></div><div>The position can start February 1, 2027, or later.</div><div><br></div><div>For full consideration, completed applications including reference letters should be</div><div>received by October 1, 2026. Applications received after that date will be considered until</div><div>the position is filled.</div><div><strong>Contact:</strong> Prof. Laura Baudis, email: laura.baudis@uzh.ch.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "nucl-ex",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-04T10:53:23.030062+00:00",
+      "updated": "2026-09-04T13:56:51.176960+00:00",
+      "addedAt": "2026-09-07T08:10:56.838Z",
+      "isNew": true
+    },
+    {
+      "id": "3199758",
+      "title": "PhD position in experimental astroparticle physics at the University of Zurich",
+      "institution": "U. Zurich (main)",
+      "deadline": "2026-10-01",
+      "description": "<div>The Experimental Astroparticle Physics Group at the University of Zurich announces the</div><div>opening of one PhD position in the context of the LEGEND experiment, which aims to</div><div>reveal the nature of neutrinos and obtain information about their absolute mass scale.</div><div>The candidate will play a key role in the analysis of data from LEGEND-200, currently</div><div>acquiring science data, and in hardware activities and Monte Carlo simulation for</div><div>LEGEND-1000, the future tonne-scale experiment. The thesis work will include some of</div><div>the following topics:</div><div><br></div><ul><li>Data analysis for LEGEND-200, the detector currently operating at the Gran Sasso</li></ul><div>underground laboratory (LNGS) in Italy</div><ul><li>R&amp;D and prototyping work for the LEGEND-1000 experiment (HPGe detector characterisation,</li></ul><div>calibration systems, liquid argon veto studies)</div><ul><li>Monte Carlo simulations for LEGEND-1000</li><li>Material screening with a HPGe facility (Gator) at LNGS</li></ul><div><br></div><div>We are looking for exceptional candidates who are strongly motivated to pursue a</div><div>rigorous research program in an inspiring environment at the University of Zurich, and</div><div>within an international collaboration. A recent master's degree in physics and a solid</div><div>background in particle or astroparticle physics are required. The ideal candidate will have</div><div>interest in both, instrumentation and data analysis.</div><div><br></div><div>Applicants should send a curriculum vitae including transcripts, a statement of research</div><div>and arrange for at least two letters of recommendation to be sent to:</div><div><br></div><div>Mrs. Annette Jeyakumar,</div><div>Physics Department of the University of Zurich,</div><div>Winterthurerstr. 190, CH-8057</div><div>Zurich, Switzerland;</div><div>email: annette.jeyakumar@physik.uzh.ch</div><div><br></div><div>The position can start February 1, 2027, or later.</div><div><br></div><div>For full consideration, completed applications including reference letters should be</div><div>received by October 1, 2026. Applications received after that date will be considered until</div><div>the position is filled.</div><div><br></div><div><strong>Contact:</strong> Prof. Laura Baudis, email: laura.baudis@uzh.ch.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "physics",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-04T10:48:03.962982+00:00",
+      "updated": "2026-09-04T13:55:55.359097+00:00",
+      "addedAt": "2026-09-07T08:10:56.838Z",
+      "isNew": true
+    },
+    {
       "id": "3198885",
       "title": "Postdoc position on ATLAS grid computing",
       "institution": "U. Gottingen (main)",
@@ -25,7 +128,7 @@
       "created": "2026-09-03T00:50:57.421693+00:00",
       "updated": "2026-09-03T15:13:01.211314+00:00",
       "addedAt": "2026-09-04T08:09:31.101Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3198871",
@@ -10863,6 +10966,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-04T08:09:31.102Z",
-  "totalJobs": 405
+  "lastUpdated": "2026-09-07T08:10:56.840Z",
+  "totalJobs": 409
 }
