@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3200480",
+      "title": "Postdoctoral position at CCNU in high energy nuclear experiments",
+      "institution": "Hua-Zhong Normal U.",
+      "deadline": "2027-08-31",
+      "description": "<div><strong>Institute of Particle Physics, College of Physical Science and Technology, Central China Normal University (CCNU), Wuhan, China</strong></div><div><br></div><div><strong>The Institute of Particle Physics at CCNU invites applications for postdoctoral positions to work on the ALICE Run 3 data analysis, or/and Forward Calorimeter (FoCal) simulation/ software preparation at the CERN LHC/ALICE experiment.</strong></div><div><br></div><div><strong>FoCal will open a new window on QCD at very small parton momentum fractions (small-x). FoCal provides unique sensitivity to the gluon saturation regime and offers an experimental opportunity to study the Color Glass Condensate (CGC) effective theory.</strong></div><div><br></div><div><strong>Responsibilities</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contribute to <strong>quarkonium analyses</strong> with ALICE Run 3 data</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contribute to <strong>simulation </strong>with ALICE software framework. Perform <strong>physics-performance studies</strong> for key observables.</div><div><br></div><div><strong>Qualifications</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD (by start date) in <strong>high-energy or nuclear physics</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experience in one or more of the following: <strong>detector commissioning, simulation or data analysis</strong></div><div><br></div><div><strong>Appointment &amp; Benefits</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initial <strong>2-year</strong> appointment, extendable to <strong>third year depend on funding</strong></div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Competitive salary</strong> depends on the expericne&nbsp;</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fully furnished apartment will be provided</div><div>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Support in applying for <strong>postdoctoral fellowship grants</strong></div><div><br></div><div><strong>Application</strong></div><div>1.&nbsp;&nbsp;&nbsp;&nbsp;Curriculum vitae with publications list</div><div>2.&nbsp;&nbsp;&nbsp;&nbsp;Short research statement</div><div>3.&nbsp;&nbsp;&nbsp;&nbsp;Three reference letters sent directly to:</div><div>Prof. Xiaozhi Bai (baixiaozhi@ccnu.edu.cn)</div><div>Please use the subject line: <em>ALICE&nbsp;Postdoc CCNU</em>.</div><div><br></div><div><strong>﻿Applications will be reviewed immediately and considered until filled.</strong></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ALICE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-08T07:09:48.914786+00:00",
+      "updated": "2026-09-08T19:12:46.319167+00:00",
+      "addedAt": "2026-09-09T08:09:38.441Z",
+      "isNew": true
+    },
+    {
       "id": "3200072",
       "title": "Long-lived particle trigger for ATLAS",
       "institution": "Tel Aviv U. (main)",
@@ -10966,6 +10991,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-08T08:09:52.115Z",
-  "totalJobs": 409
+  "lastUpdated": "2026-09-09T08:09:38.443Z",
+  "totalJobs": 410
 }
