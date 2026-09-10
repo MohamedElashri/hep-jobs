@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3201552",
+      "title": "Assistant/Associate Professor of Experimental Relativistic Heavy-Ion Physics",
+      "institution": "Purdue U., West Lafayette",
+      "deadline": "2026-12-04",
+      "description": "<div>The Department of Physics &amp; Astronomy at Purdue University invites applications for a faculty position in Experimental Relativistic Heavy-Ion Physics to begin August 2027.</div><div>The current relativistic heavy-ion efforts in the department involve physics analyses of the RHIC/STAR/sPHENIX and LHC/CMS experiments, detector design and simulation works on the ePIC experiment at the Electron-Ion Collider (EIC), and AI-facilitated research on the EIC under the DOE's Genesis Mission.</div><div>The successful candidate will establish a vibrant, externally funded research program, driving cutting-edge science in existing experiments while maintaining a strong leadership presence, and spearheading new hardware, software, and/or physics initiatives for EIC.</div><div>The candidate will mentor graduate students and postdocs and contribute to teaching at the undergraduate and graduate level.</div><div>&nbsp;</div><div><strong>Qualifications</strong></div><div>Candidates must have a PhD in Nuclear Physics or a closely related field by the start of the appointment. (Postdoctoral experience is highly desirable.)</div><div>Demonstrated record of research accomplishments in nuclear physics, evidenced by publications and presentations at leading conferences.</div><div>Experience and expertise in experimental nuclear physics, with an emphasis on relativistic heavy-ion physics or related areas.</div><div>&nbsp;</div><div><strong>The Department, College, and University</strong></div><div>The Department of Physics and Astronomy has 60 tenured and tenure-track professors, 200 graduate students, and 280 undergraduates. It is engaged in research in astrophysics, atomic-molecular-optical physics, biophysics, condensed matter, high-energy physics, nuclear physics, physics education, and quantum information science. More information is available at <a href=\"https://www.physics.purdue.edu/\">https://www.physics.purdue.edu/</a>.</div><div>The College of Science, encompassing the physical, computing, and life sciences at Purdue, is home to over 350 faculty and more than 6000 students. More information can be found at <a href=\"https://www.purdue.edu/science/\">https://www.purdue.edu/science/</a>.</div><div>Purdue University is one of the nation’s leading land-grant universities, with an enrollment of over 52,000 students primarily focused on STEM subjects. The university hosts the Rosen Center for Advanced Computing, which provides faculty and students with access to diverse high-performance computing resources (<a href=\"https://www.rcac.purdue.edu/\">https://www.rcac.purdue.edu</a>).</div><div>&nbsp;</div><div><strong>Application Procedure</strong></div><div>Application materials must be submitted through<strong> </strong><a href=\"https://careers.purdue.edu/job/AssistantAssociate-Professor-of-Experimental-Relativistic-Heavy-Ion-Physics/43899-en_US/\">https://careers.purdue.edu/job/AssistantAssociate-Professor-of-Experimental-Relativistic-Heavy-Ion-Physics/43899-en_US/</a></div><div>and include:</div><div>(1)&nbsp;&nbsp;Cover letter,</div><div>(2)&nbsp;&nbsp;Curriculum vitae with a list of publications,</div><div>(3)&nbsp;&nbsp;Statement of present and future research plans (4-page limit),</div><div>(4)&nbsp;&nbsp;Statement of teaching philosophy.</div><div>In addition, candidates should arrange for at least 3 letters of reference to be sent to nuclearsearch@purdue.edu. Questions regarding the positions and the search may also be directed to nuclearsearch@purdue.edu.</div><div>Applications completed by December 4th, 2026, will be given full consideration, although the search will continue until the position is filled.&nbsp;A background check is required for employment in this position. Purdue University is an equal opportunity/equal access university.&nbsp;</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "nucl-ex"
+      ],
+      "experiments": [
+        "ePIC"
+      ],
+      "urls": [
+        "https://careers.purdue.edu/job/AssistantAssociate-Professor-of-Experimental-Relativistic-Heavy-Ion-Physics/43899-en_US/"
+      ],
+      "contact_email": null,
+      "created": "2026-09-09T20:45:12.866780+00:00",
+      "updated": "2026-09-09T20:57:11.561667+00:00",
+      "addedAt": "2026-09-10T08:09:16.836Z",
+      "isNew": true
+    },
+    {
       "id": "3200480",
       "title": "Postdoctoral position at CCNU in high energy nuclear experiments",
       "institution": "Hua-Zhong Normal U.",
@@ -23,7 +50,7 @@
       "created": "2026-09-08T07:09:48.914786+00:00",
       "updated": "2026-09-08T19:12:46.319167+00:00",
       "addedAt": "2026-09-09T08:09:38.441Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3200072",
@@ -10991,6 +11018,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-09T08:09:38.443Z",
-  "totalJobs": 410
+  "lastUpdated": "2026-09-10T08:09:16.838Z",
+  "totalJobs": 411
 }
