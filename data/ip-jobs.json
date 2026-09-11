@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3202083",
+      "title": "Post Doctorate RA - SuperCDMS/Dark Matter",
+      "institution": "PNL, Richland",
+      "deadline": "2026-10-08",
+      "description": "<div>PNNL is seeking an outstanding post-doctoral researcher to participate in background analysis of the first science data of the SuperCDMS SNOLAB dark matter experiment as a member of the Detection Physics (DP) Group.</div><div><br></div><div>Areas of candidate experience that hold particular interest for us include:</div><ul><li>Operation of solid-state cryogenic radiation detectors;&nbsp;</li><li>Experience in testing and operation of research instrumentation for underground physics experiments;&nbsp;</li><li>Generalized radiation measurement expertise;&nbsp;</li><li>Detector and background modeling;&nbsp;</li><li>High-performance computing techniques applied to radiation transport simulation;&nbsp;</li><li>and analysis of experimental data from rare-event searches (esp. direct detection of dark matter).</li></ul><div>The ideal candidate will seek to develop a unique contribution to the SuperCDMS SNOLAB experiment related to background evaluation and analysis, culminating in leading the publication of results from initial data obtained from SuperCDMS SNOLAB detectors. Candidates having expertise complementing PNNL’s focus in background control for low-background radiation detectors and physics experiments is highly desirable. There is potential for significant travel to the SNOLAB (Sudbury, Canada) underground laboratory in support of the operation of, and data taking from, the SuperCDMS SNOLAB.</div><div><br></div><div>The post-doctoral researcher will also have the opportunity to participate in the DP Group’s quantum information science and applied radiation detection programs. These programs may provide bench-scale, hands-on laboratory instrumentation development opportunities, including working in the PNNL shallow underground laboratory cleanroom.</div><div><br></div><div>The principal responsibilities of the chosen researcher are to work constructively with both the core group of SuperCDMS SNOLAB dark matter researchers at PNNL and our colleagues in the dark matter direct-detection research community and collaborations. The post-doctoral fellow will be mentored by one of the senior researchers within the DP Group and will assist with mentoring graduate students and summer interns.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "SuperCDMS-SNOLAB"
+      ],
+      "urls": [
+        "https://careers.pnnl.gov/jobs/12119"
+      ],
+      "contact_email": null,
+      "created": "2026-09-10T09:36:20.891143+00:00",
+      "updated": "2026-09-10T17:41:31.201120+00:00",
+      "addedAt": "2026-09-11T08:09:17.905Z",
+      "isNew": true
+    },
+    {
+      "id": "3201559",
+      "title": "Postdoctoral Position in Neutrino Physics (JUNO 0νββ Program)",
+      "institution": "Beijing, Inst. High Energy Phys.",
+      "deadline": "2027-01-31",
+      "description": "<div>Research Directions:&nbsp;This position is under the joint supervision of the groups of Profs. Wen Liangjian, Li Gaosong, and Ostrovskiy&nbsp;Igor.&nbsp;The successful candidate will work on the JUNO (Jiangmen Underground Neutrino Observatory) neutrinoless double-beta decay (0νββ) program.</div><div>&nbsp;</div><div>Qualifications:&nbsp;PhD in Physics or a related field (must be obtained prior to the start of the appointment). Proficiency in Python and C++ for data analysis and simulation&nbsp;is required.&nbsp;Prior experience with applying machine learning algorithms and Geant4 MC framework is preferred;</div><div>&nbsp;</div><div>Good communication skills and ability to work in an international collaboration environment.</div><div>&nbsp;</div><div>The primary work location will be the IHEP main campus in Beijing.</div><div>&nbsp;</div><div>Salary and Benefits:&nbsp;This position offers a competitive salary. Outstanding candidates will be supported in applying for project funding and additional scholarships from the Chinese Academy of Sciences / IHEP. Postdoctoral researchers who demonstrate exceptional performance may be recommended for promotion to tenure-track faculty positions at IHEP.</div><div>&nbsp;</div><div>The initial appointment is for two years, with the possibility of renewal based on performance. Earlier start dates will be given preference.</div><div>&nbsp;</div><div>Application Procedure:&nbsp;Please send your CV (age 35 or below) and a cover letter (in which you should describe your research goals and how you plan to achieve them using your skills and experience) to Profs. Wen Liangjian, Li Gaosong, and&nbsp;Ostrovskiy Igor at the following addresses:&nbsp;wenlj@ihep.ac.cn, ligs@ihep.ac.cn, igor.ostrovskiy@ihep.ac.cn</div><div><br></div><div>Please also provide the names and contact information of three referees. We will contact them for reference letters as needed.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "JUNO"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-10T02:46:12.155711+00:00",
+      "updated": "2026-09-10T17:40:33.010140+00:00",
+      "addedAt": "2026-09-11T08:09:17.905Z",
+      "isNew": true
+    },
+    {
       "id": "3201552",
       "title": "Assistant/Associate Professor of Experimental Relativistic Heavy-Ion Physics",
       "institution": "Purdue U., West Lafayette",
@@ -25,7 +78,7 @@
       "created": "2026-09-09T20:45:12.866780+00:00",
       "updated": "2026-09-09T20:57:11.561667+00:00",
       "addedAt": "2026-09-10T08:09:16.836Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3200480",
@@ -11018,6 +11071,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-10T08:09:16.838Z",
-  "totalJobs": 411
+  "lastUpdated": "2026-09-11T08:09:17.906Z",
+  "totalJobs": 413
 }
