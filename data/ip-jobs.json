@@ -1,6 +1,84 @@
 {
   "jobs": [
     {
+      "id": "3202618",
+      "title": "Postdoctoral Position in Particle Physics",
+      "institution": "Harvard U. (main)",
+      "deadline": "2026-10-14",
+      "description": "<div>We invite applications for a Postdoctoral Fellow position in the intersection between quantum information and particle physics. The successful applicant will work in Professor Carlos Argüelles’ group on the development of new algorithms to encode and process particle physics data in near-term era quantum computers. Applicants with backgrounds in quantum information or particle physics are both encouraged to apply.</div><div><br></div><div>Candidates with strong expertise in machine learning, quantum information, and/ or data analysis are strongly encouraged to apply, as these skills will be preferred in the selection process. This appointment duration is up to three years, with reappointment contingent upon funding and research collaboration. <strong>Please note that applications will be reviewed on a rolling basis and this position will remain open until filled</strong>, so a confirmation of decision may be somewhat delayed.</div><div><br></div><div>Applications should consist of a <strong>CV, a list of publications, and a statement of research interest</strong>. Please also provide three letters of recommendation, uploaded to this portal. Please email Molly Neylan (molly_neylan@fas.harvard.edu) with any questions.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicpositions.harvard.edu/postings/16585"
+      ],
+      "contact_email": null,
+      "created": "2026-09-11T16:06:21.217012+00:00",
+      "updated": "2026-09-11T16:50:09.774740+00:00",
+      "addedAt": "2026-09-14T08:10:29.236Z",
+      "isNew": true
+    },
+    {
+      "id": "3202250",
+      "title": "Postdoctoral Fellow in Experimental Particle Astrophysics",
+      "institution": "U. Toronto (main)",
+      "deadline": "2026-10-15",
+      "description": "<div><em>**Please note that this posting will remain open until filled. We will begin reviewing applications on October 16, 2026.**</em></div><div>&nbsp;</div><div>The <a href=\"https://www.dunlap.utoronto.ca/\">Dunlap Institute for Astronomy and Astrophysics</a> at the <a href=\"https://www.utoronto.ca/\">University of Toronto</a> (UofT) invites applications for a postdoctoral fellow to work on the <a href=\"https://gaps1.astro.ucla.edu/gaps/\">General Antiparticle Spectrometer (GAPS)</a> Antarctic balloon program. GAPS is the first experiment optimized for detection of low-energy cosmic-ray antiprotons, antideuterons, and antihelium nuclei for dark matter. The first of several planned flights was successfully completed in January 2026.</div><div>&nbsp;</div><div>The appointee will work as a member of Prof. Field Rogers’ research group. They will play a leading role in the development of a new scintillating fiber sensor system as an upgrade for the second GAPS flight, including mentoring of research students. Additional responsibilities will be negotiated to support the candidate’s career development as well as the needs of the group. Opportunities within Prof. Rogers’ lab could include analysis of GAPS flight-1 data, analysis and/or pipeline development associated with data from the upcoming <a href=\"https://cosi.ssl.berkeley.edu/\">Compton Spectrometer and Imager (COSI)</a> telescope, or related science with low-energy cosmic rays. Projects outside the lab’s existing scope, including but not limited to collaboration with other research groups at UofT, may be possible pending agreement among all parties and the availability of research funds.</div><div><br></div><div>The anticipated start date is January 2027, but later start dates are possible. The initial appointment will be for one year with the possibility of further extensions up to three years. The position has a starting annual salary of CAD 75,516 and also comes with <a href=\"https://postdoc.sgs.utoronto.ca/getting-started/\">generous benefits</a>, an annual research allowance, relocation assistance, and the opportunity to request additional research funds. </div><div>&nbsp;</div><div>The Dunlap Institute pursues groundbreaking astronomical research through innovative approaches to instrumentation, data-driven science and observations, alongside a substantive commitment to outreach and training. The Dunlap Institute is co-located with and has strong ties to the University of Toronto’s <a href=\"http://www.astro.utoronto.ca/\">David A. Dunlap Department of Astronomy and Astrophysics</a> (DADDAA) and to the <a href=\"https://www.cita.utoronto.ca/\">Canadian Institute for Theoretical Astrophysics</a> (CITA). These three units together host more than 150 faculty, postdocs, staff and students, who conduct a diverse research program across instrumentation, observations, computation and theory. The Dunlap Institute is located on a beautiful 19th century campus in the heart of one of the world’s great cities. Rated as having one of the highest standards of living in the world, Toronto offers a huge range of indoor and outdoor pursuits, and a vibrant and diverse cultural community.</div><div>&nbsp;</div><div>Applicants must have earned a PhD in physics, astronomy/astrophysics, engineering, or a related field at the time of appointment. Applicants should have a PhD awarded on or after January 1, 2022 (career interruptions or other extenuating circumstances will be accommodated and should be noted in the cover letter). Additional selection criteria include: </div><div>1)&nbsp;&nbsp;&nbsp;Demonstrated excellence in developing, calibrating, and/or commissioning scientific instrumentation, particularly nuclear radiation sensors and/or high-altitude or space instrumentation, </div><div>2)&nbsp;&nbsp;&nbsp;Demonstrated ability to work as a part of an instrumentation team, including commitment to an atmosphere of collaboration and respect in which the contributions of every member are valued, and</div><div>3)&nbsp;&nbsp;&nbsp;Excellent scientific communication skills, as demonstrated through publications, application materials, and other professional communications.</div><div>Experience with scintillating fiber technology, SiPMs, charge-sensitive readout electronics systems, ASIC systems, space qualification, vacuum systems, cryogenic systems, astronomical or particle physics data analysis, particle physics simulation, and/or supervision of research students will be welcome but not required.</div><div><br></div><div>The Dunlap Institute is committed to an inclusive and flexible workplace. We encourage applications from qualified applicants of all sexual orientations and gender expressions, racialized people, Indigenous peoples, and persons with disabilities. Subject to immigration regulations, the successful candidate will be given the option to take up the position as a part-time appointment (such a request need not be made as part of a candidate's initial application).</div><div>&nbsp;</div><div>All application materials must be submitted online at <a href=\"https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_GAPS2026\">AcademicJobsOnline</a> before the application will be considered. Applicants should submit (in PDF format): </div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a cover letter explicitly addressing the above selection criteria,</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a CV including a full list of publications, and</div><div>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a statement of research including past accomplishments and future interests (maximum three pages excluding references).</div><div>Applicants should also arrange to have three letters of reference uploaded directly to <a href=\"https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_GAPS2026\">AcademicJobsOnline</a> by the letter writers.</div><div>&nbsp;</div><div>Review of applications will begin on October 16, 2026 and continue until a suitable candidate is found.</div><div><strong>&nbsp;</strong></div><div><strong>&nbsp;</strong></div><div><strong>—</strong></div><div>&nbsp;</div><div><strong>To apply: </strong><a href=\"https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_GAPS2026\">https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_GAPS2026</a></div><div>&nbsp;</div><div><em>The normal hours of work are 40 hours per week for a full-time postdoctoral fellow (pro-rated for those holding a partial appointment) recognizing that the needs of the employee’s research and professional development and the needs of the supervisor’s research program may require flexibility in the performance of the employee’s duties and hours of work. </em></div><div>&nbsp;</div><div><em>Employment as a Postdoctoral Fellow at the University of Toronto is covered by the terms of the CUPE 3902 Unit 5 Collective Agreement. This job is posted in accordance with the CUPE 3902 Unit 5 Collective Agreement. </em></div><div><em>&nbsp;</em></div><div><em>The University of Toronto is strongly committed to diversity within its community and especially welcomes applications from racialized persons / persons of colour, women, Indigenous / Aboriginal People of North America, persons with disabilities, LGBTQ2S+ persons, and others who may contribute to the further diversification of ideas.</em></div><div><br></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "physics.acc-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_GAPS2026"
+      ],
+      "contact_email": null,
+      "created": "2026-09-10T16:22:09.246028+00:00",
+      "updated": "2026-09-11T14:37:32.615195+00:00",
+      "addedAt": "2026-09-14T08:10:29.236Z",
+      "isNew": true
+    },
+    {
+      "id": "3202263",
+      "title": "Postdoctoral Researcher in FASER",
+      "institution": "UC, Irvine (main)",
+      "deadline": "2026-12-31",
+      "description": "<div>Postdoctoral Researcher in FASER</div><div><br></div><div>The FASER Group at the University of California, Irvine (UCI) invites applications for a postdoctoral research position.</div><div><br></div><div>FASER (ForwArd Search ExpeRiment) is an experiment at CERN’s Large Hadron Collider (LHC) designed to search for new light and weakly interacting particles and to study high-energy neutrinos produced in LHC collisions. FASER has opened a new window into collider neutrino physics through the first observations and studies of neutrinos produced at a particle collider. Looking toward LHC Run 4 and the High-Luminosity LHC (HL-LHC), the FASER Collaboration is developing an upgraded electronic neutrino detector to cope with the substantially higher luminosity and particle rates. UCI is leading the development of a highly-segmented plastic scintillator detector with SiPM readout for the FASER neutrino detector upgrade, designed to provide electronic tracking and calorimetric measurements of neutrino interactions.</div><div><br></div><div>The successful candidate will play a leading role in the R&amp;D and construction of a new plastic scintillator- and SiPM-based neutrino detector for the FASER experiment in preparation for LHC Run 4 and the HL-LHC era. The position will also involve related work in detector simulation, AI/ML software development, and data analysis within the FASER experiment.</div><div><br></div><div>Responsibilities will include leading the construction and assembly of FASER’s new plastic scintillator- and SiPM-based neutrino detector, integrating the detector electronics and readout systems, and contributing to detector testing, commissioning, and optimization. Experience with plastic scintillator- and SiPM-based detector systems is preferred.</div><div><br></div><div>UCI’s FASER group has played a leading role in the conception and development of FASER and its collider neutrino program and the UCI group is actively involved in developing next-generation neutrino detector technologies for FASER Run 4 and the HL-LHC era.</div><div><br></div><div>The position requires the ability to travel to CERN as needed.</div><div><br></div><div>We seek candidates with a Ph.D. in experimental particle physics and demonstrated expertise in both detector hardware and software/data analysis. Applicants should submit a curriculum vitae, a statement of research interests, and arrange for three letters of recommendation to be submitted.</div><div><br></div><div>Applications must be submitted through UC Irvine’s online recruitment system, RECRUIT, at:</div><div><br></div><div><a href=\"https://recruit.ap.uci.edu/JPF10126\">https://recruit.ap.uci.edu/JPF10126</a></div><div><br></div><div>Please note that this posting is a general postdoctoral pool ad at UCI; in your cover letter, you should specify the job title “Postdoctoral Researcher in FASER.”</div><div><br></div><div>For general information about this position, please contact Professors Jianming Bian, bianjm@uci.edu and Jonathan Feng, jlf@uci.edu.</div><div><br></div><div>We are reviewing applications as they are received. The position will remain open until it is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-FASER"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-11T01:13:23.951907+00:00",
+      "updated": "2026-09-11T14:16:40.799260+00:00",
+      "addedAt": "2026-09-14T08:10:29.236Z",
+      "isNew": true
+    },
+    {
       "id": "3202083",
       "title": "Post Doctorate RA - SuperCDMS/Dark Matter",
       "institution": "PNL, Richland",
@@ -25,7 +103,7 @@
       "created": "2026-09-10T09:36:20.891143+00:00",
       "updated": "2026-09-10T17:41:31.201120+00:00",
       "addedAt": "2026-09-11T08:09:17.905Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3201559",
@@ -51,7 +129,7 @@
       "created": "2026-09-10T02:46:12.155711+00:00",
       "updated": "2026-09-10T17:40:33.010140+00:00",
       "addedAt": "2026-09-11T08:09:17.905Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3201552",
@@ -11071,6 +11149,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-11T08:09:17.906Z",
-  "totalJobs": 413
+  "lastUpdated": "2026-09-14T08:10:29.238Z",
+  "totalJobs": 416
 }
