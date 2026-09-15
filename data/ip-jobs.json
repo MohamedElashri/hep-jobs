@@ -1,6 +1,122 @@
 {
   "jobs": [
     {
+      "id": "3202923",
+      "title": "Founding AI/ML Engineer (m/f/d)",
+      "institution": "MuRay Tech",
+      "deadline": "2026-12-31",
+      "description": "<div><strong>MuRay Tech is a deeptech spinout from DESY, Hamburg. We're hiring a Founding AI/ML Engineer to build our AI/ML function from the ground up. You'll set the technical strategy for two hard problems: density reconstruction from high-flux muon detector data, and autonomous control of our laser-plasma accelerator. As a founding hire, you'll also build the team, the simulation chain, and the training infrastructure. Broad scope. Direct ownership of a core part of the product.</strong></div><div><br></div><div><strong>The role</strong></div><div><strong>As Founding AI/ML Engineer, you'll own AI/ML strategy and execution across the company. That spans detector data, accelerator control, and internal tooling. You will:</strong></div><ul><li><strong>Build the AI/ML team. </strong>Hands-on at first. Hire and structure it as scope grows.</li><li><strong>Set the strategy for density reconstruction from muon detector hit data. </strong>Build the simulation chain and training infrastructure to develop and validate the models.</li><li><strong>Develop autonomous LPA operation and control. </strong>Build systems that optimise their own working point.</li><li><strong>Build AI/ML at MuRay</strong> from the ground up, across the company and the product.</li></ul><div><strong>What you'll bring</strong></div><ul><li><strong>A track record of building ML teams. </strong>You've grown an ML team from a small base before, at a startup or research lab. You're ready to be hands-on again before the team here exists.</li><li><strong>Depth in ill-posed inverse problems. </strong>Physics or medical imaging reconstruction experience. The judgment to know when classical methods break down and simulation-based, probabilistic methods are the better answer.</li><li><strong>ML control of real hardware. </strong>Hands-on experience with Bayesian optimization, reinforcement learning, or similar methods. Applied to a physical system with a slow or costly feedback loop.</li><li><strong>End-to-end pipeline experience. </strong>You've taken physics simulation output through to a trained, deployed model. You've handled the sim-to-real gap.</li><li><strong>Physics fluency and pragmatic engineering judgment. </strong>Comfort at the ML/physics interface. A bias toward infrastructure that fits a small team, not a hyperscaler.</li><li><strong>Communication people trust. </strong>You translate cleanly between ML, physics, and business audiences. You prioritise validated, defensible results over impressive demos.</li></ul><div><strong>How we work</strong></div><ul><li><strong>Skunkworks approach: </strong>We work in small teams with full ownership. We keep it simple, stupid.</li><li><strong>Move fast: </strong>a shiny prototype means we spent too long on it. We build to learn. We polish later.</li><li><strong>Disagree together, commit together:</strong> we debate and challenge, regardless of title. Then we deliver the decision as one team. We win as a team. We pivot as a team.</li><li><strong>Courage:</strong> we always make the call. A mistake isn't a failure: it's proof we're improving. Either way, we own the outcome.</li><li><strong>Honesty and transparency:</strong> we share what's really happening, good or bad. That lets everyone make the right call. We stay open. We stay honest.</li></ul><div><strong>What we offer</strong></div><ul><li><strong>Impact:</strong> you'll shape MuRay's technical direction. You'll help build the next generation of non-destructive testing methods.</li><li><strong>Autonomy:</strong> this is a founding role. You build the team, infrastructure, and tooling from the ground up.</li><li><strong>Network:</strong> research collaborators include DESY, DLR, CERN, and Imperial College London. Commercial partners include Siemens Energy, Airbus, Caelora, and ZAL.</li><li><strong>Infrastructure:</strong> you have access to LUMI. You also have access to an H200 GPU cluster in Hamburg.</li><li><strong>Ownership:</strong> an equity plan gives you a meaningful stake in the company.</li><li><strong>Compensation:</strong> a salary that reflects your contribution to MuRay's growth.</li><li><strong>Relocation:</strong> we support your move. If you're relocating from outside the EU, we help with the paperwork.</li></ul><div><strong>About MuRay Tech</strong></div><div>MuRay builds compact laser-plasma accelerators that generate a controlled muon beam. Muon scans today are passive and take days. Active Muon Imaging produces the same scan in seconds, at higher resolution. We work with partners in aerospace, defence, and energy today. Next: security, customs, and medical imaging.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "math-ph",
+        "stat",
+        "cs",
+        "physics.acc-ph",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://muraytech.jobs.personio.com/job/2783601?_pc=3327138"
+      ],
+      "contact_email": null,
+      "created": "2026-09-14T13:35:30.655771+00:00",
+      "updated": "2026-09-14T15:36:51.300740+00:00",
+      "addedAt": "2026-09-15T08:09:35.687Z",
+      "isNew": true
+    },
+    {
+      "id": "3202922",
+      "title": "Postdoctoral Research Assistant (m/f/d) in the Field of Particle Physics",
+      "institution": "Humboldt U., Berlin (main)",
+      "deadline": "2026-10-26",
+      "description": "<div>The <a href=\"https://www.physik.hu-berlin.de/de/eephys/ag-c-issever\">High Energy Group</a> of Humboldt-University of Humboldt is seeking to hire a post-doctoral researcher to work on diHiggs to 4b analyses.</div><div><br></div><div>The legally binding job advertisement is available in German at<strong>:</strong> <a href=\"https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-im-bereich-der-teilchenphysik-an-200-26#job-details-contact\">https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-im-bereich-der-teilchenphysik-an-200-26#job-details-contact</a></div><div><br></div><div><strong>Your Tasks</strong></div><ul><li>Teaching and Scientific research in the field of particle physics, particularly regarding Standard Model di-Higgs production and the search for new heavy particles and effects in Higgs pair processes using the ATLAS detector</li><li>Data analysis, identification of b-quarks and Higgs bosons</li><li>Preparation of reports and supervision of students</li><li>Tasks for your own scientific qualification (habilitation)</li></ul><div><strong>Your Profile</strong></div><ul><li>Completed university degree in physics and a PhD in experimental particle physics</li><li>Research experience in experimental particle physics and in the analysis of large datasets</li><li>Knowledge and experience with jets, b-quark/X → bb identification, and machine learning</li><li>Profound knowledge of Linux operating systems, C++, and Python</li><li>Goal-oriented, structured work approach, and a high degree of self-organization</li><li>Excellent communication skills, confident demeanor, and excellent written and spoken English and German (at least C1 level)</li><li>Willingness to travel for work</li></ul><div><strong>Your Path to Humboldt-Univesity of Berlin:</strong></div><div>Please send your complete application, quoting the reference number <strong>AN/200/26</strong>, to: Humboldt-Universität zu Berlin, Faculty of Mathematics and Natural Sciences, Institute of Physics, Prof. Dr. Cigdem Issever (Location: Newtonstr. 15, 12489 Berlin), Unter den Linden 6, 10099 Berlin, or preferably as a single PDF file via email to: <a href=\"mailto:phyheprc@hu-berlin.de\"><strong>phyheprc@hu-berlin.de</strong></a>.</div><div><br></div><div><strong>Required Application Documents:</strong></div><ul><li>A cover letter outlining your motivation and goals</li><li>Curriculum vitae</li><li>Relevant certificates</li><li>Additionally, three letters of reference must be sent by the deadline to the above address or email.</li></ul><div>The position is expected to be filled by <strong>February 1, 2027</strong>.</div><div><br></div><div>To promote equal opportunities, applications from qualified women are particularly welcome. Severely disabled applicants will be given preference if equally qualified. Applications from people with a migration background are explicitly encouraged. As we cannot return your documents, please submit only copies.</div><div><br></div><div>Humboldt-Universität zu Berlin is bound by collective bargaining agreements and applies the TV-L HU. Information on classification and annual salary framework can be found here: <a href=\"https://hu.berlin/ETRL\">https://hu.berlin/ETRL</a>.</div><div><br></div><div>For data protection information regarding the processing of your personal data within the application and selection process, please visit the Humboldt-Universität zu Berlin website: <a href=\"https://hu.berlin/DSGVO\">https://hu.berlin/DSGVO</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.hu-berlin.de/universitaet/arbeiten-an-der-hu/stellenangebote/details/wissenschaftlicher-mitarbeiterin-m-w-d-im-bereich-der-teilchenphysik-an-200-26"
+      ],
+      "contact_email": null,
+      "created": "2026-09-14T13:15:56.142464+00:00",
+      "updated": "2026-09-14T15:33:40.731672+00:00",
+      "addedAt": "2026-09-15T08:09:35.687Z",
+      "isNew": true
+    },
+    {
+      "id": "3202678",
+      "title": "Research Fellow in Experimental Particle Physics",
+      "institution": "Monash U.",
+      "deadline": "2026-10-14",
+      "description": "<div><strong>Job No.:</strong> 694525&nbsp;</div><div><strong>Location:</strong> Clayton campus, Melbourne, Australia</div><div><strong>Employment Type:</strong> Full-time&nbsp;</div><div><strong>Duration:</strong> 3-year fixed-term appointment</div><div><strong>Remuneration:</strong> $86,195 - $116,981 pa Level A (plus 17% employer superannuation)</div><ul><li><strong>Amplify your impact at a world top 50 University</strong></li><li><strong>Join our inclusive, collaborative community</strong></li><li><strong>Be surrounded by extraordinary ideas - and the people who discover them</strong></li></ul><div><strong>The Opportunity</strong></div><div>Join the <a href=\"https://www.monash.edu/science/schools/physics\">School of Physics and Astronomy </a>within the Faculty of Science as a Research Fellow and contribute to internationally recognised research in experimental particle physics. You will undertake high-impact research using data from the Large Hadron Collider (LHC) Run 3, with a focus on better understanding the Standard Model and identifying potential Beyond the Standard Model effects through the analysis of data from the LHCb experiment.</div><div>Working within Monash’s experimental particle physics group, you will contribute to research that complements and extends the group’s existing program, with opportunities across areas including rare b-hadron decays, doubly heavy hadron production, charm CP violation and forbidden hyperon decays. You will also have the opportunity to combine experimental data analysis with phenomenological studies and contribute to the LHCb simulation framework, working closely with QCD phenomenologists at Monash.</div><div><br></div><div>This role forms part of the final research phase of the Monash Warwick Alliance in Particle Physics (MWAPP) collaboration, with the research program scheduled for completion by Q3 2029. You will also have opportunities to contribute to research and development for the future LHCb Upgrade II or experiments at a future electron–positron collider, including emerging detector technologies such as SiPMs for single-photon timing measurements.</div><div>The successful candidate must hold a PhD in particle physics or a closely related discipline. This is an exciting opportunity to develop your research expertise, collaborate within a leading particle physics research environment, and contribute to the search for new physics through the analysis of cutting-edge LHC data and the development of technologies for future experiments.&nbsp;</div><div><br></div><div><strong>About Monash University</strong></div><div>At<a href=\"https://www.monash.edu/\"> Monash</a>, work feels different. There’s a sense of belonging, from contributing to something ground breaking – a place where great things happen.</div><div>We value difference and<a href=\"https://www.monash.edu/about/who/a-culture-of-integrity-and-respect/equity-diversity-inclusion/staff\"> diversity</a>, and welcome and celebrate everyone's contributions, lived experience and expertise. That’s why we champion an<a href=\"https://www.monash.edu/jobs/inclusive-workplace\"> inclusive and respectful workplace culture</a> where everyone is supported to succeed.</div><div><br></div><div>Some 20,000 staff work for Monash around the world. We have 95,000 students, four Australian campuses, and campuses in Malaysia and Indonesia. We also have a major presence in India and China, and a significant centre and research foundation in Italy.</div><div><br></div><div>In our short history, we have skyrocketed through global university rankings and established ourselves consistently among the world's best tertiary institutions. We rank in the<a href=\"https://www.monash.edu/study/why-choose-monash/our-rankings\"> world’s top-50 universities</a> in rankings including the QS World University Rankings 2026.</div><div><br></div><div>Together with our<a href=\"https://www.monash.edu/about/who/freedom-of-speech-and-academic-freedom\"> commitment to academic freedom</a>, you will have access to quality research facilities, infrastructure, world-class teaching spaces, and international collaboration opportunities.&nbsp;</div><div><a href=\"https://www.monash.edu/\">Learn more about Monash</a>.</div><div><br></div><div>Today, we have the<a href=\"https://www.monash.edu/momentum\"> momentum</a> to create the future we need for generations to come. Accelerate your change here.&nbsp;</div><div><br></div><div>Monash supports flexible and hybrid working arrangements. We have a range of policies in place enabling staff to combine work and personal commitments. This includes<a href=\"https://www.monash.edu/gender-equity/parents\"> supporting parents</a>.</div><div><br></div><div><strong>To Apply</strong></div><div>Your application will include:</div><ul><li>A current CV</li><li>A one-page research statement outlining your research to date and your future research plans</li></ul><div>For instructions on how to apply, please refer to '<a href=\"https://www.monash.edu/jobs/how-to-apply/applying-for-the-job\">How to apply for Monash Jobs</a>'.&nbsp;</div><div>Diversity is one of our greatest strengths at Monash. We encourage applications from Aboriginal and Torres Strait Islander people, culturally and linguistically diverse people, people with disabilities, neurodivergent people, and people of all genders, sexualities, and age groups.</div><div><br></div><div>We are committed to fostering an inclusive and accessible recruitment process at Monash. If you need any reasonable adjustments, please contact us at <a href=\"mailto:hr-recruitment@monash.edu\">hr-recruitment@monash.edu</a> in an email titled 'Reasonable Adjustments Request' for a confidential discussion.</div><div><br></div><div>Your employment is contingent upon the satisfactory completion of all pre-employment and/or background checks required for the role, as determined by the University.</div><div><br></div><div><strong>Enquiries:</strong> Professor Ulrik Egede, School of Physics &amp; Astronomy, <a href=\"mailto:ulrik.egede@monash.edu\">ulrik.egede@monash.edu</a>&nbsp;</div><div><strong>Position Description:&nbsp;</strong><a href=\"https://secure.dc2.pageuppeople.com/apply/TransferRichTextFile.ashx?sData=UFUtVjMtQGIlcLfGwkVOEbAytZU3KdkU9doe7ase0l8rcsj92juf4WJfvmFNtoeqR86qNs0tOOxQAdntcTOsAoxpVjPwD508XQ0NG9bY-mn020_yiwlBIni9xO3kZFKIQXH8TaUdIuXvL8fE32fbOhsIVCESKg%7e%7e\">Research Fellow- Experimental Particle Physics</a></div><div><strong>Applications Close:</strong> Wednesday 14 October 2026, 11:55pm AEDT</div><div><strong>Supporting a diverse workforce</strong></div>",
+      "regions": [
+        "Australasia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://careers.pageuppeople.com/513/cw/en/job/694525/research-fellow-in-experimental-particle-physics-mwapp"
+      ],
+      "contact_email": null,
+      "created": "2026-09-14T02:04:29.352241+00:00",
+      "updated": "2026-09-14T15:32:37.803757+00:00",
+      "addedAt": "2026-09-15T08:09:35.687Z",
+      "isNew": true
+    },
+    {
+      "id": "3202662",
+      "title": "ANRF Research Associate position in Experimental High Energy Physics",
+      "institution": "IISER, Tirupati",
+      "deadline": "2026-10-05",
+      "description": "<div>This&nbsp;<a href=\"https://anrfonline.in/ANRF/ANRF/HomePage\"><strong>Anusandhan National Research Foundation</strong></a><strong> (</strong>ANRF)-funded postdoctoral position&nbsp;will focus on physics opportunities at the Electron–Ion Collider (EIC), with a primary emphasis on hard-probe measurements and QCD studies. The selected candidate will work on developing experimental techniques, analysis methods, and novel observables to investigate the partonic structure and dynamics of nucleons and nuclei. The work will also involve simulation studies, detector-level analyses, and the development of strategies for future EIC measurements.</div><div><br></div><div>The position is temporary for an initial period of one year, extendable for one additional year based on a satisfactory performance review, for a maximum total duration of two years.</div><div><br></div><div>Minimum Qualifications:</div><div><br></div><div>1.&nbsp;Ph.D. degree in Experimental High-Energy/Nuclear Physics, preferably with research experience in data analysis, relativistic heavy-ion collisions at RHIC and/or LHC experiments, Electron–Ion Collider (EIC) physics, jet physics, or hard probes. The candidate should have strong computational and data-analysis skills, preferably with experience in C++/Python, ROOT, and commonly used high-energy physics Monte Carlo event generators, Geant4 or related frameworks. Candidates who have submitted their thesis and awaiting the award of a Ph.D. degree may also apply. Candidates should provide evidence of having conducted high-quality research during or after their Ph. D. program.</div><div><br></div><div><strong>Advertisement:</strong>&nbsp;<a href=\"https://www.iisertirupati.ac.in/jobs/advt_742026\">IISER Tirupati – Research Associate-I (Advertisement No. 74/2026)</a></div><div><br></div><div>Applications should be submitted to&nbsp;<a href=\"mailto:niharsahoo@labs.iisertirupati.ac.in\"><strong>niharsahoo@labs.iisertirupati.ac.in</strong></a>&nbsp;in the prescribed format, as specified on the advertisement webpage.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [
+        "BNL-RHIC-STAR",
+        "CERN-LHC-ALICE",
+        "ePIC",
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.iisertirupati.ac.in/jobs/advt_742026/"
+      ],
+      "contact_email": null,
+      "created": "2026-09-13T14:12:47.330403+00:00",
+      "updated": "2026-09-14T15:31:02.905600+00:00",
+      "addedAt": "2026-09-15T08:09:35.687Z",
+      "isNew": true
+    },
+    {
       "id": "3202618",
       "title": "Postdoctoral Position in Particle Physics",
       "institution": "Harvard U. (main)",
@@ -24,7 +140,7 @@
       "created": "2026-09-11T16:06:21.217012+00:00",
       "updated": "2026-09-11T16:50:09.774740+00:00",
       "addedAt": "2026-09-14T08:10:29.236Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202250",
@@ -51,7 +167,7 @@
       "created": "2026-09-10T16:22:09.246028+00:00",
       "updated": "2026-09-11T14:37:32.615195+00:00",
       "addedAt": "2026-09-14T08:10:29.236Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202263",
@@ -76,7 +192,7 @@
       "created": "2026-09-11T01:13:23.951907+00:00",
       "updated": "2026-09-11T14:16:40.799260+00:00",
       "addedAt": "2026-09-14T08:10:29.236Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202083",
@@ -11149,6 +11265,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-14T08:10:29.238Z",
-  "totalJobs": 416
+  "lastUpdated": "2026-09-15T08:09:35.689Z",
+  "totalJobs": 420
 }
