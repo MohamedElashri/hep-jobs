@@ -1,6 +1,144 @@
 {
   "jobs": [
     {
+      "id": "3203617",
+      "title": "High precision characterization of cryogenic detectors for dark matter and neutrino detection",
+      "institution": "CEA, DSM, Saclay",
+      "deadline": "2026-10-15",
+      "description": "<div>The Nuclear Physics Department at CEA Saclay is opening a postdoctoral position focused on the precise characterization of ultra-low-threshold cryogenic detectors developed for the search for light dark matter and the study of coherent elastic neutrino-nucleus scattering (CEvNS). The expected signals consist of nuclear recoils in the energy range of 10 to 1000 eV, for which precise calibration is currently lacking. The proposed postdoctoral project will provide unprecedented precision measurements in phonon or ionization channels, using a wide range of materials employed by the dark matter and neutrino community (Ge, Al₂O₃, CaWO₄, Si).</div><div><br></div><div>The work will be carried out in collaboration with the international partners of the CRAB experiment. The various detectors will be provided by the NUCLEUS, TESSERACT, BULLKID, and other collaborations. The measurement platform, installed and commissioned at the Vienna Research Reactor in Austria, combines a dilution cryostat, a thermal neutron beam, and an array of gamma detectors [1]. Nuclear recoil peaks of perfectly known energy are induced by neutron captures in the cryogenic detectors. These can also be time- and direction-tagged by the coincident detection of a several-MeV gamma ray.</div><div><br></div><div>The postdoctoral researcher will play a leading role in data taking, analysis, and comparison with detailed simulations, which will be performed at Saclay in collaboration with solid-state physicists. Several reference publications are expected for the different detector technologies to be characterized, including original tests of the impact of crystal defects and the time development of collision cascades, as well as a comprehensive study of ionization yield quenching in semiconductors for nuclear recoils below 1 keV.</div><div><br></div><div>The CEA-Saclay group is at the origine the CRAB calibration method. We are also involved in the NUCLEUS experiment, which aims to study the CEvNS process. The group’s expertise covers reactor neutrino and nuclear physics, data analysis, simulation, and the design of detectors and their shielding.</div><div><br></div><div>Applicants must hold a PhD in experimental astroparticle, particle, or nuclear physics. Experience with cryogenic detectors and data analysis (Python or&nbsp;C++)&nbsp;is required. The initial contract duration is two years, with the option to extend it for one year.</div><div><br></div><div>Interested candidates are encouraged to send a short motivation letter stating their research interests, a CV, a publication list, and recommendation letters to&nbsp;<a href=\"mailto:loic.thulliez@cea.fr\">loic.thulliez@cea.fr</a>&nbsp;and&nbsp;<a href=\"mailto:david.lhuillier@cea.fr\">david.lhuillier@cea.fr</a>.</div><div><br></div><div>Please submit applications in electronic form (as a single PDF file). The position is to be filled by October&nbsp;15th, 2026.</div><div><br></div><div>However, applications received later containing all necessary documents will be considered until the position is filled.</div><div><br></div><div>[1] H. Abele et al. (CRAB collaboration), “The CRAB facility at the TU Wien TRIGA reactor : status&nbsp;and related physics program”, Eur. Phys. J. C 85, 1188 (2025).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CRAB"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-15T19:08:42.056733+00:00",
+      "updated": "2026-09-15T22:20:20.161844+00:00",
+      "addedAt": "2026-09-16T08:09:45.077Z",
+      "isNew": true
+    },
+    {
+      "id": "3203562",
+      "title": "Associate Research Scholar",
+      "institution": "Princeton U. (main)",
+      "deadline": "2026-10-09",
+      "description": "<div>The Princeton Quantum Initiative seeks outstanding applicants for our postdoctoral fellowship program. Appointments, which will be to a three-year term, will be at the rank of Associate Research Scholar. These highly competitive positions will support research in quantum science and engineering across several departments throughout the university, including physics, electrical engineering, computer science, chemistry, and mechanical engineering. Research areas include foundational quantum science, quantum materials, devices for quantum technologies, and quantum computer science. Appointments come with a highly competitive salary and $10,000 annually in research funding.</div><div>&nbsp;</div><div>Applicants should have a strong track record of research excellence in a related field and should have or be approaching a PhD in a related discipline (Physics, EE, Chemistry, or Computer Science). Please include a CV, cover letter, a brief (1-2 page) statement of research interests including faculty member(s) with whom you would want to work, publications list, and contact information for three references.</div><div>&nbsp;</div><div><strong>Applications will receive full consideration if they are submitted by October 9, 2026 at 11:59 PM.</strong></div><div>&nbsp;</div><div>The work location for this position is in-person, on campus at Princeton University. The selected candidates will be required to successfully complete the University's background check.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "quant-ph",
+        "cs",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apply.interfolio.com/191594"
+      ],
+      "contact_email": null,
+      "created": "2026-09-15T14:08:17.516936+00:00",
+      "updated": "2026-09-15T17:51:48.731217+00:00",
+      "addedAt": "2026-09-16T08:09:45.077Z",
+      "isNew": true
+    },
+    {
+      "id": "3203588",
+      "title": "Operations Director",
+      "institution": "U. Copenhagen (main)",
+      "deadline": "2026-11-14",
+      "description": "<div><strong>We're hiring: Operation Director for the new SCIENCE Makerspace (UCPH),&nbsp;</strong>University of Copenhagen, Denmark&nbsp;</div><div><br></div><div>Do you thrive at the intersection of leadership, innovation, education, and community-building? The Faculty of SCIENCE at the University of Copenhagen is establishing a&nbsp;<strong>600 m² interdisciplinary Makerspace</strong>, backed by&nbsp;<strong>DKK 42 million from the Novo Nordisk Foundation</strong>, and we're looking for an&nbsp;<strong>Operation Director</strong>&nbsp;to help shape it from the ground up.&nbsp;&nbsp;</div><div><br></div><div>This is a unique opportunity to help build and lead one of the most ambitious educational initiatives at the University of Copenhagen, Denmark.&nbsp;</div><div>In this role, you'll lead the Makerspace team, drive the establishment and daily operation of a world-class learning environment, and work with faculty leaders to transform teaching and learning across 12 science departments. This is an exciting opportunity for someone with experience in leadership and organizational development, and an&nbsp;interest in&nbsp;makerspaces and higher education.&nbsp;</div><div><br></div><div>We're particularly interested in reaching candidates who are passionate about&nbsp;<strong>inclusive learning environments, interdisciplinary collaboration, student engagement, and creating something entirely new</strong>.&nbsp;</div><div>📍&nbsp;Copenhagen, Denmark&nbsp;</div><div>🏛&nbsp;University of Copenhagen, Faculty of SCIENCE&nbsp;</div><div>🔗&nbsp;Learn more:&nbsp;<a href=\"http://ucphmakerspace.dk/\">ucphmakerspace.dk</a>&nbsp;/&nbsp;<a href=\"https://employment.ku.dk/all-vacancies/?show=168989\">https://employment.ku.dk/all-vacancies/?show=168989</a>&nbsp;</div><div>Please share within your networks or tag someone who would be a great fit.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "stat",
+        "cs",
+        "eess",
+        "nlin"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://employment.ku.dk/all-vacancies/?show=168989"
+      ],
+      "contact_email": null,
+      "created": "2026-09-15T14:47:32.097693+00:00",
+      "updated": "2026-09-15T17:50:01.283060+00:00",
+      "addedAt": "2026-09-16T08:09:45.077Z",
+      "isNew": true
+    },
+    {
+      "id": "3203341",
+      "title": "PhD Student in Physics: Background and Calibration Studies for Neutron-Oscillation Searches",
+      "institution": "Stockholm U. (main)",
+      "deadline": "2026-09-28",
+      "description": "<div>Searches for rare neutron transformations offer a promising approach to investigating baryon-number violation and physics beyond the Standard Model. Proposed experimental concepts, including HIBEAM/NNBAR at the European Spallation Source, require detailed understanding of potential backgrounds, detector performance and strategies for identifying and suppressing unwanted signals.</div><div><br></div><div>The PhD project will focus on background and calibration measurements, together with simulations and analysis relevant to future neutron-oscillation searches. The work includes measurements of neutron-, photon- and cosmic-ray-induced backgrounds; detector calibration and characterisation; studies of detector response and shielding; and event reconstruction and signal-background discrimination. Experimental work with detector prototypes and test beams will be combined with computational studies and, where appropriate, modern analysis methods such as machine learning.</div><div><br></div><div>The student will contribute to feasibility and sensitivity studies for proposed future experiments and work within an international research environment.</div><div><br></div><div>The position is based in the Experimental Particle and Astroparticle Physics division at Stockholm University.</div><div><br></div><div>Further, more detailed, information is given in the application system: <a href=\"https://su.varbi.com/en/what:job/jobID:963115/\">su.varbi.com/en/what:job/jobID:963115</a></div><div><br></div><div>For more information about the project, please contact Prof. David Milstead: <a href=\"mailto:milstead@fysik.su.se\">milstead@fysik.su.se</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "HIBEAM",
+        "NNBAR"
+      ],
+      "urls": [
+        "https://su.varbi.com/en/what:job/jobID:963115/"
+      ],
+      "contact_email": null,
+      "created": "2026-09-15T07:46:57.277895+00:00",
+      "updated": "2026-09-15T17:49:04.083903+00:00",
+      "addedAt": "2026-09-16T08:09:45.077Z",
+      "isNew": true
+    },
+    {
+      "id": "3203573",
+      "title": "Postdoctoral researcher in particle detector physics and scientific instrumentation",
+      "institution": "U. Strasbourg",
+      "deadline": "2026-11-30",
+      "description": "<div>The C4PI team (<a href=\"https://iphc.cnrs.fr/les-plateformes/#c4pi\">https://iphc.cnrs.fr/les-plateformes/#c4pi</a>) at IPHC in Strasbourg is offering a 2-year postdoc position (1 year, renewable for 1 year) to develop innovative instrumentation for research conducted with high-power lasers (nuclear physics and others).</div><div><br></div><div>Applicants should hold a recent Ph.D. in detector physics and scientific instrumentation, and have a strong interest in electronics.&nbsp;</div><div>Attached is the detailed job posting related to the European EIC Pathfinder EUROPA project (<a href=\"https://europa-project.eu/\">https://europa-project.eu/</a>).&nbsp;</div><div><br></div><div>The position would ideally start in November 2026, but the posting remains open until the position is filled.</div><div>Interested candidates should contact Maciej Kachel (maciej.kachel@iphc.cnrs.fr) to build the application.</div><div><br></div><div><a href=\"https://www.unistra.fr/fr/recrutement/postdoctoral-en-physique-des-detecteurs-et-instrumentation-scientifique-cdd-1\">https://www.unistra.fr/fr/recrutement/postdoctoral-en-physique-des-detecteurs-et-instrumentation-scientifique-cdd-1</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.unistra.fr/fr/recrutement/postdoctoral-en-physique-des-detecteurs-et-instrumentation-scientifique-cdd-1"
+      ],
+      "contact_email": null,
+      "created": "2026-09-15T14:18:53.532184+00:00",
+      "updated": "2026-09-15T17:47:30.492739+00:00",
+      "addedAt": "2026-09-16T08:09:45.077Z",
+      "isNew": true
+    },
+    {
       "id": "3202923",
       "title": "Founding AI/ML Engineer (m/f/d)",
       "institution": "MuRay Tech",
@@ -29,7 +167,7 @@
       "created": "2026-09-14T13:35:30.655771+00:00",
       "updated": "2026-09-14T15:36:51.300740+00:00",
       "addedAt": "2026-09-15T08:09:35.687Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202922",
@@ -56,7 +194,7 @@
       "created": "2026-09-14T13:15:56.142464+00:00",
       "updated": "2026-09-14T15:33:40.731672+00:00",
       "addedAt": "2026-09-15T08:09:35.687Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202678",
@@ -83,7 +221,7 @@
       "created": "2026-09-14T02:04:29.352241+00:00",
       "updated": "2026-09-14T15:32:37.803757+00:00",
       "addedAt": "2026-09-15T08:09:35.687Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202662",
@@ -114,7 +252,7 @@
       "created": "2026-09-13T14:12:47.330403+00:00",
       "updated": "2026-09-14T15:31:02.905600+00:00",
       "addedAt": "2026-09-15T08:09:35.687Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202618",
@@ -11265,6 +11403,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-15T08:09:35.689Z",
-  "totalJobs": 420
+  "lastUpdated": "2026-09-16T08:09:45.078Z",
+  "totalJobs": 425
 }
