@@ -1,6 +1,57 @@
 {
   "jobs": [
     {
+      "id": "3203687",
+      "title": "PhD Position on the LZ and XLZD dark matter searches",
+      "institution": "U. Sydney (main)",
+      "deadline": "2026-09-30",
+      "description": "<div>There are two opportunities for PhD positions at the University of Sydney working on the LZ and XLZD dark matter experiment. The student would be embedded within the Astroparticle Physics group at the University of Sydney (<a href=\"https://astroparticle-science.sydney.edu.au/\">https://astroparticle-science.sydney.edu.au/</a>).</div><div><br></div><div>Astroparticle PhD Scholarship (specific project): <a href=\"https://www.sydney.edu.au/scholarships/d/postgraduate-research-scholarship-in-astroparticle-physics.html\">https://www.sydney.edu.au/scholarships/d/postgraduate-research-scholarship-in-astroparticle-physics.html</a></div><div>School of Physics Foundation PhD Scholarship (open call): <a href=\"https://www.sydney.edu.au/scholarships/d/physics-foundation-scholarship.html\">https://www.sydney.edu.au/scholarships/d/physics-foundation-scholarship.html</a></div><div><br></div><div>Please email theresa.fruth@sydney.edu.au before submitting your application.</div>",
+      "regions": [
+        "Australasia"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "LZ",
+        "XLZD"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-15T23:34:53.480111+00:00",
+      "updated": "2026-09-16T14:40:21.746969+00:00",
+      "addedAt": "2026-09-17T08:10:17.059Z",
+      "isNew": true
+    },
+    {
+      "id": "3204207",
+      "title": "Postdoctoral Research Position in Experimental High-Energy Physics - CMS Experiment",
+      "institution": "Tarapaca U.",
+      "deadline": "2026-10-31",
+      "description": "<div>The Experimental High Energy Physics group at the University of Tarapacá, Chile (UTA), Chile (South America), invites applications for a postdoctoral research position in experimental high-energy physics to work on the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider (LHC) at CERN (<a href=\"https://cms.cern/\">https://cms.cern/</a>). The University of Tarapacá is a nationally accredited public university recognized for its research excellence. More information about the university can be found at <a href=\"https://www.uta.cl/\">https://www.uta.cl</a>.</div><div>&nbsp;</div><div>Our group at UTA is involved in CMS physics analyses and the Phase-II GEM muon upgrade. The group collaborates with CERN, Geneva, Switzerland, as well as the University of Delhi (DU), Delhi, India and Panjab University (PU), Chandigarh, India. The selected candidate will work on beyond Standard Model physics analyses and detector upgrade activities.</div><div>&nbsp;</div><div>The selected candidate is expected to apply in spring 2027 for a FONDECYT postdoctoral grant from the Chilean funding agency ANID, with support from UTA under the supervision of a professor in our team and sponsorship from the Universidad de Tarapacá.</div><div>&nbsp;</div><div>A Ph.D. in experimental high-energy particle physics is required, with the Ph.D. defended no earlier than January 1, 2024. Candidates expecting to defend their Ph.D. by September 2026 may also apply, provided they complete the required Ph.D. formalities within the applicable deadline. Good knowledge of the English language is expected. Experience with experimental particle physics, detector development, and data analysis is desirable.&nbsp;</div><div>The candidate will be expected to conduct original research within the CMS experiment, leading to publications in peer-reviewed journals and contribute to the Phase-II GEM muon upgrade, including detector development and upgrade activities in collaboration with the CMS groups involved in the GEM detector. The candidate will have the opportunity to contribute to the supervision of graduate and undergraduate student projects as part of their academic development.</div><div>The starting date is negotiable. If awarded the FONDECYT Postdoctorado grant, the position is expected to start in spring 2028, subject to the FONDECYT funding schedule. The position will be primarily based in Chile, with some travel to CERN and India, to work in collaboration with the CMS groups at DU and PU. However, the place of work of the researcher can be negotiated.</div><div>Interested candidates are invited to apply by sending a detailed curriculum vitae, including the Ph.D. defense date, a copy of passport and/or identity card, copies of diplomas (<a href=\"http://B.Sc\">B.Sc</a>., <a href=\"http://M.Sc\">M.Sc</a>., and Ph.D., if applicable), academic transcripts, a recent photograph, a numbered list of publications, and a cover letter (maximum one page) describing their research interests. Candidates should also provide the names and contact details of at least three referees with whom they have worked closely.</div><div>&nbsp;</div><div>All documents must be sent in a single email to <a href=\"mailto:postdoccmschile@gmail.com\">postdoccmschile@gmail.com</a>, with the subject: \"Your Name - Application Postdoc 2027 - CMS\".</div><div>&nbsp;</div><div>Candidates should also arrange for at least three recommendation letters to be sent directly to <a href=\"mailto:postdoccmschile@gmail.com\">postdoccmschile@gmail.com</a>, with the subject: \"Recommendation letter for Your Name\".</div><div>&nbsp;</div><div>Review of candidates will be ongoing till the position is filled.&nbsp;For further details or any query, please contact postdoccmschile@gmail.com (<a href=\"mailto:postdoccmschile@gmail.com\">postdoccmschile@gmail.com</a>)</div><div>&nbsp;</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-16T08:21:55.147583+00:00",
+      "updated": "2026-09-16T14:39:02.442649+00:00",
+      "addedAt": "2026-09-17T08:10:17.059Z",
+      "isNew": true
+    },
+    {
       "id": "3203617",
       "title": "High precision characterization of cryogenic detectors for dark matter and neutrino detection",
       "institution": "CEA, DSM, Saclay",
@@ -24,7 +75,7 @@
       "created": "2026-09-15T19:08:42.056733+00:00",
       "updated": "2026-09-15T22:20:20.161844+00:00",
       "addedAt": "2026-09-16T08:09:45.077Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3203562",
@@ -51,7 +102,7 @@
       "created": "2026-09-15T14:08:17.516936+00:00",
       "updated": "2026-09-15T17:51:48.731217+00:00",
       "addedAt": "2026-09-16T08:09:45.077Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3203588",
@@ -80,7 +131,7 @@
       "created": "2026-09-15T14:47:32.097693+00:00",
       "updated": "2026-09-15T17:50:01.283060+00:00",
       "addedAt": "2026-09-16T08:09:45.077Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3203341",
@@ -109,7 +160,7 @@
       "created": "2026-09-15T07:46:57.277895+00:00",
       "updated": "2026-09-15T17:49:04.083903+00:00",
       "addedAt": "2026-09-16T08:09:45.077Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3203573",
@@ -136,7 +187,7 @@
       "created": "2026-09-15T14:18:53.532184+00:00",
       "updated": "2026-09-15T17:47:30.492739+00:00",
       "addedAt": "2026-09-16T08:09:45.077Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3202923",
@@ -11403,6 +11454,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-16T08:09:45.078Z",
-  "totalJobs": 425
+  "lastUpdated": "2026-09-17T08:10:17.061Z",
+  "totalJobs": 427
 }
