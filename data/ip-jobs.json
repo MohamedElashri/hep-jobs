@@ -1,6 +1,34 @@
 {
   "jobs": [
     {
+      "id": "3204331",
+      "title": "SMU Physics Department Chair (Tenured Senior Faculty)",
+      "institution": "Southern Methodist U. (main)",
+      "deadline": "2026-11-10",
+      "description": "<div>The <strong>Department of Physics</strong> at Southern Methodist University invites applications for a tenured senior faculty member to serve as department chair beginning August 1st, 2027. We seek an accomplished experimental physicist with an internationally recognized research program and a record of scientific leadership who can help shape the Department’s next phase of research growth. Candidates from experimental physics and closely aligned areas that complement or extend our existing research strengths are encouraged to apply. We are particularly interested in scholars whose work involves advanced instrumentation, detector or sensor development, electronics, photonics, or related technologies and who see opportunities to build upon SMU’s established experimental infrastructure and multidisciplinary research capabilities.</div><div><br></div><div><strong>Research:</strong> Southern Methodist University is an R1 research-intensive, private liberal arts university centrally located in the vibrant Dallas-Fort Worth metropolitan area. The Department pursues an ambitious research agenda focused on the most pressing and transformative questions in physics. Efforts span high-energy physics, nuclear physics, astrophysics, and cosmology. We participate in a diverse range of large, international collaborations, including ATLAS and CMS, the Electron-Ion Collider, NOvA, ICARUS, DESI, the Simons Observatory, the Vera C. Rubin Observatory, and COMAP, among others.</div><div><br></div><div>Within ATLAS, our research focuses primarily on Higgs boson and multi-boson physics, spanning precision studies of Standard Model processes and searches for new phenomena. The team also plays a major role in the development, upgrade, and maintenance of the ATLAS liquid argon calorimeter, the trigger, and the pixel detector. The work at SMU spans R&amp;D in high-speed, radiation-hard optical links, chip design, and firmware development for off-detector readout electronics. The astrophysics and cosmology program explores dark energy, dark matter, and gravity through galaxy clustering, gravitational lensing, the cosmic microwave background, line-intensity mapping, and supernovae, and includes a detector R&amp;D program in photonics. Our Department’s theory and high-energy/nuclear groups pursue collider phenomenology, higher-order QCD calculations, and precision determinations of proton and nuclear structure.</div><div><br></div><div><strong>Resources:</strong> SMU supports the Department’s research with substantial resources, including extensive computational capabilities provided by the O’Donnell Data Science and Research Computing Institute. A multifaceted high-performance cluster supports large-scale numerical and computer-algebra methods; an NVIDIA SuperPOD enables advanced HPC and AI/ML research; and high-memory nodes support massive, high-resolution N-body cosmological simulations.</div><div>The Moody School of Graduate and Advanced Studies supports our Ph.D. program and provides pathways for specialization across our research areas. The Dedman College Interdisciplinary Institute supports undergraduate study in our degree programs, which include the BS and BA in physics with an optional astrophysics specialization, and the BS in Biophysical Sciences.</div><div><br></div><div><strong>Qualifications:</strong> The successful candidate for Chair will bring a record of scientific and strategic leadership, along with demonstrated experience leading a large, diverse, and collaborative organization of multidisciplinary scientists and engineers. They will provide visionary leadership to define and advance the Department’s teaching and research priorities, strengthen undergraduate and graduate education, expand externally funded research programs, and foster ambitious, interdisciplinary collaborations. The position calls for substantial experience with large-scale budget management, personnel oversight, and the evaluation of tenure-line faculty. The Chair will foster collaborative research agendas that strategically leverage SMU’s resources and core strengths, advancing innovative scholarship while furthering the University’s mission as a premier private urban research institution.</div><div>The Chair will also maintain a vigorous, impactful, externally funded research program that builds upon the Department’s strong culture of scientific excellence. This search seeks applicants broadly in physics, and we welcome candidates with connections to existing experimental and observational programs. We particularly encourage applicants who can leverage SMU’s resources, including the Department’s established optoelectronics infrastructure, to develop new research directions and expand existing strengths.</div><div><br></div><div><strong>Application:</strong> Interested candidates are invited to submit a curriculum vitae and a statement describing their research accomplishments, scientific leadership, and executive or administrative experience. References may be requested at a later stage in the review process. Please submit applications through <a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapply.interfolio.com%2F193708.&amp;data=05%7C02%7Colness%40smu.edu%7C0d79e5196fb84199bde408df1445bbaa%7C0f450f2e334f4bada85c9adf76051d8b%7C0%7C0%7C639251962368859370%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=JWFhnUi7km99pfdf3FDnWPJ5VFbsslX2fBg%2BQoi0GrM%3D&amp;reserved=0\">https://apply.interfolio.com/193708</a>. Review of applications will begin November 10, 2026, but applications will continue to be accepted until the position is filled. Applicants will be notified of the committee’s decision following the completion of the search. Employment is contingent upon the satisfactory completion of a background check. Questions or inquiries may be directed to the search chair, Prof. Fredrick Olness, at <a href=\"mailto:olness@smu.edu\">olness@smu.edu</a></div><div><br></div><div><strong>Equal Employment Opportunity Statement:</strong></div><div><em>SMU is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, age, disability, genetic information, veteran status, sexual orientation, or gender identity and expression.</em></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "hep-ex",
+        "nucl-ex",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apply.interfolio.com/193708"
+      ],
+      "contact_email": null,
+      "created": "2026-09-17T01:32:59.073160+00:00",
+      "updated": "2026-09-17T15:24:06.499123+00:00",
+      "addedAt": "2026-09-18T08:09:06.370Z",
+      "isNew": true
+    },
+    {
       "id": "3203687",
       "title": "PhD Position on the LZ and XLZD dark matter searches",
       "institution": "U. Sydney (main)",
@@ -24,7 +52,7 @@
       "created": "2026-09-15T23:34:53.480111+00:00",
       "updated": "2026-09-16T14:40:21.746969+00:00",
       "addedAt": "2026-09-17T08:10:17.059Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3204207",
@@ -49,7 +77,7 @@
       "created": "2026-09-16T08:21:55.147583+00:00",
       "updated": "2026-09-16T14:39:02.442649+00:00",
       "addedAt": "2026-09-17T08:10:17.059Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3203617",
@@ -11454,6 +11482,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-17T08:10:17.061Z",
-  "totalJobs": 427
+  "lastUpdated": "2026-09-18T08:09:06.371Z",
+  "totalJobs": 428
 }
