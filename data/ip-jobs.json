@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3205802",
+      "title": "PhD in Experimental Astroparticle Physics (IceCube)",
+      "institution": "KIT, Karlsruhe, ETP",
+      "deadline": "2026-11-14",
+      "description": "<div>The Institute of Experimental Particle Physics (ETP) at the Karlsruhe Institute of Technology (KIT) invites applications for a doctoral position in High-Energy Astroparticle Physics within the IceCube Neutrino Observatory collaboration.</div><div><br></div><div>The successful candidate will contribute to cutting-edge research in cosmic-ray physics using IceCube. A central focus of the project is the recently upgraded IceCube surface detector array, where the existing IceTop is being extended by a hybrid network of radio antennas and scintillation detectors. The doctoral researcher will play a key role in the calibration, event reconstruction, and scientific analysis of data from this novel detector array.</div><div><br></div><div>In particular, the project will investigate coincident measurements of extensive air showers recorded simultaneously by the new surface detectors and the in-ice detector components of IceCube. These studies will provide important tests of hadronic interaction models that are fundamental to simulations of cosmic-ray air showers and will also build the foundations of future gamma-ray searches.</div><div>&nbsp;</div><div>The doctoral candidate will be a member of the Karlsruhe School of Elementary and Astroparticle Physics: Science and Technology (KSETA), which offers a structured and interdisciplinary doctoral training program, including scientific workshops, transferable skills courses, and networking opportunities. The position also includes contributions to teaching activities and the co-supervision of bachelor’s and master’s students.</div><div>&nbsp;</div><div>Applicants must have a master in physics or astrophysics. Previous experience in astroparticle physics will be considered an asset. The position will be for 3 years with earliest starting date of December, 1st, 2026. Applications will be accepted until the position is filled. Applications should be submitted by email to: <a href=\"mailto:ralph.engel@kit.edu\">ralph.engel@kit.edu</a> and <a href=\"mailto:andreas.haungs@kit.edu\">andreas.haungs@kit.edu</a>. The application should include a cover letter with a statement of motivation and a current CV. At least one address for a recommendation letter should also be included in the application.</div><div><br></div><div><em>ETP is part of the KIT Centre Elementary Particle and Astroparticle Physics (KCETA, see: </em><a href=\"http://www.kceta.kit.edu\"><em>http://www.kceta.kit.edu</em></a><em> for further information). The rich research environment in KCETA includes further large-scale projects such as the Pierre Auger Observatory, the KATRIN experiment, Dark Matter searches, the CMS detector at LHC and the Belle-II experiment in Japan. Close collaborations exist with strong theoretical physics groups working on astroparticle and particle phenomenology. The Karlsruhe School of Elementary Particle and Astroparticle Physics: Science and Technology (KSETA) provides an excellent training of Ph.D. students. </em></div><div><br></div><div><em>KIT is pursuing the strategic goal of substantially increasing gender balance and diversity of its faculty. As an equal opportunity employer, KIT explicitly encourages applications from women as well as from all others who will bring additional diversity to the university’s research and teaching. Applicants with disabilities will be preferentially considered if suitably qualified. </em></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.iap.kit.edu/icecube"
+      ],
+      "contact_email": null,
+      "created": "2026-09-22T16:12:56.146870+00:00",
+      "updated": "2026-09-22T17:31:56.280803+00:00",
+      "addedAt": "2026-09-23T08:09:47.812Z",
+      "isNew": true
+    },
+    {
+      "id": "3205351",
+      "title": "Postdoctoral Researchers in Particle Physics and Quantum Computing",
+      "institution": "Northwestern U. (main)",
+      "deadline": "2027-01-07",
+      "description": "<div>Located at Northwestern University, to join the group of Professor Enectali Figueroa-Feliciano and Dan Baxter. The successful applicant will play a leading role in the CosmiQ quantum sensing and computing initiative with Fermilab.</div><div><br></div><div>The Figueroa Group is currently involved in several projects involving cryogenic detectors:</div><ul><li>CosmiQ is an R&amp;D effort to develop qubits and related technologies for both particle sensing and quantum computing with members from Fermilab, IIT, and Northwestern. Northwestern is an active partner working on qubit measurement, modeling, and fabrication. We are focusing on the interplay between radiation and qubits, understanding how to maximize/minimize qubit sensitivity for sensing/computing. We are designing and fabricating transmon-based qubits to study and manipulate these effects, and on strategies for enhancing robustnes and adapatbility of qubits for fault-tolerant quantum computing.</li><li>R&amp;D at Fermilab: Our group, in collaboration with Fermilab, operates two sister facilities: the Northwestern EXperimental Underground Site (NEXUS), and the Quantum Integration and Experimental Testbed (QUIET). Both are 100 meters underground in Fermilab’s MINOS tunnel.</li></ul><div><br></div><div>REQUIREMENTS: A Ph.D. in physics. Candidates' background must be in experimental nuclear or particle physics, superconducting qubits and quantum computing, or experimental condensed matter physics. Applications will be evaluated on a rolling basis until the position is filled.</div><div><br></div><div>Please submit a letter of interest and curriculum vitae, and have at least two letters of recommendation sent to: <a href=\"mailto:figueroagroup-jobs@northwestern.edu\"><strong>figueroagroup-jobs@northwestern.edu</strong></a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "quant-ph",
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://figueroa.physics.northwestern.edu/jobs/index.html"
+      ],
+      "contact_email": null,
+      "created": "2026-09-21T21:45:44.670633+00:00",
+      "updated": "2026-09-22T16:23:55.884877+00:00",
+      "addedAt": "2026-09-23T08:09:47.812Z",
+      "isNew": true
+    },
+    {
       "id": "3205300",
       "title": "Postdoc in Particle Physics",
       "institution": "U. Toronto (main)",
@@ -23,7 +76,7 @@
       "created": "2026-09-21T12:30:53.105572+00:00",
       "updated": "2026-09-21T15:25:56.631219+00:00",
       "addedAt": "2026-09-22T08:10:00.119Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3205044",
@@ -50,7 +103,7 @@
       "created": "2026-09-19T18:34:19.341432+00:00",
       "updated": "2026-09-21T15:22:17.208880+00:00",
       "addedAt": "2026-09-22T08:10:00.119Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3205034",
@@ -11764,6 +11817,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-22T08:10:00.121Z",
-  "totalJobs": 438
+  "lastUpdated": "2026-09-23T08:09:47.813Z",
+  "totalJobs": 440
 }
