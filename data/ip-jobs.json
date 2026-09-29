@@ -1,6 +1,141 @@
 {
   "jobs": [
     {
+      "id": "3208116",
+      "title": "Reconstruction-AI Engineer",
+      "institution": "MuRay Tech",
+      "deadline": "2026-10-31",
+      "description": "<div>MuRay Tech is a deeptech spinout from DESY, Hamburg. We're hiring a Reconstruction-AI Engineer to build the machine learning models that turn detector data into tracks and 3D density images for our Active Muon Imaging system. You'll develop point-cloud and graph neural networks for track finding, physics-informed architectures for density reconstruction, and the differentiable simulation stack both depend on. Direct ownership of the ML core of the imaging pipeline, from simulated training data through to deployed reconstruction.</div><div><br></div><div><strong>The role</strong></div><div>As Reconstruction-AI Engineer, you'll own the machine learning models that turn detector data into tracks and 3D density images. That spans track finding, density reconstruction, and the differentiable simulation tools both depend on. You will:</div><ul><li>Develop ML models for track reconstruction. Train on large simulated datasets, one per detector setup. Reject noise, find tracks, and estimate momentum with its error, fast enough for real-time use.</li><li>Develop AI models to reconstruct 3D density from muon tracks. Combine a compact prior for known nominal geometry with a full-resolution field for internal defects like porosity. Build it as a physics-informed architecture, not a black box.</li><li>Build the differentiable muon scattering simulation stack. A differentiable forward model of multiple Coulomb scattering through a 3D density field, with gradient estimators suited to the underlying stochastic transport. Validate it against GEANT4.</li><li>Develop AI models to reconstruct 3D density directly from raw detector data. Skip explicit track reconstruction, going straight from detector hits to density. A long-term target, once high-flux data is available, built directly on the simulator and the track-based density work above.</li></ul><div><strong>What you'll bring</strong></div><ul><li>Point-cloud and graph neural network development. You've trained GNN or point-cloud models on labeled hit-to-track data, for noise rejection, track finding, and momentum estimation with calibrated errors.</li><li>Large-scale synthetic training data engineering. You've built pipelines that generate, curate, and validate simulated training sets, at the scale a deep learning model needs.</li><li>Differentiable, physics-informed reconstruction development. You've built a differentiable simulator and used it as the reconstruction engine itself. You combine a compact prior for known geometry with a full-resolution field for internal defects.</li><li>Geant4 experience. You've validated a differentiable simulator, and the training data behind it, against Geant4 directly.</li><li>Uncertainty quantification. You calibrate error and confidence estimates for every reconstruction. That holds whether the model is trained on labeled data or fit through optimization.</li><li>End-to-end ML systems experience. You treat simulation, training, and deployed reconstruction as one pipeline. You've taken a model from simulated data through to production before.</li></ul><div><strong>How we work</strong></div><ul><li>Skunkworks approach: We work in small teams with full ownership. We keep it simple, stupid.</li><li>Move fast: a shiny prototype means we spent too long on it. We build to learn. We polish later.</li><li>Disagree together, commit together: we debate and challenge, regardless of title. Then we deliver the decision as one team. We win as a team. We pivot as a team.</li><li>Courage: we always make the call. A mistake isn't a failure: it's proof we're improving. Either way, we own the outcome.</li><li>Honesty and transparency: we share what's really happening, good or bad. That lets everyone make the right call. We stay open. We stay honest.</li></ul><div><strong>What we offer</strong></div><ul><li>Impact: unsolved problems, not engineering backlog. Solve them, and an inspector sees inside a sealed rocket engine in seconds instead of days.</li><li>Pace: a model you train this week gets validated against real scan data the next. The week after, a customer sees something inside their part that no scan showed before.</li><li>Infrastructure: access to an H200 GPU cluster in Hamburg, plus LUMI, for training and large-scale simulation. Real detector data to validate against.</li><li>Network: research collaborators include DESY, DLR, CERN, and Imperial College London. Commercial partners include Siemens Energy, Airbus, Caelora, and ZAL.</li><li>Ownership: an equity plan gives you a meaningful stake in the company.</li><li>Compensation: a salary that reflects your contribution to MuRay's growth.</li><li>Relocation: we support your move. If you're relocating from outside the EU, we help with the paperwork.</li></ul><div><strong>Contact</strong></div><div>For any additional questions, feel free to reach out to <a href=\"mailto:talents@muray.tech\">talents@muray.tech</a> or apply directly through our application form!</div><div>We are looking forward to hearing from you.</div><div><br></div><div><strong>About us</strong></div><div>MuRay builds compact laser-plasma accelerators that generate a controlled muon beam. Muon scans today are passive and take days. Active Muon Imaging produces the same scan in seconds, at higher resolution. We work with partners in aerospace, defence, and energy today. Next: security, customs, and medical imaging.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "physics.ins-det",
+        "stat"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://muraytech.jobs.personio.de/job/2787109"
+      ],
+      "contact_email": null,
+      "created": "2026-09-28T07:10:41.204800+00:00",
+      "updated": "2026-09-28T20:05:11.179083+00:00",
+      "addedAt": "2026-09-29T08:10:55.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3208117",
+      "title": "Track Reconstruction Engineer",
+      "institution": "MuRay Tech",
+      "deadline": "2026-10-31",
+      "description": "<div>MuRay Tech is a deeptech spinout from DESY, Hamburg. We're hiring a Track Reconstruction Engineer to build the pipeline that turns raw detector hits into tracks, momenta, and image-ready data for our Active Muon Imaging system. You'll develop track fitting under scattering, detector alignment and calibration, noise rejection, and the in-house simulation stack that trains and validates it all. Direct ownership of the foundation the rest of the imaging pipeline runs on.</div><div><br></div><div><strong>The role</strong></div><div>As Track Reconstruction Engineer, you'll own how raw detector hits become tracks, momenta, and image-ready data. That spans noise rejection, track fitting, calibration, and simulation. Concretely, you will:</div><ul><li>Develop track reconstruction algorithms for cosmics and low-flux Active Muon Imaging (AMI).</li><li>Suppress detector noise. Ensure reconstruction runs on signal only.</li><li>Fit tracks under scattering. Estimate momentum per track. Scattering effects grow at AMI's lower energies.</li><li>Build a robust detector alignment and calibration procedure. Use cosmic-ray tracks for a first pass. Refine with AMI data from real scans.</li><li>Build the in-house AMI simulation stack, propagating particles through a sample object and the detector. Define the file format the reconstruction pipeline reads and writes.</li><li>Reconstruction framework. Design and implement a scalable, high-throughput event reconstruction framework integrating raw detector hit ingestion, event building, and track fitting to produce structured event data for downstream tomographic imaging</li></ul><div><strong>What you'll bring</strong></div><ul><li>Track fitting algorithm development. You've built tracking algorithms from first principles, not just configured existing HEP frameworks. Kalman filters, Hough transforms, or similar pattern recognition methods.</li><li>Scattering physics and momentum estimation. You know scattering sets the error budget at AMI's lower energies. You extract per-track momentum from the scattering angle.</li><li>Noise and signal separation at the detector level. You've built hit filtering, clustering, and timing cuts. You know the failure modes of the detector technology you're working with.</li><li>Detector alignment and calibration. You've aligned tracking detectors using cosmic-ray tracks, survey data, or both. You treat it as iterative: geometry, resolution, and track fit quality depend on each other.</li><li>Simulation and data format development. You've built or extended a particle transport simulation stack, ideally Geant4. You've designed the file format that stores its output.</li><li>Software engineering in C++ and Python. You write performant code in C++. You use Python to analyze data and prototype fast. You move between both without friction.</li></ul><div><strong>How we work</strong></div><ul><li>Skunkworks approach: We work in small teams with full ownership. We keep it simple, stupid.</li><li>Move fast: a shiny prototype means we spent too long on it. We build to learn. We polish later.</li><li>Disagree together, commit together: we debate and challenge, regardless of title. Then we deliver the decision as one team. We win as a team. We pivot as a team.</li><li>Courage: we always make the call. A mistake isn't a failure: it's proof we're improving. Either way, we own the outcome.</li><li>Honesty and transparency: we share what's really happening, good or bad. That lets everyone make the right call. We stay open. We stay honest.</li></ul><div><strong>What we offer</strong></div><ul><li>Impact: track reconstruction is the foundation the rest of the pipeline runs on. It becomes the image an aerospace or energy customer uses to make a decision.</li><li>Pace: a change you make today gets tested on real data tomorrow. Within a year, your code runs commercial scans, not papers.</li><li>Infrastructure: MuRay has access to active muon sources for real scan data, plus LUMI and in-house servers for compute.</li><li>Network: research collaborators include DESY, DLR, CERN, and Imperial College London. Commercial partners include Siemens Energy, Airbus, Caelora, and ZAL.</li><li>Ownership: an equity plan gives you a meaningful stake in the company.</li><li>Compensation: a salary that reflects your contribution to MuRay's growth.</li><li>Relocation: we support your move. If you're relocating from outside the EU, we help with the paperwork.</li></ul><div><strong>Contact</strong></div><div>For any additional questions, feel free to reach out to <a href=\"mailto:talents@muray.tech\">talents@muray.tech</a> or apply directly through our application form!</div><div>We are looking forward to hearing from you.</div><div><br></div><div><strong>About us</strong></div><div>MuRay builds compact laser-plasma accelerators that generate a controlled muon beam. Muon scans today are passive and take days. Active Muon Imaging produces the same scan in seconds, at higher resolution. We work with partners in aerospace, defence, and energy today. Next: security, customs, and medical imaging.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "stat",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://muraytech.jobs.personio.de/job/2787125"
+      ],
+      "contact_email": null,
+      "created": "2026-09-28T07:13:05.421624+00:00",
+      "updated": "2026-09-28T20:02:46.308224+00:00",
+      "addedAt": "2026-09-29T08:10:55.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3208115",
+      "title": "Muon Tomography Engineer",
+      "institution": "MuRay Tech",
+      "deadline": "2026-10-31",
+      "description": "<div><strong>Summary</strong></div><div>MuRay Tech is a deeptech spinout from DESY, Hamburg. We're hiring a Muon Tomography Engineer to build the algorithms that turn raw track data into 3D density reconstructions for our Active Muon Imaging system. You'll take reconstruction from POCA and ASR through to likelihood-optimization methods, fuse in optical priors, and solve the statistics of high-flux track pile-up. Direct ownership of the tool a customer's pass/fail decision runs on.</div><div><br></div><div><strong>The role</strong></div><div>As Muon Tomography Engineer, you'll own how raw track data becomes a 3D density reconstruction. That spans algorithm development, multi-modal data fusion, and the statistical methods that make it work at scale. Concretely, you will:</div><ul><li>Implement density reconstruction methods, taking inspiration from likelihood-optimization-based methods. Package the result as a standalone tool.</li><li>Explore adaptive reconstruction grids to reduce memory requirements and increase reconstruction speed.</li><li>Optimise reconstruction algorithms to leverage the muon beam's narrow energy bandwidth, using spectral width as a per-track error estimate.</li><li>Explore fusing optical images of the scan volume and DUT geometry into the reconstruction, as constraints that further limit the solution space.</li><li>Develop statistical methods to resolve track pile-up at high muon flux, where one-track-at-a-time assumptions break down.</li></ul><div><br></div><div><strong>What you'll bring</strong></div><ul><li>Tomographic reconstruction expertise. You've implemented POCA, ASR, or comparable scattering-tomography algorithms. You move to likelihood optimization when point-based methods run out of accuracy.</li><li>Numerical methods for performance. You've built adaptive or multi-resolution grids before. You've traded resolution against memory and speed to do it.</li><li>Uncertainty modeling. You turn a beam's energy spectrum into a per-track error weight, not a single global constant.</li><li>Multi-modal data fusion. You've combined tomographic data with an external prior before, like an optical image or object geometry. You've used it as a hard constraint on the solution, not just a reference.</li><li>High-flux track statistics. You've solved pile-up or hit-ambiguity problems in tracking detectors before, where more than one particle can be in the detector at once.</li><li>Production software engineering. You take a reconstruction method from research code to a maintained, standalone tool with a fixed input/output format.</li></ul><div><br></div><div><strong>How we work</strong></div><ul><li>Skunkworks approach: We work in small teams with full ownership. We keep it simple, stupid.</li><li>Move fast: a shiny prototype means we spent too long on it. We build to learn. We polish later.</li><li>Disagree together, commit together: we debate and challenge, regardless of title. Then we deliver the decision as one team. We win as a team. We pivot as a team.</li><li>Courage: we always make the call. A mistake isn't a failure: it's proof we're improving. Either way, we own the outcome.</li><li>Honesty and transparency: we share what's really happening, good or bad. That lets everyone make the right call. We stay open. We stay honest.</li></ul><div><br></div><div><strong>What we offer</strong></div><ul><li>Impact: you own the tool that turns raw tracks into density maps. That output is what a customer bases a decision on: pass or fail, repair or replace.</li><li>Pace: commercial scanning services launch within a year. Your reconstruction tool makes that possible from day one.</li><li>Data: MuRay has on-demand time at multi-GeV beamlines, including DESY's PRIMA. That gives you dense, controlled-source track data to develop and validate against.</li><li>Network: research collaborators include DESY, DLR, CERN, and Imperial College London. Commercial partners include Siemens Energy, Airbus, Caelora, and ZAL.</li><li>Ownership: an equity plan gives you a meaningful stake in the company.</li><li>Compensation: a salary that reflects your contribution to MuRay's growth.</li><li>Relocation: we support your move. If you're relocating from outside the EU, we help with the paperwork.</li></ul><div><br></div><div><strong>Contact</strong></div><div>For any additional questions, feel free to reach out to <a href=\"mailto:talents@muray.tech\">talents@muray.tech</a> or apply directly through our application form!</div><div>We are looking forward to hearing from you.</div><div><br></div><div><strong>About us</strong></div><div>MuRay builds compact laser-plasma accelerators that generate a controlled muon beam. Muon scans today are passive and take days. Active Muon Imaging produces the same scan in seconds, at higher resolution. We work with partners in aerospace, defence, and energy today. Next: security, customs, and medical imaging.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "physics.ins-det",
+        "stat"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://muraytech.jobs.personio.de/job/2787112"
+      ],
+      "contact_email": null,
+      "created": "2026-09-28T07:08:31.243565+00:00",
+      "updated": "2026-09-28T17:15:09.125227+00:00",
+      "addedAt": "2026-09-29T08:10:55.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3207889",
+      "title": "Postdoc position on Belle II experiment",
+      "institution": "Fudan U., Shanghai",
+      "deadline": "2026-12-31",
+      "description": "<div>The Belle II experiment (<a href=\"https://www.belle2.org/\">https://www.belle2.org/</a>) at the asymmetric-energy accelerator SuperKEKB is at the high-precision frontier of particle physics research, having set a new world record luminosity in 2026. The Belle II group at Fudan University, comprising approximately 30 members including five faculty members, several postdocs, and a steady stream of students, conducts a diverse research program spanning heavy flavor physics, hadron spectroscopy, tau physics, and detector R&amp;D.</div><div>&nbsp;</div><div>We seek a highly motivated postdoctoral researcher to contribute to data analysis, primarily in semileptonic B decays (inclusive and exclusive processes) and new physics searches. Involvement in detector performance studies and/or software development is encouraged.</div><div>&nbsp;</div><div>The initial contract is for two years, with the possibility of extension based on performance. The workplace will be based at Fudan University in Shanghai. A competitive annual salary of 250,000 CNY (before tax) is offered. The selected candidates will be encouraged to apply for additional prestigious postdoctoral fellowships and grants at both the university and national levels, which provide supplementary funding.</div><div>&nbsp;</div><div>The start date for this position is flexible and can be mutually agreed upon with the successful candidate and the host researcher, Dr. Lu Cao.</div><div>&nbsp;&nbsp;</div><div><strong>Qualifications:</strong></div><div>The candidate must hold a Ph.D. before the start date of the appointment. Proven expertise in HEP-ex data analysis, good skills in modern programming, and proficiency in scientific communication within an international team are essential. Experience with applications of advanced machine learning techniques in HEP is a plus.</div><div>&nbsp;</div><div>To apply, please compile the following documents into a single PDF file and email it to Dr. Lu Cao (lu_cao@fudan.edu.cn):</div><div>&nbsp;</div><div>1) A cover letter outlining research interests, relevant experience, and preferred start date.</div><div>2) CV</div><div>3) A list of main publications, with a clear description of your personal contributions.</div><div>4) Please arrange for three reference letters to be sent directly by the referees to the same address.</div><div>&nbsp;</div><div>To ensure your application is considered in the first review cycle, please submit all the above documents by <strong>October 31, 2026</strong>. The application process stays open until the position is filled.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "KEK-BF-BELLE-II"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-27T08:45:40.492625+00:00",
+      "updated": "2026-09-28T17:09:04.052209+00:00",
+      "addedAt": "2026-09-29T08:10:55.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3207848",
+      "title": "Postdoctoral position: Project 8 neutrino mass measurement",
+      "institution": "Illinois U., Urbana (main)",
+      "deadline": "2026-12-01",
+      "description": "<div><strong>Postdoctoral Research Associate</strong></div><div><strong>Area of Research: Particle Physics Experiment</strong></div><div><strong>Department of Physics</strong></div><div><strong>University of Illinois Urbana-Champaign</strong></div><div>The Department of Physics at the University of Illinois Urbana-Champaign invites applications for a postdoctoral research position in particle physics experiment. The successful candidate will work in the Nuclear Physics Laboratory research group.&nbsp;The primary focus of the fellowship would be Project 8, an experiment to provide a direct measurement of the <em>neutrino mass</em> using Cyclotron Radiation Emission Spectroscopy (CRES) of electrons near the tritium endpoint.&nbsp;Our responsibilities in the experiment include design, optimization and fabrication of the magnet systems and magnetometry as well as development of a cryogenic atomic tritium source.</div><div>The Postdoctoral Research Associate is a full-time position appointed on a 12-month service basis.&nbsp;Applicants must have completed a Ph.D. in physics earned within ten years of the position’s start date. The initial appointment is for one year with the possibility of extension based on performance and funding. The anticipated start date is January 2027 but is negotiable.&nbsp;Salary is competitive and commensurate with qualifications and experience, while also considering internal equity. This position will be expected to work at the University of Illinois Urbana-Champaign campus and possibly at collaborating institutions on a full-time basis per the <a href=\"https://cam.illinois.edu/policies/hr-87-2/\">University’s Workplace Flexibility policy</a>. This position is eligible for work authorization sponsorship.</div><div>To apply, please submit cover letter, CV, and three letters of reference by December 1, 2026, directly to Prof. Douglas Beck (<a href=\"mailto:dhbeck@illinois.edu\">dhbeck@illinois.edu</a>).&nbsp;Review of applications will begin on that date and will continue until the position is filled.</div><div>This position is intended to be <a href=\"https://www.hr.uillinois.edu/cms/One.aspx?portalId=4292&amp;pageId=2461262\">eligible for benefits</a>. This includes health, dental, vision, life insurance, a retirement plan, paid time off, and tuition waivers for employees and dependents.</div><div>The University of Illinois must also comply with applicable federal export control laws and regulations and, as such, reserves the right to employ restricted party screening procedures for applicants.</div><div><br></div><div>The University of Illinois System is an equal opportunity employer, including but not limited to disability and/or veteran status, and complies with all applicable state and federal employment mandates. Please visit <a href=\"https://www.hr.uillinois.edu/cms/one.aspx?portalId=4292&amp;pageId=5705\">Required Employment Notices and Posters</a> to view our non-discrimination statement and find additional information about required background checks, sexual harassment/misconduct disclosures, and employment eligibility review through <a href=\"https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf\">E-Verify</a>.</div><div>&nbsp;</div><div>Affiliations/keywords: particle physics experiment</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "PROJECT-8"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-09-26T11:19:30.873392+00:00",
+      "updated": "2026-09-28T17:03:59.269363+00:00",
+      "addedAt": "2026-09-29T08:10:55.370Z",
+      "isNew": true
+    },
+    {
       "id": "3206287",
       "title": "Postdoctoral Researcher for Quantum Sensing Applications (100%)",
       "institution": "U. Zurich (main)",
@@ -11873,6 +12008,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-09-28T08:16:14.016Z",
-  "totalJobs": 442
+  "lastUpdated": "2026-09-29T08:10:55.371Z",
+  "totalJobs": 447
 }
