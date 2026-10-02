@@ -1,6 +1,112 @@
 {
   "jobs": [
     {
+      "id": "3210121",
+      "title": "Postdoctoral Position in Experimental Particle Physics",
+      "institution": "USTC, Hefei",
+      "deadline": "2026-11-30",
+      "description": "<div>The Collaborative Innovation Center for Particles and Interactions (CICPI) at the University of Science and Technology of China (<strong>USTC</strong>) invites applications for a postdoctoral position for the <strong>ATLAS</strong> experiment at the Large Hadron Collider.</div><div><br></div><div>Candidates should have a Ph.D. (or expected soon) in experimental particle physics. The candidates should have either excellent data analysis skills or good experience in particle detector instrumentation, a good level of computing and programming skills, and the ability to carry out an independent research program. The successful candidate is expected to play a key role in either ATLAS upgrade programs or physics studies, or both. The position is for two years, with a possibility to extend for another two years. The salary will be competitive and commensurate with the experience of the selected candidate (250k~350k RMB gross income). The successful applicants can be either largely stationed at CERN or at USTC for their research activities.</div><div><br></div><div>The particle physics laboratory at USTC is a leading research center in China. The USTC ATLAS Group actively works on several aspects of the ATLAS experiment. The group has a strong focus on measurements and searches in the Higgs sector, Electroweak precision measurements, and searches for new physics Beyond the Standard Model. The group has also been substantially involved with ATLAS upgrade, including both Phase-I (New Small Wheel) and Phase-II (High Granularity Timing Detectors and Resistive Plate Chambers) projects.</div><div><br></div><div>The positions are now open and applications will be accepted before <strong>Nov 30, 2026</strong>. Applicants should send a curriculum vitae with a list of publications included, a statement of research interests, and arrange for three letters of recommendation to be sent via email to Prof. Yusheng Wu (<a href=\"mailto:wuyusheng@ustc.edu.cn\">wuyusheng@ustc.edu.cn</a>) and Prof. Lailin Xu(<a href=\"mailto:lailinxu@ustc.edu.cn\">lailinxu@ustc.edu.cn</a>).</div><div><br></div><div>Inquiries about the positions are welcome and should be sent to the same addresses above.</div>",
+      "regions": [
+        "Asia",
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-01T07:43:29.719991+00:00",
+      "updated": "2026-10-02T02:55:44.398263+00:00",
+      "addedAt": "2026-10-02T08:09:44.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3210165",
+      "title": "PhD candidate in the LHCb group",
+      "institution": "Nikhef, Amsterdam",
+      "deadline": "2026-10-11",
+      "description": "<div>PhD position in the LHCb group at Nikhef for analysis of the golden mode \"B0-&gt;J/psiKs\". For more details and application see <a href=\"https://jobs.nikhef.nl/jobs/phd-position-on-the-lhcb-experiment-at-the-cern-lhc-collider-1344032/\">https://jobs.nikhef.nl/jobs/phd-position-on-the-lhcb-experiment-at-the-cern-lhc-collider-1344032/</a></div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "MASTER"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://jobs.nikhef.nl/jobs/phd-position-on-the-lhcb-experiment-at-the-cern-lhc-collider-1344032/"
+      ],
+      "contact_email": null,
+      "created": "2026-10-01T15:17:49.403913+00:00",
+      "updated": "2026-10-01T20:53:28.787171+00:00",
+      "addedAt": "2026-10-02T08:09:44.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3210143",
+      "title": "Master/PhD Positions in High-Energy Astrophysics",
+      "institution": "Fudan U., Shanghai",
+      "deadline": "2026-11-15",
+      "description": "<div>The high-energy astrophysics group at Fudan University (Shanghai, China) invites applications for a few Master's and PhD positions for the next academic year (starting in September 2027). Applicants to the Master's Program must hold a Bachelor's degree in Physics or a related field by September 2027. Applicants to the PhD Program must hold a Master's degree in Physics or a related field by September 2027. The scholarships for these positions cover tuition fees, on-campus accommodation, health insurance, and a monthly stipend (normally 3,000 CNY/month for Master's students and 3,500 CNY/month for PhD students).</div><div><br></div><div>We are looking for candidates with experience or interest in the development of astrophysical codes (Fortran, C/C++, Python) and in the search for black hole candidates.</div><div><br></div><div>The group is led by Prof. Cosimo Bambi and currently consists of 2 postdoctoral researchers, 13 graduate students, and a few undergraduate students. Further details are available on the group webpage.</div><div><br></div><div>Interested candidates should send their CV (including, among other things, date of birth and nationality) and any additional material that may be useful for the selection process to:</div><div><br></div><div>Prof. Cosimo Bambi</div><div>Email: <a href=\"mailto:bambi@fudan.edu.cn\">bambi@fudan.edu.cn</a></div><div><br></div><div>Applicants should also arrange for at least two recommendation letters to be sent separately to the same email address.</div><div><br></div><div>Application deadline: 15 November 2026.</div><div><br></div><div>Shortlisted candidates will be interviewed via Zoom in November.</div><div><br></div><div>More details about our research group can be found at:</div><div><a href=\"https://cosimobambi.github.io\">https://cosimobambi.github.io</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "PHD",
+        "MASTER"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "cs",
+        "gr-qc"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-01T12:33:34.840653+00:00",
+      "updated": "2026-10-01T20:52:47.660984+00:00",
+      "addedAt": "2026-10-02T08:09:44.370Z",
+      "isNew": true
+    },
+    {
+      "id": "3210124",
+      "title": "Postdoctoral Researcher in Dark Sector Searches with the ATLAS Experiment",
+      "institution": "Nikhef, Amsterdam",
+      "deadline": "2026-11-01",
+      "description": "<div><strong>The organization</strong></div><div>Nikhef is the national institute for subatomic physics in the Netherlands. At Nikhef, approximately 220 physicists and 80 technical staff work together in an open and international scientific environment. Together they perform theoretical and experimental research in the fields of particle and astroparticle physics. Nikhef is a partnership between six major Dutch universities and NWO-I Foundation, the Institutes Organization of the Dutch Research Council (NWO).</div><div><br></div><div>Among the research collaborations Nikhef participates in are the ALICE, ATLAS and LHCb experiments at CERN, the KM3NeT neutrino telescope in the Mediterranean, the Virgo gravitational waves interferometer in Pisa, the Xenon-nT dark matter experiment in Gran Sasso, the Pierre Auger cosmic ray observatory in Argentina, and the eEDM research programme in Groningen. There are also scientific groups on Theory, Physics Data Processing and Detector R&amp;D. Nikhef avails over excellently equipped technical departments in mechanics, electronics and computing.</div><div><br></div><div><strong>The Nikhef ATLAS group</strong></div><div>The Nikhef ATLAS group consists of a total of 15 scientific staff, typically 5 postdocs and 15 PhD students. As a founding member of the ATLAS collaboration, the group has a long-term involvement in detector construction (the semiconductor tracker, barrel muon chambers, readout, alignment, and data acquisition).</div><div><br></div><div>For the phase-2 upgrade (2027-2030), we will instrument and commission one of the end-caps of a new all-silicon inner tracking system (ITk) in Amsterdam, commission the High Granularity Timing Detector (HGTD), and develop the new universal readout system (FELIX) for ATLAS detector systems.</div><div>The group also has a strong record in track reconstruction, flavour tagging algorithm development as well as physics data analysis, with a focus on Higgs boson physics, top quark physics, and searches for new physics signatures.</div><div><br></div><div><strong>About the University of Amsterdam</strong></div><div>The <a href=\"https://www.uva.nl/en/faculty/faculty-of-science/faculty-of-science.html\">Faculty of Science</a> has a student body of around 8,000, as well as 1,800 members of staff working in education, research or support services. Researchers and students at the Faculty of Science are fascinated by every aspect of how the world works, be it elementary particles, the birth of the universe or the functioning of the brain. The Institute of Physics (IoP) is located in the centre of the Amsterdam Science Park. The IoP – as part of the Faculty of Science – is housed in a modern building with excellent labs and technical facilities. Surrounded by several national research institutes and with our partners at the Vrije Universiteit Amsterdam, the institute is part of a strong physics centre of international standing. One of the institutes that the IoP has very close ties to is Nikhef, the national institute for subatomic physics in The Netherlands. The present vacancy is fully embedded in the ATLAS group of Nikhef.</div><div><br></div><div><strong>The position</strong></div><div>Dark matter makes up about a quarter of the Universe, but its fundamental nature remains unknown. It may consist of fundamental particles that interact through new forces in a dark sector. Such forces can give rise to bound states, analogous in some respects to atoms or positronium, involving dark-matter particles, other dark-sector particles, or both. These dark-sector bound states may be produced at the Large Hadron Collider and can yield distinctive signatures, including particles that travel a measurable distance before decaying and, in some scenarios, missing transverse momentum.</div><div><br></div><div>We invite applications for a postdoctoral researcher position in experimental particle physics to join the NWO-funded project <strong><em><a href=\"https://www.nwo.nl/en/projects/mpmxz14811\">Reconstructing 25% of the Universe with New LHC Triggers</a></em><a href=\"https://www.nwo.nl/en/projects/mpmxz14811\">.</a></strong> The project brings together theory and experiment to develop predictions for dark-sector bound states and to perform a dedicated ATLAS search for their asymmetric long-lived-particle signatures in the full Run 3 data set. The search will be designed to probe scenarios in which the bound state contains dark-matter particles, other dark-sector particles, or both.</div><div><br></div><div>You will take a leading role in designing and carrying out a new ATLAS search for dark-sector bound states, focusing on asymmetric final states with long-lived particles. This is a timely opportunity: new Run 3 triggers for displaced signatures and the Large-Radius Tracking reconstruction algorithm make it possible to study signal topologies that previous ATLAS searches could not fully access. Your work will connect realistic theoretical predictions with an experimentally robust analysis strategy. You will help identify the most promising unexplored regions of parameter space, develop signal and background models, and implement the analysis in the ATLAS Collaboration. The work is expected to lead to a Run 3 ATLAS publication and to provide methods that can be reused in future long-lived-particle searches.</div><div><br></div><div>You will be employed by the University of Amsterdam and work primarily at Nikhef in Amsterdam, embedded in the Nikhef ATLAS group. You will work closely with Dr Flavia de Almeida Dias at the University of Amsterdam and Nikhef, and with Dr Susanne Westhoff at Radboud University. The project also includes a theory PhD researcher based in Nijmegen, creating a close exchange between phenomenology and experimental analysis.</div><div><br></div><div><strong>Requirements</strong></div><div>We are looking for postdoctoral candidates with an (almost) completed PhD degree in experimental high-energy physics or in a closely related field. The ideal candidate has experience in collider data analysis and strong software skills, preferably including Python, C++ and ROOT. You will be comfortable developing, documenting and maintaining analysis code in a collaborative research environment, and will communicate effectively in spoken and written English. Experience with the ATLAS experiment, long-lived-particle searches, displaced-vertex reconstruction or triggers, Monte Carlo simulation, statistical inference, and/or dark-sector phenomenology would be particularly welcome. The position requires active participation in the ATLAS Collaboration, including periods of work at CERN when needed.</div><div><br></div><div><strong>Offer</strong></div><div>We offer a temporary employment contract for 38 hours per week for a period of up to 36 months. The preferred starting date is February 2027, but it can be discussed for an earlier or later start.</div><div>The gross monthly salary, based on 38 hours per week and dependent on relevant experience, ranges between € 3,706 to € 5,760 (Scale 10). This does not include 8% holiday allowance and 8,3% year-end allowance. The UFO profile Researcher is applicable. A favourable tax agreement, the ‘30% ruling’, may apply to non-Dutch applicants.</div><div>The <a href=\"https://www.universiteitenvannederland.nl/en/cao\">Collective Labour Agreement of Universities of the Netherlands</a> is applicable.</div><div><br></div><div><strong>Application</strong></div><div>Qualified applicants are encouraged to apply by filling in the template in the Nikhef jobs website: <a href=\"https://jobs.nikhef.nl/jobs/postdoc-position-in-experimental-particle-physics-1344424/\">https://jobs.nikhef.nl/jobs/postdoc-position-in-experimental-particle-physics-1344424/</a>.</div><div>The deadline for applications is <strong>Nov 1st, 2026</strong>.</div><div><br></div><div>Please be prepared to upload a short letter of motivation (2 pages maximum); a curriculum vitae including the start and finish months (not just years) when referring to your education and work experience and including a list of most recent and relevant publications; and have the email address of at least two referees ready who are willing to send a letter of recommendation on your behalf. A knowledge security check can be part of the selection procedure.</div><div><br></div><div>Interviews with selected candidates are foreseen in the period of<strong> November 23rd – December 2nd, 2026</strong>.</div><div><br></div><div>For further information, feel free to contact dr. Flavia de Almeida Dias (<a href=\"mailto:f.dealmeidadias@uva.nl\">f.dealmeidadias@uva.nl</a>) via e-mail.</div><div><br></div><div>Application via: <a href=\"https://jobs.nikhef.nl/jobs/postdoc-position-in-experimental-particle-physics-1344424/\">https://jobs.nikhef.nl/jobs/postdoc-position-in-experimental-particle-physics-1344424/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://jobs.nikhef.nl/jobs/postdoc-position-in-experimental-particle-physics-1344424/"
+      ],
+      "contact_email": null,
+      "created": "2026-10-01T09:43:04.604559+00:00",
+      "updated": "2026-10-01T20:49:11.395546+00:00",
+      "addedAt": "2026-10-02T08:09:44.370Z",
+      "isNew": true
+    },
+    {
       "id": "3208683",
       "title": "Assistant or Associate Professor of Physics and Astronomy - Experimental High Energy Physics",
       "institution": "U. Oklahoma, Norman",
@@ -12061,6 +12167,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-01T08:10:27.436Z",
-  "totalJobs": 449
+  "lastUpdated": "2026-10-02T08:09:44.371Z",
+  "totalJobs": 453
 }
