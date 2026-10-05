@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3210714",
+      "title": "Research Data Steward",
+      "institution": "Rutherford Appleton Laboratory",
+      "deadline": "2026-10-28",
+      "description": "<div><strong>Research Data Steward</strong></div><div><strong>Science and Technology Facilities Council</strong></div><div><strong>Salary: £52,907</strong></div><div><strong>Contract Type: Fixed-term contract (36 months)</strong></div><div><strong>Hours: Full time/Part Time (minimum of 30 hours a week)</strong></div><div><strong>Location: Rutherford Appleton Laboratory, Harwell, Oxfordshire OX11 0DE OR Daresbury Laboratory, Warrington, WA4 4AD</strong></div><div><strong>Closing date for applications is: 28th October 2026</strong></div><div>We have a new opportunity for a data steward to join the Open Science theme in STFC. You will join our multi-disciplinary, diverse and inclusive team of information professionals and data stewards contributing to the delivery of services and systems which make data intensive research possible, discovering and delivering tools, practices and systems.</div><div>As part of the Open Science Theme, you will work within your management chain to define a portfolio of responsibilities and develop and maintain areas of specialism. The primary focus of the role will be to support the Physical Sciences Data Infrastructure (PSDI). PSDI is a digital infrastructure providing access to tools, services, data and guidance to support UK researchers.</div><div>In this role you will work closely with the project collaborators and the PSDI user community to maintain and evolve the data resources available. Data services include the PSDI Data Communities including an open repository for curated datasets, subscribed to and openly licenced data sources.</div><div>To be successful you should understand the research data lifecycle, management and curation of research data, including the FAIR data principles and practices to implement the principles. You should also have an understanding of researcher needs and want to work closely with them to explore those needs. You will engage with a range of stakeholders including PSDI project team based in STFC and the University of Southampton, as well as users of and contributors to the PSDI data resources and community collections.</div><div><strong>Responsibilities will include:</strong></div><ul><li>Working with PSDI partners to encourage and embed the adoption of best practice data management techniques, metadata standards, FAIR data principles, and Open Science values.</li><li>Liaising with stakeholders, including the PSDI metadata lead, the data communities technical lead and data community researchers to ensure the data communities are developed to meet the needs of the physical sciences community and demonstrate best practice in research data management. For example development of guidance and overseeing quality assurance to ensure guidance is followed and applied.</li><li>Developing and maintaining technical and domain specialisms, to further develop the PSDI data communities whilst delivering specialist advice and guidance.</li><li>Working with PSDI partners to on board new data communities, managing relationships and community needs.</li><li>Participating in community forums to share best practices and standards; for example, setting up and managing a PSDI data community user forum.</li></ul><div><strong>Essential criteria</strong></div><div>The following will be assessed at shortlisting (S) or interview (I)</div><ul><li>Experience of research data management practices and tools, including repositories and catalogues, to support data curation and sharing. (S&amp;I)</li><li>Knowledge of FAIR principles and experience in delivering solutions, including translating principles into practice. (S&amp;I)</li><li>Ability to work collaboratively and as part of team, both in-person and remotely. (S&amp;I)</li><li>Experience of working with technical and scientific metadata. (S&amp;I)</li><li>Track record in responsibility for the delivery of project outputs.(S&amp;I)</li><li>Familiarity with and commitment to the aims of Open Science. (S&amp;I)</li><li>A degree or equivalent in information science, computer science, chemical sciences or a related field OR relevant work experience. (S)</li></ul><div>The post will require occasional travel with overnight stays for project meetings and training.</div><div><strong>Any other Relevant Information</strong></div><div>Posts can be based at Rutherford Appleton Laboratory in Oxfordshire or Daresbury Laboratory in Cheshire, flexible working options are available.</div><div>Skill development is encouraged within individual learning and development plans.</div><div><strong>Employee Benefits</strong></div><div>We are offering a three-year fixed-term position, with the expectation of an extension and a whole host of benefits including:</div><ul><li>30 days’ holiday (in addition to 10.5 bank holidays and privilege days).</li><li>Flexible working hours.</li><li>Employee shopping/travel discounts.</li><li>Excellent learning and development opportunities.</li></ul><div>We are committed to a diverse and inclusive workforce. We are invested in creating an environment that is welcoming and supportive of all, to help us achieve the highest possible standards in our work and organisation together. In this regard, we encourage applications from under-represented groups.</div><div>What could you achieve with the world-leading facilities and experts of one of Europe's largest research organisations by your side? Join us and discover what's possible.</div><div>Please note, if you will require sponsorship to work in the UK, as part of your sponsorship application, you and any dependants travelling with you, will be required to pay costs directly to The Home Office for the application before you start your role with us. UKRI is normally able to reimburse some, or all of these fees after you have become an employee, and this can be discussed with the Hiring Manager. For more information, please visit <a href=\"https://www.gov.uk/skilled-worker-visa/how-much-it-costs\">https://www.gov.uk/skilled-worker-visa/how-much-it-costs</a> or contact <a href=\"mailto:Recruitment@ukri.org\">Recruitment@ukri.org</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://applytrack.onefixmedia.co.uk/4e313030303030597a686843"
+      ],
+      "contact_email": null,
+      "created": "2026-10-02T10:54:32.372447+00:00",
+      "updated": "2026-10-02T16:42:59.678456+00:00",
+      "addedAt": "2026-10-05T08:18:03.411Z",
+      "isNew": true
+    },
+    {
+      "id": "3210712",
+      "title": "Postdoctoral Researcher in Deep Learning for Particle Physics: DRIFTS Project H/F",
+      "institution": "IRFU, Saclay",
+      "deadline": "2026-10-20",
+      "description": "<div><strong>Postdoctoral Researcher in Deep Learning for Particle Physics: DRIFTS Project H/F</strong></div><div><strong>Institution:</strong> CEA Paris-Saclay, Irfu</div><div><strong>Location:</strong> Gif-sur-Yvette, France</div><div><strong>Contract:</strong> Fixed-term postdoctoral position, 24 months</div><div><strong>Starting date:</strong> 1 January 2027</div><div><strong>Application deadline:</strong> <strong>20 October 2026, until 23:59 (Paris time)</strong></div><div><strong>Application requirements:</strong> Please submit <strong>a CV and cover letter to ozgur.sahin@cern.ch and arrange for two reference letters</strong> to be sent to the same address. Please also provide the name and contact details of <strong>a third referee</strong> who may be contacted if needed.</div><div><strong>Description of the position</strong></div><div>Irfu at CEA Paris-Saclay is recruiting a postdoctoral researcher in artificial intelligence and deep learning for particle physics within the DRIFTS project, <em>Distributed Reconstruction in FPGAs and ASICs for Triggering Systems</em>.</div><div>The High Luminosity Large Hadron Collider (HL-LHC) and future colliders present major challenges for reconstructing particles and, if required, selecting interesting collisions in real time. Addressing these challenges requires algorithms that combine strong physics performance with the strict latency, bandwidth and computing constraints of detector electronics.</div><div>DRIFTS explores a distributed deep learning approach in which neural networks operate across on-detector application specific integrated circuits (ASICs), off-detector field-programmable gate arrays (FPGAs), and Graphical Processing Units (GPUs). The objective is to reconstruct physics objects directly from compressed detector information, enabling a more integrated approach to reconstruction and triggering. The CMS High Granularity Calorimeter provides the principal testing environment for this project.</div><div>You will join the CMS group and DEDIP at CEA Paris-Saclay and work closely with researchers and engineers at the Laboratoire Leprince-Ringuet at École Polytechnique and CERN. <strong>Your principal contribution will be to develop and optimize neural network algorithms for integration into the distributed reconstruction pipeline</strong>.</div><div><br></div><div><strong>Main responsibilities</strong></div><ul><li>Design, train and evaluate deep-learning architectures for particle reconstruction, with particular emphasis on graph neural networks and attention-based models.</li><li>Optimize models for deployment on resource-constrained hardware through quantization, pruning and partitioning across processing devices.</li><li>Contribute to FPGA implementation and validation, assessing physics performance alongside latency, throughput and resource consumption.</li><li>Develop methods to understand and monitor the intermediate representations used by the reconstruction algorithms.</li><li>Communicate results through scientific publications, technical documentation and presentations at collaboration meetings and international conferences.</li></ul><div>Depending on your research interests, the position also offers the possibility of contributing to <strong>the use of foundation models in CMS physics analyses</strong>, in connection with Irfu’s broader activities in this area. Potential contributions include adapting pretrained models to specific analysis tasks and evaluating their impact on physics sensitivity and robustness, including applications to Higgs boson studies.</div><div><strong>Candidate profile</strong></div><div><strong>LET’S TALK ABOUT YOU!</strong></div><div>You hold, or will have <strong>obtained by the starting date, a PhD </strong>in particle physics, electronics engineering or a closely related discipline.</div><div>You bring:</div><ul><li>A strong background in machine learning and practical experience developing and training deep neural networks and/or particle reconstruction, trigger systems.</li><li>Proficiency in Python and a modern deep-learning framework such as PyTorch or TensorFlow.</li><li>FPGA programming, high-level synthesis or tools such as hls4ml.</li><li>Experience with scientific data analysis and quantitative evaluation of algorithms.</li></ul><div>An interest in particle physics and in translating machine learning methods into practical experimental applications.</div><div><strong>Additional assets</strong></div><div>Experience in one or more of the following areas would be valuable:</div><ul><li>Graph neural networks, transformers or representation learning.</li><li>Model quantization, compression or efficient inference.</li><li>Fundamental understanding of the readout systems in HEP.</li><li>Foundation models, self-supervised learning or transfer learning.</li><li>GPU computing and collaborative software development.</li></ul><div><strong>Personal skills</strong></div><div>You enjoy developing new ideas and working with colleagues from different scientific and technical backgrounds. You approach complex problems rigorously, can organize your research independently and communicate your results clearly. Good written and spoken English is essential for working within the international project team and the CMS Collaboration.</div><div><strong>LET’S TALK ABOUT US!</strong></div><div>CEA is a French public research organization working across fundamental science and technological innovation. Joining CEA Paris-Saclay offers the opportunity to work in an environment where physicists, engineers and computing specialists develop scientific instruments and the methods needed to interpret their data.</div><div>Irfu, the Institute for Research on the Fundamental Laws of the Universe, conducts research in particle physics, nuclear physics and astrophysics. Its teams participate in major international experiments and combine expertise in detector development, electronics, scientific computing and physics analysis. Within Irfu, DEDIP, combines expertise in AI, detector technologies, microelectronics and scientific computing to develop systems spanning the full chain from detection to data processing and analysis.</div><div>The CMS group at CEA Paris-Saclay has contributed to the design, construction and operation of the CMS electromagnetic calorimeter and participates in the ECAL, MIP Timing Detector and High Granularity Calorimeter upgrades. Its research programme includes Higgs boson studies, Higgs boson pair production, diphoton analyses and searches for new physics, alongside deep-learning developments for particle reconstruction.</div><div>This position offers an opportunity to connect advances in machine learning with concrete experimental challenges, working from algorithm development through hardware validation, with scope to contribute to CMS physics analysis.</div><div><strong>Applications</strong></div><div>Please submit your CV and a short statement describing your research experience, interests and motivation to <strong>ozgur.sahin@cern.ch</strong> <strong>by 23:59 (Paris time)</strong> <strong>20 October 2026</strong>.</div><div>The position is based at <strong>CEA Paris-Saclay, Gif-sur-Yvette, France</strong>, for <strong>24 months</strong>, starting on <strong>1 January 2027</strong>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-02T07:44:06.876744+00:00",
+      "updated": "2026-10-02T16:39:13.673249+00:00",
+      "addedAt": "2026-10-05T08:18:03.411Z",
+      "isNew": true
+    },
+    {
       "id": "3210121",
       "title": "Postdoctoral Position in Experimental Particle Physics",
       "institution": "USTC, Hefei",
@@ -24,7 +76,7 @@
       "created": "2026-10-01T07:43:29.719991+00:00",
       "updated": "2026-10-02T02:55:44.398263+00:00",
       "addedAt": "2026-10-02T08:09:44.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3210165",
@@ -51,7 +103,7 @@
       "created": "2026-10-01T15:17:49.403913+00:00",
       "updated": "2026-10-01T20:53:28.787171+00:00",
       "addedAt": "2026-10-02T08:09:44.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3210143",
@@ -77,7 +129,7 @@
       "created": "2026-10-01T12:33:34.840653+00:00",
       "updated": "2026-10-01T20:52:47.660984+00:00",
       "addedAt": "2026-10-02T08:09:44.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3210124",
@@ -104,7 +156,7 @@
       "created": "2026-10-01T09:43:04.604559+00:00",
       "updated": "2026-10-01T20:49:11.395546+00:00",
       "addedAt": "2026-10-02T08:09:44.370Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3208683",
@@ -12167,6 +12219,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-02T08:09:44.371Z",
-  "totalJobs": 453
+  "lastUpdated": "2026-10-05T08:18:03.412Z",
+  "totalJobs": 455
 }
