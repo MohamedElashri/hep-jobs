@@ -1,6 +1,62 @@
 {
   "jobs": [
     {
+      "id": "3211328",
+      "title": "Postdoctoral Research Position in Experimental Hadron Physics with CBM experiment",
+      "institution": "Cracow, INP",
+      "deadline": "2026-11-16",
+      "description": "<div>The CBM (Compressed Baryonic Matter) group at INP PAS (Institute of Nuclear Physics Polish Academy of Sciences) in Kraków, Poland, invites applications for a postdoctoral researcher in experimental hadron physics. The successful candidate is expected to take a leading role in physics analyses of the mesons and hyperons production and decays with simulations.</div><div>The successful candidate will work as part of the CBM Collaboration (<a href=\"https://www.cbm.gsi.de/\">https://www.cbm.gsi.de/</a>) and project oriented on the feasibility study of  mesons (D, f1, eta') and Lambda_c hyperon production and semi-leptonic hyperon (Lambda, Xi) decays in p+p collisions in the energy range of 4.5-30 GeV, using the CBMRoot package. The candidate will also focus on the investigation of possible background sources using transport codes (GiBUU, SMASH) and the PLUTO event generator.</div><div><br></div><div>Contract duration and conditions:</div><div>The position will be based at INP PAS, Kraków, with travels and possible short stays at GSI/FAIR. The duration of the position is up to 33 months.</div><div><br></div><div>Required qualifications:</div><ul><li>doctor degree in physical sciences or related disciplines: chemistry, physical chemistry or material science,</li><li>scientific achievements documented by publications in prestigious international scientific journals,</li><li>knowledge of the research topics and current activity in the field of nuclear physics or elementary particles at intermediate energies,</li><li>experience in experimental data analysis and simulations,</li><li>good knowledge of the ROOT package,</li><li>good programming skills in C/C++/Python, ability to create own programming tools and to integrate them with existing software written in C++ in Linux environment,</li><li>ability to work in a team,</li><li>very good knowledge of spoken and written English,</li><li>additional advantage will be knowledge of AI (neural networks etc.) methods.</li></ul><div>Duties and Responsibilities:</div><ul><li>performing simulations and feasibility studies,</li><li>active participation in weekly discussions and in working meetings (at least every few weeks), and presenting results on these meetings,</li><li>dissemination of the research results in the form of publications in leading scientific journals indexed in the JCR and speeches during seminars and conferences, including international ones,</li><li>applying for external funding for research.</li></ul><div>Application procedure:</div><div>Interested applicants should send:</div><ul><li>Cover letter and information such as: name(s), surname, date of birth, contact details, education, work experience (CV),</li><li>A list of scientific and research achievements (e.g., list of publications, speeches at conferences, internships held, participation in projects and research grants),</li><li>2-3 letters of recommendation.</li></ul><div>It is a full-time research position with no teaching duties. However, the successful candidate will have an opportunity to supervise <a href=\"http://b.sc/\">B.Sc</a>. and <a href=\"http://m.sc/\">M.Sc</a> (also partially Ph.D.) students.</div><div><br></div><div>Salary: according to the max. rate allowed at the INP PAS: ~7200-8000 PLN (brutto).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "GSI-FAIR-CBM"
+      ],
+      "urls": [
+        "https://www.ifj.edu.pl/en/career/job-offers/offers/recruitment/2026/october/NZ24-1-Adiunkt_postdoc_AP-II-26-eng.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-10-05T13:34:15.654032+00:00",
+      "updated": "2026-10-05T15:28:06.461955+00:00",
+      "addedAt": "2026-10-06T08:10:10.038Z",
+      "isNew": true
+    },
+    {
+      "id": "3210876",
+      "title": "Postdoctoral Positions with the AMS Group",
+      "institution": "Beijing, Inst. High Energy Phys.",
+      "deadline": "2027-08-31",
+      "description": "<div>The AMS group at the <strong>Institute of High Energy Physics (IHEP), Chinese Academy of Sciences</strong>, invites applications for postdoctoral positions in <strong>detector development and cosmic-ray physics</strong>. Join an international space-based experiment to develop advanced instrumentation, make precision measurements, and explore fundamental questions about our Universe.</div><div><br></div><div><strong>About AMS</strong></div><div>The <strong>Alpha Magnetic Spectrometer (AMS)</strong> operates aboard the International Space Station, measuring charged particles and antiparticles in cosmic rays with high precision. Its scientific objectives include investigating dark matter, antimatter, and the origins and propagation of cosmic rays, as well as searching for new physics.</div><div>AMS has collected <strong>more than 250 billion cosmic-ray events</strong> and produced a series of important scientific results. Its growing dataset offers exceptional opportunities to measure rare cosmic-ray species and search for unexpected signals.</div><div>To extend its scientific reach, the AMS Collaboration is adding a new silicon tracker layer, <strong>L0</strong>, above the existing nine-layer tracker. The upgrade is designed to increase the effective acceptance by approximately a factor of three. Initiated in 2020, the project has progressed through extensive research and development, with the new detector scheduled for launch in <strong>March 2027</strong>. Beam tests were performed in <strong>July 2026</strong> to systematically evaluate the L0 detector’s overall performance. In-orbit alignment and calibration will follow installation.</div><div>The IHEP AMS group plays a major role in detector development and physics analysis. Successful applicants will have opportunities to contribute to the L0 upgrade, develop methods that improve measurement precision, and produce new physics results within the AMS Collaboration.</div><div><br></div><div><strong>Research Opportunities</strong></div><div>Applicants may pursue one or more of the following directions:</div><div><strong>1. AMS L0 Silicon Tracker Upgrade</strong></div><div>Contribute to the L0 silicon tracker upgrade through detector development, reconstruction software, calibration, and alignment. This work will help prepare the detector for operation in space and establish the foundation for future physics measurements.</div><div><strong>2. Reconstruction Algorithms, Calibration, and Software Development</strong></div><div>Develop algorithms, calibration methods, and software for multiple AMS subsystems, including the silicon tracker, time-of-flight detector (TOF), electromagnetic calorimeter (ECAL), ring-imaging Cherenkov detector (RICH), and transition radiation detector (TRD).</div><div>These efforts directly improve the precision and sensitivity of AMS physics measurements.</div><div><strong>3. Precision Measurements of Cosmic-Ray Spectra</strong></div><div>AMS has precisely measured the spectra of 21 cosmic-ray nuclear species and published a series of results with percent-level precision. Future work will focus on <strong>eight additional high-charge nuclear species for which AMS has not yet published measurements</strong>.</div><div>These analyses offer opportunities to produce new results on nucleosynthesis, cosmic-ray origins, and propagation, providing measurements of lasting value to the field.</div><div><strong>4. Measurements of Cosmic-Ray Isotopic Composition</strong></div><div>Study lithium isotopes (⁶Li and ⁷Li), beryllium isotopes (⁷Be, ⁹Be, and ¹⁰Be), boron isotopes (¹⁰B and ¹¹B), and nitrogen isotopes (¹⁴N and ¹⁵N). These isotopes can be distinguished by combining rigidity measurements from the silicon tracker with velocity measurements from the TOF or RICH detector.</div><div>Isotopic measurements reveal how cosmic rays are produced and propagate through the Galaxy. Measurements of radioactive ¹⁰Be relative to stable ⁹Be constrain cosmic-ray residence times. Nitrogen isotopes help distinguish primary contributions from stellar nucleosynthesis from secondary contributions produced by fragmentation in the interstellar medium. Lithium and boron isotopes provide further constraints on cosmic-ray propagation models.</div><div><strong>5. Searches for Antimatter and New Physics</strong></div><div>Search for antihelium, other antinuclei, and potential signals of new physics in cosmic rays. This research combines detailed detector understanding, rigorous background analysis, and sensitive searches for rare events.</div><div><br></div><div><strong>Qualifications</strong></div><ul><li>A PhD in physics or a related field.</li><li>Strong motivation for scientific research.</li></ul><div>We welcome applicants interested in detector instrumentation, software and algorithms, physics analysis, or work that connects these areas.</div><div><br></div><div><strong>Career Development</strong></div><div>A large, growing dataset and a major detector upgrade offer opportunities to produce timely physics results while building expertise in instrumentation and analysis.</div><div>Outstanding candidates may be considered for <strong>permanent staff positions</strong> following their postdoctoral appointments and may have opportunities to take on key responsibilities within the AMS Collaboration.</div><div>Additional opportunities include participation in next-generation high-energy physics experiments and hardware or software development for advanced semiconductor detectors, including low-gain avalanche detectors (LGADs), silicon carbide (SiC) detectors, silicon drift detectors (SDDs), and monolithic active pixel sensors (MAPS).</div><div><br></div><div><strong>Application and Contact</strong></div><div>Applications should include:</div><ul><li>A curriculum vitae.</li><li>A statement of research interests.</li></ul><div>For inquiries about the positions or application process, please contact <strong>Professor Qi Yan</strong> at <strong><a href=\"mailto:qyan@ihep.ac.cn\">qyan@ihep.ac.cn</a></strong>.</div><div>We welcome talented early-career researchers to join us in advancing AMS detector technology and exploring the physics of cosmic rays.</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC",
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "astro-ph"
+      ],
+      "experiments": [
+        "AMS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-04T10:05:35.745095+00:00",
+      "updated": "2026-10-05T14:31:46.452990+00:00",
+      "addedAt": "2026-10-06T08:10:10.038Z",
+      "isNew": true
+    },
+    {
       "id": "3210714",
       "title": "Research Data Steward",
       "institution": "Rutherford Appleton Laboratory",
@@ -24,7 +80,7 @@
       "created": "2026-10-02T10:54:32.372447+00:00",
       "updated": "2026-10-02T16:42:59.678456+00:00",
       "addedAt": "2026-10-05T08:18:03.411Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3210712",
@@ -50,7 +106,7 @@
       "created": "2026-10-02T07:44:06.876744+00:00",
       "updated": "2026-10-02T16:39:13.673249+00:00",
       "addedAt": "2026-10-05T08:18:03.411Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3210121",
@@ -12219,6 +12275,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-05T08:18:03.412Z",
-  "totalJobs": 455
+  "lastUpdated": "2026-10-06T08:10:10.040Z",
+  "totalJobs": 457
 }
