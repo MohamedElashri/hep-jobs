@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "id": "3212352",
+      "title": "Postdoctoral Fellow",
+      "institution": "U. Texas, Austin (main)",
+      "deadline": "2026-11-15",
+      "description": "<div>The dark matter direct detection group at the University of Texas at Austin is seeking exceptional candidates for the role of Postdoctoral Fellow. The chosen candidate will primarily work on the LUX-ZEPLIN (LZ) dark matter experiment, splitting their time between offline computing work and data analysis, with a focus on AI/ML techniques.</div><div><br></div><div>The group, led by Professor Scott Kravitz, focuses on novel methods to improve the sensitivity and scope of dark matter direct detection experiments. Modeling and data analysis for the world-leading LZ experiment is a key area of expertise. Current work includes characterization and removal of rare backgrounds, dark matter searches near threshold, and application of machine learning methods for improved sensitivity. Secondarily, our group is working to develop new particle detector technologies, in particular through the use of crystal xenon as an exceptionally low-background and highly scalable medium. More details are available at out group’s research website: <strong><a href=\"https://kravitz-lab.ph.utexas.edu/\">https://kravitz-lab.ph.utexas.edu/</a></strong>.</div><div><br></div><div><strong>Expected responsibilities include:</strong></div><div>• Maintaining the ongoing LZ data processing pipeline at NERSC</div><div>• Contributing to other parts of LZ data production including simulations and reprocessing of raw data</div><div>• Contributing to the integration of AI/ML workflows into data production pipelines as they emerge from LZ analysis working groups</div><div>• Leadership in data analysis using AI/ML methods for the LZ dark matter experiment</div><div>• Effectively sharing research findings and expertise, through conferences (including occasional travel), publications, and mentorship both within the group and in the field of dark matter detection</div><div><br></div><div><strong>Required qualifications:</strong></div><div>• Ph.D. in experimental particle physics or a related field within the past 4 years (or expected soon after position starts)</div><div><br></div><div><strong>Desired qualifications:</strong></div><div>• Familiarity with HPC job submission, working with container environments and/or working with databases</div><div>• Proficiency with data analysis in Python, C++, ROOT</div><div>• Highly effective communication skills</div><div>• Experience with and desire to perform work in a collaborative environment</div><div><br></div><div><strong>Application materials: </strong></div><div>(to be submitted through Academic Jobs Online: <a href=\"https://academicjobsonline.org/ajo/jobs/32751\">https://academicjobsonline.org/ajo/jobs/32751</a>)</div><div><br></div><div>• CV</div><div>• Publication list (highlighting or only including those for which the applicant was a lead author)</div><div>• A statement of past research experiences and future interests, not to exceed three pages</div><div>• Three letters of recommendation (to be submitted online by the reference writers at <a href=\"https://academicjobsonline.org/ajo/jobs/32751\">https://academicjobsonline.org/ajo/jobs/32751</a>)</div><div><br></div><div>Applications will be considered until the position is filled. For full consideration, applicants are encouraged to submit materials no later than <strong>November 15, 2026</strong>. The start date is negotiable, with candidates ideally starting in the first quarter of 2027. Salary and benefits will be competitive and commensurate with experience and qualifications.</div><div><br></div><div>The term of appointment is two years initially, with the option for continued yearly renewal after that, not to exceed Five years past the date of Ph.D. conferral.</div><div>The University of Texas at Austin, as an equal opportunity/affirmative action employer, complies with all applicable federal and state laws regarding nondiscrimination and affirmative action. The University is committed to a policy of equal opportunity for all persons and does not discriminate on the basis of race, color, national origin, age, marital status, sex, sexual orientation, gender identity, gender expression, disability, religion, or veteran status in employment, educational programs and activities, and admissions.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "LZ"
+      ],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/32751"
+      ],
+      "contact_email": null,
+      "created": "2026-10-07T15:42:43.884121+00:00",
+      "updated": "2026-10-07T16:36:36.159803+00:00",
+      "addedAt": "2026-10-08T08:11:38.561Z",
+      "isNew": true
+    },
+    {
+      "id": "3212337",
+      "title": "Nuclear Fragmentation Measurements for Precision Cosmic-Ray Astrophysics",
+      "institution": "LPSC, Grenoble",
+      "deadline": "2026-11-02",
+      "description": "<div><strong>PhD Position in Experimental Astroparticle Physics</strong></div><div><br></div><div><strong>Nuclear Fragmentation Measurements for Precision Cosmic-Ray Astrophysics</strong></div><div>Modern space-borne experiments measure Galactic cosmic-ray fluxes with percent-level precision, yet their interpretation, including searches for dark matter, is limited by nuclear fragmentation cross sections known only to 20% or more. The project \"<em>NEXUS-CR (NA61/SHINE Cross Sections for Unbiased Signals in Cosmic Rays)</em>\" aims to close this gap by measuring how cosmic-ray nuclei fragment into secondary nuclei, using new data from the <a href=\"https://shine.web.cern.ch/\">NA61/SHINE</a> experiment at CERN.</div><div><br></div><div>The position focuses on the analysis of NA61/SHINE data, in particular the fragmentation of oxygen at beam energies of 12.5 and 150 GeV per nucleon. The work includes detector calibration, particle identification using the time-of-flight and time-projection-chamber systems of the NA61/SHINE spectrometer, and the extraction of fragmentation cross sections. The research will also involve updating cross-section parametrisations and machine-learning models (currently developed within the team) to reinterpret recent AMS-02 cosmic-ray data.</div><div><br></div><div>The position is based at <a href=\"https://lpsc.in2p3.fr/?lang=en\">LPSC</a> (Laboratory of Astroparticle and Cosmology) in Grenoble, France. The doctoral student will receive graduate training within the <a href=\"https://doctorat.univ-grenoble-alpes.fr/english/\">Grenoble Doctoral School</a>. This project is part of a matching-PhD scheme between Université Grenoble Alpes (UGA) and the Karlsruhe Institute of Technology (Germany): the two partners and their doctoral students will collaborate and meet regularly to advance the analysis. Research visits to CERN and close collaboration within the NA61/SHINE collaboration are planned.</div><div><br></div><div>At the end of the three years, the successful candidate will have acquired broad expertise in experimental particle-physics techniques, scientific computing, the astrophysics of Galactic cosmic rays, and machine learning.</div><div><br></div><div><strong>Profile and eligibility</strong></div><div>The successful candidate should hold an MSc degree in particle physics, astroparticle physics, nuclear physics, or a closely related field, with very good results. Good English skills are required. We are looking for candidates with a strong interest in experimental particle physics and cosmic-ray astrophysics, together with a working knowledge of data analysis and scientific computing in C++ or Python.</div><div><a href=\"https://www.univ-grenoble-alpes.fr/english/\">Université Grenoble Alpes</a> is an equal opportunity employer and encourages applications from women, minorities, and individuals with disabilities.</div><div><br></div><div><strong>Application material</strong></div><div>Please send a cover letter, a curriculum vitae, and BSc and MSc academic transcripts (please indicate the grading system if it is not evident), and arrange for at least one reference letter to be sent separately. Please send your application to David Maurin (<a href=\"mailto:david.maurin@lpsc.in2p3.fr\">david.maurin@lpsc.in2p3.fr</a>).</div><div><br></div><div><strong>Deadline</strong></div><div>Full consideration will be given to applications received before 2 November 2026. Applications submitted after this date will be considered until the position is filled, with a preferred starting date of 1 December 2026 and no later than 31 December 2026.</div><div><br></div><div><strong>Additional information</strong></div><div>The position is funded by the UGA \"International Excellence and Outreach (IDEX RI)\" programme and is limited to three years. The net salary (after taxes) is about 1900 euros per month. The position includes the standard French social security benefits (health care, parental leave, sick leave, retirement) and 45 days of paid holiday per year.</div><div><br></div><div><strong>About Grenoble</strong></div><div>Grenoble is home to 55,000 students, including 8,500 international students, and is recognised as one of the world's leading hubs for physics innovation, receiving the 2026 Award for <a href=\"https://eic.ec.europa.eu/news/grenoble-alpes-metropole-and-aalborg-are-winners-european-capital-innovation-awards-2026-2025-12-04_en#:~:text=Grenoble%20Alpes%20M%C3%A9tropole%20has%20been,a%20%E2%82%AC1%20million%20prize.\">European Capital of Innovation</a>. The city offers a vibrant cultural scene with numerous social, sports, and scientific events. Located in the French Alps, it provides exceptional natural scenery and abundant outdoor recreation (see tourism <a href=\"https://www.grenoble-tourisme.com/en/\">website</a>). The city is well-connected: 3 hours from Paris by train, 2 hours from Geneva and its international <a href=\"https://www.gva.ch/en/\">airport</a>, 3 hours from the Mediterranean coast, and close to <a href=\"https://www.lyonaeroports.com/en\">Lyon St-Exupéry airport</a> with affordable connections to Europe and beyond.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "CERN-NA-061"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-07T11:55:49.942754+00:00",
+      "updated": "2026-10-07T15:02:37.672899+00:00",
+      "addedAt": "2026-10-08T08:11:38.561Z",
+      "isNew": true
+    },
+    {
+      "id": "3212339",
+      "title": "Engineering Position in Particle Physics",
+      "institution": "U. Gottingen (main)",
+      "deadline": "2026-10-28",
+      "description": "<div><strong>Engineering Position in Particle Physics at the University of Göttingen</strong></div><div><br></div><div>There is one opening for a</div><div><br></div><div><strong>Electronics Engineer (f/m/d) (Pay Grade E10 TV-L)</strong></div><div><br></div><div>with 100% of the regular weekly working hours (at present 39,8 hours per week, permanent) to start immediately.</div><div><br></div><div>The research group is integrated into and actively involved in the Germany-wide BMFTR research initiative “ATLAS” and the collaborative project “Research Infrastructure – FIS” for the LHC upgrade.</div><div><br></div><div>Your responsibilities</div><ul><li>The Phase II upgrade of the ATLAS experiment’s pixel detector is currently in an advanced stage of production. The construction of pixel detector components—such as modules, cells, and longerons—has begun and will soon move into the integration phase. The Göttingen ATLAS group is active in the development of the readout system and conducts qualification tests for the pixel detector modules as part of the production phase, as well as testing them. In both cases, the development of and work with high-frequency-capable multilayer circuit boards—some of which are equipped with modern FPGA devices (Virtex 7 or newer)—is necessary. To this end, we are seeking a person who has expertise in the design of such circuit boards and can independently drive and oversee their testing.</li><li>Organizational involvement in courses, particularly the introductory physics lab, and the minor-track lab.</li><li>Technical support for the labs.</li></ul><div>Your Profile</div><ul><li>a completed university degree in electrical engineering <a href=\"http://B.Sc\">B.Sc</a> / Dipl.Ing. (FH)</li><li>Knowledge of electronics and experience in developing FPGA firmware</li><li>Software and programming skills</li><li>Relevant language skills in English, and preferably in German as well</li></ul><div>Applications with the usual documents should be sent by <strong>28 October 2026</strong> to:</div><div><br></div><div><strong>Prof. Dr. A. Quadt</strong></div><div><strong>II. Institute of Physics</strong></div><div><strong>Georg-August University Göttingen</strong></div><div><strong>Friedrich-Hund-Platz 1</strong></div><div><strong>37077 Göttingen, Germany</strong></div><div><strong><a href=\"aquadt@uni-goettingen.de\">aquadt@uni-goettingen.de</a></strong></div><div><br></div><div>For more information contact <a href=\"mailto:aquadt@uni-goettingen.de\">aquadt@uni-goettingen.de</a>.</div><div><br></div><div>The University of Göttingen aims to increase the proportion of w omen in areas where women are underrepresented and therefore explicitly invites qualified women to apply. The University has set itself the goal of employing more severely disabled people. Applications from severely disabled persons will be given preference if they are equally qualified.</div><div><br></div><div>Notice:</div><div>We would like to point out that submitting an application constitutes consent under data protection law for us to process your applicant data. You can find more details on the legal basis and use of data in the <a href=\"https://www.uni-goettingen.de/de/document/download/e0b7459b97d917e68e3464b8683b4e73.pdf/DSGVO%20-%20Zusatz%202018_06_05.pdf\">information sheet on the General Data Protection Regulation (DSGVO)</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://www.uni-goettingen.de/de/644546.html?details=3395"
+      ],
+      "contact_email": null,
+      "created": "2026-10-07T12:47:39.858495+00:00",
+      "updated": "2026-10-07T15:01:08.082523+00:00",
+      "addedAt": "2026-10-08T08:11:38.561Z",
+      "isNew": true
+    },
+    {
       "id": "3211736",
       "title": "Tenure-Track Faculty Position in Astrophysics",
       "institution": "McGill U., Montreal (main)",
@@ -27,7 +108,7 @@
       "created": "2026-10-06T14:48:22.445511+00:00",
       "updated": "2026-10-06T15:27:56.584931+00:00",
       "addedAt": "2026-10-07T08:10:30.953Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3211346",
@@ -55,7 +136,7 @@
       "created": "2026-10-05T20:39:25.886556+00:00",
       "updated": "2026-10-06T15:21:05.918509+00:00",
       "addedAt": "2026-10-07T08:10:30.953Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3211342",
@@ -82,7 +163,7 @@
       "created": "2026-10-05T19:15:11.229309+00:00",
       "updated": "2026-10-06T15:20:10.056031+00:00",
       "addedAt": "2026-10-07T08:10:30.953Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3211328",
@@ -12359,6 +12440,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-07T08:10:30.955Z",
-  "totalJobs": 460
+  "lastUpdated": "2026-10-08T08:11:38.562Z",
+  "totalJobs": 463
 }
