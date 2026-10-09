@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "id": "3212701",
+      "title": "Postdoctoral research position in experimental particle physics (LHCb)",
+      "institution": "Ecole Polytechnique, Lausanne",
+      "deadline": "2026-11-06",
+      "description": "<div>The High Energy Physics Laboratory [1] of EPFL, the Swiss Federal Institute of Technology in Lausanne, invites applications for a postdoctoral position to work on the LHCb experiment at CERN’s Large Hadron Collider.</div><div><br></div><div><strong>Research group</strong></div><div>The laboratory conducts a broad range of research activities, with a strong focus on physics analyses using data from the LHCb experiment. It also continues to play a major role in the construction and operation of the Scintillating Fibre (SciFi) Tracker, the LHCb detector's main large tracking station, and its upgrades.The group plays a major role in the R&amp;D of the SciFi detector technology for further potential applications at the FCC, as well as other particle or astroparticle physics experiments and medical applications.</div><div><br></div><div><strong>Position description</strong></div><div>The successful candidate will contribute to physics analyses using LHCb data and supervise PhD students studying b-hadron decays involving charmonium states (such as B → J/ψ X), with the aim of improving the precision of measurements of CP violation in B-meson mixing. The postdoctoral researcher may also contribute to the improvements in detector calibration and alignment, and/or the analysis of the SciFi detector performance data.</div><div><br></div><div><strong>Candidate profile</strong></div><div>The candidate is expected to have experience in data analysis. Any existing experience on the topic of flavour tagging, track fitting, or time-dependent analyses at the LHC experiments is a plus.</div><div><br></div><div>The position, which also comprises some teaching duties, will be filled at the earliest mutually convenient date, preferably at the start of 2027. The appointment at EPFL [2,3] will initially be for one year, renewable for a total duration of up to 3.5 years, subject to mutual agreement.</div><div><br></div><div><strong>Application procedure</strong></div><div>Applicants must hold a PhD degree or expect to obtain their PhD before the start of employment, and have substantial experience in experimental particle physics. They should prepare:</div><div>- a motivation letter;</div><div>- a CV;</div><div>- a list of publications;</div><div>- contact details of three people willing to write a reference letter.</div><div><br></div><div>Please note that the letters of recommendation should be submitted by the referees within 5 days of the application deadline.</div><div><br></div><div><strong>The application should be submitted online at</strong></div><div><a href=\"https://programs-recruiting.epfl.ch/position/50659328\">https://programs-recruiting.epfl.ch/position/50659328</a></div><div>by the deadline of <strong>November 6, 2026</strong>.</div><div><br></div><div>More information can be obtained from</div><div>Prof. Laurent Dufour (laurent.dufour@epfl.ch)</div><div><br></div><div>[1] <a href=\"https://www.epfl.ch/labs/lphe/\">https://www.epfl.ch/labs/lphe/</a></div><div>[2] <a href=\"https://www.epfl.ch/about/working/working-at-epfl/employment-conditions/\">https://www.epfl.ch/about/working/working-at-epfl/employment-conditions/</a></div><div>[3] <a href=\"https://www.epfl.ch/campus/services/people-experience/en/remuneration-and-benefits/salaries-of-other-staff-categories/\">https://www.epfl.ch/campus/services/people-experience/en/remuneration-and-benefits/salaries-of-other-staff-categories/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://programs-recruiting.epfl.ch/position/50659328"
+      ],
+      "contact_email": null,
+      "created": "2026-10-08T19:04:28.376239+00:00",
+      "updated": "2026-10-09T08:04:37.019359+00:00",
+      "addedAt": "2026-10-09T08:11:29.966Z",
+      "isNew": true
+    },
+    {
+      "id": "3212696",
+      "title": "Cyberinfrastructure Engineer",
+      "institution": "U. Chicago (main)",
+      "deadline": "2026-12-01",
+      "description": "<div>As the Cyberinfrastructure Engineer at the MANIAC Lab within the Enrico Fermi Institute, you will report directly to Research Assistant Professor Giordon Stark. As part of our team (<a href=\"https://maniaclab.uchicago.edu\">https://maniaclab.uchicago.edu</a>), you will help build and operate advanced cyberinfrastructure for science collaborations such as the ATLAS experiment at the CERN LHC. These collaborations rely on data-intensive, distributed computing technologies such as HTCondor, Kubernetes, and Ceph.</div><div><br></div><div>The Cyberinfrastructure Engineer will help operate the storage, compute, and GPU infrastructure in the University's campus data centers. This infrastructure connects researchers to the national-scale OSG fabric and to emerging AI/ML service platforms. The work combines hands-on Linux systems administration and on-site hardware support with cloud-native operations using Kubernetes, Helm, containers, and GitOps tooling. It also involves distributed storage (Ceph via Rook, ZFS), configuration management (Puppet), and monitoring and alerting (Prometheus, Grafana).</div><div><br></div><div>The team is collaborative and partly distributed. We meet weekly over Zoom and coordinate daily in Slack. Team members are expected to take ownership of their work and function independently. The position is jointly supported by the ATLAS Midwest Tier 2 Center (MWT2), focused on production operations, and by IRIS-HEP, focused on building the infrastructure that enables AI agents to drive physics analysis and facility operations for the HL-LHC era.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "STAFF"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Cyberinfrastructure-Engineer_JR35473-1"
+      ],
+      "contact_email": null,
+      "created": "2026-10-08T16:02:19.290592+00:00",
+      "updated": "2026-10-08T20:11:25.565023+00:00",
+      "addedAt": "2026-10-09T08:11:29.966Z",
+      "isNew": true
+    },
+    {
       "id": "3212352",
       "title": "Postdoctoral Fellow",
       "institution": "U. Texas, Austin (main)",
@@ -25,7 +80,7 @@
       "created": "2026-10-07T15:42:43.884121+00:00",
       "updated": "2026-10-07T16:36:36.159803+00:00",
       "addedAt": "2026-10-08T08:11:38.561Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3212337",
@@ -52,7 +107,7 @@
       "created": "2026-10-07T11:55:49.942754+00:00",
       "updated": "2026-10-07T15:02:37.672899+00:00",
       "addedAt": "2026-10-08T08:11:38.561Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3212339",
@@ -79,7 +134,7 @@
       "created": "2026-10-07T12:47:39.858495+00:00",
       "updated": "2026-10-07T15:01:08.082523+00:00",
       "addedAt": "2026-10-08T08:11:38.561Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3211736",
@@ -12440,6 +12495,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-08T08:11:38.562Z",
-  "totalJobs": 463
+  "lastUpdated": "2026-10-09T08:11:29.968Z",
+  "totalJobs": 465
 }
