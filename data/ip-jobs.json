@@ -1,6 +1,35 @@
 {
   "jobs": [
     {
+      "id": "3213107",
+      "title": "Postdoctoral Researcher in Neutrino Physics - DUNE",
+      "institution": "LPSC, Grenoble",
+      "deadline": "2026-10-30",
+      "description": "<div><strong>Contract: </strong>Fixed-term postdoctoral position, 24 months</div><div><strong>Tentative starting date:</strong> December 1st, 2026</div><div><strong>Application deadline: </strong>October 30th (midnight, Paris time)</div><div><br></div><div><strong>Missions</strong></div><div>The DUNE experiment will study beam neutrino oscillations to determine the neutrino mass ordering, measure the CP-violating phase, and perform high-precision measurements of the neutrino oscillation parameters to probe the existence of physics beyond the Standard Model.</div><div>The 17-kton Liquid Argon Time Projection Chambers are currently under construction at SURF. Large-scale prototypes are being tested at CERN. The postdoctoral researcher will analyze ProtoDUNE-VD’s recent data (beam and cosmics) to characterize the detector and estimate its performance. At the same time, the reconstruction and analysis tools that will be used in DUNE’s final measurements are being developed and continue to be improved. The postdoctoral researcher will join the ongoing effort dedicated to updating DUNE’s sensitivity and to preparing for the first data.</div><div><br></div><div><strong>Activities and responsibilities :</strong></div><ul><li>Analysis of the ProtoDUNE-VD prototype’s first data (beam and cosmics).</li><li>Characterization of ProtoDUNE-VD and estimation of its performance.</li><li>Development of event reconstruction tools.</li><li>Developments for a High-Performance Computing fitting framework.</li><li>Major contributions to sensitivity studies for DUNE’s main analysis, the long baseline oscillation analysis (determination of the neutrino mass ordering, CP-violation, etc.).</li><li>Possible contributions to the assembly and tests of the charge readout planes at LPSC and to the construction of the far detector at SURF.</li></ul><div><strong>Expected qualifications and skills:</strong></div><ul><li>PhD degree in particle physics or closely related field.</li><li>Experience with data analysis and associated statistical methods.</li><li>Strong programming skills (C++, Python, ROOT, etc.)</li><li>English proficiency (written and spoken) is required.</li><li>Experience with deep-learning techniques and libraries welcome.</li><li>Past experience in neutrino oscillation and/or LAr TPC experiment welcome.</li></ul><div><strong>Work environment:</strong></div><div>The Laboratoire de Physique Subatomique et de Cosmologie de Grenoble (LPSC, <a href=\"http://lpsc.in2p3.fr/\">http://lpsc.in2p3.fr</a>) is a mixed research unit, combining CNRS-IN2P3, the Université Grenoble Alpes (UGA) and the Grenoble INP engineering and management schools network, and gathering around 230 personnel.</div><div>The LPSC DUNE team is currently composed of 5 permanent researchers and one PhD student. LPSC is responsible for the production of half of the CRP for the Far Detector Vertical Drift module. The team is also heavily involved in the long-baseline oscillation analysis and the ProtoDUNE analysis.</div><div><br></div><div><strong>Application:</strong></div><div>The application should be submitted via the CNRS website: <a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR5821-CHRVEL-223/Default.aspx\">https://emploi.cnrs.fr/Offres/CDD/UMR5821-CHRVEL-223/Default.aspx</a></div><div>It should be composed of a CV and a cover letter, illustrating how your past research experience and interests align with the position. Two reference letters can be sent directly to <a href=\"mailto:calvez@lpsc.in2p3.fr\">calvez@lpsc.in2p3.fr</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "ProtoDUNE-VD"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR5821-CHRVEL-223/Default.aspx"
+      ],
+      "contact_email": null,
+      "created": "2026-10-09T13:32:08.277492+00:00",
+      "updated": "2026-10-09T14:36:25.346729+00:00",
+      "addedAt": "2026-10-12T08:23:43.426Z",
+      "isNew": true
+    },
+    {
       "id": "3212701",
       "title": "Postdoctoral research position in experimental particle physics (LHCb)",
       "institution": "Ecole Polytechnique, Lausanne",
@@ -25,7 +54,7 @@
       "created": "2026-10-08T19:04:28.376239+00:00",
       "updated": "2026-10-09T08:04:37.019359+00:00",
       "addedAt": "2026-10-09T08:11:29.966Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3212696",
@@ -53,7 +82,7 @@
       "created": "2026-10-08T16:02:19.290592+00:00",
       "updated": "2026-10-08T20:11:25.565023+00:00",
       "addedAt": "2026-10-09T08:11:29.966Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3212352",
@@ -12495,6 +12524,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-09T08:11:29.968Z",
-  "totalJobs": 465
+  "lastUpdated": "2026-10-12T08:23:43.428Z",
+  "totalJobs": 466
 }
