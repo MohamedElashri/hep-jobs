@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3213857",
+      "title": "Postdoctoral researcher on FCC-ee vertex detector development and physics performance evaluation",
+      "institution": "Strasbourg, IPHC",
+      "deadline": "2026-12-01",
+      "description": "<div>The PICSEL team at IPHC (Strasbourg, France) invites applications for a <strong>36-month postdoctoral position</strong> focused on the development and optimization of the <strong>FCC-SEED vertex detector concept for FCC-ee</strong>.</div><div><br></div><div>The successful candidate will contribute to the characterization and testing of curved Monolithic Active Pixel Sensors (MAPS), including the preparation and analysis of test-beam campaigns. He/she will also play a major role in detector simulation and optimization, implementing FCC-SEED geometries in the Key4hep full-simulation framework and evaluating detector performance through tracking, vertexing, flavor-tagging, and physics-analysis studies.</div><div><br></div><div>The position combines <strong>silicon detector R&amp;D, instrumentation, detector simulation, reconstruction, and physics analysis</strong>, with possible studies related to CKM matrix measurements, flavor physics, higgs and top-quark physics. The candidate will contribute to scientific publications and participate in international FCC-ee meetings, workshops, and conferences.</div><div><br></div><div>Applicants should hold a <strong>PhD in particle physics</strong>. Experience with silicon detectors, experimental instrumentation, detector simulation, reconstruction, or particle-physics data analysis is desirable. Good programming skills are expected. Experience with test beams, tracking or vertex reconstruction, Monte Carlo simulation, and collaborative software development would be additional assets.</div><div><br></div><div>The position is based at the <strong>Institut Pluridisciplinaire Hubert Curien (IPHC) in Strasbourg, France</strong>, within the PICSEL team, which has extensive expertise in Monolithic Active Pixel Sensors and detector development. The successful candidate will join the <strong>ANR-funded FCC-SEED project</strong> and work in close collaboration with IPHC engineers and physicists.</div><div>Interested candidates are invited to contact <a href=\"mailto:jeremy.andrea@iphc.cnrs.fr\">jeremy.andrea@iphc.cnrs.fr,</a> <a href=\"mailto:armin.ilg@iphc.cnrs.fr\">armin.ilg@iphc.cnrs.fr</a>, and <a href=\"mailto:ziad.elbitar@iphc.cnrs.fr\">ziad.elbitar@iphc.cnrs.fr</a> for further information and to submit their application.</div><div><br></div><div>Applications should be performed at the following link :</div><div><a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR7178-REGSOM-267/Default.aspx?lang=EN\">https://emploi.cnrs.fr/Offres/CDD/UMR7178-REGSOM-267/Default.aspx?lang=EN</a></div><div><br></div><div>Reference letters should be sent to <a href=\"mailto:jeremy.andrea@iphc.cnrs.fr\">jeremy.andrea@iphc.cnrs.fr,</a> <a href=\"mailto:armin.ilg@iphc.cnrs.fr\">armin.ilg@iphc.cnrs.fr</a>, and <a href=\"mailto:ziad.elbitar@iphc.cnrs.fr\">ziad.elbitar@iphc.cnrs.fr</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-FCC"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR7178-REGSOM-267/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-10-12T16:25:07.225409+00:00",
+      "updated": "2026-10-12T16:51:07.746302+00:00",
+      "addedAt": "2026-10-13T08:14:57.586Z",
+      "isNew": true
+    },
+    {
       "id": "3213107",
       "title": "Postdoctoral Researcher in Neutrino Physics - DUNE",
       "institution": "LPSC, Grenoble",
@@ -27,7 +54,7 @@
       "created": "2026-10-09T13:32:08.277492+00:00",
       "updated": "2026-10-09T14:36:25.346729+00:00",
       "addedAt": "2026-10-12T08:23:43.426Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3212701",
@@ -12524,6 +12551,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-12T08:23:43.428Z",
-  "totalJobs": 466
+  "lastUpdated": "2026-10-13T08:14:57.587Z",
+  "totalJobs": 467
 }
