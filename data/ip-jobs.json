@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3213930",
+      "title": "Postdoctoral Position in Hadron Collider Physics at the LHC with the ATLAS Detector",
+      "institution": "Barcelona, IFAE",
+      "deadline": "2026-10-27",
+      "description": "<div>The High Energy Physics Institute in Barcelona (IFAE-Barcelona) announces the opening of one Postdoctoral Position to participate in its hadron collider experimental program using the ATLAS detector at the LHC. IFAE is one of the top research centers in Spain conducting experimental and theoretical research at the frontier of fundamental physics, as well as developing cutting-edge detector technology. In 2012, 2016, and 2025 IFAE was awarded the distinction of “Severo Ochoa” Centre of Excellence by the Spanish Ministry of Economy and Competitiveness.</div><div><br></div><div>General information about IFAE is available at <a href=\"http://www.ifae.es\">http://www.ifae.es</a>.</div><div><br></div><div>IFAE maintains a strong presence in the ATLAS experiment, with major responsibilities on the maintenance and operation of the TileCal hadronic calorimeter and the Level-1 Topological Trigger system, and participates in the Pixel detector and trigger upgrade. The group has also developed an exciting and broad research program that includes precision measurements of the top quark (e.g., four-top-quark production) and the Higgs boson (e.g., top-Higgs Yukawa coupling, di-Higgs and tri-Higgs production), and searches for new phenomena beyond the Standard Model (e.g., supersymmetry, vector-like fermions, leptoquarks, additional light or heavy Higgs bosons, etc.).</div><div><br></div><div>The successful postdoctoral candidate will join the IFAE-ATLAS group and will participate in first-class research with the ATLAS detector. The candidate will participate in the analysis of the data collected during Run 2 and Run 3 of the LHC and the upgrade activities of the ATLAS detector in preparation for the High-Luminosity LHC. The duration of the position is 2 years.</div><div><br></div><div>Applicants should hold a Ph.D. in Experimental Particle Physics, which should have been obtained during the last three years. They should provide a curriculum vitae, a brief description of research interests, and arrange for three letters of recommendation to be sent by e-mail to Dr. Imma Riu (<a href=\"mailto:iriu@ifae.es\">iriu@ifae.es</a>), Dr. Tamara Vázquez Schröder (<a href=\"mailto:tvazquez@ifae.es\">tvazquez@ifae.es</a>) and <a href=\"mailto:rrhh@ifae.es\">rrhh@ifae.es</a> stating the job reference (IFAE2026/26_ATLAS_2 Postdocs) as the subject of the message. Applications should ideally be received by <strong>27 October 2026 </strong>but will remain open until filled. The selected candidate is expected to start working in IFAE as soon as possible and no later than Fall 2026.</div><div><br></div><div>IFAE is an equal opportunity employer committed to diversity in the workplace, and we welcome applications from all qualified candidates. Women are particularly encouraged to apply.</div><div><br></div><div>Sending CVs to the above addresses implies consent to the <a href=\"https://www.ifae.es/about/legal-warning\">IFAE's legal warning on data privacy</a>. The application must contain a personal identification number (DNI, NIE or passport) in order to proceed to the verification of absence of conflict of interest required by Recovery and Resilience Mechanism of the Spanish Government.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-13T14:45:12.788679+00:00",
+      "updated": "2026-10-13T16:36:12.690066+00:00",
+      "addedAt": "2026-10-14T08:09:00.554Z",
+      "isNew": true
+    },
+    {
       "id": "3213857",
       "title": "Postdoctoral researcher on FCC-ee vertex detector development and physics performance evaluation",
       "institution": "Strasbourg, IPHC",
@@ -25,7 +50,7 @@
       "created": "2026-10-12T16:25:07.225409+00:00",
       "updated": "2026-10-12T16:51:07.746302+00:00",
       "addedAt": "2026-10-13T08:14:57.586Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3213107",
@@ -12551,6 +12576,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-13T08:14:57.587Z",
-  "totalJobs": 467
+  "lastUpdated": "2026-10-14T08:09:00.556Z",
+  "totalJobs": 468
 }
