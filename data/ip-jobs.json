@@ -1,6 +1,87 @@
 {
   "jobs": [
     {
+      "id": "3214896",
+      "title": "Research Associate, Quantum-Assisted Generative Machine Learning",
+      "institution": "Natl. Res. Coun., Ottawa",
+      "deadline": "2026-11-03",
+      "description": "<div>We are seeking a Research Associate at the intersection of quantum computing and machine learning. The successful applicant will be employed by the National Research Council (NRC) Canada and stationed at TRIUMF, Canada’s particle accelerator centre in Vancouver, British Columbia.</div><div>The position is part of a collaboration between NRC, TRIUMF, D-Wave Systems, and the Perimeter Institute for Theoretical Physics, which focusses on utilizing quantum computing as an alternative to Monte Carlo simulations of the passage of particles through matter. The successful applicant will lead the development of the core quantum-assisted generative machine learning methodologies, building on the existing QVAE framework and extending it by coupling it to modern encoder and decoder architectures such as transformers and graph neural networks. They will work closely with other Research Associates and team members who adapt these methods to specific applications, including proton radiotherapy in medical physics and calorimeter simulation in high-energy physics.</div><div><br></div><div><strong>Primary responsibilities</strong></div><ul><li>Developing, training and benchmarking quantum-assisted generative machine learning models, including the use of quantum annealing hardware during model training and inference.</li><li>Integrating these methodologies with modern architectures such as transformers and graph neural networks.</li><li>Collaborating with Research Associates and other team members to tailor these methods to specific applications.</li><li>Documenting, publishing and presenting results, and contributing to well-maintained research software.</li></ul><div><strong>Qualifications</strong></div><ul><li>A PhD in a quantitative discipline such as physics, computer science, applied mathematics, or engineering, with a strong research record in machine learning.</li><li>Extensive hands-on experience in machine learning, ideally with generative models (e.g. variational autoencoders, energy-based models, Boltzmann machines), modern architectures such as transformers or graph neural networks, and a deep learning framework such as PyTorch.</li><li>Experience with quantum annealing or quantum computing would be an asset.</li></ul><div><strong>Application details</strong></div><div>Please upload your academic CV and cover letter outlining your interest and vision for the position and relevant experience to <a href=\"https://triumfoffice365.sharepoint.com/:f:/s/AQC-402-02/IgBfb_Q9j2GERYMvI8YMBGCdAcPO6mqgoGUsfB3FYIcYehM\">https://triumfoffice365.sharepoint.com/:f:/s/AQC-402-02/IgBfb_Q9j2GERYMvI8YMBGCdAcPO6mqgoGUsfB3FYIcYehM</a></div><div>Please arrange at least 3 reference letters to be uploaded to the same site.</div><div>In your cover letter please list contact information for your references. All files uploaded must be in the pdf format. Files uploaded should follow the naming convention below:</div><div>CV.pdf</div><div>cover.pdf</div><div>ref_RefereeLastName.pdf</div><div>Please note that you and your referees will be asked to provide first and last name after the file selection is made. Please ask you referees to provide your first and last name, consistent with what you are providing – so that we can compile your application package.</div><div>Please contact <a href=\"mailto:wfedorko@triumf.ca\">wfedorko@triumf.ca</a> in case of difficulties.</div><div><br></div><div><strong>Equal opportunity</strong></div><div>We are committed to building a diverse and inclusive research community and a welcoming work environment for everyone. We welcome applications from all qualified candidates, regardless of background, and applicants from groups that have historically been underrepresented or marginalised in science are especially encouraged to apply. All qualified applicants will receive full consideration. Preference will be given to Canadian citizens and permanent residents of Canada. Please include citizenship information in your application.</div><div>Compensation</div><div>The pay scale for this position, classified as (AsRO/RCO-2) begins at CAD $83,985. Please consult <a href=\"https://nrc.canada.ca/en/corporate/careers/collective-agreements-compensation-plans/research-officer-research-council-officer-rorco-collective-agreement\">https://nrc.canada.ca/en/corporate/careers/collective-agreements-compensation-plans/research-officer-research-council-officer-rorco-collective-agreement</a></div><div>NRC employees enjoy a wide-range of competitive benefits (see: <a href=\"http://nrc.canada.ca/en/corporate/careers/nrc-advantage\">http://nrc.canada.ca/en/corporate/careers/nrc-advantage</a>) including a robust pension plan, comprehensive health and dental coverage, disability and life insurance, office closure at the end of December, and additional supports to enhance your well-being throughout your career and beyond.</div><div><br></div><div><strong>Application timelines</strong></div><div>The hiring committee will start reviewing candidates immediately, but applications submitted before November 3 will be given full consideration. The position will remain open until filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "stat",
+        "quant-ph",
+        "physics",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-14T19:55:51.802881+00:00",
+      "updated": "2026-10-14T22:26:14.150698+00:00",
+      "addedAt": "2026-10-15T08:09:15.963Z",
+      "isNew": true
+    },
+    {
+      "id": "3214633",
+      "title": "PhD Position in Neutrino Experimental Physics",
+      "institution": "Madrid, CIEMAT",
+      "deadline": "2026-11-30",
+      "description": "<div>The CIEMAT Neutrino Group at the Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) in Madrid (Spain) is seeking candidates for a 3-year PhD student Position in Experimental Neutrino Physics to work on the new LiquidO technology in the scope of the EIC-Pathfinder project <a href=\"https://cordis.europa.eu/project/id/101047028\">AntiMatter-OTech</a>.</div><div><br></div><div>The AntiMatter-OTech innovation project aims to construct and operate a 10-tonne neutrino detector using an opaque scintillator for nuclear reactor applications. A fundamental science programme is also associated to this project. The CIEMAT Neutrino Group is assuming responsibilities in the design and construction of the detector and is involved in the simulation and data analysis of the experiment.</div><div><br></div><div>The CIEMAT Neutrino Group has a long experience in Reactor Neutrino Experiments and is also participating in DUNE and SBND experiments at Fermilab, as well as, in the ProtoDUNE program at CERN Neutrino Platform.</div><div>The <strong>3-year PhD contract </strong>(PREFIN-26-I01) will be published soon at the <a href=\"https://www.ciemat.es/en/ofertas-de-empleo\">CIEMAT Job Openings web site</a>.</div><div>The candidate must have a Master’s Degree in Physics or similar at the time of the application, a good English knowledge and strong interest in the neutrino physics field. Experience in C++ and Python programming will be also valuable. For further information, interested candidates are encouraged to contact Carmen Palomares (<a href=\"mailto:mc.palomares@ciemat.es\">mc.palomares@ciemat.es</a>).</div><div><br></div><div><em>The CIEMAT Particle Physics Unit is an affirmative action/equal opportunity employer. Eliminating gender inequalities by promoting equal opportunities for men and women is a core compromise of our group and it is our commitment to establish the necessary actions to close the gender gap. More information in en <a href=\"http://cfp.ciemat.es/equality\">http://cfp.ciemat.es/equality</a>)</em></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "AM-OTech"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-14T12:38:19.466090+00:00",
+      "updated": "2026-10-14T15:58:47.599648+00:00",
+      "addedAt": "2026-10-15T08:09:15.963Z",
+      "isNew": true
+    },
+    {
+      "id": "3214619",
+      "title": "Postdoctoral Fellow in Axion Search Experiment",
+      "institution": "Stockholm U. (main)",
+      "deadline": "2026-11-13",
+      "description": "<div><strong>Postdoctoral Fellow in Experimental Axion Physics at Stockholm University</strong></div><div>The Department of Physics at Stockholm University invites applications for a postdoctoral position in experimental physics affiliated with the ALPHA project, an international collaboration dedicated to searching for dark matter axions using advanced wire-array metamaterials.</div><div><br></div><div>The ALPHA Collaboration brings together researchers from leading global institutions, including Stockholm University, Yale University, Arizona State University, University of California, Berkeley, University of Cambridge, University of Colorado Boulder, University of Iceland, ITMO University, Johns Hopkins University, Massachusetts Institute of Technology, Oak Ridge National Laboratory, and Wellesley College.</div><div><br></div><div>Stockholm University plays a leading role in this global effort, focusing particularly on developing resonator tuning mechanisms, and building a data analysis framework. Our rapidly growing research group currently comprises four senior scientists, including Nobel Laureate and ALPHA Project Scientist Frank Wilczek, alongside three postdoctoral researchers and one PhD student.</div><div><br></div><div><strong>Position Description</strong></div><div>The role involves designing and testing microwave cavities in cryogenic environments using a dilution refrigerator system. Based on wire-array metamaterials, these cavities are engineered to operate at resonant frequencies above 10 GHz. Responsibilities also include designing the full-scale resonator for the ALPHA Phase 1 deployment. A smaller portion of the position may involve contributing to the development of photon detection systems and superconducting cavities.</div><div><br></div><div>The successful candidate will be expected to disseminate research findings through peer-reviewed publications and conference presentations, as well as actively participate in collaborative work across the ALPHA project.</div><div><br></div><div><strong>Qualifications</strong></div><ul><li>A PhD in physics, electrical engineering, or a related field, with a specialization in one or more of the following: microwave engineering, cryogenics, superconducting devices, or dark matter detection.</li><li>Demonstrated experience with RF/microwave systems, cryogenic measurement setups, or quantum-limited detection is highly desirable.</li><li>Excellent communication skills and the proven ability to work effectively in a collaborative, international research environment.</li></ul><div><strong>Application</strong></div><div>Please submit your application directly to project manager Junu Jeong at jun-woo.jeoung@fysik.su.se.</div><div>For detailed information on required application documents, please visit: <a href=\"https://www.su.se/english/divisions/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-axion-search-experiment\">https://www.su.se/english/divisions/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-axion-search-experiment</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "ALPHA"
+      ],
+      "urls": [
+        "https://www.su.se/english/divisions/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-axion-search-experiment"
+      ],
+      "contact_email": null,
+      "created": "2026-10-14T09:57:04.622895+00:00",
+      "updated": "2026-10-14T15:53:13.559316+00:00",
+      "addedAt": "2026-10-15T08:09:15.963Z",
+      "isNew": true
+    },
+    {
       "id": "3213930",
       "title": "Postdoctoral Position in Hadron Collider Physics at the LHC with the ATLAS Detector",
       "institution": "Barcelona, IFAE",
@@ -23,7 +104,7 @@
       "created": "2026-10-13T14:45:12.788679+00:00",
       "updated": "2026-10-13T16:36:12.690066+00:00",
       "addedAt": "2026-10-14T08:09:00.554Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3213857",
@@ -12576,6 +12657,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-14T08:09:00.556Z",
-  "totalJobs": 468
+  "lastUpdated": "2026-10-15T08:09:15.964Z",
+  "totalJobs": 471
 }
