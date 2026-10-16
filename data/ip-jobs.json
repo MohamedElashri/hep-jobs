@@ -1,6 +1,113 @@
 {
   "jobs": [
     {
+      "id": "3215401",
+      "title": "Faculty search: tenure-track assistant professor",
+      "institution": "UC, Berkeley (main)",
+      "deadline": "2026-11-15",
+      "description": "<div>The Physics Department, UC Berkeley, has a search underway at the level of tenure-track assistant professor. While the search is open to all, two areas of special interest are 1) experimental nuclear and particle physics focused on the study of fundamental symmetries and 2) space sciences (theory or experiment), astrophysics experiment, and observational and theoretical astrophysics focused on data science techniques. Please see the application link <a href=\"https://aprecruit.berkeley.edu/JPF05524\">https://aprecruit.berkeley.edu/JPF05524</a> for further information.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://aprecruit.berkeley.edu/JPF05524"
+      ],
+      "contact_email": null,
+      "created": "2026-10-15T21:28:57.113596+00:00",
+      "updated": "2026-10-15T22:17:20.187166+00:00",
+      "addedAt": "2026-10-16T08:08:52.247Z",
+      "isNew": true
+    },
+    {
+      "id": "3215354",
+      "title": "Assistant / Associate Professor in Particle Physics",
+      "institution": "Imperial Coll., London",
+      "deadline": "2026-11-25",
+      "description": "<div>Imperial College London invites applications from experimental particle physicists to establish an internationally leading research programme in searches for hidden-sector and feebly interacting particles at the intensity frontier.</div><div><br></div><div>The appointment offers a leading role in SHiP (Search for Hidden Particles) at CERN. Imperial physicists have helped develop SHiP from its original proposal through CERN approval in 2024. The experiment is now in detailed design, with construction and long-term operation ahead. The successful candidate will be able to shape its experimental programme, including detector development and construction, simulation, reconstruction, data analysis and physics interpretation. SHiP will also pursue a neutrino programme that includes tau-neutrino studies. External funding is available to support the experimental work.</div><div><br></div><div>Applicants should hold a PhD in physics or a closely related field and have a strong record in experimental particle physics within a major international collaboration. Relevant experience may come from collider, fixed-target, beam-dump or neutrino experiments. Candidates should present a credible plan for a leading SHiP programme and demonstrate expertise in at least one relevant area, such as instrumentation, computing, reconstruction, analysis or interpretation. Experience with detector hardware or technology transferable to SHiP is welcome.</div><div><br></div><div>The appointee will also contribute to teaching, student supervision, funding applications and the wider Department. Opportunities for related research include Imperial’s work on T2K, SBN, DUNE, LZ, XLZD and LHCb. Appointment at Associate Professor level requires an established international profile and a record of independent leadership appropriate to that level.</div><div><br></div><div>Apply by 25 November 2026 via the official Imperial vacancy page linked in this listing. For informal enquiries, contact Professor Mitesh Patel (mitesh.patel@imperial.ac.uk) or Professor Stefan Söldner-Rembold (stefan.soldner-rembold@imperial.ac.uk).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "JUNIOR",
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "CERN-SPS-NA-067"
+      ],
+      "urls": [
+        "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=29599&jobTitle=Assistant+%2F+Associate+Professor+in+Particle+Physics"
+      ],
+      "contact_email": null,
+      "created": "2026-10-15T16:52:25.587417+00:00",
+      "updated": "2026-10-15T17:45:49.566588+00:00",
+      "addedAt": "2026-10-16T08:08:52.247Z",
+      "isNew": true
+    },
+    {
+      "id": "3215239",
+      "title": "PhD position in experimental particle physics: Dark Sector searches with the NA64 fixed-target experiment at CERN.",
+      "institution": "Valencia U., IFIC",
+      "deadline": "2026-11-06",
+      "description": "<div>The <strong>PhD project</strong> will be centred on the <em>exploitation of the NA64 data collected so far as well as the optimisation and design of the experiment for the next phase after CERN shutdown</em>. The student will be mainly involved in the electron and muon programs participating in the following activities:</div><div><br></div><ul><li>Analysis of current NA64 data and Monte Carlo simulations.</li><li>Development of reconstruction and analysis software.</li><li>Development of new trigger algorithms for real time analysis and detector optimisation.</li><li>Participation in CERN test beams and data-taking campaigns.</li></ul><div>The student will work within an international collaboration. The position offers opportunities for traveling to CERN and participation in international conferences, workshops, and schools.</div><div><br></div><div>The position is fully funded for 3.5 years. Applications will be reviewed on a rolling basis until the position is filled. The position is <strong>expected to start in December 2026</strong>, although the exact starting date will depend on administrative procedures.</div><div><br></div><div>The successful candidate will join the Experimental Neutrino Physics Group (<a href=\"https://neutrinos.ific.uv.es/\">https://neutrinos.ific.uv.es/</a>) at the Instituto de Física Corpuscular (IFIC, <a href=\"https://webific.ific.uv.es/web/\">https://webific.ific.uv.es/web/</a>), to work on searches for light dark matter and other physics beyond the Standard Model within the NA64 experiment at CERN.</div><div><br></div><div><strong><em>Requirements</em></strong></div><div>Applicants must hold a Master's degree (or equivalent) in high-energy or particle physics. Previous experience in experimental particle physics, Monte Carlo simulations or data analysis is desirable. Programming skills in Python and/or C++, as well as familiarity with ROOT, Geant 4 or machine learning techniques will be valued positively.</div><div><br></div><div><strong><em>Application procedure</em></strong></div><div>Interested candidates should submit their complete application, including a motivation letter, CV, academic transcripts and two letters of recommendation, to Dr. Laura Molina Bueno (laura.molina@ific.uv.es) by November 6th.</div><div><br></div><div><em>We are committed to fostering an inclusive and diverse research environment and welcome applications from candidates of all backgrounds.</em></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-SPS-NA-064"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-15T09:32:37.062913+00:00",
+      "updated": "2026-10-15T16:20:35.159389+00:00",
+      "addedAt": "2026-10-16T08:08:52.247Z",
+      "isNew": true
+    },
+    {
+      "id": "3214918",
+      "title": "Research Associate, Quantum Machine Learning for Proton Therapy",
+      "institution": "Natl. Res. Coun., Ottawa",
+      "deadline": "2026-11-03",
+      "description": "<div>We are seeking a Research Associate at the intersection of medical physics, quantum computing and machine learning, with the successful applicant being employed by the National Research Council (NRC) Canada and stationed at TRIUMF, Canada’s national particle accelerator centre in Vancouver, British Columbia. The position is part of a collaboration between NRC, TRIUMF, D-Wave Systems, and the Perimeter Institute for Theoretical Physics which focusses on utilizing quantum computing as an alternative to Monte Carlo simulations of passage of particles through matter, including in medical physics applications. The medical physics portion of the project focusses on proton radiotherapy for cancer and will be performed in close collaboration with a Research Associate whose work focusses on the core development of quantum-assisted generative machine learning models.</div><div><br></div><div><strong>Primary responsibilities</strong></div><ul><li>Performing Monte Carlo simulations of proton therapy treatment plans to yield radiation dose and linear energy transfer (LET) maps, which are then to be used for model training.</li><li>Developing and tuning the quantum assisted generative machine learning architectures to optimize its performance for medical physics applications.</li><li>Documenting, publishing and presenting results, and contributing to well-maintained research software.</li></ul><div><strong>Qualifications</strong></div><ul><li>A PhD in a quantitative discipline such as physics, medical physics, computer science, applied mathematics, or engineering, with a strong research record in machine learning and/or computational simulation.</li><li>Extensive hands-on experience in machine learning, ideally with generative models and a deep learning framework such as PyTorch.</li><li>An understanding of proton therapy and/or practical experience in performing Monte Carlo simulations (e.g. in FLUKA, TOPAS, Geant4) would be assets.</li></ul><div><strong>Application details</strong></div><div>Please upload your academic CV and cover letter outlining your interest and vision for the position and relevant experience to</div><div><a href=\"https://triumfoffice365.sharepoint.com/:f:/s/AQC-402-02/IgAmQe6SMUYjTIAA64YA_Y4QAa1vKuHyY95IvsVEutBpnyk\">https://triumfoffice365.sharepoint.com/:f:/s/AQC-402-02/IgAmQe6SMUYjTIAA64YA_Y4QAa1vKuHyY95IvsVEutBpnyk</a></div><div>Please arrange at least 3 reference letters to be uploaded to the same site.</div><div>In your cover letter please list contact information for your references. All files uploaded must be in the pdf format. Files uploaded should follow the naming convention below:</div><div>CV.pdf</div><div>cover.pdf</div><div>ref_RefereeLastName.pdf</div><div>Please note that you and your referees will be asked to provide first and last name after the file selection is made. Please ask you referees to provide your first and last name, consistent with what you are providing – so that we can compile your application package.</div><div>Please contact <a href=\"mailto:wfedorko@triumf.ca\">wfedorko@triumf.ca</a> in case of difficulties.</div><div><br></div><div><strong>Equal opportunity</strong></div><div>We are committed to building a diverse and inclusive research community and a welcoming work environment for everyone. We welcome applications from all qualified candidates, regardless of background, and applicants from groups that have historically been underrepresented or marginalised in science are especially encouraged to apply. All qualified applicants will receive full consideration. Preference will be given to Canadian citizens and permanent residents of Canada. Please include citizenship information in your application.</div><div><br></div><div><strong>Compensation</strong></div><div>The pay scale for this position, classified as (AsRO/RCO-2) begins at CAD $83,985. Please consult <a href=\"https://nrc.canada.ca/en/corporate/careers/collective-agreements-compensation-plans/research-officer-research-council-officer-rorco-collective-agreement\">https://nrc.canada.ca/en/corporate/careers/collective-agreements-compensation-plans/research-officer-research-council-officer-rorco-collective-agreement</a></div><div>NRC employees enjoy a wide-range of competitive benefits (see: <a href=\"http://nrc.canada.ca/en/corporate/careers/nrc-advantage\">http://nrc.canada.ca/en/corporate/careers/nrc-advantage</a>) including a robust pension plan, comprehensive health and dental coverage, disability and life insurance, office closure at the end of December, and additional supports to enhance your well-being throughout your career and beyond.</div><div><br></div><div><strong>Application timelines</strong></div><div>The hiring committee will start reviewing candidates immediately, but applications submitted before November 3 will be given full consideration. The position will remain open until filled.​</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "physics",
+        "stat",
+        "cs",
+        "quant-ph",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-14T23:07:27.672847+00:00",
+      "updated": "2026-10-15T16:14:57.301780+00:00",
+      "addedAt": "2026-10-16T08:08:52.247Z",
+      "isNew": true
+    },
+    {
       "id": "3214896",
       "title": "Research Associate, Quantum-Assisted Generative Machine Learning",
       "institution": "Natl. Res. Coun., Ottawa",
@@ -25,7 +132,7 @@
       "created": "2026-10-14T19:55:51.802881+00:00",
       "updated": "2026-10-14T22:26:14.150698+00:00",
       "addedAt": "2026-10-15T08:09:15.963Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3214633",
@@ -50,7 +157,7 @@
       "created": "2026-10-14T12:38:19.466090+00:00",
       "updated": "2026-10-14T15:58:47.599648+00:00",
       "addedAt": "2026-10-15T08:09:15.963Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3214619",
@@ -79,7 +186,7 @@
       "created": "2026-10-14T09:57:04.622895+00:00",
       "updated": "2026-10-14T15:53:13.559316+00:00",
       "addedAt": "2026-10-15T08:09:15.963Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3213930",
@@ -12657,6 +12764,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-15T08:09:15.964Z",
-  "totalJobs": 471
+  "lastUpdated": "2026-10-16T08:08:52.248Z",
+  "totalJobs": 475
 }
