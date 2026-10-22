@@ -1,6 +1,166 @@
 {
   "jobs": [
     {
+      "id": "3217156",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Mississippi State U.",
+      "deadline": "2026-11-10",
+      "description": "<div>The Medium Energy Physics group at Mississippi State University invites applications for a Postdoctoral Research Associate position in experimental nuclear physics. The successful candidate will work on detector development and physics studies for the Electron-Ion Collider (EIC), with a primary focus on the ePIC Longitudinally Segmented Forward Hadronic Calorimeter (LFHCal) and the development of a dedicated LFHCal beam insert for the region surrounding the outgoing beam pipe. The position is supported through a U.S. Department of Energy EPSCoR project led by Mississippi State University in close collaboration with Oak Ridge National Laboratory (ORNL). The project includes LFHCal detector-response studies, prototype and beam-test validation, forward calorimeter integration, beam-insert design and optimization, and development of detector technologies needed for future EIC construction and operation.</div><div><br></div><div>We are looking for candidates who will be stationed primarily at Oak Ridge National Laboratory (ORNL) and will lead MSU efforts in LFHCal detector simulation, calibration and analysis of prototype beam-test data, detector-response validation, reconstruction studies, and development of the LFHCal beam insert. The beam-insert effort will include studies of detector geometry in the constrained region around the beam pipe, active-area coverage, segmentation, mechanical and integration requirements, shower containment, energy response, and reconstruction of showers shared between the beam insert and neighboring LFHCal modules. The candidate will work closely with the ORNL LFHCal group and the broader ePIC Collaboration, including studies using GEANT4/DD4hep, comparisons of simulation with CERN beam-test data, and evaluation of calorimeter energy response, resolution, shower development, and</div><div>reconstruction performance. The candidate will also contribute to detector testing, QA/QC, instrumentation, prototype development, and technical documentation associated with LFHCal and beam-insert construction readiness.</div><div><br></div><div>The successful candidate will be encouraged to develop independent physics interests within the EIC/ePIC program and to participate in physics analyses, conference presentations, publications, and development of future experimental studies.</div><div><br></div><div>A Ph.D. in experimental nuclear or particle physics, or a closely related field, is required, along with proficiency in programming and experimental data analysis. Experience with ROOT, C++, Python, GEANT4, DD4hep, calorimetry, detector instrumentation, or machine-learning techniques is desirable.</div><div><br></div><div>The appointment is expected to be for two years, subject to satisfactory performance and availability of funding. The anticipated starting date is Fall 2026. Candidates must apply online at <a href=\"http://explore.msujobs.msstate.edu/\">http://explore.msujobs.msstate.edu/</a> (JOB #: [<a href=\"http://explore.msujobs.msstate.edu/cw/en-us/job/511359\">511359</a>]), (or use direct link: <a href=\"http://explore.msujobs.msstate.edu/cw/en-us/job/511359\">http://explore.msujobs.msstate.edu/cw/en-us/job/511359</a> ) and include a curriculum vitae or resume and a brief statement describing research interests and relevant work experience. At least two reference letters should be sent electronically to Dr. Wenliang (Bill) Li (wl584@msstate.edu).</div><div><br></div><div>Screening of applications will begin immediately and continue until the position is filled. Applications received by November 10, 2026, will receive full consideration.</div><div><br></div><div>Mississippi State University is an equal opportunity institution. Discrimination is prohibited in university employment, programs or activities based on race, color, ethnicity, sex, pregnancy, religion, national origin, disability, age, sexual</div><div>orientation, genetic information, status as a U.S. veteran, or any other status to the extent protected by applicable law. Questions about equal opportunity programs or compliance should be directed to the Office of Civil Rights Compliance, 231 Famous Maroon Band Street, P.O. 6044, Mississippi State, MS 39762, (662) 325-5839.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics",
+        "hep-ex"
+      ],
+      "experiments": [
+        "ePIC"
+      ],
+      "urls": [
+        "http://explore.msujobs.msstate.edu/cw/en-us/job/511359"
+      ],
+      "contact_email": null,
+      "created": "2026-10-21T20:52:26.023276+00:00",
+      "updated": "2026-10-21T22:21:23.739614+00:00",
+      "addedAt": "2026-10-22T08:09:28.487Z",
+      "isNew": true
+    },
+    {
+      "id": "3217154",
+      "title": "Post-Doctoral Position Experimental Long-Baseline Neutrino Oscillation Physics",
+      "institution": "Indiana U., Bloomington (main)",
+      "deadline": "2026-11-23",
+      "description": "<div>Position Summary</div><div><strong>Post-Doctoral Position</strong></div><div><strong>Experimental Long-Baseline Neutrino Oscillation Physics</strong></div><div><strong>Indiana University</strong></div><div><br></div><div>The High Energy Neutrino and Particle Astrophysics group at Indiana University is seeking applicants for a post-doctoral position. Our group has leading roles in NOvA operations and data analysis and DUNE construction and data analysis. Indiana University is a center for event reconstruction and data analysis for both NOvA and DUNE, as well as DUNE near and far detector prototyping, and IU hosts a Charge Readout Plane fabrication facility for DUNE’s vertical-drift Far Detector module. At IU, Professors Messier and Urheim are members of NOvA; Professors Messier, Urheim, and Mohayai are members of DUNE.</div><div>The successful applicant will be expected to be based at Indiana University, Bloomington, and play a leading role in NOvA data analysis and to DUNE analysis or hardware development. A Ph.D. in Physics is required.</div><div><br></div><div>The position is available for a flexible start date as early as January 1, 2027. We will begin reviewing applications on November 23, 2026, and continue until the position is filled. The appointment will initially be for one year, with the possibility of extension for up to an additional two years.</div><div><br></div><div>More information about the group and the IU Physics Department can be found at: <strong><a href=\"https://physics.indiana.edu/\">https://physics.indiana.edu/</a></strong></div><div><br></div><div>Applications, including a curriculum vita and three letters of reference, should be submitted through the application portal located at <a href=\"https://indiana.peopleadmin.com/postings/34763\">https://indiana.peopleadmin.com/postings/34763</a></div><div><br></div><div>Informal inquiries may be made with Prof. Mark Messier (<strong><a href=\"mailto:messier@iu.edu\">messier@iu.edu</a></strong>), Indiana University, Physics Department, 727 E. Third St., Bloomington, IN, 47405, 812-855-1247.</div><div><br></div><div><em>Indiana University is an equal opportunity employer and provider of ADA services and prohibits discrimination in hiring. </em><strong><em><a href=\"https://policies.iu.edu/policies/ua-01-non-discrimination/index.html\">See Indiana University Notice of Non-Discrimination here, which includes contact information.</a></em></strong></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "FNAL-E-0929"
+      ],
+      "urls": [
+        "https://indiana.peopleadmin.com/postings/34763"
+      ],
+      "contact_email": null,
+      "created": "2026-10-21T20:05:06.283204+00:00",
+      "updated": "2026-10-21T22:19:50.810075+00:00",
+      "addedAt": "2026-10-22T08:09:28.487Z",
+      "isNew": true
+    },
+    {
+      "id": "3217063",
+      "title": "n. 20 POST-DOCTORAL FELLOWSHIPS IN EXPERIMENTAL PHYSICS",
+      "institution": "Frascati",
+      "deadline": "2026-11-12",
+      "description": "<div>INFN opens every year 20 post doc 2-years positions for experimental activity in INFN structures.</div><div>We propose to work at the COLD laboratory (<a href=\"https://coldlab.lnf.infn.it\">https://coldlab.lnf.infn.it</a>) at LNF, the National Laboratory of INFN in Frascati (Rome). Here we carry on searches for ultralight light dark matter and high frequency gravitational waves and carry on R&amp;D on quantum sensing with superconducting qubits (Projects: QUAX@LNF, FLASH, GravNet).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://jobs.dsi.infn.it/dettagli_job.php?id=4702"
+      ],
+      "contact_email": null,
+      "created": "2026-10-21T13:33:40.553333+00:00",
+      "updated": "2026-10-21T22:17:25.199294+00:00",
+      "addedAt": "2026-10-22T08:09:28.487Z",
+      "isNew": true
+    },
+    {
+      "id": "3216587",
+      "title": "Assistant Professor in Experimental Particle Physics",
+      "institution": "U. Texas, Austin (main)",
+      "deadline": "2026-12-02",
+      "description": "<div>The Department of Physics at the University of Texas at Austin invites applications for a tenure-track faculty position at the Assistant Professor level by particle physics experimentalists working on non-collider searches and studies of rare phenomena including neutrino oscillations, neutrinoless double beta decay, and direct dark matter detection.</div><div><br></div><div>We seek applications from candidates with demonstrated outstanding track record of professional accomplishments. Candidates are expected to lead vigorous forefront research, be committed to innovative and engaging teaching, and participate in broad community services. Our department offers excellent start-up funding, salary, and where applicable, laboratory space in a dynamic and highly interactive research environment.</div><div><br></div><div><strong>Qualifications</strong></div><div>Applicants must have a Ph.D. in Physics or equivalent experience.</div><div><br></div><div><strong>Application Instructions</strong></div><div>Please submit your application for this position in experimental particle physics at <a href=\"https://apply.interfolio.com/194655\">apply.interfolio.com/194655</a> and include: 1) a cover letter, 2) a complete Curriculum Vitae, and a list of publications, 3) a research statement describing accomplishments and current and future research plans (limited to 4 pages), 4) a teaching statement describing teaching experience, goals, and philosophy, Applicants must arrange for three letters of recommendations to be uploaded using the Interfolio website.</div><div><br></div><div>For full consideration, all application materials should be received by 11:59p.m. CST on December 2, 2026. Inquiries about the application process and status should be submitted to Physics Faculty Hiring at <a href=\"mailto:faculty.search@physics.utexas.edu\">faculty.search@physics.utexas.edu</a>.</div><div><br></div><div><strong>Equal Employment Opportunity Statement</strong></div><div><em>The University of Texas at Austin, as an equal opportunity/affirmative action employer, complies with all applicable federal and state laws regarding nondiscrimination and affirmative action. The University is committed to a policy of equal opportunity for all persons and does not discriminate on the basis of race, color, national origin, age, marital status, sex, sexual orientation, gender identity, gender expression, disability, religion, or veteran status in employment, educational programs and activities, and admissions.</em></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://faculty.utexas.edu/career/193145"
+      ],
+      "contact_email": null,
+      "created": "2026-10-20T19:19:43.830351+00:00",
+      "updated": "2026-10-21T22:09:33.234983+00:00",
+      "addedAt": "2026-10-22T08:09:28.487Z",
+      "isNew": true
+    },
+    {
+      "id": "3216517",
+      "title": "Development of a 4D tracking system based on advanced Resistive Silicon Detectors (RSD) and associated readout electronics",
+      "institution": "INFN, Italy",
+      "deadline": "2026-11-19",
+      "description": "<div>The successful candidate will research the development, construction, and testing of a demonstrator for a 4D tracker based on advanced resistive LGAD sensors. The work includes laboratory activities to test the sensors and readout electronics under development, participation in test beams, and the development and use of advanced analysis techniques to accurately assess the demonstrator's performance.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://reclutamento.dsi.infn.it/#!bandi/POSTDOC"
+      ],
+      "contact_email": null,
+      "created": "2026-10-20T16:08:48.659798+00:00",
+      "updated": "2026-10-21T22:08:08.162104+00:00",
+      "addedAt": "2026-10-22T08:09:28.487Z",
+      "isNew": true
+    },
+    {
+      "id": "3216455",
+      "title": "Post-Doctoral Position for Gamma-Ray Astronomy (M/F)",
+      "institution": "Annecy, LAPP",
+      "deadline": "2026-11-21",
+      "description": "<div>The CNRS Laboratoire d'Annecy de Physique des Particules (LAPP) is opening a postdoctoral position within its Cherenkov Telescope Array Observatory (CTAO) group to work on the search for pulsars and millisecond pulsars (MSPs) with very-high-energy (VHE) gamma rays.</div><div>The successful candidate will play a leading role in the exploitation of stereoscopic Large-Sized Telescopes (LST) data for pulsar and MSP science, in the context of the ongoing construction, commissioning, and early scientific exploitation of the LST1–4 array. A major objective will be to develop and lead an observation program targeting the most promising pulsar and MSP candidates. The candidate will also lead searches for MSP emission toward the Galactic Center, both from individual point-like sources and from the unresolved MSP population.</div><div><br></div><div>For more information: <a href=\"https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN\">https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "CTAO"
+      ],
+      "urls": [
+        "https://emploi.cnrs.fr/Offres/CDD/UMR5814-LOUDAI-061/Default.aspx?lang=EN"
+      ],
+      "contact_email": null,
+      "created": "2026-10-20T14:35:11.181438+00:00",
+      "updated": "2026-10-21T22:04:38.279638+00:00",
+      "addedAt": "2026-10-22T08:09:28.487Z",
+      "isNew": true
+    },
+    {
       "id": "3215741",
       "title": "PhD on the ALICE 3 Outer Tracker",
       "institution": "Marietta Blau Inst., Vienna",
@@ -12792,6 +12952,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-21T08:09:01.622Z",
-  "totalJobs": 476
+  "lastUpdated": "2026-10-22T08:09:28.488Z",
+  "totalJobs": 482
 }
