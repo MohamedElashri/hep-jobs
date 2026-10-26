@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3217922",
+      "title": "ATLAS Postdoc position",
+      "institution": "Columbia U. (main)",
+      "deadline": "2027-01-07",
+      "description": "<div>The Experimental High Energy Physics Group at Columbia University Nevis Labs invites applications for a postdoctoral research scientist to join our group working on the ATLAS experiment at CERN.</div><div><br></div><div>Columbia is responsible for the design, development and production of the “FEB2” board that implements the new frontend electronic readout of the ATLAS liquid argon (LAr) calorimeter system, and that has been developed for the High-Luminosity LHC upgrade of the ATLAS detector. The FEB2 development is currently transitioning to the preproduction stage, which will be followed by production and testing at Nevis Labs of over 1600 FEB2 boards. This work will overlap with installation of the boards on the ATLAS detector and commissioning of the overall LAr HL-LHC system, scheduled to begin in late 2027. The successful candidate will be expected to play leading roles in these efforts, spending periods in New York and at CERN, as appropriate.</div><div><br></div><div>In addition to the HL-LHC work, the successful candidate will be expected to make significant contributions to physics analysis, with a focus on full Run 3 analyses as well as preparations for Run 4 and beyond. One focus of our physics program is searches for beyond-the-Standard-Model (BSM) physics, with emphases that include novel electromagnetic signatures, boosted hadronically decaying objects, and the use of AI/ML techniques in physics analyses. We are exploiting the same tools in measurements of entanglement in top quark and electroweak physics.</div><div><br></div><div>Applicants must hold a Ph.D. in experimental particle physics and should submit a curriculum vitae, a publication list, and a statement describing their research interests. Candidates should also arrange to have three letters of reference submitted directly on their behalf.</div><div><br></div><div>Columbia University is an equal opportunity/affirmative action employer.</div><div><br></div><div>Application materials and inquiries should be sent to Prof. John Parsons <a href=\"mailto:parsons@nevis.columbia.edu\">&lt;parsons@nevis.columbia.edu&gt;</a>. Applications are now open, and will be accepted until the position is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-23T00:02:06.792850+00:00",
+      "updated": "2026-10-23T14:28:15.532149+00:00",
+      "addedAt": "2026-10-26T08:15:36.934Z",
+      "isNew": true
+    },
+    {
       "id": "3217892",
       "title": "Open-Rank Tenure-Track Faculty Position in Experimental Nuclear or High Energy Physics",
       "institution": "Ohio State U., Columbus (main)",
@@ -26,7 +51,7 @@
       "created": "2026-10-22T18:26:49.738072+00:00",
       "updated": "2026-10-22T21:28:02.105694+00:00",
       "addedAt": "2026-10-23T08:08:53.207Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3217890",
@@ -53,7 +78,7 @@
       "created": "2026-10-22T17:04:01.544506+00:00",
       "updated": "2026-10-22T21:26:49.263861+00:00",
       "addedAt": "2026-10-23T08:08:53.207Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3217476",
@@ -78,7 +103,7 @@
       "created": "2026-10-22T05:47:47.471118+00:00",
       "updated": "2026-10-22T21:14:42.639902+00:00",
       "addedAt": "2026-10-23T08:08:53.207Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3217156",
@@ -13032,6 +13057,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-23T08:08:53.209Z",
-  "totalJobs": 485
+  "lastUpdated": "2026-10-26T08:15:36.935Z",
+  "totalJobs": 486
 }
