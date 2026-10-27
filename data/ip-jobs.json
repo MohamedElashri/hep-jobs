@@ -1,6 +1,33 @@
 {
   "jobs": [
     {
+      "id": "3218564",
+      "title": "tSPECT - PhD position on neutron lifetime experiment",
+      "institution": "Mainz U.",
+      "deadline": "2026-11-16",
+      "description": "<div>To strengthen the international 𝜏SPECT collaboration, we invite applications for 1 PhD position, 75 % EG13,</div><div>to develop and investigate novel techniques to control critical systematic bias effects related to the determination</div><div>of the free neutron lifetime based on ultracold neutron (UCN) stored in a fully magnetic trap.</div><div>The lifetime of the free neutron is a key observable in low-energy tests of the Standard Model of Particle</div><div>Physics (SM) which provides a theoretical description of the free neutron decay with only three</div><div>(low-energy) parameters and observables to very high precision and accuracy: The CKM matrix element</div><div>Vud, the ratio of axial-vector and vector coupling strength, and the free neutron lifetime.</div><div>Any tension within this description could be a tantalizing hint to physics beyond the SM.</div><div>The 𝜏SPECT experiment confines UCNs in a fully magnetic trap and counts the number of UCNs surviving</div><div>present but variable storage times. The trap is formed by a region of a magnetic field minimum</div><div>surrounded by strong positive magnetic field gradients. 𝜏SPECT uses the unique double-spin-flip loading</div><div>technique to confine low-field seeking UCN in the volume around the magnetic field minimum. The</div><div>experiment is installed at the UCN source of the Paul Scherrer Institute, Switzerland, and is currently</div><div>taking scientific data.</div><div>The novel spin-flip loading scheme for the fully magnetic trap suppresses critical systematic bias effects</div><div>of historic neutron lifetime experiments, e.g., interaction with material surfaces, and opens a new class</div><div>of possible optimizations of neutron lifetime experiments based on UCNs. This thesis will investigate</div><div>the phase space evolution of UCNs in the fully magnetic trap and the impact of tailored radio-frequency</div><div>pulses through Monte-Carlo simulation and analytical calculations. So-called marginally trapped UCNs</div><div>are barely confined in the trapping potential and are a possible source of bias towards a lower UCN</div><div>storage time. Based on the findings, novel radio-frequency systems shall be developed and built to control</div><div>marginally trapped UCNs in the current and future experiments. Through the participation in the ongoing</div><div>data taking phases and the analysis of the recorded data, the candidate will be embedded in the</div><div>collaboration and will become deeply familiar with the physics of UCNs, high- and ultra-high vacuum</div><div>technology, cryogenic setups, neutron detection, data acquisition systems, and extended data analysis.</div><div>This position is part of the Cluster of Excellence PRISMA++ and the ERC Consolidator Grant NuLife.</div><div>Please send your application, including</div><div>• a cover letter and a CV</div><div>• a research statement about previous and current research experience (1-page max., 12 pt)</div><div>• the name and email address of two providers of letters of reference (no letter initially required)</div><div>• copies of relevant certificates and grades, and transcripts of records</div><div>to Prof. Dr. Martin Fertl (<a href=\"mailto:jobs-agfertl@uni-mainz.de\">jobs-agfertl@uni-mainz.de</a>) (electronic application materials only). Review of</div><div>receiveds application will start after November 16th, 2026, but the position will remain open until</div><div>filled. The candidate must hold a master’s degree in physics equivalent to a “good” grade in the grade</div><div>system of JGU. Please do not hesitate to contact Prof. Dr. Martin Fertl in case of any questions.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "tSPECT"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-26T09:37:54.905548+00:00",
+      "updated": "2026-10-26T14:41:11.002751+00:00",
+      "addedAt": "2026-10-27T08:09:46.659Z",
+      "isNew": true
+    },
+    {
       "id": "3217922",
       "title": "ATLAS Postdoc position",
       "institution": "Columbia U. (main)",
@@ -23,7 +50,7 @@
       "created": "2026-10-23T00:02:06.792850+00:00",
       "updated": "2026-10-23T14:28:15.532149+00:00",
       "addedAt": "2026-10-26T08:15:36.934Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3217892",
@@ -13057,6 +13084,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-26T08:15:36.935Z",
-  "totalJobs": 486
+  "lastUpdated": "2026-10-27T08:09:46.660Z",
+  "totalJobs": 487
 }
