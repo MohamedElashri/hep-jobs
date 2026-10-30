@@ -1,6 +1,58 @@
 {
   "jobs": [
     {
+      "id": "3219869",
+      "title": "PhD position in low-energy nuclear recoil calibration with cryogenic detectors for rare event searches",
+      "institution": "TU Vienna",
+      "deadline": "2026-11-30",
+      "description": "<div>The group for rare event searches, jointly run by TU Wien and MBI, is a member of the direct dark matter detection experiments CRESST and COSINUS, the neutrino experiment NUCLEUS, and the low-energy calibration effort CRAB. The group is heavily involved in data analysis and simulation for these experiments and develops their DAQ systems.</div><div><br></div><div>We invite applications for a 4-year PhD position (30 h/week) to join the ACT project “Accurate Calibration for Cryo-detectors at TRIGA” at TU Wien. The successful candidate will work at the unique CRAB calibration facility, which couples a dilution cryostat with a pure thermal neutron beam and gamma-tagging detectors at the TRIGA Mark II reactor in Vienna. The candidate will play a key role in data analysis, software development, and Monte Carlo simulations for CRAB.</div><div><br></div><div><strong>Keywords: Dark matter, Neutrino, (Astro-) particle physics, Data analysis, Monte Carlo simulations, cryogenic calorimeters, DAQ.</strong></div><div><br></div><div><strong>Tasks: </strong></div><div>- Data analysis and statistical inference</div><div>- R&amp;D with a focus on CRAB</div><div>- Monte Carlo Simulations (with Geant4)</div><div>- Comparison of measurement with simulation</div><div>- On-site support at the atomic institute, TU Wien</div><div>- Participation in international conferences and summer schools (travel costs will be covered)</div><div>- Cooperation and day-to-day supervision of undergraduate students</div><div>- Optional: participation in hardware and software development of the data acquisition system</div><div>- Optional: contributions to the setup of the new cryolab</div><div>- Optional: tasks may include methods of machine learning</div><div><br></div><div><strong>Required qualifications/skills:</strong></div><div>- Scientific interest in particle physics, dark matter, and neutrino research</div><div>- Strong background in statistics and programming.  Experience with scientific programming, preferably in Python or C++, is desirable; familiarity with other programming languages and tools is an advantage.</div><div>- Team-oriented and communication skills to work in an international and diverse collaboration</div><div>- Ability to perform independent, creative, and innovative research</div><div>- MSc or equivalent in physics, computer science, or related (completed or close to completion)</div><div><br></div><div>We encourage everyone who is interested in the position to apply! The TU Wien is an equal opportunity employer. We affirm diversity and work to create an inclusive working environment for everybody.</div><div><br></div><div>The position will be funded for four years. For this position, a minimum salary of € 2,832.07 gross per month (14x a year, pay grade B1 of the Austrian collective agreement for university staff) with an employment of 30 hours/week is offered, including full health and social insurance. Additional benefits for employees can be found in <a href=\"https://www.tuwien.at/tu-wien/karriere/benefits-facts/benefits\">TU Wien's Fringe-Benefit Catalog</a>. More information about the Marietta Blau Institute for Particle Physics of the Austrian Academy of Sciences and the TU Wien may be found at: <a href=\"https://www.oeaw.ac.at/mbi\">https://www.oeaw.ac.at/mbi</a> and at: <a href=\"http://ati.tuwien.ac.at/\">http://ati.tuwien.ac.at</a>, respectively.</div><div><br></div><div>Your application should include a CV, a research statement (max. 2 pages), and two people whom we may contact for further reference. Please send your application to Dr. Samir Banik (samir.banik@oeaw.ac.at).</div><div><br></div><div><br></div><div>The deadline is <strong>November 30, 2026</strong>, but we will receive and consider applications until the position is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "astro-ph",
+        "physics"
+      ],
+      "experiments": [
+        "CRAB"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-29T13:43:07.567342+00:00",
+      "updated": "2026-10-29T20:57:52.219906+00:00",
+      "addedAt": "2026-10-30T08:06:35.531Z",
+      "isNew": true
+    },
+    {
+      "id": "3219881",
+      "title": "PhD position in experimental particle physics",
+      "institution": "Istanbul Nisantasi U.",
+      "deadline": "2026-11-29",
+      "description": "<div>The Experimental Particle Physics and Gravity (EPPG) group at Ghent University (UGent) has an opening for a joint PhD candidate position between UGent and İstanbul Nişantaşı Üniversitesi, Istanbul, Turkey, to work on the SHiP (Search for Hidden Particles) experiment at the Beam Dump Facility at CERN.</div><div><br></div><div>The EPPG group is well-known for its prominent role in the CMS experiment at the Large Hadron Collider (LHC), particularly for its strong contributions to the physics analysis of the top quark and Higgs boson sectors. The group has led the first observations of several rare physics processes involving top quarks, establishing deep expertise in searching for physics beyond the Standard Model. Building on this extensive research program, the group is now playing a key role in the SHiP collaboration, which represents a major direction for the group at the high-intensity frontier. The members of the EPPG group are also actively involved in other major international projects, such as ET, LIGO/VIRGO, IceCube, RNO-G, Project8, and SoLid.</div><div><br></div><div>A successful candidate will join the EPPG group to contribute to the physics reach studies of the SHiP experiment. The work will involve the development of analysis techniques using simulated data to explore the experiment’s sensitivity to neutrino physics and various new physics scenarios beyond the Standard Model. In addition to these physics studies, the candidate will contribute to SHiP instrumentation through detector prototyping and test beam campaigns to evaluate and validate performance requirements.</div><div><br></div><div>The position is proposed for four years, starting as soon as possible. The application must include the CV of the candidate and two letters of reference. The candidate must hold a master’s degree in physics. The complete applications should be sent directly to Prof. Didar Dobur (didar.dobur@ugent.be) and Dr. Kirill Skovpen (kirill.skovpen@ugent.be) before the deadline of Nov 29, 2026. The submitted applications will be reviewed in the order of their reception.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-SPS-NA-067"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-29T16:52:46.358601+00:00",
+      "updated": "2026-10-29T19:07:27.616288+00:00",
+      "addedAt": "2026-10-30T08:06:35.531Z",
+      "isNew": true
+    },
+    {
       "id": "3219659",
       "title": "Postdoctoral position - ALICE",
       "institution": "Cracow, INP",
@@ -25,7 +77,7 @@
       "created": "2026-10-28T15:16:09.616791+00:00",
       "updated": "2026-10-28T21:38:46.648670+00:00",
       "addedAt": "2026-10-29T08:06:48.107Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3219285",
@@ -51,7 +103,7 @@
       "created": "2026-10-28T04:50:11.896022+00:00",
       "updated": "2026-10-28T21:35:54.510000+00:00",
       "addedAt": "2026-10-29T08:06:48.107Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3219266",
@@ -78,7 +130,7 @@
       "created": "2026-10-28T00:04:16.025086+00:00",
       "updated": "2026-10-28T21:35:09.130048+00:00",
       "addedAt": "2026-10-29T08:06:48.107Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3218564",
@@ -13164,6 +13216,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-29T08:06:48.109Z",
-  "totalJobs": 490
+  "lastUpdated": "2026-10-30T08:06:35.533Z",
+  "totalJobs": 492
 }
