@@ -1,6 +1,59 @@
 {
   "jobs": [
     {
+      "id": "3220786",
+      "title": "PhD position in simulation and software development",
+      "institution": "U. Erlangen-Nuremberg (main)",
+      "deadline": "2026-11-29",
+      "description": "<div>The radio neutrino astronomy group of Prof. Anna Nelles in the <a href=\"https://ecap.nat.fau.de/\">Erlangen Centre for Astroparticle Physics (ECAP)</a> of the <a href=\"https://www.fau.eu\">Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg</a> is seeking an individual for a Ph.D.-position with the aim of modelling signal propagation in layered ice for radio neutrino detection.</div><div><br></div><div>A research focus of the group is the construction and commissioning of the <a href=\"https://radio.uchicago.edu\">Radio Neutrino Observatory Greenland (RNO-G) </a>and the related data analysis and simulations. The group is comprised of members at both ECAP and <a href=\"https://astroparticle-physics.desy.de\">DESY-Zeuthen</a>. The Ph.D. project will address a crucial subject for the radio detection of neutrinos, the modelling of signal propagation in layered ice. A central aspect of the project will be finite element simulations of Maxwell’s equations on the state-of-the-art FAU parallel CPU cluster. A strong interest in computing is hence essential. Models will be based on existing data as well as on data to be taken during the course of the Ph.D. work. The devised models shall be applied to calculate the effective volume and sensitivity of RNO-G, and be available for future applications in the context of IceCube-Gen2. The successful candidate will work in the inspiring and supportive environment of the RNO-G group and the ECAP community.</div><div><br></div><div>Requirement for the application is a <a href=\"http://M.Sc\">M.Sc</a>. degree in physics or equivalent. Applicants should possess a research background and provide evidence of excellent potential. Supervision and teaching of undergraduate students is expected. Applications received by November 29th, 2026 will be given full consideration. Applications submitted after this date are considered until the position is filled. The position has a 3-year term and shall be started as soon as possible.</div><div><br></div><div>ECAP offers a strong environment in the field of astroparticle physics, combining expertise in the fields of neutrino astronomy, X-ray and very-high-energy gamma-ray astronomy. The centre also integrates the research in neutrino physics, optical astronomy and the development of new detectors. Theory groups work in the fields of quantum gravity and statistical physics.</div><div><br></div><div>As an international research institution with members and guests from diverse backgrounds, ECAP strives for an inclusive and respectful environment, independent of age, sexual orientation, gender identity, ethnicity, physical disability, religion, cultural and socio-economic background, stage or path of career. Advancing the development of junior members is an important objective at ECAP.</div><div><br></div><div>Applications, including a cover letter with statement of motivation, CV and contact information of at least one reference person should be sent to apl. Prof. Robert Lahmann (<a href=\"mailto:robert.lahmann@fau.de\">robert.lahmann@fau.de</a>).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "RNO-G"
+      ],
+      "urls": [
+        "https://ecap.nat.fau.de/indexphp/research/neutrino-astronomy/radio-detection/"
+      ],
+      "contact_email": null,
+      "created": "2026-10-30T15:54:12.878177+00:00",
+      "updated": "2026-10-30T18:12:00.039636+00:00",
+      "addedAt": "2026-11-02T08:06:50.582Z",
+      "isNew": true
+    },
+    {
+      "id": "3220283",
+      "title": "Postdoctoral Research Associate",
+      "institution": "Santiago de Compostela U., IGFAE",
+      "deadline": "2026-11-25",
+      "description": "<div>The Experimental High Energy Physics group in the <em>Instituto Galego de Física de Altas Enerxías </em>(IGFAE) at the University of Santiago de Compostela (USC), seeks candidates for a postdoctoral Research Associate position to work on the LHCb experiment at CERN's Large Hadron Collider.</div><div><br></div><div>The successful candidate will be expected to contribute to data analysis within the research lines of the group: rare b-hadron decays, semi-leptonic B decays or heavy ion physics. Involvement in the Upgrade 2 project with contributions to the VELO detector is also a possibility for interested candidates.</div><div><br></div><div>Candidates for the position must hold a PhD or equivalent in experimental high-energy physics.</div><div>The ideal candidate will also have:</div><ul><li>advanced programming skills with C++ or Python languages.</li><li>experience with data analysis in high energy physics.</li><li>the capability for effective scientific communication.</li></ul><div>The position is expected to last for three years, subject to satisfactory performance, research progress, and the availability of funding. The start date is flexible, within the first quarter of 2027. A six-month probationary period will apply in accordance with applicable Spanish employment regulations. The position will be based in Santiago de Compostela, with travel to CERN and attendance at conferences as required.</div><div><br></div><div>Candidates should submit an academic CV and a short Statement of Research Experience and Interests, preferably in a single pdf file, to <a href=\"mailto:recruitment-lhcb-igfae@grupos.nube.usc.gal\">recruitment-lhcb-igfae@grupos.nube.usc.gal</a>. They should also arrange for two letters of recommendation to be sent directly to the same</div><div>address.</div><div><br></div><div>For any question on the call, feel free to contact Prof. Abraham Gallas (abrahamantonio.gallas@usc.es).</div><div><br></div><div>Review of applications will begin<strong> November 23rd 2026</strong> and will continue until the position</div><div>is filled.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-10-30T09:13:12.442738+00:00",
+      "updated": "2026-10-30T17:47:35.650772+00:00",
+      "addedAt": "2026-11-02T08:06:50.582Z",
+      "isNew": true
+    },
+    {
       "id": "3219869",
       "title": "PhD position in low-energy nuclear recoil calibration with cryogenic detectors for rare event searches",
       "institution": "TU Vienna",
@@ -25,7 +78,7 @@
       "created": "2026-10-29T13:43:07.567342+00:00",
       "updated": "2026-10-29T20:57:52.219906+00:00",
       "addedAt": "2026-10-30T08:06:35.531Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3219881",
@@ -50,7 +103,7 @@
       "created": "2026-10-29T16:52:46.358601+00:00",
       "updated": "2026-10-29T19:07:27.616288+00:00",
       "addedAt": "2026-10-30T08:06:35.531Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3219659",
@@ -13216,6 +13269,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-10-30T08:06:35.533Z",
-  "totalJobs": 492
+  "lastUpdated": "2026-11-02T08:06:50.584Z",
+  "totalJobs": 494
 }
