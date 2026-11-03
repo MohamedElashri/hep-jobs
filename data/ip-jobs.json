@@ -1,6 +1,174 @@
 {
   "jobs": [
     {
+      "id": "3221537",
+      "title": "Postdoc Position on DUNE",
+      "institution": "U. Toronto (main)",
+      "deadline": "2026-12-15",
+      "description": "<div>The University of Toronto group is searching for a postdoctoral researcher to join our efforts on the DUNE experiment. We are involved in areas of Data Acquisition (DAQ), tau neutrino searches and Supernova neutrino searches. The candidate would be involved in commissioning the DAQ system with the ProtoDUNE detector, and later with DUNE. The area of physics research is flexible. Candidates with DAQ or hardware commissioning experience from any experiments are encouraged to apply. The position is initially for 2 years, with possibility of extension, depending on funding. The position will be based at the University of Toronto. Interested candidates should send a resume and arrange to have three letters of reference sent to <a href=\"mailto:Nikolina.Ilic@cern.ch\">Nikolina.Ilic@cern.ch</a>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "ProtoDUNE-VD"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-02T17:43:54.274962+00:00",
+      "updated": "2026-11-02T18:48:42.152000+00:00",
+      "addedAt": "2026-11-03T08:05:54.541Z",
+      "isNew": true
+    },
+    {
+      "id": "3221535",
+      "title": "Probationary (Tenure-Track) – Assistant Professor in quantum computing algorithms",
+      "institution": "Western Ontario U.",
+      "deadline": "2026-12-18",
+      "description": "<div>The Department of Physics &amp; Astronomy, Faculty of Science, at the University of Western Ontario invites applications for a Probationary/Tenure-Track faculty appointment with responsibilities in teaching, research and service.<strong> The area of research is broadly defined as quantum computing algorithms</strong>, with teaching responsibilities to include an existing 100+ student course in ‘Quantum Computing and Information’ for physics and software engineering students. The successful applicant will receive a probationary (tenure-track) appointment at the rank of Assistant Professor.</div><div><br></div><div>Please see the full position description for application package details.</div><div><br></div><div>Existing Vacancy Disclosure Statement: This position is an existing vacancy.</div><div><br></div><div><em>Positions are subject to budget approval. Applicants should have fluent written and oral communications skills in English. The University invites applications from all qualified individuals. Western is committed to employment equity and diversity in the workplace and welcomes applications from women, members of racialized groups, Indigenous peoples, persons with disabilities, persons of any sexual orientation, and persons of any gender identity or gender expression.</em></div><div><br></div><div><em>In accordance with Canadian Immigration requirements, priority will be given to Canadian citizens and permanent residents.</em></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "quant-ph",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.uwo.ca/facultyrelations/careers/pdf/Advertisement-Science-PhysAstro-QuantumAlgos_2027.pdf"
+      ],
+      "contact_email": null,
+      "created": "2026-11-02T17:12:40.557360+00:00",
+      "updated": "2026-11-02T18:45:16.851389+00:00",
+      "addedAt": "2026-11-03T08:05:54.541Z",
+      "isNew": true
+    },
+    {
+      "id": "3220940",
+      "title": "PhD Opportunities in Experimental Neutrino Physics – 2027 Entry",
+      "institution": "Warwick U.",
+      "deadline": "2026-12-07",
+      "description": "<div><strong>PhD Opportunities in Experimental Neutrino Physics – 2027 Entry</strong></div><div><br></div><div><strong>University of Warwick | Department of Physics | Starting October 2027</strong></div><div><br></div><div><strong>Experiments:</strong> DUNE, SBND, Hyper-Kamiokande, T2K, JUNO, PandaX-20T and WarTPC</div><div><br></div><div><strong>Funding:</strong> Warwick Chancellor's Scholarships | CSC–Warwick Joint Scholarships | STFC Studentships | SJTU–Warwick Joint PhD Scholarships</div><div><br></div><div><strong>About the Projects</strong></div><div>The University of Warwick invites applications for PhD research in experimental neutrino physics, with funding opportunities for October 2027 entry through several competitive scholarship and studentship schemes. Opportunities are available to both UK and international applicants, subject to the eligibility requirements of each funding scheme.</div><div><br></div><div>Neutrinos offer unique opportunities to investigate fundamental questions in particle physics, from the origin of neutrino masses and the nature of flavour mixing to neutrino interactions with matter and searches for physics beyond the Standard Model.</div><div><br></div><div>The Warwick neutrino group participates in major international experiments spanning accelerator, atmospheric, reactor and low-energy neutrino physics, with opportunities for experimental data analysis and detector development.</div><div><br></div><div><strong>DUNE and SBND: Neutrino Oscillations and Interactions</strong></div><div><strong>Supervisor: Dr John Marshall</strong></div><div><br></div><div>The Deep Underground Neutrino Experiment (DUNE) is a next-generation long-baseline neutrino experiment designed to investigate CP violation in the neutrino sector, determine neutrino oscillation parameters and search for new physics. Its large liquid-argon detectors will also enable searches for nucleon decay and studies of neutrinos from astrophysical sources. With detector construction underway, students joining in 2027 will have opportunities to contribute to this major international experiment during an important development phase, including detector simulation, reconstruction, commissioning and preparation for future physics analyses.</div><div><br></div><div>The Short-Baseline Near Detector (SBND) at Fermilab began collecting neutrino data in 2024, providing a large dataset for precision measurements of neutrino interactions with argon. Students can engage immediately with real experimental data, investigating neutrino interaction mechanisms, nuclear effects and final-state particle reconstruction. These measurements are particularly important for reducing systematic uncertainties in DUNE's future oscillation programme.</div><div><br></div><div>Together, DUNE and SBND offer students the opportunity to combine near-term physics analysis with the development of a major next-generation neutrino experiment, working across detector technologies, advanced reconstruction, interaction modelling and precision measurements.</div><div><br></div><div><strong>Hyper-Kamiokande and T2K: Precision Neutrino Oscillations</strong></div><div><strong>Supervisor: Prof. Steve Boyd</strong></div><div><br></div><div>Hyper-Kamiokande is a next-generation water Cherenkov experiment in Japan, designed to make precision measurements of neutrino oscillations, investigate CP violation in the neutrino sector and search for rare processes such as proton decay. With data taking planned from 2028, students starting in 2027 will join the experiment at an exciting stage, with opportunities to contribute to detector commissioning, calibration, reconstruction and the development of early physics analyses. Its broad scientific programme also includes atmospheric, solar and astrophysical neutrinos.</div><div><br></div><div>The Tokai-to-Kamioka (T2K) experiment is already delivering precision neutrino oscillation and interaction measurements using an accelerator neutrino beam in Japan. Its upgraded near detector, ND280, provides improved tracking and detection of low-momentum particles, enabling detailed studies of neutrino interactions and better control of systematic uncertainties. Students can work with experimental data, contributing to oscillation analyses, neutrino interaction measurements and improved modelling of nuclear effects.</div><div><br></div><div>Together, T2K and Hyper-Kamiokande offer a natural progression from precision analysis with an established experiment to participation in the next generation of neutrino oscillation measurements, with opportunities for both near-term publications and future discovery-driven research.</div><div><br></div><div><strong>JUNO, PandaX-20T and WarTPC: Neutrino Physics and Advanced Detector Development</strong></div><div><strong>Supervisor: Dr Xianguo Lu</strong></div><div><br></div><div>The Jiangmen Underground Neutrino Observatory (JUNO) began data taking in August 2025 and has already published its first precision neutrino oscillation results. Students joining in 2027 will have immediate access to an experiment with real data and a rapidly developing physics programme, offering opportunities for original research and early publications. Research topics include atmospheric neutrino oscillations, neutrino interactions, and searches for rare processes such as proton decay.</div><div><br></div><div>PandaX-20T is a next-generation liquid-xenon experiment targeting dark matter and rare-event physics, including neutrino measurements. With installation and commissioning at the China Jinping Underground Laboratory expected to begin in 2027, students joining in October 2027 will have the opportunity to participate in a major new experiment from its early stages. Research activities may include detector commissioning, performance studies and the development of early physics analyses, with the prospect of analysing the first experimental data during their PhD. Particular interests include neutrino-induced backgrounds in dark matter searches and the emerging potential of liquid-xenon detectors for precision neutrino measurements.</div><div><br></div><div>Complementing these large international experiments, WarTPC is a high-pressure gaseous time projection chamber platform developed at Warwick. It explores hydrogen-rich gas targets, precision particle tracking, and novel optical and charge readout technologies. Its research has direct synergies with the future DUNE near-detector programme, particularly for studying neutrino–hydrogen interactions without nuclear effects. Students will have opportunities to make direct contributions to detector development, from instrumentation and experimental measurements to simulation and performance optimisation, gaining hands-on experience in developing new techniques for precision neutrino physics.</div><div><br></div><div>Together, these projects offer complementary opportunities for PhD research: immediate physics analysis with JUNO, participation in the commissioning and early physics programme of PandaX-20T, and hands-on detector development with WarTPC. Students can pursue research spanning fundamental physics, experimental data analysis and detector innovation, with opportunities to make substantial individual contributions throughout their PhD.</div><div><br></div><div><strong>Research and Training</strong></div><div>Students will join an active international research environment and contribute to major experimental collaborations. Depending on the chosen project, research activities may include:</div><ul><li>Analysis of experimental data and precision physics measurements</li><li>Development of reconstruction algorithms and statistical analysis techniques</li><li>Neutrino interaction modelling and Monte Carlo simulation</li><li>Detector calibration, commissioning and performance studies</li><li>Development of new detector and readout technologies</li><li>Participation in international collaboration meetings and experimental activities</li></ul><div><strong>Funding Opportunities and Application Deadlines – 2027 Entry</strong></div><div>Four competitive PhD funding schemes are available for consideration. <strong>Applicants should pay particular attention to their different application deadlines, funding durations and eligibility requirements.</strong></div><div><br></div><div><strong>December 2026: Chancellor's and CSC–Warwick Scholarships</strong></div><div>Both schemes are covered by Warwick's <strong>single postgraduate research scholarship application</strong>, which considers applicants for all eligible funding streams.</div><div><br></div><div><strong>1. Warwick Chancellor's Scholarships</strong></div><div><br></div><div><strong>Eligibility:</strong> Open to applicants of all nationalities, with either UK home or overseas tuition-fee status.</div><div><strong>Funding duration:</strong> 3.5 years.</div><div><br></div><div><strong>2. China Scholarship Council (CSC) – Warwick Joint Scholarships</strong></div><div><br></div><div><strong>Eligibility:</strong> Open to eligible Chinese applicants, subject to the China Scholarship Council requirements. Please refer to the official scholarship webpage for detailed eligibility criteria.</div><div><strong>Funding duration:</strong> Up to 4 years.</div><div><br></div><div><strong>Important deadlines for both schemes (16:59 GMT):</strong></div><ul><li><strong>7 December 2026:</strong> PhD course application deadline</li><li><strong>10 December 2026:</strong> Scholarship application deadline</li><li><strong>21 December 2026:</strong> References deadline</li></ul><div>Further information and application:</div><div><a href=\"https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/\">https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/</a></div><div><br></div><div><strong>January 2027: STFC-Funded PhD Studentships</strong></div><div>The Warwick Elementary Particle Physics group anticipates offering PhD studentships supported by the <strong>Science and Technology Facilities Council (STFC)</strong> for October 2027 entry.</div><div><br></div><div><strong>Eligibility:</strong> Primarily applicants with UK home-fee status. Some studentships may also be available to overseas applicants, subject to funding availability and eligibility requirements.</div><div><strong>Funding duration:</strong> Typically 3.5 years (42 months).</div><div><br></div><div><strong>Application deadline: January 2027.</strong></div><div>Further information:</div><div><a href=\"https://warwick.ac.uk/fac/sci/physics/research/epp/opportunities/postgradopps/\">https://warwick.ac.uk/fac/sci/physics/research/epp/opportunities/postgradopps/</a></div><div><br></div><div><strong>May 2027 (Expected): SJTU–Warwick Joint PhD Scholarships</strong></div><div>The SJTU–Warwick programme follows a <strong>separate application and nomination process</strong>, with the deadline expected in <strong>May 2027 (to be confirmed)</strong>.</div><div><br></div><div><strong>Eligibility:</strong> Open to eligible home and overseas applicants, subject to the SJTU–Warwick Joint PhD Programme requirements. Chinese nationals should apply through SJTU rather than Warwick.</div><div>This four-year joint PhD programme provides supervision from both the University of Warwick and Shanghai Jiao Tong University, research periods at both institutions, and PhD awards from both universities based on a single thesis examination.</div><div><strong>Funding duration:</strong> 4 years, subject to the applicable scholarship arrangements.</div><div><br></div><div>Applicants should contact prospective supervisors at both institutions before applying. Funding arrangements and application procedures depend on the applicant's home institution.</div><div><br></div><div>Further information and detailed eligibility criteria:</div><div><a href=\"https://warwick.ac.uk/services/dc/jointphd/sjtu/\">https://warwick.ac.uk/services/dc/jointphd/sjtu/</a></div><div><br></div><div><strong>How to Apply</strong></div><div>Interested candidates are strongly encouraged to contact their prospective supervisor before submitting a formal application, providing:</div><ul><li>A CV and academic background</li><li>A brief description of research interests</li><li>The preferred research programme and supervisor</li><li>The intended funding route, if known</li></ul><div>All scholarships and studentships are competitive. Their availability, eligibility criteria, funding arrangements and application deadlines are subject to change. Applicants should refer to the official webpages for the latest information, which takes precedence over this advertisement.</div><div><br></div><div>General Warwick Physics postgraduate application guidance:</div><div><a href=\"https://warwick.ac.uk/fac/sci/physics/admissions/postgraduate/how-to-apply/\">https://warwick.ac.uk/fac/sci/physics/admissions/postgraduate/how-to-apply/</a></div><div><br></div><div><strong>Contacts</strong></div><div><strong>Dr John Marshall</strong> – DUNE and SBND</div><div><a href=\"mailto:John.Marshall@warwick.ac.uk\">John.Marshall@warwick.ac.uk</a></div><div><br></div><div><strong>Prof. Steve Boyd</strong> – Hyper-Kamiokande and T2K</div><div><a href=\"mailto:S.B.Boyd@warwick.ac.uk\">S.B.Boyd@warwick.ac.uk</a></div><div><br></div><div><strong>Dr Xianguo Lu</strong> – JUNO, PandaX-20T and WarTPC</div><div><a href=\"mailto:Xianguo.Lu@warwick.ac.uk\">Xianguo.Lu@warwick.ac.uk</a></div><div><a href=\"https://warwick.ac.uk/xianguolu\">https://warwick.ac.uk/xianguolu</a></div><div><br></div><div><strong>Department of Physics</strong></div><div>University of Warwick</div><div>Coventry, CV4 7AL, United Kingdom</div><div><a href=\"https://warwick.ac.uk/fac/sci/physics/\">https://warwick.ac.uk/fac/sci/physics/</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "Fermilab-FNAL-Booster-SBND",
+        "T2K",
+        "HYPER-KAMIOKANDE",
+        "JUNO",
+        "PandaX"
+      ],
+      "urls": [
+        "https://warwick.ac.uk/fac/sci/physics/research/epp/opportunities/postgradopps/"
+      ],
+      "contact_email": null,
+      "created": "2026-11-01T12:20:06.453130+00:00",
+      "updated": "2026-11-02T17:53:27.732242+00:00",
+      "addedAt": "2026-11-03T08:05:54.541Z",
+      "isNew": true
+    },
+    {
+      "id": "3220937",
+      "title": "PhD and Master’s Positions in Experimental High-Energy Physics",
+      "institution": "USTC, Hefei",
+      "deadline": "2026-11-30",
+      "description": "<div>Professor Xu Zehua’s research group at the University of Science and Technology of China (USTC) is recruiting <strong>one international PhD student and one international master’s student </strong>for 2027. Students will have the opportunity to participate in the <strong><a href=\"https://lhcb.web.cern.ch/\">LHCb experiment</a></strong> or in <strong>preparatory studies for the <a href=\"https://stcf.ustc.edu.cn/bes/hi/39?columnName=HighLights\">Super Tau-Charm Facility (STCF)</a></strong>.</div><div><br></div><div>Applicants should have a strong interest in experimental high-energy physics. <strong>PhD applicants must hold a master’s degree and have relevant research experience.</strong> All candidates must pass an interview with the research group and secure a scholarship to enroll. For scholarship information, please visit the <a href=\"https://ic.ustc.edu.cn/?abroad=351\">USTC website</a>.</div><div><br></div><div>Please submit your <strong>CV, academic transcripts, and two letters of reference</strong> by <strong>November 30, 2026</strong>.</div><div><br></div><div><strong>Contact:</strong> Zehua Xu</div><div><strong>Letters of Reference should be sent to:</strong> <a href=\"mailto:zehua.xu@ustc.edu.cn\">zehua.xu@ustc.edu.cn</a></div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "PHD",
+        "MASTER"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-01T07:55:20.758106+00:00",
+      "updated": "2026-11-02T17:50:38.454767+00:00",
+      "addedAt": "2026-11-03T08:05:54.541Z",
+      "isNew": true
+    },
+    {
+      "id": "3220935",
+      "title": "The Endowed Bucy Chair in Experimental High Energy Physics",
+      "institution": "Texas Tech. U., Lubbock",
+      "deadline": "2027-01-15",
+      "description": "<div>The Department of Physics and Astronomy at Texas Tech University (TTU) invites nominations or applications at the tenured associate or full professor level for the J. Fred Bucy and Odetta Greer Bucy Endowed Chair in High Energy Physics with the tentative start date of September 1, 2027. We expect the successful candidate to establish, develop, and lead an internationally recognized and visionary research program in high energy or nuclear physics, addressing fundamental questions in these fields and advancing scientific frontiers in alignment with current and emerging national research priorities, including neutrino and dark matter experiments, future collider programs, artificial intelligence, and quantum information science.</div><div><br></div><div>Considerable resources are available at TTU to strengthen and support research efforts. These include generous start-up funds, dedicated lab space in Academic Sciences Building, and collaboration with the existing high energy physics group which conducts a vigorous research program in hadron collider physics (CMS) and detector R&amp;D. The Advanced Particle Detector Laboratory develops innovative detector technologies for several future applications and contributes to the HL-LHC CMS Phase-II upgrades by building a large fraction of the silicon sensor modules for the high-granularity end-cap calorimeter. The High-Performance Computing Center makes substantial resources and expertise available to support data analyses in high energy physics.</div><div><br></div><div>Candidates must have earned a Ph.D. in physics and established an outstanding and impactful research program. Candidates are expected to continue securing extramural funding to support their research. The successful candidate will contribute to undergraduate and graduate education through teaching and student mentoring. Service to the department, college, and university is also expected.</div><div><br></div><div>TTU is classified as an “R1: Very High Research Spending and Doctorate Production” University by the Carnegie Foundation, and it has been named an “Innovation and Economic Prosperity (IEP)” University by the Association of Public and Land Grant Universities (APLU). TTU is in the West Texas High Plains city of Lubbock (population over 250,000) and has excellent medical facilities, a low cost of living, and a semi-arid, sunny, and mild climate. Lubbock is within driving distance of Dallas, Austin, Santa Fe, and other major metropolitan cities.</div><div><br></div><div>Each applicant should submit a CV, a list of publications, a statement of research interests and plans, a statement of teaching philosophy, and contact information for at least three references. Applications should be submitted online at <a href=\"https://www.texastech.edu/careers/\">https://www.texastech.edu/careers/</a>, using position number 46641BR (or via this <a href=\"https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25898&amp;siteid=5637#jobDetails=926981_5637\">direct link</a>). Questions regarding this position should be directed to Prof. Sung-Won Lee, Search Committee Chair, at <a href=\"mailto:sungwon.lee@ttu.edu\">sungwon.lee@ttu.edu</a>. For full consideration, applications should be submitted by January 15, 2027.</div><div><br></div><div><strong>Equal Opportunity Statement</strong></div><div>The University does not tolerate discrimination or harassment of any employee or applicant for employment because of sex, race, color, national origin, religion, age, disability, protected veteran status, genetic information, or any other legally protected category, class, or characteristic.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25898&siteid=5637#jobDetails=926981_5637"
+      ],
+      "contact_email": null,
+      "created": "2026-11-01T04:56:57.149316+00:00",
+      "updated": "2026-11-02T17:48:29.352812+00:00",
+      "addedAt": "2026-11-03T08:05:54.541Z",
+      "isNew": true
+    },
+    {
+      "id": "3220839",
+      "title": "Postdoctoral Researcher - Superconducting Quantum Sensors for Neutrino Physics, Dark Matter, and Rare Isotopes",
+      "institution": "Colorado School of Mines",
+      "deadline": "2027-01-07",
+      "description": "<div>The Quantum Technologies at the Sensitivity Frontier (QTSF) group at the Colorado School of Mines, led by Prof. Wouter Van De Pontseele, is hiring a postdoctoral researcher to develop superconducting sensors and scalable cryogenic readout for neutrino and dark matter experiments. The postdoc will lead one or two research thrusts. Sensor fabrication is handled by NIST and other partner institutions, so the work centers on characterization, readout, and integration into experiments.</div><div>The position has guaranteed funding for two years, starting in January 2027. Extension beyond that is possible, subject to funding and performance.</div><div><br></div><div><strong>About the group</strong></div><div>QTSF (<a href=\"http://qtsf.mines.edu\">qtsf.mines.edu</a>) develops quantum sensors to search for physics Beyond the Standard Model. The group has five PhD students and works closely with several faculty in Mines' Quantum Engineering program. Current involvement:</div><ul><li>BeEST: precision studies of radioactive isotopes with eV-scale superconducting sensors.</li><li>RICOCHET: coherent elastic neutrino-nucleus scattering (CEvNS) at the ILL reactor in Grenoble, France.</li><li>Project 8: a direct neutrino mass measurement using Cyclotron Radiation Emission Spectroscopy.</li><li>Dark matter: demonstrator experiments for dark matter searches.</li><li>CURIE: the Colorado Underground Research Institute, Mines' underground laboratory.</li></ul><div><strong>Primary responsibilities</strong></div><ul><li>Characterize superconducting tunnel junctions (STJs) and transition-edge sensors (TESs), including sub-eV sensors, and integrate them into cryogenic experiments.</li><li>Develop microwave SQUID multiplexing and RFSoC-based readout with bandwidths above 100 kHz for scalable cryogenic experiments.</li><li>Operate the group's dilution refrigerator.</li><li>Collaborate actively with NIST Boulder's Quantum Sensors and Advanced Microwave Photonics groups, meeting at least monthly.</li><li>Collaborate with PNNL, LLNL, Yale, MIT, Northwestern, and UC Berkeley, with occasional travel within the US and to France.</li><li>Mentor PhD students and Quantum Engineering master's students.</li><li>Publish results and present them at conferences and seminars.</li></ul><div>The position prepares candidates for careers in academia, national laboratories, or industry. It includes teaching opportunities in Mines' Quantum Engineering program and access to partners through the Elevate Quantum regional ecosystem.</div><div><br></div><div><strong>Minimum qualifications</strong></div><div>A PhD in Physics, Quantum Engineering, or Electrical Engineering.</div><div><br></div><div><strong>Preferred qualifications</strong></div><ul><li>Experience with superconducting sensors (e.g., STJs, TESs, MMCs, KIDs) or other cryogenic detectors.</li><li>Experience with SQUID or microwave SQUID multiplexed readout.</li><li>Experience with dilution refrigerators, vector network analyzers, or RFSoC platforms (e.g., QICK).</li><li>Knowledge of low-background techniques or low-threshold detector development.</li><li>Bonus: sensor packaging and wirebonding, or microwave and electromagnetic simulation (e.g., HFSS, SONNET, COMSOL).</li></ul><div><strong>Salary</strong>: $60,000 - $70,000 per year, with Mines benefits (health and dental, fully vested retirement plan with 12% employer contribution, tuition benefits, RTD EcoPass).</div><div><strong>How to apply</strong></div><div>Applications are reviewed on a rolling basis until the position is filled. Apply online via the Mines Careers page (link above, requisition JR110223) with:</div><ul><li>A CV with a publication list.</li><li>A cover letter of up to two pages describing your experience and which parts of the program interest you most.</li><li>Contact details for three professional references.</li></ul><div>Informal inquiries: wouter.vandepontseele@mines.edu</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "nucl-ex",
+        "quant-ph"
+      ],
+      "experiments": [
+        "Ricochet",
+        "PROJECT-8",
+        "BeEST"
+      ],
+      "urls": [
+        "https://mines.wd1.myworkdayjobs.com/en-US/Mines_Careers/job/Post-Doctoral-Researcher---Quantum-Sensing-for-Fundamental-Physics_JR110223"
+      ],
+      "contact_email": null,
+      "created": "2026-10-31T00:16:52.396161+00:00",
+      "updated": "2026-11-02T17:26:13.881973+00:00",
+      "addedAt": "2026-11-03T08:05:54.541Z",
+      "isNew": true
+    },
+    {
       "id": "3220786",
       "title": "PhD position in simulation and software development",
       "institution": "U. Erlangen-Nuremberg (main)",
@@ -26,7 +194,7 @@
       "created": "2026-10-30T15:54:12.878177+00:00",
       "updated": "2026-10-30T18:12:00.039636+00:00",
       "addedAt": "2026-11-02T08:06:50.582Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3220283",
@@ -51,7 +219,7 @@
       "created": "2026-10-30T09:13:12.442738+00:00",
       "updated": "2026-10-30T17:47:35.650772+00:00",
       "addedAt": "2026-11-02T08:06:50.582Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3219869",
@@ -13269,6 +13437,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-02T08:06:50.584Z",
-  "totalJobs": 494
+  "lastUpdated": "2026-11-03T08:05:54.543Z",
+  "totalJobs": 500
 }
