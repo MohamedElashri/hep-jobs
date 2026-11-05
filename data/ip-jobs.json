@@ -1,6 +1,142 @@
 {
   "jobs": [
     {
+      "id": "3222662",
+      "title": "PhD Opportunities in Experimental Particle Physics (ATLAS Experiment at CERN)",
+      "institution": "KFUPM, Dhahran",
+      "deadline": "2026-12-15",
+      "description": "<div>The Experimental Particle Physics group at King Fahd University of Petroleum &amp; Minerals (KFUPM), Kingdom of Saudi Arabia, invites applications from motivated students interested in pursuing a PhD in Experimental Particle Physics, with research focused on the ATLAS Experiment at CERN's Large Hadron Collider (LHC).</div><div><br></div><div>KFUPM has recently joined the ATLAS Collaboration at CERN as an Associate Member Institute. The newly established group, led by Prof. Wasikul Islam, works closely with the ATLAS Collaboration and SLAC National Accelerator Laboratory (USA).</div><div><br></div><div>The group focuses on searches for new particles and phenomena beyond the Standard Model, particularly using advanced AI and machine learning techniques. Research opportunities include, but are not limited to:</div><ul><li>Searches for new physics using ATLAS collision data, including model-independent searches and anomaly detection.</li><li>Development of AI/ML methods for particle physics, including unsupervised learning, physics-informed approaches, and fast inference.</li><li>Advanced tracking, vertex reconstruction, and pileup-mitigation algorithms for the High-Luminosity LHC (HL-LHC).</li><li>Detector development, performance studies, and software R&amp;D for the ATLAS Inner Tracker (ITk) and future collider experiments.</li><li>Simulation, reconstruction, and physics sensitivity studies for the HL-LHC and future colliders.</li></ul><div>Successful applicants will join a growing experimental particle physics research program and have opportunities to participate in research within the international ATLAS Collaboration. Potential research visits to CERN may be available.</div><div><br></div><div>Qualifications:</div><div>Applicants should have a strong background in physics or a closely related field, with an interest in experimental particle physics and computational methods.</div><div>Experience in programming (Python and/or C++), scientific data analysis, machine learning, or detector physics is desirable but not required.</div><div><br></div><div>KFUPM offers both regular PhD admission for qualified Master's degree holders and Direct-to-PhD admission for eligible applicants with a four-year Bachelor's degree. Applicants must satisfy the university's graduate admission requirements.</div><div><br></div><div>Scholarships and Benefits:</div><div>Competitive full PhD scholarships are available to qualified applicants through KFUPM's graduate admissions process. These may include a monthly stipend, on-campus housing, medical care, and other university benefits.</div><div><br></div><div>Application Procedure:</div><div><strong>KFUPM graduate admissions are currently open, with an application deadline of 15 December 2026.</strong></div><div>Interested candidates should submit their official application for the <strong>PhD in Physics</strong> through the KFUPM graduate admission portal:</div><div><strong>Application portal:</strong> <a href=\"https://cgis.kfupm.edu.sa/apply\">https://cgis.kfupm.edu.sa/apply</a></div><div><strong>Graduate admission requirements:</strong> <a href=\"https://cgis.kfupm.edu.sa/admission/admissionrequirement\">https://cgis.kfupm.edu.sa/admission/admissionrequirement</a></div><div><strong>Scholarship information:</strong> <a href=\"https://cgis.kfupm.edu.sa/admission/kfupm-scholarship\">https://cgis.kfupm.edu.sa/admission/kfupm-scholarship</a></div><div>Candidates interested in joining the ATLAS research group are encouraged to contact Prof. Wasikul Islam (<a href=\"mailto:wasikul.islam@kfupm.edu.sa\">wasikul.islam@kfupm.edu.sa</a>) with a CV, academic transcripts, and a brief statement of research interests.</div><div><br></div><div><strong>Group information:</strong> <a href=\"https://physics.kfupm.edu.sa/People/faculty/faculty-details/wasikul.islam\">https://physics.kfupm.edu.sa/People/faculty/faculty-details/wasikul.islam</a></div><div><br></div><div>Admission and scholarship decisions are subject to KFUPM's graduate admissions procedures.</div>",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://cgis.kfupm.edu.sa/admission/admissionrequirement"
+      ],
+      "contact_email": null,
+      "created": "2026-11-04T13:46:16.161856+00:00",
+      "updated": "2026-11-04T19:29:32.814385+00:00",
+      "addedAt": "2026-11-05T08:05:53.825Z",
+      "isNew": true
+    },
+    {
+      "id": "3222048",
+      "title": "Postdoctoral Researcher in Experimental Neutrino Physics, based at Fermilab",
+      "institution": "U. Kansas, Lawrence",
+      "deadline": "2026-11-30",
+      "description": "<div>We invite applications for a Postdoctoral Researcher in experimental neutrino physics at the University of Kansas, beginning as early as January 15, 2027. The successful candidate will contribute to physics data analysis and event reconstruction for the Fermilab Short-Baseline Neutrino (SBN) program and the Deep Underground Neutrino Experiment (DUNE).</div><div><br></div><div>The KU Experimental Neutrino Physics group develops reconstruction techniques for liquid argon time projection chambers (LArTPCs), including AI/ML approaches, and leads the development of Pandora reconstruction for the DUNE Near Detector. The group also conducts physics analyses in SBN and DUNE. Based primarily at Fermilab in Batavia, Illinois, the candidate will work closely with Fermilab scientists on reconstruction development and integration, particularly Pandora and NuGraph2, and on physics analysis.</div><div><br></div><div>The successful candidate will have the opportunity to help advance the group’s research program, work with and mentor graduate and undergraduate students, and present results at international meetings and conferences. Related expertise at KU includes theoretical particle physics and phenomenology, experimental collider physics, and astroparticle physics.</div><div><br></div><div>For more information and to apply go to: <a href=\"https://employment.ku.edu/jobs/staff/postdoctoral-researcher/34041br\">https://employment.ku.edu/jobs/staff/postdoctoral-researcher/34041br</a> . <strong>Initial review of applications will begin November 30, 2026</strong> and will continue until a qualified pool of applicants has been identified. Inquiries can be made by email to mbbrunetti@ku.edu . Candidates should arrange for at least three recommendation letters to be sent to mbbrunetti@ku.edu.</div><div><br></div><div>KU’s excellence is a result of the rich tapestry of experiences, perspectives, and backgrounds of our faculty, staff, students, and colleagues from across our nation and the globe. At KU, we invest in continuous learning and growth by creating a climate where people engage in respectful dialogue and debate and support each other’s success. We foster a culture of care where each person is seen, heard and valued. When people feel a true sense of belonging, we believe they are better able to reach their full potential and achieve remarkable things. Candidates stationed in the U.S. must be eligible to work in the U.S. by the effective date of the appointment.</div><div><br></div><div>The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university's programs and activities. Retaliation is also prohibited by university policy. The following person has been designated to handle inquiries regarding the nondiscrimination policies and is the Title IX coordinator for all KU and KUMC campuses: Associate Vice Chancellor for Civil Rights and Title IX, <a href=\"mailto:civilrights@ku.edu\">civilrights@ku.edu</a>, Room 1082, Dole Human Development Center, 1000 Sunnyside Avenue, Lawrence, KS 66045, 785-864-6414, 711 TTY</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-03T18:51:50.272874+00:00",
+      "updated": "2026-11-04T19:02:25.994953+00:00",
+      "addedAt": "2026-11-05T08:05:53.825Z",
+      "isNew": true
+    },
+    {
+      "id": "3221926",
+      "title": "PhD Position in Neutrino Experimental Physics",
+      "institution": "Madrid, CIEMAT",
+      "deadline": "2026-11-18",
+      "description": "<div>The CIEMAT Neutrino Group at the Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) in Madrid (Spain) is seeking candidates for a 3-year PhD student Position in Experimental Neutrino Physics to work on the new LiquidO technology in the scope of the EIC-Pathfinder project <a href=\"https://cordis.europa.eu/project/id/101047028\">AntiMatter-OTech</a>.</div><div><br></div><div>The AntiMatter-OTech innovation project aims to construct and operate a 10-tonne neutrino detector for nuclear reactor applications using an opaque scintillator, an innovative technology that exploits light propagation in the opaque medium to improve the identification and reconstruction of particle interactions. The project also includes a fundamental science programme. The CIEMAT Neutrino Group contributes to the design, construction and scientific exploitation of the detector, offering the opportunity to contribute to a cutting-edge experiment from detector development to data analysis.</div><div><br></div><div>The CIEMAT Neutrino Group has a long experience in Reactor Neutrino Experiments and is also participating in DUNE and SBND experiments at Fermilab, as well as, in the ProtoDUNE program at CERN Neutrino Platform.</div><div>The <strong>3-year PhD contract </strong>(PREFIN-26-I01) has been published at the <a href=\"https://www.ciemat.es/en/ofertas-de-empleo/-/ofertas/oferta/2402?_es_ciemat_ofertas_web_OfertasPortlet_cur=1&amp;_es_ciemat_ofertas_web_OfertasPortlet_oferta=2402&amp;_es_ciemat_ofertas_web_OfertasPortlet_delta=20\">CIEMAT Job Openings web site.</a> The deadline for submitting applications is 18 November of 2026.</div><div><br></div><div>The candidate must have a Master’s Degree in Physics or similar at the time of the application, a good English knowledge and strong interest in the neutrino physics field. Experience in C++ and Python programming will be also valuable. For further information, interested candidates are encouraged to contact Carmen Palomares (<a href=\"mailto:mc.palomares@ciemat.es\">mc.palomares@ciemat.es</a>).</div><div><br></div><div><em>The CIEMAT Particle Physics Unit is an affirmative action/equal opportunity employer. Eliminating gender inequalities by promoting equal opportunities for men and women is a core compromise of our group and it is our commitment to establish the necessary actions to close the gender gap. More information in en <a href=\"http://cfp.ciemat.es/equality\">http://cfp.ciemat.es/equality</a>)</em></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "AM-OTech"
+      ],
+      "urls": [
+        "https://www.ciemat.es/en/ofertas-de-empleo/-/ofertas/oferta/2402?_es_ciemat_ofertas_web_OfertasPortlet_cur=1&_es_ciemat_ofertas_web_OfertasPortlet_oferta=2402&_es_ciemat_ofertas_web_OfertasPortlet_delta=20"
+      ],
+      "contact_email": null,
+      "created": "2026-11-03T11:39:11.819137+00:00",
+      "updated": "2026-11-04T18:59:03.355062+00:00",
+      "addedAt": "2026-11-05T08:05:53.825Z",
+      "isNew": true
+    },
+    {
+      "id": "3222007",
+      "title": "Accelerator Physicist (Lead)",
+      "institution": "Acceleron Fusion",
+      "deadline": "2026-12-31",
+      "description": "<div><strong>About us</strong></div><div>Acceleron Fusion is developing muon-catalyzed fusion—a path to clean, abundant energy. Building on research sponsored by the U.S. DOE, we have raised over $20M in our Series A venture capital round and have already logged 100+ hours of muon-catalyzed fusion in tests at the Paul Scherrer Institute. Our collaborators include PSI, Oak Ridge, Argonne, Fermilab, and several universities. Join a team where fundamental physics meets application-oriented engineering, and your designs could help move our technology from the laboratory to a commercial energy source.</div><div>We have an opening for an Accelerator Physicist (Lead) who will play a key role in the design and optimization of muon production systems for our fusion technology. This is a senior individual contributor position with technical leadership responsibilities, including the expectation to help build and mentor a small team as scope grows.</div><div><br></div><div><strong>What you'll do:</strong></div><ul><li>Own the technical strategy and program plan for accelerator-driven muon production and associated beamlines, including design, schedule, risk, and interface management.</li><li>Participate in design and optimization of accelerator systems and beamlines for muon focusing and cooling; perform and review beam dynamics simulations.</li><li>Lead or supervise contractors/vendors for preconceptual linac design and related subsystems; establish technical specifications and acceptance criteria.</li><li>Specify and architect the RF power chain (MW-class RF power conversion, distribution, waveguides, couplers) and coordinate with cryogenics on thermal load budgets (kW-level at cryo temperatures).</li><li>Drive preliminary engineering design, evaluate feasibility and tradeoffs, and lead design reviews; coordinate cross-functional deliverables (RF, cryo, targetry, controls, safety).</li><li>Author technical papers and contribute to the company's scientific publications, presenting research at scientific conferences and representing the program with external collaborators.</li></ul><div>Establish working standards for modeling, data management, and verification/validation in collaboration with the broader physics and engineering teams.</div><div><strong>What we're looking for:</strong></div><ul><li>PhD in Physics, Electrical Engineering, or a related field, with a focus on accelerator physics (or equivalent experience).</li><li>Deep understanding of beam dynamics and accelerator systems; hands-on experience with beamlines, synchrotrons, or storage rings.</li><li>Proficiency with accelerator and EM simulation tools (e.g., MAD-X, OPAL, elegant, GPT, CST/HFSS, COMSOL), CAD software (e.g. SolidWorks, AutoCAD), and scientific computing (Python/Matlab).</li><li>Broad familiarity with adjacent accelerator engineering: high-power RF systems, cryogenics, radiation shielding/safety, high-voltage interlocks.</li><li>Proven ability to lead complex technical programs as a senior IC: setting architecture, coordinating multi-disciplinary teams, making schedule/technical tradeoffs, and driving to results.</li><li>Excellent communication and presentation skills; ability to influence across functions and with external partners.</li></ul><div>Comfort operating in a fast-moving, resourceful startup environment.</div><div><strong>Preferred Qualifications (not required)</strong></div><ul><li>National lab experience or collaborations strongly preferred.</li></ul><div>Muon physics or muon beamline design experience is a plus.</div><div><strong>Details and Logistics:</strong></div><ul><li>This is a full-time, onsite role working from our facility in Cambridge, MA.</li><li>Travel (including international) a few weeks per year is required to partner labs and vendors.</li><li>Our benefits package includes health &amp; dental insurance, retirement savings with company contribution, stock options, paid time off, and company holidays.</li></ul><div>The salary range for this role is $120,000 to $160,000. This range represents the minimum and maximum base compensation Acceleron Fusion reasonably expects to pay for this position. The specific salary offered will be determined based on relevant factors including skills, experience, qualifications, and location. This position may also be eligible for additional compensation such as bonuses, equity, or other benefits.</div><div><strong>Our interview process:</strong></div><ul><li>Initial video call with recruiter (30min)</li><li>Technical video call with members of our Physics team (45min)</li><li>Research presentation (60min)</li><li>In-person interview (~5hours including lunch with co-founders)</li></ul><div>Acceleron Fusion is an equal opportunity employer, committed to building a welcoming, respectful, and inclusive workplace. We welcome applications from all qualified candidates regardless of background.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det",
+        "physics.acc-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.acceleron.energy/"
+      ],
+      "contact_email": null,
+      "created": "2026-11-03T14:31:50.645750+00:00",
+      "updated": "2026-11-04T18:57:44.078266+00:00",
+      "addedAt": "2026-11-05T08:05:53.825Z",
+      "isNew": true
+    },
+    {
+      "id": "3221540",
+      "title": "Postdoctoral Researcher in Experimental Neutrino Physics, based at Fermilab",
+      "institution": "U. Kansas, Lawrence",
+      "deadline": "2026-11-30",
+      "description": "<div>We invite applications for a Postdoctoral Researcher in experimental neutrino physics at the University of Kansas, beginning as early as January 15, 2027. The successful candidate will contribute to physics data analysis and event reconstruction for the Fermilab Short-Baseline Neutrino (SBN) program and the Deep Underground Neutrino Experiment (DUNE).</div><div><br></div><div>The KU Experimental Neutrino Physics group develops reconstruction techniques for liquid argon time projection chambers (LArTPCs), including AI/ML approaches, and leads the development of Pandora reconstruction for the DUNE Near Detector. The group also conducts physics analyses in SBN and DUNE.</div><div><br></div><div>Based primarily at Fermilab in Batavia, Illinois, the candidate will work closely with Fermilab scientists on reconstruction development and integration, particularly Pandora and NuGraph2, and on physics analysis.</div><div><br></div><div>The successful candidate will have the opportunity to help advance the group’s research program, work with and mentor graduate and undergraduate students, and present results at international meetings and conferences. Related expertise at KU includes theoretical particle physics and phenomenology, experimental collider physics, and astroparticle physics.</div><div><br></div><div>For more information and to apply go to: <a href=\"https://employment.ku.edu/jobs/staff/postdoctoral-researcher/34041br\">https://employment.ku.edu/jobs/staff/postdoctoral-researcher/34041br</a>. <strong>Initial review of applications will begin November 30, 2026</strong> and will continue until a qualified pool of applicants has been identified. Inquiries can be made by email to mbbrunetti@ku.edu . Candidates should arrange for at least three recommendation letters to be sent to mbbrunetti@ku.edu.</div><div><br></div><div>KU’s excellence is a result of the rich tapestry of experiences, perspectives, and backgrounds of our faculty, staff, students, and colleagues from across our nation and the globe. At KU, we invest in continuous learning and growth by creating a climate where people engage in respectful dialogue and debate and support each other’s success. We foster a culture of care where each person is seen, heard and valued. When people feel a true sense of belonging, we believe they are better able to reach their full potential and achieve remarkable things. Candidates stationed in the U.S. must be eligible to work in the U.S. by the effective date of the appointment.</div><div><br></div><div>The University of Kansas prohibits discrimination on the basis of race, color, ethnicity, religion, sex, national origin, age, ancestry, disability, status as a veteran, sexual orientation, marital status, parental status, gender identity, gender expression, and genetic information in the university's programs and activities. Retaliation is also prohibited by university policy. The following person has been designated to handle inquiries regarding the nondiscrimination policies and is the Title IX coordinator for all KU and KUMC campuses: Associate Vice Chancellor for Civil Rights and Title IX, <a href=\"mailto:civilrights@ku.edu\">civilrights@ku.edu</a>, Room 1082, Dole Human Development Center, 1000 Sunnyside Avenue, Lawrence, KS 66045, 785-864-6414, 711 TTY</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "Fermilab-FNAL-Booster-SBND"
+      ],
+      "urls": [
+        "https://employment.ku.edu/jobs/staff/postdoctoral-researcher/34041br"
+      ],
+      "contact_email": null,
+      "created": "2026-11-02T19:49:08.737529+00:00",
+      "updated": "2026-11-04T18:37:55.328642+00:00",
+      "addedAt": "2026-11-05T08:05:53.825Z",
+      "isNew": true
+    },
+    {
       "id": "3221537",
       "title": "Postdoc Position on DUNE",
       "institution": "U. Toronto (main)",
@@ -13437,6 +13573,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-04T08:05:38.649Z",
-  "totalJobs": 500
+  "lastUpdated": "2026-11-05T08:05:53.826Z",
+  "totalJobs": 505
 }
