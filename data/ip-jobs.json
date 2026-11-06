@@ -1,6 +1,85 @@
 {
   "jobs": [
     {
+      "id": "3223142",
+      "title": "Postdoctoral Position in Experimental Particle Physics",
+      "institution": "Beijing, Inst. Theor. Phys.",
+      "deadline": "2027-03-31",
+      "description": "<div>We invite applications for one postdoctoral position in experimental searches for light dark matter using superconducting qubit arrays. The project aims to develop ultra-low-threshold quantum detectors for light dark matter searches, and the successful candidate will be expected to conduct research partly at the Beijing Academy of Information Sciences (BAQIS) and the China Jinping Underground Laboratory (CJPL).</div><div><br></div><div>Candidates with backgrounds in superconducting quantum circuits, quantum sensing, cryogenic detectors, or related experimental fields are particularly encouraged to apply.</div><div><br></div><div>The initial appointment for the position is for two years, with a possible extension for a third year or a potential to be promoted to another 3-year research associate position.</div><div><br></div><div>Applications will be reviewed until the position is filled.</div><div><br></div><div>Applications should send</div><div>1) CV with a list of publications,</div><div>2) research statement,</div><div>3) and arrange at least two letters of recommendation (to be sent by the referees)</div><div>to Ningqiang Song (songnq@itp.ac.cn).</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-05T08:02:08.848062+00:00",
+      "updated": "2026-11-05T19:23:13.054753+00:00",
+      "addedAt": "2026-11-06T08:05:49.999Z",
+      "isNew": true
+    },
+    {
+      "id": "3223148",
+      "title": "IceCube PhD Position: Faint Particle Trigger for IceCube Upgrade",
+      "institution": "Bergische U., Wuppertal (main)",
+      "deadline": "2026-11-30",
+      "description": "<div>The Astroparticle Physics Group at the University of Wuppertal invites applications for a PhD position focusing on the development of novel trigger algorithms for the IceCube Neutrino Observatory and the IceCube Upgrade.</div><div><strong>Research project</strong></div><div>The successful candidate will contribute to the development and optimization of the <strong>Faint Particle Trigger (FPT)</strong> for the IceCube detector and the IceCube Upgrade. The project aims to improve the detection capabilities for faint and unconventional particle signatures that may provide evidence for physics beyond the Standard Model.</div><div>A particular focus will be on searches for <strong>fractionally charged particles (FCPs) and magnetic monopoles</strong>, including slow-moving particles and other exotic signatures characterized by low light yields.</div><div>The research will combine trigger development, detector data analysis, simulations, and modern machine-learning techniques. An important aspect is the implementation and testing of algorithms under the constraints of real-time data processing and limited trigger and data rates.</div><div>The successful candidate will work within the international IceCube Collaboration and contribute to the development of new approaches for exploring unconventional particle signatures with large-volume neutrino detectors.</div><div><strong>Responsibilities</strong></div><ul><li>Develop and optimize the Faint Particle Trigger (FPT) for the IceCube detector and the IceCube Upgrade.</li><li>Develop trigger and filtering algorithms for the identification of faint and slow particle signatures, particularly fractionally charged particles and magnetic monopoles.</li><li>Analyze and simulate IceCube data to develop, validate, and exploit the physics potential of the new trigger methods.</li><li>Implement and test algorithms under real-time data-processing requirements and constraints on trigger and data rates.</li><li>Apply modern machine-learning methods for event recognition.</li><li>Present and publish scientific results and actively participate in the international IceCube Collaboration.</li></ul><div><strong>Requirements</strong></div><ul><li>A completed Master's degree (or equivalent) in Physics or a related field.</li><li>Solid knowledge of particle physics and/or astroparticle physics, and an interest in physics beyond the Standard Model.</li><li>Experience in programming and scientific data analysis, preferably using Python and/or C++.</li><li>Interest in detector systems, trigger algorithms, and real-time data processing. Experience with FPGA-based data processing is an advantage.</li><li>Knowledge of machine-learning methods is desirable.</li><li>Strong analytical skills and an independent, structured approach to work.</li><li>Willingness to collaborate in an interdisciplinary and international research environment.</li><li>Excellent written and spoken English.</li><li>Strong motivation to pursue a PhD in experimental particle or astroparticle physics.</li></ul><div><strong>Position details</strong></div><ul><li>Position: PhD researcher</li><li>Institution: University of Wuppertal, Faculty of Mathematics and Natural Sciences, Astroparticle Physics Group</li><li>Location: Wuppertal, Germany</li><li>Starting date: As soon as possible</li><li>Duration: Initially three years, with a possible extension to complete the PhD, subject to the applicable legal time limits and funding.</li><li>Employment: 66% of a full-time position</li><li>Salary: German public-sector pay scale TV-L E13 (66%).</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "ICECUBE"
+      ],
+      "urls": [
+        "https://stellenausschreibungen.uni-wuppertal.de/qisserver/rds?state=change&type=2&moduleParameter=bwmSearchResult&nextdir=sva/bwmsas&next=DetailView.vm&sas.sas_serial=6321&sqlmode=update&subdir=sva/bwm&comingfromselection=y&menuid=&P_anzahl=100&P_start=0&topitem=qissvaCareer&subitem=svabwmstellenuebersicht&termdisplayonly=y&view=1&asi="
+      ],
+      "contact_email": null,
+      "created": "2026-11-05T10:39:20.029854+00:00",
+      "updated": "2026-11-05T19:18:45.724616+00:00",
+      "addedAt": "2026-11-06T08:05:49.999Z",
+      "isNew": true
+    },
+    {
+      "id": "3223151",
+      "title": "KATRIN Postdoctoral Research Associate in Neutrino Physics",
+      "institution": "Bergische U., Wuppertal (main)",
+      "deadline": "2026-11-30",
+      "description": "<div>The Astroparticle Physics Group at the University of Wuppertal invites applications for a postdoctoral research position in the field of experimental neutrino physics, focusing on the search for sterile neutrinos with the KATRIN experiment and the development of an X-ray calibration system for the TRISTAN detector.</div><div><br></div><div><strong>Research project</strong></div><div>The successful candidate will contribute to the scientific exploitation and further development of the KATRIN experiment, with a particular focus on the search for sterile neutrinos using the TRISTAN detector. This includes the development and implementation of independent analysis strategies for differential tritium beta-decay spectra, targeting signatures of sterile keV-scale neutrinos and other possible manifestations of physics beyond the Standard Model.</div><div>An important component of the position is the development and experimental characterization of a novel, high-intensity X-ray fluorescence source for the energy and detector calibration of TRISTAN. The work will involve experimental instrumentation, simulations, and the integration of the calibration system into the KATRIN experiment.</div><div>The position offers considerable scope for independent scientific research. In particular, the successful candidate will be encouraged to develop their own research focus within the analysis of KATRIN data, including projects that are independent of the X-ray calibration activities.</div><div>The work will be carried out in close collaboration with the international KATRIN collaboration, with activities both at the University of Wuppertal and at the KATRIN experimental site at the Karlsruhe Institute of Technology (KIT).</div><div><br></div><div><strong>Responsibilities</strong></div><ul><li>Conduct independent scientific research, for example on searches for sterile neutrinos with KATRIN/TRISTAN, including the development and implementation of analyses of differential tritium beta-decay spectra.</li><li>Develop and investigate analysis methods for searches for keV-scale sterile neutrinos and other signatures of physics beyond the Standard Model.</li><li>Pursue an independent scientific research focus in the analysis of KATRIN data, including research projects beyond the X-ray calibration activities.</li><li>Contribute to the further development and experimental characterization of a novel, high-intensity X-ray fluorescence source for energy and detector calibration of TRISTAN.</li><li>Perform and contribute to Geant4 and COMSOL simulations related to the calibration system.</li><li>Participate in the construction, commissioning, and integration of the calibration system at the University of Wuppertal and at the KATRIN experiment.</li><li>Contribute to the development of calibration procedures, data integration, slow-control systems, and safety concepts.</li><li>Coordinate activities with KATRIN partners and supervise students and technical staff.</li><li>Present and publish scientific results and actively participate in the international KATRIN Collaboration.</li></ul><div><strong>Requirements</strong></div><ul><li>A completed Master's degree (or equivalent) and a PhD in Physics or a related field.</li><li>Solid background in experimental physics, particle physics, or astroparticle physics.</li><li>Experience in at least one of the following areas: detector development, electronics, vacuum technology, high-voltage systems, X-ray spectroscopy, or experimental calibration.</li><li>Experience in scientific data analysis and programming, preferably using Python and/or C++.</li><li>Knowledge of Monte Carlo simulations, particularly Geant4, is an advantage.</li><li>Experience with COMSOL or comparable simulation tools is desirable.</li><li>Interest in the development and operation of complex experimental apparatus, including work involving demanding vacuum, high-voltage, and radiation-protection requirements.</li><li>Knowledge of neutrino and particle physics and an interest in searches for physics beyond the Standard Model.</li><li>Ability to conduct independent scientific research and develop new analysis strategies.</li><li>Willingness to collaborate in an international, interdisciplinary research consortium.</li><li>Excellent written and spoken English.</li><li>Willingness to undertake regular stays and measurement campaigns at the KATRIN experimental site in Karlsruhe, Germany.</li></ul><div><strong>Position details</strong></div><ul><li>Starting date: As soon as possible</li><li>Duration: Until June 30, 2029, with a possible extension, subject to funding.</li><li>Employment: Full-time; part-time employment is possible.</li><li>Salary: German public-sector pay scale TV-L E13 100%.</li></ul><div><strong>Applications</strong> must be submitted online via the University of Wuppertal's recruitment portal:</div><div><a href=\"https://stellenausschreibungen.uni-wuppertal.de/\">https://stellenausschreibungen.uni-wuppertal.de/</a></div><div>Please refer to <strong>job reference number 26318</strong>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex"
+      ],
+      "experiments": [
+        "KATRIN"
+      ],
+      "urls": [
+        "https://stellenausschreibungen.uni-wuppertal.de/qisserver/rds?state=change&type=2&moduleParameter=bwmSearchResult&nextdir=sva/bwmsas&next=DetailView.vm&sas.sas_serial=6323&sqlmode=update&subdir=sva/bwm&comingfromselection=y&menuid=&P_anzahl=100&P_start=0&topitem=qissvaCareer&subitem=svabwmstellenuebersicht&termdisplayonly=y&view=1&asi="
+      ],
+      "contact_email": null,
+      "created": "2026-11-05T11:47:03.399207+00:00",
+      "updated": "2026-11-05T19:13:43.099395+00:00",
+      "addedAt": "2026-11-06T08:05:49.999Z",
+      "isNew": true
+    },
+    {
       "id": "3222662",
       "title": "PhD Opportunities in Experimental Particle Physics (ATLAS Experiment at CERN)",
       "institution": "KFUPM, Dhahran",
@@ -25,7 +104,7 @@
       "created": "2026-11-04T13:46:16.161856+00:00",
       "updated": "2026-11-04T19:29:32.814385+00:00",
       "addedAt": "2026-11-05T08:05:53.825Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3222048",
@@ -50,7 +129,7 @@
       "created": "2026-11-03T18:51:50.272874+00:00",
       "updated": "2026-11-04T19:02:25.994953+00:00",
       "addedAt": "2026-11-05T08:05:53.825Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3221926",
@@ -77,7 +156,7 @@
       "created": "2026-11-03T11:39:11.819137+00:00",
       "updated": "2026-11-04T18:59:03.355062+00:00",
       "addedAt": "2026-11-05T08:05:53.825Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3222007",
@@ -106,7 +185,7 @@
       "created": "2026-11-03T14:31:50.645750+00:00",
       "updated": "2026-11-04T18:57:44.078266+00:00",
       "addedAt": "2026-11-05T08:05:53.825Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3221540",
@@ -134,7 +213,7 @@
       "created": "2026-11-02T19:49:08.737529+00:00",
       "updated": "2026-11-04T18:37:55.328642+00:00",
       "addedAt": "2026-11-05T08:05:53.825Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3221537",
@@ -13573,6 +13652,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-05T08:05:53.826Z",
-  "totalJobs": 505
+  "lastUpdated": "2026-11-06T08:05:50.002Z",
+  "totalJobs": 508
 }
