@@ -1,6 +1,31 @@
 {
   "jobs": [
     {
+      "id": "3225395",
+      "title": "PhD positions in Experimental Particle Physics",
+      "institution": "U. Edinburgh (main)",
+      "deadline": "2027-01-22",
+      "description": "<div>The Particle Physics Experiment (PPE) Group at the University of Edinburgh has several positions opening for <strong>fully-funded PhD studentships</strong> starting in September 2027. This includes places funded through STFC and University scholarships. These places can be offered to students paying home or international fees. Other funded places may become available later.</div><div><br></div><div>The PPE group includes significant research efforts on the <strong>ATLAS</strong> and <strong>LHCb</strong> experiments at CERN, on short- and long-baseline <strong>neutrino experiments</strong> (DUNE, MicroBooNE, SBND), on direct <strong>dark matter searches</strong>(LZ/XLZD, DarkSide), and on <strong>neutrinoless double beta decay</strong> (SuperNEMO). We are also active in multidisciplinary projects including nuclear non-proliferation technology (BUTTON), and <strong>medical imaging </strong>(total-body PET).</div><div><br></div><div>In the 2021 REF, the School of Physics &amp; Astronomy at the University of Edinburgh was 4th in the UK and 1st in Scotland for the quality, scale and breadth of its research, according to Times Higher Education rankings. The University of Edinburgh holds an Athena SWAN Silver award in recognition of our commitment to advance gender equality in higher education. We are members of the Race Equality Charter and we are also Stonewall Scotland Diversity Champions, actively promoting LGBT equality.</div><div><br></div><div>Students will generally have opportunities to work in data analysis, detector R&amp;D, and software development for data-intensive applications, depending on the project and their interests. You will develop key transferable skills including analysis of large and complex data sets and use of novel analytical tools (such as machine learning algorithms) and advanced statistical methods. The School of Physics and Astronomy also supports professional development through activities including public engagement, teaching, and dedicated training sessions. We will also support student travel to training events, workshops, conferences, and extended fieldwork at experimental sites (including CERN and Fermilab) where appropriate.</div><div><br></div><div>There are many routes to becoming a successful experimental particle physicist, and we encourage applications from candidates with different backgrounds and with different research interests. We particularly welcome candidates who are eligible for and interested in applying for external scholarships, such as the Bell Burnell Graduate Scholarship Fund (internal deadline November 27, 2026).</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.ph.ed.ac.uk/particle-physics-experiment/postgraduate-opportunities"
+      ],
+      "contact_email": null,
+      "created": "2026-11-06T17:24:16.061618+00:00",
+      "updated": "2026-11-06T18:18:48.456143+00:00",
+      "addedAt": "2026-11-09T08:07:58.112Z",
+      "isNew": true
+    },
+    {
       "id": "3223142",
       "title": "Postdoctoral Position in Experimental Particle Physics",
       "institution": "Beijing, Inst. Theor. Phys.",
@@ -21,7 +46,7 @@
       "created": "2026-11-05T08:02:08.848062+00:00",
       "updated": "2026-11-05T19:23:13.054753+00:00",
       "addedAt": "2026-11-06T08:05:49.999Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3223148",
@@ -49,7 +74,7 @@
       "created": "2026-11-05T10:39:20.029854+00:00",
       "updated": "2026-11-05T19:18:45.724616+00:00",
       "addedAt": "2026-11-06T08:05:49.999Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3223151",
@@ -77,7 +102,7 @@
       "created": "2026-11-05T11:47:03.399207+00:00",
       "updated": "2026-11-05T19:13:43.099395+00:00",
       "addedAt": "2026-11-06T08:05:49.999Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3222662",
@@ -13652,6 +13677,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-06T08:05:50.002Z",
-  "totalJobs": 508
+  "lastUpdated": "2026-11-09T08:07:58.115Z",
+  "totalJobs": 509
 }
