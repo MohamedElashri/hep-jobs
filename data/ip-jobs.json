@@ -1,6 +1,32 @@
 {
   "jobs": [
     {
+      "id": "3225550",
+      "title": "Lecturer in Experimental High Energy Physics",
+      "institution": "U. Melbourne (main)",
+      "deadline": "2026-12-01",
+      "description": "<div>The School of Physics at the University of Melbourne invites applications for a continuing, full-time Lecturer (Level B, equivalent to Assistant Professor) in Experimental High Energy Physics. We are looking for someone working in flavour physics, neutrino physics, or both.</div><div><br></div><div>You will set up your own research programme, apply for grants, supervise students, and teach undergraduate and graduate physics.</div><div><br></div><div>Our experimental particle physics group has led two ARC Centres of Excellence, including the current ARC Centre of Excellence for Dark Matter Particle Physics. We currently work on Belle II at KEK, Hyper-Kamiokande, ATLAS at CERN, and SABRE South at the Stawell Underground Physics Laboratory (SUPL).</div><div><br></div><div>You do not need to be currently working on these experiments. We are interested in strong candidates from any flavour or neutrino experiment, whether they want to join what we already do or start something new.</div>",
+      "regions": [
+        "Australasia"
+      ],
+      "ranks": [
+        "SENIOR",
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://unimelb.wd105.myworkdayjobs.com/en-US/UoM_External_Career/job/Lecturer-in-Experimental-High-Energy-Physics_JR-019011-1"
+      ],
+      "contact_email": null,
+      "created": "2026-11-07T05:16:01.599902+00:00",
+      "updated": "2026-11-09T17:50:22.716995+00:00",
+      "addedAt": "2026-11-10T08:05:38.336Z",
+      "isNew": true
+    },
+    {
       "id": "3225395",
       "title": "PhD positions in Experimental Particle Physics",
       "institution": "U. Edinburgh (main)",
@@ -23,7 +49,7 @@
       "created": "2026-11-06T17:24:16.061618+00:00",
       "updated": "2026-11-06T18:18:48.456143+00:00",
       "addedAt": "2026-11-09T08:07:58.112Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3223142",
@@ -13677,6 +13703,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-09T08:07:58.115Z",
-  "totalJobs": 509
+  "lastUpdated": "2026-11-10T08:05:38.339Z",
+  "totalJobs": 510
 }
