@@ -1,6 +1,61 @@
 {
   "jobs": [
     {
+      "id": "3227081",
+      "title": "Research Scientist and Principal Research Scientist (CS / Computational Physics), remote AI research contract",
+      "institution": "micro1",
+      "deadline": "2026-12-31",
+      "description": "<div>micro1, a company that hires experts for AI training projects, lists two flexible remote contract roles for researchers in computer science or computational physics: Research Scientist (late-stage PhD candidates to about 5 years post-PhD) and Principal Research Scientist (7 to 10+ years of ongoing research). You work with leading AI models and agents on open research problems: frame problems where progress can be verified, attempt proofs, algorithms or simulations with the models, and validate the results by checking proofs or reproducing numerical results. Findings are measured against current literature and written up. No AI background is needed.</div><div><br></div><div>Preferred: a strong recent publication record in leading venues; peer or field-level recognition; hands-on simulation, numerical analysis, algorithm or high-performance computing experience; experience with Lean, Coq or SAT/SMT solvers is a plus. Part-time or full-time, flexible. The listings do not state a rate or a country limit.</div><div><br></div><div>Applications go through micro1's own site. Research Scientist: <a href=\"https://aitrainerguide.com/micro1-jobs/research-scientist-computer-science-and-computational-physics/?utm_source=inspire&amp;utm_medium=job_board\">https://aitrainerguide.com/micro1-jobs/research-scientist-computer-science-and-computational-physics/?utm_source=inspire&amp;utm_medium=job_board</a></div><div>Principal Research Scientist: <a href=\"https://aitrainerguide.com/micro1-jobs/principal-research-scientist-computer-science-computational-physics/?utm_source=inspire&amp;utm_medium=job_board\">https://aitrainerguide.com/micro1-jobs/principal-research-scientist-computer-science-computational-physics/?utm_source=inspire&amp;utm_medium=job_board</a></div><div><br></div><div>Shared by AI Trainer Guide, an independent guide to AI training work. We are not micro1 or its recruiter. The apply links on our pages are referral links: micro1 may pay us if it hires you, at no cost to you.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://aitrainerguide.com/micro1-jobs/research-scientist-computer-science-and-computational-physics/?utm_source=inspire&utm_medium=job_board"
+      ],
+      "contact_email": null,
+      "created": "2026-11-11T06:41:24.218218+00:00",
+      "updated": "2026-11-11T22:36:04.379208+00:00",
+      "addedAt": "2026-11-12T08:05:49.877Z",
+      "isNew": true
+    },
+    {
+      "id": "3226869",
+      "title": "QUP Postdoctoral Fellows in Experimental Physics",
+      "institution": "KEK, Tsukuba",
+      "deadline": "2026-12-31",
+      "description": "<div>We are seeking outstanding applicants for <strong>several Postdoctoral Fellow positions </strong>at QUP in experimental physics.</div><div>QUP aims to explore new quantum fields and forces and probe physical phenomena with extremely weak couplings, such as light dark matter, axions, and gravitational waves, by pioneering the weak-coupling frontier using cutting-edge quantum sensors and devices. QUP operates under a distinctive organizational model in which researchers from a broad range of institutions, including KEK, converge at QUP to pursue common scientific objectives. QUP's principal research activities are conducted at its central facility, with additional support from satellite laboratories at the University of California at Berkeley (USA), Toyota Central R&amp;D Lab., and ISAS at the Japanese space agency JAXA. These programs are designed to bridge quantum technologies with particle and fundamental physics, materials science, and biomedical applications through deeply coordinated, inter-institutional collaboration.</div><div>Successful candidates are expected to conduct research for the QUP experimental projects with the Principal Investigators. An overview of the QUP research, including the relationship between the projects, can be found at: <strong><a href=\"https://www2.kek.jp/qup/en/research/\">https://www2.kek.jp/qup/en/research/</a></strong>. We are particularly seeking candidates who are interested in any of the following research topics:</div><ul><li>Experimental investigation of high-precision spectroscopy and dynamics of muonic atoms and molecules based on AMO physics approaches to fundamental physics, including QED.</li><li>Experimental implementation of nitrogen-vacancy centers in diamond for novel physics searches such as light dark-matter detection.</li><li>Search for axion and dark photon dark matter using superconducting qubit arrays, and demonstration of quantum advantage in quantum sensing enabled by quantum entanglement.</li><li>Searches for low-mass particle dark matter at the new underground Cryolab facility in Kamioka</li><li>Experimental studies of antimatter gravity using advanced quantum techniques for (anti)hydrogen cooling, manipulations, fountains and interferometry.</li><li>Development of superconducting cavities for gravitational-wave searches, and exploration of their potential applications to quantum computation via bosonic encoding.</li><li>Research and development of highly sensitive superconducting sensor systems, including Transition-Edge Sensors (TESs), and application of ultra-sensitive photon detection technologies to dark matter searches, high-frequency gravitational-wave searches, and fundamental experiments such as tests of QED.</li><li>Research and development of high-performance, radiation-hard semiconductor detectors, readout electronics, and system-integration technologies for X-ray, gamma-ray, and particle detection aimed at advancing next-generation gamma-ray imaging, radiation imaging, and spectroscopy technologies for diverse applications in quantum sensing, accelerator experiments, space observations, medicine, life sciences, and related fields.</li></ul><div>The position also aims to contribute to the development of new research directions in related fields.</div><div>The fellowship is offered on an annual contract basis. Each yearly contract is renewed subject to the fellow's satisfactory progress and the continuing availability of funds. The maximum term of the position is three years. Salaries are comparable to those at other prestigious institutions. For exceptionally qualified candidates, appointment as Assistant Professor may be offered for the same duration.</div><div>The International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP) is a World Premier International Research Center Initiative (WPI) promoted by the Japanese government and hosted by the High Energy Accelerator Research Organization (KEK), the leading national high energy physics laboratory in Japan.</div><div>As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. QUP is an equal opportunity employer that will build a diverse community of scientists. We welcome qualified applicants worldwide, including women, persons with disabilities, and underrepresented minorities, regardless of race, color, religion, gender identity, etc.</div><div>Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. The posting shall remain open until the positions are filled. However, for full consideration, we encourage all candidates to apply by December 31, 2026. Applications will only be accepted via <a href=\"http://AcademicJobsOnline.org\">AcademicJobsOnline.org</a>. Applicants should submit a curriculum vitae (with an email address and citizenship), a statement of research interests, and a list of publications. Applicants should also ensure that at least three letters of reference are submitted on their behalf. They should be uploaded from this page.</div><div>Email inquiries regarding the application process may be sent to <strong><a href=\"mailto:qup_job_inquiry@ml.post.kek.jp%20.\">qup_job_inquiry@ml.post.kek.jp</a></strong> .</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "astro-ph",
+        "physics.ins-det",
+        "quant-ph"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://academicjobsonline.org/ajo/jobs/33354"
+      ],
+      "contact_email": null,
+      "created": "2026-11-11T04:30:31.691822+00:00",
+      "updated": "2026-11-11T21:40:16.487908+00:00",
+      "addedAt": "2026-11-12T08:05:49.877Z",
+      "isNew": true
+    },
+    {
       "id": "3226782",
       "title": "Senior Research Associate - CMS",
       "institution": "Bristol U.",
@@ -25,7 +80,7 @@
       "created": "2026-11-10T14:43:40.138253+00:00",
       "updated": "2026-11-10T18:21:21.632707+00:00",
       "addedAt": "2026-11-11T08:05:25.661Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3226779",
@@ -52,7 +107,7 @@
       "created": "2026-11-10T13:32:28.077538+00:00",
       "updated": "2026-11-10T18:20:19.750327+00:00",
       "addedAt": "2026-11-11T08:05:25.661Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3225550",
@@ -13757,6 +13812,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-11T08:05:25.663Z",
-  "totalJobs": 512
+  "lastUpdated": "2026-11-12T08:05:49.880Z",
+  "totalJobs": 514
 }
