@@ -1,6 +1,86 @@
 {
   "jobs": [
     {
+      "id": "3227339",
+      "title": "Tenure-Track Faculty Position in Experimental Particle Physics — ATLAS Experiment",
+      "institution": "San Sebastian U., Chile",
+      "deadline": "2027-01-15",
+      "description": "<div>Universidad San Sebastián (USS), Chile, invites applications for a tenure-track faculty position in Experimental Particle Physics within its growing ATLAS research group at CERN's Large Hadron Collider (LHC).</div><div>The USS ATLAS group is expanding its scientific activities and establishing its long-term contributions to the collaboration. We seek an outstanding researcher interested in developing an independent and internationally competitive research program while helping shape the future scientific direction of the group.</div><div><br></div><div><strong>Research Environment</strong></div><div>The USS ATLAS group is currently involved in searches for physics beyond the Standard Model, particularly long-lived particles, dark-sector scenarios, and unconventional signatures. Its activities include LHC Run 3 data analysis, scientific software development, muon reconstruction, and studies and developments related to the ATLAS muon trigger.</div><div>A central research interest is the application of <strong>artificial intelligence and machine learning</strong> to experimental particle physics, including physics analysis, event reconstruction, scientific software, trigger systems, and detector technologies.</div><div>We particularly welcome candidates who can bring complementary expertise and establish new research directions within ATLAS, including precision measurements, searches for new physics, detector performance, trigger and reconstruction development, computing, and instrumentation.</div><div>USS has an active physics research community distributed across three Chilean cities, with research primarily focused on theoretical physics and phenomenology. The successful candidate will have opportunities to collaborate with these groups on projects connecting theoretical models, phenomenology, and experimental measurements.</div><div>The Faculty of Engineering also hosts internationally recognized research activities in electronics and advanced control systems, including those led by Professor José Rodríguez. These provide opportunities for interdisciplinary collaboration in instrumentation, electronics, computing, and artificial intelligence.</div><div><br></div><div><strong>Institutional Support and Research Funding</strong></div><div>USS provides institutional support for the ATLAS research program, including resources for research-related travel to CERN, computing infrastructure, and administrative assistance in preparing and submitting competitive research grant applications.</div><div>The successful candidate is <strong>expected to actively pursue external research funding</strong>, particularly through Chile's National Research and Development Agency (ANID), including the FONDECYT Iniciación and FONDECYT Regular programs, according to eligibility. These programs offer substantial opportunities to support independent research activities.</div><div>Participation in collaborative funding initiatives, such as Núcleos Milenio, Institutos Milenio, and other national or international research consortia, is also strongly encouraged.</div><div><br></div><div><strong>Qualifications and Responsibilities</strong></div><div>Applicants must hold a PhD in Physics or a closely related field and demonstrate a strong research record in experimental high-energy physics.</div><div>Previous experience within ATLAS or another major collider experiment is highly desirable. Candidates from other experimental collaborations are welcome, provided they demonstrate a clear motivation to develop their future research within ATLAS.</div><div>The successful candidate will be expected to:</div><ul><li>Establish an independent research program and contribute to the scientific development of the USS ATLAS group.</li><li>Participate actively in ATLAS physics, software, computing, trigger, detector performance, or instrumentation activities, according to their expertise.</li><li>Conduct internationally competitive research, publish scientific results, and pursue external research funding.</li><li>Develop national and international collaborations and contribute to the supervision of undergraduate and graduate students.</li><li>Teach undergraduate courses within the Faculty of Engineering. <strong>The successful candidate must be able to teach in Spanish by the beginning of their second year of appointment.</strong></li></ul><div><strong>Application Procedure</strong></div><div>Applicants should submit the following materials in English:</div><ol><li>A cover letter describing their motivation and scientific interests.</li><li>A curriculum vitae, including a publication list.</li><li>A research statement (up to four pages), describing previous contributions and proposed research directions within ATLAS.</li><li>A teaching statement (up to two pages).</li><li>Names and contact information of three academic referees.</li></ol><div>Applications should be submitted by email to <strong><a href=\"mailto:investigacion@uss.cl\">investigacion@uss.cl</a></strong>, with the subject line <strong>\"ATLAS Faculty Position – Applicant Name\"</strong>.</div><div>For scientific inquiries regarding the position and the ATLAS research program, please contact:</div><div><strong>Dr. Sebastián Olivares</strong></div><div>USS ATLAS Group Leader</div><div>Email: <a href=\"mailto:sebastian.olivares@uss.cl\">sebastian.olivares@uss.cl</a></div><div><br></div><div><strong>Application deadline:</strong> January 15, 2027</div><div><strong>Expected starting date:</strong> March, 2027</div><div><strong>Location:</strong> Santiago, Chile</div><div><br></div><div>Applications from international candidates are welcome. Spanish proficiency is not required at the time of application; however, the successful candidate must be able to teach undergraduate courses in Spanish by the beginning of their second year of appointment.</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-12T16:15:59.818014+00:00",
+      "updated": "2026-11-12T18:00:03.193853+00:00",
+      "addedAt": "2026-11-13T08:05:08.573Z",
+      "isNew": true
+    },
+    {
+      "id": "3227341",
+      "title": "Research Associate on the DarkSide-20k Dark Matter Experiment",
+      "institution": "Rutherford Appleton Laboratory",
+      "deadline": "2026-12-01",
+      "description": "<div><strong>Research Associate on the DarkSide-20k Dark Matter Experiment</strong></div><div><strong>Science and Technology Facilities Council</strong></div><div><strong>Duration: 2-year fixed term contract</strong></div><div><strong>Location: Rutherford Appleton Laboratory, Harwell, Oxfordshire OX11 0DE</strong></div><div><strong>Salary: £42,688 per annum</strong></div><div><strong>Hours: Full-time</strong></div><div><strong>Closing date for applications: 1st December 2026 </strong></div><div><br></div><div>Applications are invited for a Research Associate position in Experimental Particle Physics to work on novel background mitigation techniques and dark matter search analyses on the DarkSide-20k experiment, within the Particle Physics Department (PPD) at the STFC Rutherford Appleton Laboratory (RAL). The post will initially be for two years.</div><div><br></div><div>PPD is one of the largest Particle Physics (PP) groups in the UK and contributes to all major PP experiments in the UK. Since 2019, RAL has been involved with the DarkSide-20k experiment, the flagship global liquid argon (LAr) direct dark matter detection experiment. The 50-tonne detector, currently under construction at the LNGS laboratory in Gran Sasso, Italy, is expected to improve sensitivity to TeV-scale dark matter particles by more than an order of magnitude compared with current searches, while also providing unprecedented sensitivity to low-mass dark matter candidates. This goal is realised with low-radioactivity, low-noise silicon photomultiplier (SiPM) sensor and readout technology, custom designed for DarkSide-20k, and a comprehensive background mitigation strategy.</div><div><br></div><div>The successful applicant will join the DarkSide-20k neutron veto working group, led by RAL PPD, and take a leading role in developing crucial neutron background mitigation strategies for DarkSide-20k, which are the most dangerous background to the dark matter search. This work will involve interfacing with the data acquisition (DAQ), cosmogenic veto, calibration, and reconstruction working groups. The successful applicant will directly contribute to the flagship dark matter search analysis, alongside opportunities to contribute to complementary dark matter searches and sensitivity studies of additional physics signatures accessible with the DarkSide-20k detector. Furthermore, the candidate will have the option to undertake short overseas visits to LNGS, contributing directly to the construction and commissioning of the detector – a unique opportunity to play a hands-on role in a large-scale experiment built perhaps only once every ten years.</div><div><br></div><div>The successful applicant will also have the opportunity to get involved with low-temperature R&amp;D related to the QUEST-DMC experiment in the newly established PPD cryogenics laboratory, home to a brand-new dilution refrigerator capable of reaching temperatures as low as 20 mK. QUEST-DMC is direct dark matter detection experiment that combines ultra-low temperature and particle physics expertise to search for sub-GeV dark matter candidates using a superfluid Helium-3 bolometer and quantum sensor readout.</div><div><br></div><div>The applicant must have or be about to receive a Ph.D. in Particle Physics or a similar field. Applications should consist of a CV and a covering letter explaining why the candidate is suited to this position and the names and addresses of three referees. For an informal discussion about the role, please contact Dr. Ashlea Kemp (<a href=\"mailto:ashlea.kemp@stfc.ac.uk\">ashlea.kemp@stfc.ac.uk</a>).</div><div><br></div><div><strong>Candidate Specification</strong></div><div>To apply for this role, we are looking for the following [(S) will be measured at shortlisting, (I) will be measured at interview, (S&amp;I) is both]:</div><div><br></div><div><strong>Essential</strong></div><ul><li>PhD. in Particle Physics or similar qualification (S).</li><li>Relevant postgraduate experience in particle physics experiments, or equivalent (S&amp;I).</li><li>Familiarity with C++ and/or Python (S&amp;I).</li><li>Working knowledge of Monte Carlo simulations and/or data analysis techniques (S&amp;I).</li><li>Working knowledge of calibration and/or particle identification techniques (S&amp;I).</li><li>Ability to undertake original research (S&amp;I).</li><li>Ability to work independently (I).</li><li>High degree of self-motivation (I).</li><li>Ability to work on several activities in parallel (S&amp;I).</li><li>Fluent English (S&amp;I).</li><li>Ability to work collaboratively with large groups of people from a range of different countries (S&amp;I).</li><li>Good communication skills (I).</li><li>Ability and willingness to acquire required knowledge (I).</li></ul><div><strong>Benefits</strong></div><div>We recognise and value our employees as individuals and aim to provide a favourable pay and rewards package. We are committed to supporting employees' development and promote a culture of continuous learning!</div><div><br></div><div>Benefits include:</div><ul><li>An outstanding defined benefit pension scheme.</li><li>30 days' annual leave in addition to 10.5 public and privilege days (full-time equivalent).</li><li>Employee discounts and offers on retail and leisure activities.</li><li>Employee assistance programme, providing confidential help and advice.</li><li>Flexible working options.</li></ul><div>Plus many more benefits and wellbeing initiatives that enable our employees to have a great work-life balance! For further information on our benefits please see <a href=\"https://www.discover.ukri.org/benefits-of-working-at-ukri/index.html\">Benefits of working at UK Research and Innovation (UKRI).</a></div><div><br></div><div>UKRI is an Equal Opportunity &amp; Disability Confident Employer.</div><div>Please apply online. If you experience any issues during your application, please contact <a href=\"mailto:Recruitment@ukri.org\">Recruitment@ukri.org</a>.</div><div><br></div><div>Please note, if you will require sponsorship to work in the UK, as part of your sponsorship application, you and any dependants travelling with you, will be required to pay costs directly to The Home Office for the application before you start your role with us. UKRI is normally able to reimburse some, or all of these fees after you have become an employee, and this can be discussed with the Hiring Manager. For more information, please visit <a href=\"https://www.gov.uk/skilled-worker-visa/how-much-it-costs%20\">https://www.gov.uk/skilled-worker-visa/how-much-it-costs </a>or contact <a href=\"mailto:Recruitment@ukri.org\">Recruitment@ukri.org</a>.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "DARKSIDE"
+      ],
+      "urls": [
+        "https://applytrack.onefixmedia.co.uk/4e3130303030306166666159"
+      ],
+      "contact_email": null,
+      "created": "2026-11-12T16:25:35.555801+00:00",
+      "updated": "2026-11-12T17:58:45.585849+00:00",
+      "addedAt": "2026-11-13T08:05:08.573Z",
+      "isNew": true
+    },
+    {
+      "id": "3227318",
+      "title": "Fully Funded Experimental Particle Physics PhD Studentships on ATLAS and LHCb",
+      "institution": "Glasgow U.",
+      "deadline": "2027-01-31",
+      "description": "<div>The Particle Physics Experimental group at the University of Glasgow would welcome applications from prospective PhD candidates in the field of experimental particle physics. Multiple PhD positions are expected to be offered to start in Sept/Oct 2027 on the ATLAS and LHCb experiments at the LHC at CERN, Geneva. Applications are also encouraged for prospective students interested in detector development and T2K/HyperK.</div><div><br></div><div><strong>ATLAS Projects</strong></div><div>The ATLAS projects will focus on searching for new physics in Di-Higgs like events with Professor Andy Buckley. For more information see: <a href=\"https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/currentphdprojects/\">Current PhD Projects</a>.</div><div><br></div><div><strong>LHCb Projects</strong></div><div>The LHCb projects will be focus on desiging and performing novel measurements of angular observables of tau leptons for the first time at LHCb with Dr Lucia Grillo. For more information see: <a href=\"https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/currentphdprojects/\">Current PhD Projects</a>.</div><div><br></div><div>All CERN experimental positions involve the potential for international travel and for year-long stays in Geneva, Switzerland. More information on the projects can be found here: <a href=\"https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/currentphdprojects/\">Current PhD Projects</a> and details on the application process can be found here: <a href=\"https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/phdapplications/\">How To Apply</a>.</div><div><br></div><div>For more information on individual projects please contact either Professor Andy Buckley or Dr Lucia Grillo. For general information on applying contact Prof. Jay Howarth &lt;<a href=\"mailto:james.howarth@glasgow.ac.uk\">james.howarth@glasgow.ac.uk</a>&gt;.</div><div><br></div><div><strong>Contact: </strong></div><ul><li>Jay Howarth (james.howarth@glasgow.ac.uk)</li><li>Andy Buckley (andy.buckley@glasgow.ac.uk)</li><li>Grillo, Lucia Grillo (Lucia.Grillo@glasgow.ac.uk)</li></ul><div><strong>More Information: </strong></div><ul><li><a href=\"https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/currentphdprojects/\">https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/currentphdprojects/</a></li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS",
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [
+        "https://www.gla.ac.uk/schools/physics/research/groups/particlephysicsexperiment/pg/currentphdprojects/"
+      ],
+      "contact_email": null,
+      "created": "2026-11-12T11:49:30.032615+00:00",
+      "updated": "2026-11-12T17:54:25.302711+00:00",
+      "addedAt": "2026-11-13T08:05:08.573Z",
+      "isNew": true
+    },
+    {
       "id": "3227081",
       "title": "Research Scientist and Principal Research Scientist (CS / Computational Physics), remote AI research contract",
       "institution": "micro1",
@@ -24,7 +104,7 @@
       "created": "2026-11-11T06:41:24.218218+00:00",
       "updated": "2026-11-11T22:36:04.379208+00:00",
       "addedAt": "2026-11-12T08:05:49.877Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3226869",
@@ -53,7 +133,7 @@
       "created": "2026-11-11T04:30:31.691822+00:00",
       "updated": "2026-11-11T21:40:16.487908+00:00",
       "addedAt": "2026-11-12T08:05:49.877Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3226782",
@@ -13812,6 +13892,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-12T08:05:49.880Z",
-  "totalJobs": 514
+  "lastUpdated": "2026-11-13T08:05:08.577Z",
+  "totalJobs": 517
 }
