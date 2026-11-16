@@ -1,6 +1,144 @@
 {
   "jobs": [
     {
+      "id": "3228565",
+      "title": "Two Postdoctoral Positions in Experimental Particle Physics (ATLAS Experiment at CERN)",
+      "institution": "KFUPM, Dhahran",
+      "deadline": "2026-12-15",
+      "description": "<div>The Experimental Particle Physics group at King Fahd University of Petroleum &amp; Minerals (KFUPM) invites applications for two Postdoctoral Research Associate positions to work on the ATLAS Experiment at CERN's Large Hadron Collider (LHC).</div><div><br></div><div>KFUPM has recently joined the ATLAS Collaboration at CERN as an Associate Member Institute. The newly established group, led by Prof. Wasikul Islam, is based in the Department of Physics and the Interdisciplinary Research Center for Industrial Nuclear Energy (IRC-INE), and works closely with SLAC National Accelerator Laboratory, USA.</div><div><br></div><div>The group focuses on searches for new physics beyond the Standard Model, particularly using AI and machine learning, as well as developing advanced detector technologies and reconstruction methods for the High-Luminosity LHC (HL-LHC) and future colliders.</div><div><br></div><div>Research Opportunities</div><div>The two positions cover complementary research directions:</div><div><br></div><div><strong>Position A: ATLAS ITk Pixel Detector and HL-LHC Upgrade</strong></div><div>Research will initially focus on hardware activities for the ATLAS Inner Tracker (ITk) Pixel detector, including module assembly, testing, quality control, integration, and performance studies. Following an initial period of approximately six months, the research program may expand to tracking and reconstruction software, detector simulation, calibration, physics analysis, and AI/ML applications.</div><div><br></div><div><strong>Position B: LHC Data Analysis and AI/ML Development</strong></div><div>Research will focus on analyses of ATLAS Run 2 and Run 3 collision data, including searches for new particles and phenomena beyond the Standard Model. Additional topics include anomaly detection, unsupervised and physics-informed machine learning, agentic AI, fast inference, and advanced analysis and reconstruction methodologies for the HL-LHC and future colliders.</div><div>Successful candidates will be members of the ATLAS Collaboration, with potential opportunities to conduct research at CERN and SLAC.</div><div><br></div><div>Qualifications</div><div>Applicants must hold a PhD in experimental particle physics by the start of the appointment, preferably with experience in ATLAS or another collider experiment.</div><div>Experience in particle physics data analysis, silicon detectors, reconstruction software, scientific computing (Python/C++), or machine learning is desirable. Specific expertise will be considered according to the research position.</div><div><br></div><div>Candidates should demonstrate strong research potential, good communication skills, and the ability to work collaboratively within an international scientific collaboration.</div><div>Appointment and Benefits</div><div><br></div><div><strong>Number of positions:</strong> Two</div><div><strong>Duration:</strong> 24 months</div><div><strong>Location:</strong> KFUPM, Dhahran, Saudi Arabia</div><div><strong>Expected start date:</strong> January 2027 (flexible)</div><div><strong>Benefits:</strong> Competitive salary and housing allowance, 30 days of paid annual vacation, campus medical care, and access to university facilities.</div><div><br></div><div>Application Procedure</div><div>Applications will be reviewed as they are received, with <strong>review beginning on December 15, 2026</strong>, and continuing until the positions are filled. Early applications are encouraged.</div><div>Applicants should submit:</div><ul><li>Cover letter specifying Position A, Position B, or both</li><li>Curriculum vitae</li><li>List of publications</li><li>Statement of research interests</li></ul><div>Letters of recommendation will be requested later from shortlisted candidates.</div><div><br></div><div><strong>Official position advertisement and application information:</strong></div><div><a href=\"https://ri.kfupm.edu.sa/irc-ine/jobs/job-details/postdoctoral-research-associate-positions-in-experimental-particle-physics-%28atlas-experiment-at-cern%29\">https://ri.kfupm.edu.sa/irc-ine/jobs/job-details/postdoctoral-research-associate-positions-in-experimental-particle-physics-%28atlas-experiment-at-cern%29</a></div><div><br></div><div><strong>Research group information:</strong></div><div><a href=\"https://physics.kfupm.edu.sa/People/faculty/faculty-details/wasikul.islam\">https://physics.kfupm.edu.sa/People/faculty/faculty-details/wasikul.islam</a></div><div><br></div><div>KFUPM is an equal opportunity employer.</div>",
+      "regions": [
+        "Middle East"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://ri.kfupm.edu.sa/irc-ine/jobs/job-details/postdoctoral-research-associate-positions-in-experimental-particle-physics-(atlas-experiment-at-cern)"
+      ],
+      "contact_email": null,
+      "created": "2026-11-13T22:34:26.246396+00:00",
+      "updated": "2026-11-13T22:59:20.130625+00:00",
+      "addedAt": "2026-11-16T08:15:29.488Z",
+      "isNew": true
+    },
+    {
+      "id": "3228418",
+      "title": "Ph.D. Studentships in Experimental Particle Physics",
+      "institution": "Birmingham U.",
+      "deadline": "2027-11-13",
+      "description": "<div>The Birmingham Particle Physics group is looking for candidates to join our group as PhD students in the academic year 2027/2028.</div><div><br></div><div>The Physics Department is one of the largest physics departments in the country, with a high profile for research both in the UK and internationally, covering a wide range of topics offering exciting challenges at the leading edge of physics and astronomy.</div><div><br></div><div>The Particle Physics group is one of the oldest in the country and currently has around 40 academic and support staff members and about 20 PhD students. Our present activities include: <strong>ATLAS</strong> and <strong>LHCb</strong> at the CERN LHC; <strong>NA62</strong> at the CERN SPS, and <strong>KOTO-II</strong> at J-PARC in Japan; <strong>light dark matter searches, </strong>including<strong> </strong>novel detectors for the NEWS-G experiment and preparation for DarkSide-20k; and a strong <strong>R&amp;D programme on silicon detectors</strong> for the LHC Upgrade and beyond, and for Medical Physics applications. The group is also involved in the development of <strong>experimental facilities at future colliders, including the electron-ion collider (EIC) at Brookhaven National Laboratory</strong>. We have a 200 m2 set of clean room facilities for silicon detector R&amp;D and construction, and maintain a significant Tier 2 site on the UK GridPP contribution to LHC world-wide distributed computing. Our members lead several high-profile physics analyses in ATLAS, NA62 and LHCb, pursue ground-breaking research in detector and electronics development, and are leaders in public engagement.</div><div><br></div><div>Opportunities this year may include projects in:</div><div>o the ATLAS, NA62 and LHCb experiments;</div><div>o development of silicon detectors for LHC upgrades and beyond, medical applications, and future colliders;</div><div>o detectors for light dark matter searches at NEWS-G and DarkSide-20k.</div><div><br></div><div>For further information please visit:</div><div><a href=\"https://www.hep.ph.bham.ac.uk/phd_research.html\">https://www.hep.ph.bham.ac.uk/phd_research.html</a></div><div>Informal enquiries can be made to Dr. Daniel Johnson (d.johnson.7@bham.ac.uk).</div><div><br></div><div>Applications are welcome at all times and must be submitted using the link above.</div><div>Fully-funded places may be available, but these are primarily for UK nationals and EU nationals with (pre-)settled status.</div><div><strong> </strong></div><div><em>The School of Physics and Astronomy is an Institute of Physics Juno Champion since 2014 and holds the Athena SWAN Silver Award. Both initiatives recognise the School’s commitment to promote diversity and equality, and to encourage better practice for all members of the community, whilst also working towards developing an equitable working culture in which all students and staff can achieve their full potential. We welcome applications from all qualified applicants and encourage applications from traditionally under-represented groups in physics and astronomy including, but not limited to, women and Black, Asian and Minority Ethnic.</em></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb",
+        "CERN-LHC-ATLAS",
+        "CERN-SPS-NA-062",
+        "KOTO-II",
+        "NEWS-G",
+        "DarkSide-20k"
+      ],
+      "urls": [
+        "https://www.hep.ph.bham.ac.uk/phd_research.html"
+      ],
+      "contact_email": null,
+      "created": "2026-11-13T17:58:11.460180+00:00",
+      "updated": "2026-11-13T22:15:25.343591+00:00",
+      "addedAt": "2026-11-16T08:15:29.488Z",
+      "isNew": true
+    },
+    {
+      "id": "3228417",
+      "title": "Postdoctoral Research Associate - CMS Experiment",
+      "institution": "Florida Inst. Tech.",
+      "deadline": "2026-12-15",
+      "description": "<div><strong>Postdoctoral Research Associate Position for the CMS experiment</strong></div><div><strong> </strong></div><div>The High Energy Physics Group at the <strong>Florida Institute of Technology </strong>invites applications for a Postdoctoral Research Associate to join our efforts on the Compact Muon Solenoid (CMS) experiment at CERN. Learn more about our group at <a href=\"https://research.fit.edu/hep/\">research.fit.edu/hep</a>.</div><div><br></div><div>The successful candidate will take a leading role in our CMS searches for long-lived dark photons and dark Z bosons using dileptons including ditaus and displaced dimuons. The candidate will also make significant contributions to our involvement in the CMS Phase-2 upgrade for HL-LHC through two efforts: 1. Construction and commissioning of Gas Electron Multiplier (GEM) muon detectors at CERN, and 2. Development and operations of the “<a href=\"https://panthera.fit.edu\">Panthera</a>” software platform for the quality control of Inner Tracker silicon detector modules in production.</div><div>The position is based at Florida Tech. The successful candidate will organize and guide Ph.D. students participating in the project. The selected candidate is also expected to spend a few months per year at CERN to support detector commissioning work.</div><div><br></div><div><strong>Qualifications</strong></div><div>A Ph.D. in high energy physics or a closely related field is necessary. The successful candidate will have substantial experience with LHC physics analyses as well as with particle detector systems based on Si sensors or gaseous detectors and associated electronics. Full-stack software development experience is desirable.</div><div><br></div><div><strong>How to apply</strong></div><div>Interested candidates are requested to submit their CV, a list of publications, contact information for three references, and a description of their relevant research experience as a single PDF to <strong>Prof. Marcus Hohlmann </strong>by e-mail ONLY<strong> </strong>at<strong> <a href=\"mailto:hohlmann@fit.edu\">hohlmann@fit.edu</a></strong>.<strong> Letters of recommendation only need to be furnished if explicitly requested.</strong> Review of applications will begin immediately and will continue until the position is filled, but applications received <strong>by Dec 15, 2026</strong> will be reviewed with highest priority.</div><div>Florida Institute of Technology (<a href=\"http://www.fit.edu\">www.fit.edu</a>) is a leading private academic research institution in the Southeastern United States located near the NASA Kennedy Space Center and is an equal opportunity employer.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://research.fit.edu/hep/"
+      ],
+      "contact_email": null,
+      "created": "2026-11-13T17:48:48.846820+00:00",
+      "updated": "2026-11-13T22:13:43.879257+00:00",
+      "addedAt": "2026-11-16T08:15:29.488Z",
+      "isNew": true
+    },
+    {
+      "id": "3227914",
+      "title": "PhD position in experimental particle physics (CMS Experiment)",
+      "institution": "Istanbul Nisantasi U.",
+      "deadline": "2027-01-01",
+      "description": "<div>İstanbul Nişantaşı University, Istanbul, Türkiye, and the Experimental Particle Physics and Gravity (EPPG) group at Ghent University (UGent), Belgium have an opening for a joint PhD candidate position to work on the CMS experiment at the Large Hadron Collider (LHC) at CERN.</div><div><br></div><div>The joint research programme between İstanbul Nişantaşı University and Ghent University combines CMS GEM detector studies with physics analysis. It brings together İstanbul Nişantaşı University’s involvement in CMS GEM detector activities and the EPPG group’s extensive expertise in top-quark physics within the CMS experiment, providing the candidate with a complementary research environment across both institutions and the international CMS community.</div><div><br></div><div>The successful candidate will contribute to both detector activities and physics analysis within CMS. The detector work will include production, quality assurance, testing, refurbishment, installation and commissioning activities related to the CMS GEM detector systems. The physics analysis will focus on measurements of rare top-quark production processes, particularly , using Run 3 CMS data.</div><div><br></div><div>The candidate is expected to spend approximately 50% of their time at İstanbul Nişantaşı University and 50% at CERN, with research visits to Ghent University. The position may also include limited teaching duties at İstanbul Nişantaşı University.</div><div><br></div><div>The position is offered for four years, with a starting date as soon as possible. Applicants must hold a master’s degree in physics. Applications must include the candidate’s CV and two letters of reference. Complete applications should be sent directly to Assoc. Prof. Gül Gökbulut (<a href=\"mailto:gul.gokbulut@cern.ch\">gul.gokbulut@cern.ch</a>) and Prof. Didar Dobur (<a href=\"mailto:didar.dobur@ugent.be\">didar.dobur@ugent.be</a>) before [application deadline]. Applications will be reviewed in the order in which they are received.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-CMS"
+      ],
+      "urls": [
+        "https://www.nisantasi.edu.tr/?dil=eng"
+      ],
+      "contact_email": null,
+      "created": "2026-11-13T11:14:13.709305+00:00",
+      "updated": "2026-11-13T22:10:45.091036+00:00",
+      "addedAt": "2026-11-16T08:15:29.488Z",
+      "isNew": true
+    },
+    {
+      "id": "3227787",
+      "title": "Postdoctoral Researcher in FPGA-based AI for Neutrino Astronomy",
+      "institution": "Tsung-Dao Lee Inst., Shanghai",
+      "deadline": "2027-02-28",
+      "description": "<div>The Tsung-Dao Lee Institute (TDLI) at Shanghai Jiao Tong University (SJTU) invites applications for a postdoctoral research position in FPGA-based artificial intelligence for the TRIDENT (Hai-Ling) Neutrino Telescope, led by Prof. Donglian Xu.</div><div>TRIDENT is a next-generation deep-sea neutrino telescope under development in the South China Sea, aiming to advance high-energy neutrino astronomy and multimessenger astrophysics. The experiment features innovative hybrid Digital Optical Modules (hDOMs) that combine photomultiplier tubes (PMTs) and silicon photomultipliers (SiPMs), with high-precision timing and multichannel full-waveform readout capabilities.</div><div>The first phase of TRIDENT, comprising ten detection strings, is expected to become operational in 2027. The project offers a unique opportunity to pioneer AI-enabled intelligent detection directly within a large-scale deep-sea neutrino observatory, integrating real-time edge computing with advanced scientific data analysis.</div><div>We seek a highly motivated postdoctoral researcher to develop and implement lightweight AI algorithms on FPGA platforms for real-time waveform analysis, signal identification, and intelligent triggering at both the optical module and detector array levels.</div><div><br></div><div><strong>Research Responsibilities</strong></div><div>The successful candidate will focus on developing FPGA-based AI algorithms for real-time intelligent detection in TRIDENT, with opportunities to contribute to deep-learning-based event reconstruction and multimessenger astronomy.</div><div>Key research activities include:</div><div>• <strong>FPGA-based Edge AI: </strong>Develop and deploy lightweight neural networks on TRIDENT hDOM FPGAs for real-time waveform processing, signal identification, and intelligent triggering.</div><div>• <strong>Array-Level Intelligent Computing: </strong>Implement FPGA-based algorithms at underwater array junction boxes for multi-node signal correlation, event classification, and distributed triggering.</div><div>• <strong>Hardware–AI Co-design: </strong>Optimize neural network architectures for low-latency, resource-efficient FPGA inference and integrate them with existing detector electronics and data acquisition systems.</div><div>• <strong>Deep-Learning Reconstruction: </strong>Explore advanced machine-learning methods for neutrino event reconstruction, background rejection, and low-latency astrophysical neutrino alerts.</div><div>The candidate will collaborate closely with TRIDENT physicists and electronics engineers, contributing to the development, testing, and eventual deployment of intelligent detection capabilities in a next-generation deep-sea neutrino telescope.</div><div><br></div><div><strong>Qualifications</strong></div><div>Applicants should hold a Ph.D. in physics, electrical engineering, computer science, or a closely related field by the time of appointment.</div><div><strong>We particularly encourage candidates with experience in one or more of the following areas:</strong></div><ol><li>FPGA development using Verilog, VHDL, or High-Level Synthesis (HLS).</li><li>Deployment of machine-learning algorithms on FPGAs or other resource-constrained hardware.</li><li>Real-time digital signal processing, embedded computing, or hardware–software co-design.</li><li>Machine learning and deep learning, particularly for scientific applications.</li><li>Programming in Python, C/C++, and experience with frameworks such as PyTorch.</li><li>Experience with AMD/Xilinx FPGA development tools, hls4ml, quantized neural networks, or particle detector electronics would be advantageous.</li></ol><div>Prior experience in neutrino physics is not required. Candidates with strong backgrounds in FPGA computing and embedded AI who are interested in applying their expertise to fundamental physics are especially encouraged to apply.</div><div>Applicants should demonstrate strong research potential, independent problem-solving skills, and the ability to collaborate across disciplines.</div><div><br></div><div><strong>Research Environment and Benefits</strong></div><div>The successful candidate will join the TRIDENT research team at the Tsung-Dao Lee Institute, Shanghai Jiao Tong University, working in an interdisciplinary environment spanning particle astrophysics, detector instrumentation, ocean engineering, and artificial intelligence.</div><div>The position provides opportunities to develop AI algorithms for deployment in real deep-sea detector hardware, contribute to the commissioning of TRIDENT Phase I, and pursue original research at the intersection of intelligent computing and neutrino astronomy.</div><div>The initial appointment is expected to be 2+1 years, subject to satisfactory performance and institutional policies.</div><div>TDLI offers competitive compensation and benefits, with opportunities to apply for institutional fellowships and external research funding.</div><div><br></div><div><strong>Application Procedure</strong></div><div>Applicants should submit:</div><ul><li>A cover letter describing their research interests and relevant experience.</li><li>A curriculum vitae, including a publication list.</li><li>A brief research statement outlining previous work and potential contributions to the position.</li><li>Three letters of reference.</li></ul><div><strong>Please send application materials to Dr. Mei Ren (renmei@sjtu.edu.cn)</strong></div><div>Applications will be reviewed on a rolling basis until the position is filled. The starting date is flexible.</div><div>Scientific Inquiries</div><div>Prof. Donglian Xu (donglianxu@sjtu.edu.cn)</div><div>Tsung-Dao Lee Institute, Shanghai Jiao Tong University, Shanghai, China</div>",
+      "regions": [
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "astro-ph",
+        "hep-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [
+        "TRIDENT"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-13T04:22:27.944929+00:00",
+      "updated": "2026-11-13T22:06:55.595822+00:00",
+      "addedAt": "2026-11-16T08:15:29.488Z",
+      "isNew": true
+    },
+    {
       "id": "3227339",
       "title": "Tenure-Track Faculty Position in Experimental Particle Physics — ATLAS Experiment",
       "institution": "San Sebastian U., Chile",
@@ -23,7 +161,7 @@
       "created": "2026-11-12T16:15:59.818014+00:00",
       "updated": "2026-11-12T18:00:03.193853+00:00",
       "addedAt": "2026-11-13T08:05:08.573Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3227341",
@@ -50,7 +188,7 @@
       "created": "2026-11-12T16:25:35.555801+00:00",
       "updated": "2026-11-12T17:58:45.585849+00:00",
       "addedAt": "2026-11-13T08:05:08.573Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3227318",
@@ -78,7 +216,7 @@
       "created": "2026-11-12T11:49:30.032615+00:00",
       "updated": "2026-11-12T17:54:25.302711+00:00",
       "addedAt": "2026-11-13T08:05:08.573Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3227081",
@@ -13892,6 +14030,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-13T08:05:08.577Z",
-  "totalJobs": 517
+  "lastUpdated": "2026-11-16T08:15:29.491Z",
+  "totalJobs": 522
 }
