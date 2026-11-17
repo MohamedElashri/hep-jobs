@@ -1,6 +1,88 @@
 {
   "jobs": [
     {
+      "id": "3228566",
+      "title": "Assistant Professor, Experimental Quantum, Department of Physics",
+      "institution": "Colorado School of Mines",
+      "deadline": "2027-01-04",
+      "description": "<div>The Department of Physics at Colorado School of Mines invites applications for a tenure-track faculty position in experimental quantum sensing at the rank of Assistant Professor, with an anticipated start in Fall 2027.</div><div>We seek an experimental physicist whose research advances the development, performance, and capabilities of quantum sensors, addressing aspects of sensitivity, accuracy, bandwidth, stability, and ease of deployment. We value research that establishes new sensing capabilities, benchmarks their performance against state-of-the-art classical instruments, and demonstrates their potential in applications ranging from precision tests of fundamental physics to real-world challenges in science, engineering, and industry.</div><div>The search is open to all quantum sensing platforms operating at 4 K and above. Representative (but non-exhaustive) areas include:</div><ul><li><strong>Magnetic and electric fields:</strong> atomic vapor magnetometers and comagnetometers, NV centers in diamond, Rydberg-atom electrometers, superconducting sensors.</li><li><strong>Forces, displacement and strain:</strong> levitated and trapped particles, cavity optomechanics and electromechanics, squeezed-light and quantum-limited interferometry.</li><li><strong>Acceleration, rotation, and gravity:</strong> atom interferometers, quantum accelerometers, gyroscopes and gravimeters.</li><li><strong>Time and frequency:</strong> optical and nuclear clocks, including thorium-229, and trapped-ion frequency standards.</li><li><strong>Photons, particles, and individual quanta:</strong> single-atom and single-ion detection, trace-isotope analysis, precision spectroscopy of radioactive atoms, ions, and molecules, quantum-enhanced particle and single-photon detection.</li></ul><div>Research programs advancing quantum sensing for either fundamental physics or practical applications are welcome. A low-vibration, low-noise underground site, the Colorado Underground Research Institute (CURIE), is available for the most sensitive measurements.</div><div>The successful candidate will establish an independent, externally funded research program and contribute to teaching in the department's quantum programs: the new B.S. in Quantum Systems Engineering (70+ students) and the M.S. in Quantum Engineering (40+ students). More than 30 Mines faculty across ten departments work on quantum science and technology. Mines operates the Quantum Commons campus and is a key partner in Elevate Quantum, the federally designated Quantum Tech Hub; the regional ecosystem includes NIST, JILA, and the National Laboratory of the Rockies.</div><div><strong>Minimum qualifications:</strong> Ph.D. in physics or a closely related field by the start date; a research record in experimental quantum sensing, precision measurement, or a closely related area; demonstrated potential to establish an externally funded research program; commitment to teaching physics and quantum science.</div><div><strong>How to apply:</strong> submit a cover letter, CV, research statement (max. 4 pages), teaching statement (max. 2 pages), and contact information for three references via the Mines Careers page (requisition JR110342). Applications are accepted until the position is filled, with priority given to submissions received by January 4, 2027.</div><div>Questions: search co-chairs Prof. Fred Sarazin (fsarazin@mines.edu) and Prof. Wouter Van De Pontseele (wouter.vandepontseele@mines.edu).</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "quant-ph",
+        "hep-ex",
+        "nucl-ex",
+        "physics.ins-det",
+        "physics"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://mines.wd1.myworkdayjobs.com/Mines_Careers/job/Colorado/Assistant-Professor--Experimental-Quantum--Department-of-Physics_JR110342"
+      ],
+      "contact_email": null,
+      "created": "2026-11-13T23:11:17.130762+00:00",
+      "updated": "2026-11-16T20:23:35.562428+00:00",
+      "addedAt": "2026-11-17T08:05:33.650Z",
+      "isNew": true
+    },
+    {
+      "id": "3228867",
+      "title": "Postdoctoral position in tracking and detector optimisation for nuSCOPE",
+      "institution": "Marseille, CPPM",
+      "deadline": "2027-01-20",
+      "description": "<div><strong>nuSCOPE</strong></div><div>nuSCOPE aims to develop a new generation of high-precision neutrino beams by exploiting neutrino tagging and monitoring techniques. The project began in 2025 as a merger of NuTAG and ENUBET under the Physics Beyond Colliders study group at CERN. Being in an early phase, nuSCOPE offers substantial scope for creativity, new ideas, and initiatives.</div><div><br></div><div><strong>Role</strong></div><div>The successful candidate will play a central role in shaping the nuSCOPE experiment. At this early stage of the project, their work can drive major design choices and substantial improvements in performance, offering scientific ownership and visibility within the collaboration and the wider neutrino physics community.</div><div><br></div><div>The main responsibilities will be to:</div><ul><li>Improve the tracking algorithms and software, focusing on computational speed, robustness and reconstruction performance,</li><li>Optimise the tracking system layout,</li><li>Refine the tracking detector specifications.</li></ul><div>This work will be done in close relation with beamline and detector experts within the international nuSCOPE collaboration.</div><div><br></div><div>The position provides excellent opportunities for career development, including:</div><ul><li>Publishing research in high-impact journals</li><li>Presenting at international conferences</li><li>Supervising and mentoring students</li></ul><div><strong>Research environment</strong></div><div>The position will be based at the Centre de Physique des Particules de Marseille (CPPM), a joint CNRS and Aix-Marseille University laboratory located on the Luminy campus, in the heart of the Calanques National Park. With around 180 researchers, engineers and doctoral students, CPPM conducts research in particle physics, astroparticle physics and cosmology within major international collaborations.</div><div><br></div><div>The successful candidate will benefit from a collaborative research environment and strong technical expertise in computing, electronics, mechanics and detector instrumentation. CPPM promotes diversity and inclusion and provides administrative and logistical support to newcomers. The Luminy campus offers an exceptional natural setting close to Marseille.</div><div><br></div><div><strong>Profile</strong></div><div>Applicants should hold a PhD in particle physics or a closely related field. Experience in C++ programming, particle tracking, reconstruction algorithms would be valuable. We welcome candidates who enjoy developing new methods and taking initiative in an evolving research project.</div><div><br></div><div><strong>Salary </strong></div><div>Applicants can expect a gross monthly salary of 3133€ - 3571€, depending on relevant experience, in accordance with the CNRS salary scale for postdoctoral researchers.</div><div><br></div><div><strong>Application Procedure</strong></div><div>Apply at: <a href=\"https://mperrint.web.cern.ch/Recruit/apply.php\">https://mperrint.web.cern.ch/Recruit/apply.php</a></div><div>using job offer number PD-2627-NS-01</div><div><br></div><div><strong>References</strong></div><div>- <a href=\"https://arxiv.org/abs/2503.21589\">nuSCOPE: A short-baseline neutrino beam at CERN for high-precision cross-section measurements</a></div><div>- <a href=\"https://nuscope.web.cern.ch/\">nuSCOPE Website</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://mperrint.web.cern.ch/Jobs/EXTASE_PostDoc_CPPM_EN.html"
+      ],
+      "contact_email": null,
+      "created": "2026-11-16T09:16:53.216099+00:00",
+      "updated": "2026-11-16T20:11:45.212789+00:00",
+      "addedAt": "2026-11-17T08:05:33.650Z",
+      "isNew": true
+    },
+    {
+      "id": "3229182",
+      "title": "Postdoctoral Researcher (f/m/d) Algorithm-Hardware Co-Design for Real-Time AI in Particle Physics",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-12-18",
+      "description": "<div>The position is embedded in our group at the Institute of Experimental Particle Physics (ETP), part of the Department of Physics at KIT. We work on trigger systems, tracking and physics analysis at the Belle II experiment. At the intersection of machine learning and real-time electronics, we develop algorithms and deploy them on FPGAs and other heterogeneous hardware. Our goal: trigger systems that process a large number of detector inputs within a tight latency budget and under high backgrounds, with algorithms designed together with the hardware they run on.</div><div><br></div><div>Your Tasks</div><ul><li>Development of trigger algorithms for the Belle II upgrade, covering drift chamber tracking, global tracking and the electromagnetic calorimeter.</li><li>Taking these algorithms from design to running hardware, and leading the hardware deployment of our tracking work on AMD Versal.</li><li>Close collaboration with electronics engineers on firmware and hardware integration, and with our algorithm team on algorithm development.</li><li>Supervision of students and doctoral researchers.</li><li>Collaboration with the Belle II trigger community and the ErUM-Data DEEP partners, and presentation of your work at collaboration meetings, international conferences and in scientific papers.</li><li>If you have experience in this area, contributions to our work within DEEP on LLM-based agents for firmware development, verification or design-space exploration.</li></ul><div>Your Profile</div><ul><li>You hold a PhD in physics, electrical engineering or a related field.</li><li>You have developed firmware for FPGAs or comparable hardware, including your own implementations of machine learning models.</li><li>You have experience with verification and debugging on hardware.</li><li>You have a very good command of English.</li><li>Knowledge of German at level B1 or above is preferred.</li><li>Experience with any of the following is a plus: trigger or data acquisition systems in particle physics or a comparable real-time environment, reconstruction algorithms for tracking detectors or calorimeters, HLS, AMD Versal or AI Engines, LLM-based agents for firmware development.</li></ul>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "eess"
+      ],
+      "experiments": [
+        "KEK-BF-BELLE-II"
+      ],
+      "urls": [
+        "https://jobs.pse.kit.edu/en/jobs/171034/postdoctoral-researcher-fmd-algorithm-hardware-co-design-for-real-time-ai-in-particle-physics"
+      ],
+      "contact_email": null,
+      "created": "2026-11-16T14:24:02.528291+00:00",
+      "updated": "2026-11-16T20:08:14.356930+00:00",
+      "addedAt": "2026-11-17T08:05:33.650Z",
+      "isNew": true
+    },
+    {
       "id": "3228565",
       "title": "Two Postdoctoral Positions in Experimental Particle Physics (ATLAS Experiment at CERN)",
       "institution": "KFUPM, Dhahran",
@@ -23,7 +105,7 @@
       "created": "2026-11-13T22:34:26.246396+00:00",
       "updated": "2026-11-13T22:59:20.130625+00:00",
       "addedAt": "2026-11-16T08:15:29.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3228418",
@@ -55,7 +137,7 @@
       "created": "2026-11-13T17:58:11.460180+00:00",
       "updated": "2026-11-13T22:15:25.343591+00:00",
       "addedAt": "2026-11-16T08:15:29.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3228417",
@@ -82,7 +164,7 @@
       "created": "2026-11-13T17:48:48.846820+00:00",
       "updated": "2026-11-13T22:13:43.879257+00:00",
       "addedAt": "2026-11-16T08:15:29.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3227914",
@@ -109,7 +191,7 @@
       "created": "2026-11-13T11:14:13.709305+00:00",
       "updated": "2026-11-13T22:10:45.091036+00:00",
       "addedAt": "2026-11-16T08:15:29.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3227787",
@@ -136,7 +218,7 @@
       "created": "2026-11-13T04:22:27.944929+00:00",
       "updated": "2026-11-13T22:06:55.595822+00:00",
       "addedAt": "2026-11-16T08:15:29.488Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3227339",
@@ -14030,6 +14112,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-16T08:15:29.491Z",
-  "totalJobs": 522
+  "lastUpdated": "2026-11-17T08:05:33.652Z",
+  "totalJobs": 525
 }
