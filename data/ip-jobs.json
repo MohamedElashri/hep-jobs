@@ -1,6 +1,84 @@
 {
   "jobs": [
     {
+      "id": "3229806",
+      "title": "Postdoctoral Opportunity – Space Radiation Instrumentation",
+      "institution": "U. Hawaii (main)",
+      "deadline": "2026-12-31",
+      "description": "<div>The Department of Physics &amp; Astronomy invites applications for a full-time postdoctoral research position in experimental</div><div>space physics and radiation detector development. The successful candidate will join the Space Physics research group</div><div>led by Professor Veronica Bindi, working closely with Dr. Nikolay Nikonov, Instrument Science and Technical Lead, on a</div><div>newly funded NASA project developing and validating radiation-detection instrumentation for future space exploration</div><div>missions.</div><div>The research addresses neutron and gamma-ray measurements relevant to planetary exploration and combines Monte</div><div>Carlo simulation, experimental detector characterization, calibration, and model validation. The researcher will be based</div><div>at UH Mānoa and collaborate with physicists, engineers, and undergraduate researchers.</div><div><br></div><div><strong>RESEARCH ACTIVITIES</strong></div><div>• Develop and optimize detector-response simulations using Geant4 and related radiation-transport tools.</div><div>• Model neutron and gamma-ray interactions; analyze experimental data and compare simulations with measurements.</div><div>• Contribute to laboratory calibration, characterization, prototype integration, and testing.</div><div>• Mentor undergraduate researchers and contribute to publications and conference presentations.</div><div><br></div><div><strong>QUALIFICATIONS</strong></div><div>Required: Ph.D. in physics, nuclear physics, astroparticle physics, nuclear engineering, or a related discipline by the start date; experience </div><div>with Monte Carlo simulations (preferably Geant4); C++ and/or Python skills; ability to work</div><div>independently and collaboratively; effective communication. Preferred: </div><div>Neutron/gamma-ray detector simulations; hands-on experience with </div><div>scintillators, photodetectors, nuclear instrumentation, readout electronics, </div><div>detector calibration, or data acquisition; student mentoring experience.</div><div><br></div><div><strong>APPOINTMENT &amp; APPLICATION</strong></div><div>The initial appointment is expected to be for two years, with possible renewal subject to funding availability, satisfactory</div><div>performance, and university approval. Annual salary is anticipated at $70,000–$75,000, commensurate with qualifications</div><div>and experience. Research-related conference travel support is anticipated, subject to available funds.</div><div>Email bindi@hawaii.edu with: (1) CV and publication list, (2) a brief summary of relevant research experience, </div><div>(3) names and contact details of two or three references, and (4) earliest possible start date. </div><div>Applications will be reviewed as received until the position is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "astro-ph"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-17T21:35:10.527245+00:00",
+      "updated": "2026-11-17T22:50:00.650349+00:00",
+      "addedAt": "2026-11-18T08:05:39.520Z",
+      "isNew": true
+    },
+    {
+      "id": "3229308",
+      "title": "AI Trainer (Mathematics and Statistics), remote AI training contract",
+      "institution": "micro1",
+      "deadline": "2026-12-31",
+      "description": "<div>micro1, a company that runs research and evaluation projects for AI labs, lists a remote contract role for computational mathematicians, statisticians and optimization researchers. Contributors set hard computational mathematics and statistics tasks for advanced AI models, write the task instructions, reproducible environments, reference solutions and evaluation criteria, and check the proofs, calculations, code and optimizations the models return for logical errors, invalid assumptions, numerical instability and wrong statistical methods.</div><div>Required by the listing: prior paid experience training, evaluating or benchmarking AI systems on mathematical or technical tasks; strong practical Python; deep expertise in a mathematical specialization; hands-on computational work in numerical analysis, optimization, statistics, theorem proving or scientific computing; public evidence of skill such as publications, code or research profiles. Preferred: a master's degree or PhD, and tools such as SymPy, Pyomo, OR-Tools, Lean or Coq.</div><div>Remote, worldwide, 15 or more hours a week on a flexible schedule. The listing states pay as a 60 to 120 US dollars per hour equivalent, paid per accepted task. It gives no closing date.</div><div>Applications go through micro1's own site. Details and the apply link: <a href=\"https://aitrainerguide.com/micro1-jobs/ai-trainer-mathematics-and-statistics/?utm_source=inspire&amp;utm_medium=job_board\">https://aitrainerguide.com/micro1-jobs/ai-trainer-mathematics-and-statistics/?utm_source=inspire&amp;utm_medium=job_board</a></div><div>Shared by AI Trainer Guide, an independent guide to AI training work. We are not micro1 or its recruiter. The apply link on our page is a referral link: micro1 may pay us if it engages you, at no cost to you.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "math",
+        "math-ph",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://aitrainerguide.com/micro1-jobs/ai-trainer-mathematics-and-statistics/?utm_source=inspire&utm_medium=job_board"
+      ],
+      "contact_email": null,
+      "created": "2026-11-17T03:03:36.813763+00:00",
+      "updated": "2026-11-17T16:12:31.218456+00:00",
+      "addedAt": "2026-11-18T08:05:39.520Z",
+      "isNew": true
+    },
+    {
+      "id": "3229305",
+      "title": "Two Postdoctoral Research Associates in the Neutrino and Nucleon decay Group",
+      "institution": "Stony Brook U.",
+      "deadline": "2027-01-11",
+      "description": "<div>The Neutrino and Nucleon decay (NN) group at Stony Brook has an opening for two postdoctoral research associate positions. Qualified candidates are invited to apply.</div><div><br></div><div>The NN group has participated in the Super-Kamiokande (SK), K2K, and T2K experiments in Japan for three decades, and is now deeply involved in DUNE and T2K. We are looking for outstanding postdoc candidates who will join us in our pursuit of new discoveries and breakthroughs. Successful candidates will have the opportunity to participate in both DUNE and T2K experiments. The group enjoys a stimulating, cooperative research environment, with other strong research groups working on high-energy collider experiments, particle theory (C.N. Yang ITP and Simons Center for Geometry and Physics (SCGP)), nuclear physics and nuclear astrophysics, and efforts on under-ice cosmic neutrinos and cosmology.</div><div><br></div><div>Each candidate must have a Ph.D. degree in experimental particle physics or a closely related field. The successful applicant is expected to participate in a variety of hardware, software, and physics analysis activities, with considerable freedom in choosing research topics. If you are interested in joining our group, please submit your application at the following links: <a href=\"https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2604226&amp;tz=GMT-05%3A00&amp;tzname=America%2FNew_York\">Postdoctoral Associate (2604226)</a> and <a href=\"https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2603457&amp;tz=GMT-05%3A00&amp;tzname=America%2FNew_York\">Postdoctoral Associate (2603457)</a>. Be sure to apply to both positions and prepare a cover letter, CV, research statement (past experience and future plans for a maximum of two pages), and arrange for at least three reference letters. Applicants should ask their references to send letters directly to <a href=\"mailto:megan.kelly-beaury@stonybrook.edu\">Megan Kelly-Beaury</a>.</div><div><br></div><div>Any inquiries about the position can be sent to <a href=\"mailto:ciro.riccio@stonybrook.edu\">Prof. Ciro Riccio</a>, <a href=\"mailto:chang.jung@stonybrook.edu\">Prof. Chang Kee Jung</a>, or <a href=\"mailto:clark.mcgrew@stonybrook.edu\">Prof. Clark McGrew</a>. The initial application deadline is January 11th, 2027 at 11:59 PM ET. However, late applications will be accepted and considered until the position is filled. The start date is flexible and negotiable.</div><div><br></div><div><em>The Research Foundation of the State University of New York at Stony Brook and Stony Brook University are equal opportunity, affirmative action employers.</em></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "T2K"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-17T00:16:52.268031+00:00",
+      "updated": "2026-11-17T16:11:22.849915+00:00",
+      "addedAt": "2026-11-18T08:05:39.520Z",
+      "isNew": true
+    },
+    {
       "id": "3228566",
       "title": "Assistant Professor, Experimental Quantum, Department of Physics",
       "institution": "Colorado School of Mines",
@@ -27,7 +105,7 @@
       "created": "2026-11-13T23:11:17.130762+00:00",
       "updated": "2026-11-16T20:23:35.562428+00:00",
       "addedAt": "2026-11-17T08:05:33.650Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3228867",
@@ -52,7 +130,7 @@
       "created": "2026-11-16T09:16:53.216099+00:00",
       "updated": "2026-11-16T20:11:45.212789+00:00",
       "addedAt": "2026-11-17T08:05:33.650Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3229182",
@@ -80,7 +158,7 @@
       "created": "2026-11-16T14:24:02.528291+00:00",
       "updated": "2026-11-16T20:08:14.356930+00:00",
       "addedAt": "2026-11-17T08:05:33.650Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3228565",
@@ -14112,6 +14190,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-17T08:05:33.652Z",
-  "totalJobs": 525
+  "lastUpdated": "2026-11-18T08:05:39.521Z",
+  "totalJobs": 528
 }
