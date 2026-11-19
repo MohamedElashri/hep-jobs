@@ -1,6 +1,29 @@
 {
   "jobs": [
     {
+      "id": "3230584",
+      "title": "Research Associate in ATLAS Higgs Physics and FCC-ee Machine–Detector Interface",
+      "institution": "SLAC",
+      "deadline": "2027-01-05",
+      "description": "<div>SLAC National Accelerator Laboratory is seeking an experimental Research Associate to work on Higgs boson physics with the ATLAS experiment at CERN’s Large Hadron Collider and on machine–detector interface (MDI) studies for the Future Circular Collider (FCC-ee).</div><div><br></div><div>The successful candidate will contribute to ATLAS Higgs physics analyses, including precision measurements and their interpretation. They will also develop beam and detector simulations for FCC-ee, studying how beam-induced backgrounds affect detector performance and help define vertex and lumical detector requirements.</div><div><br></div><div><strong>The position offers opportunities to work with physicists, accelerator scientists, and detector teams across both programs. Given the nature of this position, the candidate is expected to be on site at SLAC.</strong></div><div><br></div><div><strong>The position is initially a two-year term, with the possibility of renewal, contingent on continued funding for the project.</strong></div><div><br></div><div>Research activities may include:</div><ul><li>ATLAS Higgs measurements, including event reconstruction, background modeling, systematic uncertainties, and statistical interpretation;</li><li>Simulation of FCC-ee beam interactions and backgrounds near the interaction region;</li><li>Studies of occupancy, radiation exposure, reconstruction performance, and physics acceptance for LumiCal and the vertex detectors;</li><li>Evaluation of MDI design options and development of detector performance requirements.</li></ul><div>The candidate is expected to be based at SLAC and to contribute substantially to both the ATLAS Higgs and FCC-ee MDI efforts. The SLAC ATLAS group’s broader work includes detector instrumentation, reconstruction, and physics performance, supported by the ATLAS Center at SLAC.</div><div><br></div><div><strong>The deadline to submit application materials is January 5, 2027.</strong></div><div><br></div><div><strong>Qualifications:</strong> Applicants should have a recent PhD in experimental particle physics and a demonstrated record of research excellence. Experience in collider data analysis, beam or detector simulation, or detector performance studies is desirable.</div><div><br></div><div>For further information, Dr. Caterina Vernieri (<strong><a href=\"mailto:makagan@slac.stanford.edu\">caterina@slac.stanford.edu</a></strong>).</div><div><br></div><div>The job duties listed are typical examples of work performed by positions in this job classifications and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.</div><div>Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of their job.</div><div><br></div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.</div><div><br></div><div>As a national laboratory, SLAC National Accelerator Laboratory is responsible for Homeland Security Presidential Directive 12 (HSPD-12) and Department of Energy (DOE) Order 473.1A, which requires employees to obtain and maintain a HSPD-12 Personal Identity Verification (PIV) Credential. To obtain this credential, employees must successfully complete the applicable tier of federal background investigation post hire and receive a favorable federal adjudication. The tier of federal background investigation will be determined by job duties and national security or public trust responsibilities associated with the job. All tiers of investigation include a declaration of illegal drug activities, including use, supply, possession, or manufacture within the last 1 to 7 years (depending on the applicable tier of investigation), illegal drug activities include marijuana and cannabis derivatives, which are still considered illegal under federal law, regardless of state laws.</div><div><br></div><div>For foreign national candidates</div><div>If you have not resided in the U.S. for three consecutive years, you are not eligible for PIV credential and instead will need to obtain a favorable Local Site Specific Only (LSSO) Federal risk determination to maintain employment. Once you meet the three year residency requirement, you will be required to obtain a PIV credential to maintain employment. The tier of federal background investigation required to obtain the credential will be determined by job duties at the time you become eligible for the PIV credential.</div><div><br></div><div>Apply to:</div><div><a href=\"https://academicjobsonline.org/ajo/jobs/33481\">https://academicjobsonline.org/ajo/jobs/33481</a></div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-18T21:35:28.343880+00:00",
+      "updated": "2026-11-18T22:41:02.739955+00:00",
+      "addedAt": "2026-11-19T08:05:55.451Z",
+      "isNew": true
+    },
+    {
       "id": "3229806",
       "title": "Postdoctoral Opportunity – Space Radiation Instrumentation",
       "institution": "U. Hawaii (main)",
@@ -23,7 +46,7 @@
       "created": "2026-11-17T21:35:10.527245+00:00",
       "updated": "2026-11-17T22:50:00.650349+00:00",
       "addedAt": "2026-11-18T08:05:39.520Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3229308",
@@ -50,7 +73,7 @@
       "created": "2026-11-17T03:03:36.813763+00:00",
       "updated": "2026-11-17T16:12:31.218456+00:00",
       "addedAt": "2026-11-18T08:05:39.520Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3229305",
@@ -76,7 +99,7 @@
       "created": "2026-11-17T00:16:52.268031+00:00",
       "updated": "2026-11-17T16:11:22.849915+00:00",
       "addedAt": "2026-11-18T08:05:39.520Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3228566",
@@ -14190,6 +14213,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-18T08:05:39.521Z",
-  "totalJobs": 528
+  "lastUpdated": "2026-11-19T08:05:55.453Z",
+  "totalJobs": 529
 }
