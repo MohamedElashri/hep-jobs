@@ -1,6 +1,140 @@
 {
   "jobs": [
     {
+      "id": "3230944",
+      "title": "Postdoctoral Research Position in Long-Baseline Neutrino Experiments",
+      "institution": "Tarapaca U.",
+      "deadline": "2026-12-20",
+      "description": "<div>The Long-Baseline Neutrino Physics group at the University of Tarapacá, Chile (South America), invites applications for a postdoctoral research position in experimental neutrino physics to work on the NOvA and DUNE experiments. The University of Tarapacá (UTA) is a nationally accredited public university recognized for its research excellence. More information about the university can be found at <a href=\"https://www.uta.cl\">https://www.uta.cl</a>.</div><div><br></div><div>Our group collaborates on physics analyses of both the experiments and plans to contribute to the hardware of the DUNE experiment. The position will be primarily based in Chile with some travel to CERN and Fermilab as needed, to work on the DUNE detector, and/or for the service work. However, the place of work of the researcher can be negotiated.</div><div><br></div><div>A Ph.D. in experimental high-energy particle physics (defended no earlier than January 1, 2026) is required. Candidates expecting to defend their Ph.D. by December 2026 may also apply, provided they submit the proof of Ph.D. completion before January 1, 2027. The selected candidate is expected to apply in spring 2027 for a FONDECYT postdoctoral grant from the Chilean funding agency ANID, with support from UTA.</div><div><br></div><div>The candidate will be expected to conduct original research within these experiments, leading to publications in peer-reviewed journals. They may also have the opportunity to supervise students and take on light teaching duties as part of their academic development.</div><div><br></div><div>If awarded the FONDECYT grant, the position will start in spring 2028 with a salary of approximately ~2,200,000 CLP per month. Until the grant begins (or if not awarded), candidates may be hired by UTA with a salary discussed during the interview. Chilean income tax (~10%) applies, and the candidate must arrange for their retirement and health insurance.</div><div><br></div><div>The starting date is expected begin in early 2027 butt is negotiable. If awarded the FONDECYT grant, the candidate must reside in Chile for at least 183 days per year after the grant begins (expected April 2028). The place of work in Chile will be Santiago.</div><div><br></div><div>Interested candidates should submit a detailed CV (including Ph.D. defence date), copy of passport/ID, copies of diplomas (<a href=\"http://M.Sc\">M.Sc</a>. and Ph.D. degree etc.), exam transcripts, recent photo, list of publications, and a cover letter detailing research interests. They should also provide the names and contact details of at least three referees with whom they have worked closely and should arrange for the recommendation letters to be sent directly to brajeshchoudhary@gmail.com, with the subject: \"Recommendation letter for Your Name\".</div><div><br></div><div>All documents must be sent in a single email to brajeshchoudhary@gmail.com, with the subject: \"Your Name - Application for Neutrino Postdoc 2026\". Last date of application is 20th December 2026.</div><div><br></div><div>Review of candidates will be ongoing till the position is filled. For further details or any query, please contact the above mentioned email.</div>",
+      "regions": [
+        "South America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "Fermilab-MI-DUNE",
+        "FNAL-E-0929"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-19T14:41:33.959556+00:00",
+      "updated": "2026-11-19T18:45:31.976817+00:00",
+      "addedAt": "2026-11-20T08:05:36.265Z",
+      "isNew": true
+    },
+    {
+      "id": "3230910",
+      "title": "Absolute, spatially resolved, in-situ quantification of low tritium concentrations using REMPI spectroscopy.",
+      "institution": "U. Manchester (main)",
+      "deadline": "2027-01-01",
+      "description": "<div>State-specific optical detection of hydrogen and its isotopologues is a pressing need for both fusion engineering, fundamental tritium science, and experiments that aim to measure the neutrino mass. Applications include analyzing material absorption and permeation, studying the composition of exhaust streams, profiling tritium beams, probing the dynamics of stored vapors, monitoring supposedly non-tritiated volumes. All of these need in situ, spatially resolved sensing of very low concentrations of atomic and molecular tritium - a problem that is only partially solved.</div><div><br></div><div>This project will advance a powerful modality of hydrogen isotopologue quantification, not previously applied to tritium: resonantly enhanced multi-photon ionization (REMPI) spectroscopy. REMPI uses intense, narrow-band, UV laser beams to initiate a multi-step ionization of atoms and molecules, with ions subsequently accelerated and detected electromagnetically. REMPI is both species- and state-specific, allowing for separation of signals from H, D, T, H2, T2, HT, DT, and all other isotopologues. It has fine spatial resolution, providing a signal only at the laser focus (typically &lt;1 mm3), enabling detailed spatial mapping. Most importantly, the REMPI efficiency is close to unity, giving it an extremely low limit of detection (tens of atoms per mm3) and an absolutely predicted signal normalization. REMPI’s optical efficiency significantly outperforms competing modalities such as laser Raman spectroscopy, and its absolute detection efficiency is not only a sensing virtue but also provides a clean benchmark against which other tools can be calibrated.</div><div><br></div><div>This project will demonstrate REMPI for absolute spatial mapping of tritium-rich beams and vapors with world-leading precision. Technical challenges include: 1) Internal electrical detection of individual or small, countable numbers of ions using tritium compatible materials; 2) access of optical paths to active volumes through secondary and tertiary containment; 3) extraction of a small tritium signal from a much larger background of other species, and control of systematic uncertainties in quantification. These problems are all surmountable, and this project will resolve them, resulting in the first demonstration of spatially quantitative REMPI, applied to tritium.</div><div><br></div><div>The successful candidate will work with Professor Ben Jones, Chair of Applied Quantum Technologies whose work focuses on tritium beams and their microphysics and detection via quantum sensors; Professor Phil Edmondson, Chair in Tritium Science &amp; Technology, an expert in tritium emanation and permeation studies; and Dr Leonie Hawkins, who is developing a new optical test beam system for tritium studies, to be operated locally at the University of Manchester at low tritium flux and ultimately integrated into tritium systems the Karlsruhe Institute of Technology for high-activity studies. The work will involve both hands-on system development and operation, modeling and analysis, ultimately yielding the first demonstration and quantitative assessment of tritium-specific REMPI spectroscopy.</div><div><br></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-19T09:56:39.459892+00:00",
+      "updated": "2026-11-19T15:33:04.434957+00:00",
+      "addedAt": "2026-11-20T08:05:36.265Z",
+      "isNew": true
+    },
+    {
+      "id": "3230921",
+      "title": "Single Ion Capture and Imaging to Determine the Majorana Nature of the Neutrino",
+      "institution": "U. Manchester (main)",
+      "deadline": "2027-02-28",
+      "description": "<div>Is the neutrino its own antiparticle? Answering this could explain why the Universe is made of matter rather than nothing, and would reveal physics at energy scales far beyond the reach of any collider. This project develops a new way to ask the question: searching for neutrinoless double electron capture at the single ion level. In this ultra-rare nuclear process, ³⁶Ar transmutes into sulphur (or ⁷⁸Kr into selenium), and the decay leaves behind just one chemically distinct ion in the gas. Our concept, CODECS, aims to capture that single ion, identify it and image it. This would make an effectively background-free search possible, with sensitivity an order of magnitude beyond current limits. It could also produce the first observation of the standard-model two-neutrino mode in argon.</div><div><br></div><div>The project involves development of one of the key technologies at the heart of this scheme: moving single ions over surfaces through dense gas and watching them arrive, one by one. Ions will be swept across microfabricated radiofrequency “carpets”, which are fine-pitch electrode arrays. These use travelling-wave RF fields to levitate ions and carry them to a millimetre-scale collection point. There they meet a monolayer of molecular sensors that light up when they capture the target ion. Working with the National Graphene Institute, we will design and produce photonic integrated chips containing nanofabricated 5×5 cm carpets and integrated microscopy systems, and characterise their transport efficiency at pressures up to 5 bar. This will then be combined with a single ion source, to show that individual ions created in the gas can be delivered, captured and imaged, enabling a powerful new technology in neutrino physics.</div><div><br></div><div>The project sits where particle physics, ion trapping, microfabrication and optical microscopy meet. It builds on our group’s demonstration of imaging individual ions in high-pressure xenon, and you will work closely with synthetic chemists and international collaborators. We welcome applicants with a background in physics, engineering or physical chemistry who want to build instruments at the interdisciplinary frontier of particle and nuclear physics, and quantum sensing.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex"
+      ],
+      "experiments": [
+        "LSC, Canfranc-NON-NEXT"
+      ],
+      "urls": [
+        "https://www.findaphd.com/phds/project/single-ion-capture-and-imaging-to-determine-the-majorana-nature-of-the-neutrino/?p203020"
+      ],
+      "contact_email": null,
+      "created": "2026-11-19T11:10:09.631753+00:00",
+      "updated": "2026-11-19T15:30:58.105464+00:00",
+      "addedAt": "2026-11-20T08:05:36.265Z",
+      "isNew": true
+    },
+    {
+      "id": "3230927",
+      "title": "UChicago-Fermilab Tenure-track Assistant Professor Appointment",
+      "institution": "U. Chicago (main)",
+      "deadline": "2026-12-18",
+      "description": "<div>The University of Chicago invites applications for a tenure-track Assistant Professor appointment in the Department of Physics.</div><div><br></div><div>The search is open to all subfields of experimental physics. For this position, the University has a preference for individuals whose research aligns with and significantly contributes to the science mission at Fermilab National Accelerator Laboratory, which the University would facilitate by seeking a joint appointment as a Scientist at Fermilab immediately following the individual’s employment at the University. The Department of Physics collaborates closely with scientists at Fermilab across a variety of research programs. Areas of interest include, but are not limited to:</div><div><br></div><ul><li>collider physics at the Large Hadron Collider (ATLAS and CMS) and the design of future colliders;</li><li>the accelerator-based neutrino program (LBNF/DUNE and the Short-Baseline Neutrino program);</li><li>precision muon physics;</li><li>direct dark-matter detection, particle astrophysics, and cosmology;</li><li>quantum information science and quantum sensing for fundamental physics;</li><li>AI/ML applications in research, including real-time AI and advanced instrumentation for data acquisition, triggering, and detector R&D; and</li><li>accelerator science and R&amp;D for future facilities.</li></ul><div>Duties include conducting an independent research program and teaching and advising undergraduate and graduate students.</div><div><br></div><div>This position is benefits eligible. The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the <a href=\"https://mybenefits.nfp.com/UChicago/benefits-guide/\">Benefits Guidebook</a>.</div><div><br></div><div>Qualifications</div><ul><li>Completion of all requirements for a Ph.D. in Physics, Astrophysics, or a closely related field by the time of appointment.</li><li>At least two years of research experience beyond the Ph.D. by the start of the appointment.</li></ul><div>Application Instructions</div><div>The following materials are required:</div><ul><li>A cover letter;</li><li>A curriculum vitae;</li><li>A list of publications;</li><li>A research statement;</li><li>A description of teaching and mentoring philosophy and experience;</li><li>Applicants are required to request three confidential letters of recommendation via Interfolio</li></ul><div>Applicants must apply online through the University of Chicago Academic Careers website at <a href=\"https://apply.interfolio.com/197731\">apply.interfolio.com/197731</a></div><div><br></div><div>Review of applications will begin on December 18, 2026, and will continue until the position is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "JUNIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics",
+        "physics.ins-det",
+        "nucl-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apply.interfolio.com/197731"
+      ],
+      "contact_email": null,
+      "created": "2026-11-19T13:24:32.207282+00:00",
+      "updated": "2026-11-19T15:27:05.270807+00:00",
+      "addedAt": "2026-11-20T08:05:36.265Z",
+      "isNew": true
+    },
+    {
+      "id": "3230928",
+      "title": "UChicago-Fermilab Tenured Associate Professor Appointment",
+      "institution": "U. Chicago (main)",
+      "deadline": "2026-12-18",
+      "description": "<div>Description</div><div><br></div><div>The University of Chicago invites applications for a tenured Associate Professor appointment in the Department of Physics.</div><div><br></div><div>The search is open to all subfields of experimental physics. For this position, the University has a preference for individuals whose research aligns with and significantly contributes to the science mission at Fermilab National Accelerator Laboratory, which the University would facilitate by seeking a joint appointment as Associate Scientist at Fermilab immediately following the individual’s employment at the University. The Department of Physics collaborates closely with scientists at Fermilab across a variety of research programs. Areas of interest include, but are not limited to:</div><div><br></div><ul><li>collider physics at the Large Hadron Collider (ATLAS and CMS) and the design of future colliders;</li><li>the accelerator-based neutrino program (LBNF/DUNE and the Short-Baseline Neutrino program);</li><li>precision muon physics;</li><li>direct dark-matter detection, particle astrophysics, and cosmology;</li><li>quantum information science and quantum sensing for fundamental physics;</li><li>AI/ML applications in research, including real-time AI and advanced instrumentation for data acquisition, triggering, and detector R&D; and</li><li>accelerator science and R&amp;D for future facilities.</li></ul><div>Duties include conducting an independent research program, and teaching and advising undergraduate and graduate students.</div><div><br></div><div>This position is benefits eligible. The University of Chicago offers a wide range of benefits programs and resources for eligible employees, including health, retirement, and paid time off. Information about the benefit offerings can be found in the <a href=\"https://mybenefits.nfp.com/UChicago/benefits-guide/\">Benefits Guidebook</a>.</div><div><br></div><div>Qualifications</div><ul><li>Completion of all requirements for a Ph.D. in Physics, Astrophysics, or a closely related field by the time of appointment.</li></ul><div><br></div><div>Application Instructions</div><div><br></div><div>The following materials are required:</div><ul><li>A cover letter;</li><li>A curriculum vitae;</li><li>A list of publications;</li><li>A research statement;</li><li>A description of teaching and mentoring philosophy and experience;</li><li>A list of three references, including name, title, institution, and contact information.</li></ul><div>Applicants must apply online through the University of Chicago Academic Careers website at <a href=\"https://apply.interfolio.com/197739\">apply.interfolio.com/197739</a></div><div><br></div><div>Review of applications will begin on December 18, 2026, and will continue until the position is filled.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "SENIOR"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "nucl-ex",
+        "physics",
+        "physics.ins-det"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://apply.interfolio.com/197739"
+      ],
+      "contact_email": null,
+      "created": "2026-11-19T13:27:13.652787+00:00",
+      "updated": "2026-11-19T15:26:06.819608+00:00",
+      "addedAt": "2026-11-20T08:05:36.265Z",
+      "isNew": true
+    },
+    {
       "id": "3230584",
       "title": "Research Associate in ATLAS Higgs Physics and FCC-ee Machine–Detector Interface",
       "institution": "SLAC",
@@ -21,7 +155,7 @@
       "created": "2026-11-18T21:35:28.343880+00:00",
       "updated": "2026-11-18T22:41:02.739955+00:00",
       "addedAt": "2026-11-19T08:05:55.451Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3229806",
@@ -14213,6 +14347,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-19T08:05:55.453Z",
-  "totalJobs": 529
+  "lastUpdated": "2026-11-20T08:05:36.267Z",
+  "totalJobs": 534
 }
