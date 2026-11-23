@@ -1,6 +1,56 @@
 {
   "jobs": [
     {
+      "id": "3231478",
+      "title": "Postdoc in machine learning applied to complex systems",
+      "institution": "U. Zurich (main)",
+      "deadline": "2027-01-07",
+      "description": "<div>We invite applications for a postdoctoral researcher to apply machine learning to complex systems at industrial scale, from the design of particle physics experiments to logistics planning with industry partners. The position is based in the group of Prof. Nicola Serra at the University of Zurich, which works in close collaboration with the group of Prof. Alessio Figalli at ETH Zurich.</div><div>The successful candidate will work in one or both of the areas described below.</div><div><br></div><div><strong>Particle physics experiment design</strong></div><div>The Future Circular Collider (FCC) is a proposed next-generation collider at CERN, and its detectors are still being designed. You will use machine learning and optimisation to explore detector design choices. This includes:</div><ul><li>Detector layout optimisation: choosing the geometry, granularity and material budget of FCC sub-detectors to maximise physics reach within cost limits.</li><li>Reinforcement learning for large designs: using RL agents to build up large designs step by step, where each choice is conditional on the ones made before. We are also exploring large language models as a master planner that sets the overall layout and coordinates the detailed design choice.</li><li>End-to-end optimisation: linking design parameters directly to the sensitivity of benchmark measurements.</li></ul><div>The work is carried out within the FCC community and builds on the group's experience using AI to optimise experiments at CERN.</div><div><br></div><div><strong>Industry related projects</strong></div><div>Through our SNSF–Innosuisse BRIDGE project, the group is bringing a proprietary optimisation methodology for large discrete decision problems from the lab into industrial use. The candidate is encouraged to take an active part in it. Within the project, the same methods are applied to container shipping and complex supply chains, working directly with industry partners. Potential projects include:</div><ul><li>Container yard stacking and slot allocation: deciding where each container is placed in a terminal yard to improve efficiency, together with a port operator.</li><li>Planning for container shipping lines: proofs of concept with major carriers on planning and allocation problems across their networks.</li><li>Complex supply chains: production, inventory and distribution planning across many sites and suppliers under demand uncertainty.</li></ul><div>You will work alongside the team leading the commercialisation of these methods, with direct contact to industry partners and their operational data.</div><div><br></div><div><strong>Your profile</strong></div><div>Required:</div><ul><li>A PhD in physics, computer science, applied mathematics, operations research or a related field</li><li>Hands-on experience with modern machine learning tools.</li><li>Motivation to tackle complex problems at a realistic scale, beyond simplified benchmark problems</li></ul><div>Desirable:</div><ul><li>Experience with combinatorial or discrete optimisation, graph neural networks or reinforcement learning</li><li>Background in experimental particle physics or detector simulation (for the FCC work)</li></ul><div>Experience applying machine learning to complex, real-world problems</div><div><strong>What we offer</strong></div><div><br></div><div>A 1+1-year appointment, with the possibility of further extension.</div><ul><li>A salary of between 92,500-102,000 per year depending on experience</li><li>A small, ambitious team spanning physics, mathematics and industry, with direct access to industry partners and the CERN community</li></ul><div>Funding for travel to conferences, CERN and partner sites</div><div><strong>How to apply</strong></div><div>Please send a CV with publication list, a one-page statement of research interests, and the names of two or three referees to nicola.serra+postdoc-applications@uzh.ch. Applications received before 7th January will receive full consideration.</div><div>For informal enquiries, contact Prof. Nicola Serra at nicola.serra@cern.ch.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-20T13:55:30.407030+00:00",
+      "updated": "2026-11-21T18:12:22.697263+00:00",
+      "addedAt": "2026-11-23T08:06:58.338Z",
+      "isNew": true
+    },
+    {
+      "id": "3231475",
+      "title": "Postdoctoral position in Experimental Hadron Physics",
+      "institution": "Uppsala U. (main)",
+      "deadline": "2027-01-15",
+      "description": "<div>Would you like to play an active role in collecting and analysing data from an exciting, innovative experiment, supported by skilled and friendly colleagues in an international environment? Would you like to work in a department that prioritises sustainable employment and offers secure, favourable working conditions? We invite you to apply for a postdoctoral position at Uppsala University.</div><div><br></div><div>The research conducted at the Department of Physics and Astronomy encompasses a wide range of physics topics, distributed over nine divisions. The department is located in the Ångström laboratory and employs nearly 400 people, 100 of whom are doctoral students. It offers a broad physics curriculum to undergraduate and graduate students, participation in nationally and internationally leading projects for researchers, and opportunities for partnership with industry and various outreach activities. Read more on <a href=\"https://www.uu.se/en/department/physics-and-astronomy\">www.uu.se/physics</a>.</div><div><br></div><div>Hyperons—unstable siblings of protons and neutrons—are not only created in experiments here on Earth; they are also hypothesised to form spontaneously in the core of neutron stars. If this is the case, it would have drastic implications for the fate of neutron stars. The fact that massive neutron stars nevertheless exist could potentially be explained by the strong force—which governs the creation of hyperons and their interactions with protons and neutrons—possessing properties that remain unknown to us. Through this new project, we will investigate this force by conducting novel hyperon experiments.</div><div>Our research group is internationally recognised for its pioneering studies on hyperons. We have long been involved in the BESIII experiment in China, the PANDA/HADES experiments in Germany, and the Belle II experiment in Japan. To systematically investigate hyperon interactions, we are now also joining the HYPS collaboration, which is currently collecting data at the SPring-8 facility in Japan. The research group is part of the Nuclear Physics Division at Uppsala University and is actively committed to fostering an inclusive work environment where employees and students can grow and develop. We encourage personal initiative and active participation in shaping the department’s activities. We offer career support for young researchers, and our many international collaborations provide access to a large professional network.</div><div><br></div><div><strong>Duties</strong></div><div>This postdoctoral position involves active participation in the HYPS experiment at SPring-8. Data collection will take place during the first half of 2027; the initial task will be an extended research visit at SPring-8, lasting approximately two months, to assist with the experiment and receive training in the analysis software. Subsequently, the postdoctoral researcher will work on data analysis at Uppsala University. Toward the end of the project, the postdoctoral researcher will also participate in the planning and preparation of new experiments. The postdoctoral researcher will work alongside a professor, a senior researcher, and a doctoral student who will be recruited for the project.</div><div>Responsibilities also include giving presentations at meetings and conferences, both within Sweden and abroad (primarily in Japan). Furthermore, the postdoc is expected to contribute to the writing of research papers and assist with the supervision of students.</div><div><br></div><div><strong>Requirements</strong></div><div>A doctoral degree in physics, or a foreign degree deemed equivalent to a doctoral degree in physics. The degree must have been obtained no later than the time the employment decision is made. Priority will be given to candidates who completed their degree no more than three years before the application deadline. Under special circumstances, the degree may have been completed earlier. Such circumstances include leave due to illness, parental leave, or positions of trust within trade unions, etc. The specific duties require a solid background in hadron physics and data analysis. The candidate must be capable of working independently while also possessing strong collaborative skills. Excellent oral and written proficiency in English is required.</div><div>Additional qualifications</div><div>Experience working with hyperon physics and practical experience with data acquisition at small- or large-scale experimental facilities are considered an advantage. Furthermore, skills in writing scientific papers and experience in supervising students is valuable.</div><div><strong>The application must contain:</strong> CV, copies of relevant grades and degrees, a copy of or a link to the doctoral thesis, a list of publications explaining the applicant's contributions, a list of references (e.g. former supervisors) and other documents that the applicant wishes to attach. In addition, we request a two-page statement of the applicant's research interests - what the applicant’s previous experience as well as how this can be applied within the framework of this postdoctoral position.</div><div>About the employment</div><div>The employment is for a fixed term of two years, in accordance with the central collective agreement, with the possibility of a one-year extension for a total of three years. The scope is full-time. Entry on April 1st 2027 or by agreement. Place of work: Uppsala</div><div><strong>For further information about the position, please contact</strong> Karin Schönning, karin.schonning@physics.uu.se</div><div><strong>Please submit your application by January 15th, 2027, UFV-PA 2026/3544.</strong></div><div>Are you considering moving to Sweden to work at Uppsala University? <a href=\"https://www.uu.se/en/about-uu/join-us/why-choose-sweden\">Find out more about what it´s like to work and live in Sweden</a>.</div><div>Uppsala University is a broad research university with a strong international position. The ultimate goal is to conduct education and research of the highest quality and relevance to make a difference in society. Our most important asset is all of our 7,500 employees and 53,000 students who, with curiosity and commitment, make Uppsala University one of Sweden’s most exciting workplaces.</div><div>Read more about our benefits and what it is like to work at Uppsala University</div><div><a href=\"https://uu.se/om-uu/jobba-hos-oss/\">https://uu.se/om-uu/jobba-hos-oss/</a></div><div>The position may be subject to security vetting. If security vetting is conducted, the applicant must pass the vetting process to be eligible for employment.</div><div>Please do not send offers of recruitment or advertising services.</div><div>Submit your application through Uppsala University's recruitment system.</div><div>Employee organizations: Saco-S - saco-s@uu.se, Seko - seko@uadm.uu.se, ST (OFR/S) - ofr@uu.se</div><div>Placement:</div><div>Department of Physics and Astronomy</div><div>Scope:</div><div>Full time</div><div>Working hours:</div><div>100%</div><div>Type of employment:</div><div>Temporary position</div><div>Pay:</div><div>Individual salary setting</div><div>Number of positions:</div><div>1</div><div>Town:</div><div>Uppsala</div><div>Union representative:</div><div><br></div><div>Number of reference:</div><div>UFV-PA 2026/3544</div><div>Last application date:</div><div>15 January 2027</div>",
+      "regions": [
+        "Europe",
+        "Asia"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "nucl-ex",
+        "hep-ex"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=990674"
+      ],
+      "contact_email": null,
+      "created": "2026-11-20T13:10:24.481419+00:00",
+      "updated": "2026-11-20T17:52:07.100935+00:00",
+      "addedAt": "2026-11-23T08:06:58.338Z",
+      "isNew": true
+    },
+    {
       "id": "3230944",
       "title": "Postdoctoral Research Position in Long-Baseline Neutrino Experiments",
       "institution": "Tarapaca U.",
@@ -24,7 +74,7 @@
       "created": "2026-11-19T14:41:33.959556+00:00",
       "updated": "2026-11-19T18:45:31.976817+00:00",
       "addedAt": "2026-11-20T08:05:36.265Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3230910",
@@ -48,7 +98,7 @@
       "created": "2026-11-19T09:56:39.459892+00:00",
       "updated": "2026-11-19T15:33:04.434957+00:00",
       "addedAt": "2026-11-20T08:05:36.265Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3230921",
@@ -76,7 +126,7 @@
       "created": "2026-11-19T11:10:09.631753+00:00",
       "updated": "2026-11-19T15:30:58.105464+00:00",
       "addedAt": "2026-11-20T08:05:36.265Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3230927",
@@ -104,7 +154,7 @@
       "created": "2026-11-19T13:24:32.207282+00:00",
       "updated": "2026-11-19T15:27:05.270807+00:00",
       "addedAt": "2026-11-20T08:05:36.265Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3230928",
@@ -132,7 +182,7 @@
       "created": "2026-11-19T13:27:13.652787+00:00",
       "updated": "2026-11-19T15:26:06.819608+00:00",
       "addedAt": "2026-11-20T08:05:36.265Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3230584",
@@ -14347,6 +14397,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-20T08:05:36.267Z",
-  "totalJobs": 534
+  "lastUpdated": "2026-11-23T08:06:58.339Z",
+  "totalJobs": 536
 }
