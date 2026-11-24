@@ -1,6 +1,89 @@
 {
   "jobs": [
     {
+      "id": "3231625",
+      "title": "Postdoctoral Research Associate of Physics and Astronomy - ATLAS",
+      "institution": "U. Oklahoma, Norman",
+      "deadline": "2027-01-03",
+      "description": "<div>The ATLAS group at the University of Oklahoma (OU) invites applications for a Postdoctoral Research Associate position at the interface between experimental high-energy physics and machine learning (ML).</div><div><br></div><div>The group's analysis activities span the Higgs and electroweak sector, top physics, and searches for beyond the Standard Model physics (with an emphasis on unconventional signatures). The group has extensive experience in silicon strip and pixel detector technology and currently participates in the high-luminosity upgrade of the ATLAS detector and muon collider R&amp;D. The university hosts one of the ATLAS Tier-2 computing centers, and the group has access to the Oklahoma Supercomputing Center for Education and Research (OSCER).</div><div><br></div><div>The successful applicant will work closely with Prof. John Stupak to develop and apply novel ML-based solutions to a range of challenging problems across reconstruction, trigger, calibration, and/or detector R&amp;D, as well as to the analysis of ATLAS data. In addition, a fraction of time may be devoted to work related to future colliders or proposed experiments. In coordination with the PI, the successful applicant will have flexibility to shape the direction of this work and to develop projects of their own. The successful applicant is expected to work closely with graduate students and other OU personnel.</div><div><br></div><div>The position is based in Oklahoma, with an initial appointment of 2 years (potentially renewable for a total of 5 years), contingent on satisfactory performance and the continued availability of funds.</div><div><br></div><div><strong>Qualifications</strong></div><div>Qualified applicants in all areas of experimental high-energy physics are encouraged to apply. Applicants must hold a Ph.D. in experimental high-energy physics at the time of appointment.</div><div><br></div><div><strong>Application Instructions</strong></div><div>Applications, consisting of a cover letter (indicating the expected date of availability), a CV (including a list of publications with significant contributions), a statement of research interests, and the names and contact information for three references, should be submitted electronically via Interfolio: <a href=\"https://apply.interfolio.com/197777\">https://apply.interfolio.com/197777</a>.</div><div><br></div><div>To receive full consideration, applications should be submitted by Sunday, January 3, 2027. Review of applications will continue until the position is filled.</div><div>For questions regarding this position, please contact Prof. John Stupak (<a href=\"mailto:john.stupak@ou.edu\">john.stupak@ou.edu</a>).</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-ATLAS"
+      ],
+      "urls": [
+        "https://apply.interfolio.com/197777"
+      ],
+      "contact_email": null,
+      "created": "2026-11-20T21:13:30.656880+00:00",
+      "updated": "2026-11-23T17:07:57.271371+00:00",
+      "addedAt": "2026-11-24T08:05:49.633Z",
+      "isNew": true
+    },
+    {
+      "id": "3231637",
+      "title": "PhD Student Position - Data Acquisition Technology and Neutrino Physics with the KATRIN Experiment",
+      "institution": "KIT, Karlsruhe",
+      "deadline": "2026-12-04",
+      "description": "<div>The Institute for Data Processing and Electronics at the Karlsruhe Institute of Technology is inviting applications for a PhD student position on the data acquisition system of the TRISTAN detector of the KATRIN experiment, with the possibility to contribute to KATRIN’s neutrino mass analysis.</div><div><br></div><div>KATRIN, the leading experiment on the direct measurement of the neutrino mass, is entering a new phase with a search for sterile neutrinos with the TRISTAN detector. KIT IPE is, among other contributions, developing and operating the readout and data acquisition and processing system of this new detector. IPE is pursuing a broad technology-oriented research portfolio in particle and astroparticle physics, quantum technology, energy research, information and health technologies. The institute specializes in cutting-edge technologies along the complete signal processing chain, from particle detection and detector systems to signal transmission, online and offline data processing and analysis, persistent storage and data management, and large-scale electronic systems.</div><div><br></div><div>Further information on the position, including the application form can be found here:</div><div><a href=\"https://jobs.pse.kit.edu/en/jobs/171055/phd-position-fmd-data-acquisition-technology-and-neutrino-physics-with-the-katrin-experiment-part-time-75\">https://jobs.pse.kit.edu/en/jobs/171055/phd-position-fmd-data-acquisition-technology-and-neutrino-physics-with-the-katrin-experiment-part-time-75</a></div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "hep-ex",
+        "physics.ins-det",
+        "astro-ph"
+      ],
+      "experiments": [
+        "KATRIN"
+      ],
+      "urls": [
+        "https://jobs.pse.kit.edu/en/jobs/171055/phd-position-fmd-data-acquisition-technology-and-neutrino-physics-with-the-katrin-experiment-part-time-75"
+      ],
+      "contact_email": null,
+      "created": "2026-11-21T10:04:03.628556+00:00",
+      "updated": "2026-11-23T17:02:59.536500+00:00",
+      "addedAt": "2026-11-24T08:05:49.633Z",
+      "isNew": true
+    },
+    {
+      "id": "3231642",
+      "title": "Mathematics Expert, remote AI training contract (micro1)",
+      "institution": "micro1",
+      "deadline": "2026-12-31",
+      "description": "<div>micro1 hires mathematicians on remote contracts to create, solve and verify advanced problems for AI training. A typical task turns a mathematical problem into a computation, implements it in Python (SymPy, SciPy, NumPy or a similar CLI tool), produces a reproducible result, tests edge cases and judges whether the answer is valid.</div><div>Listed pay: $80 to $120 per hour, paid per task that meets the project specifications. About 15 hours a week, flexible, fully remote, open worldwide. The listing asks for a BSc, MSc or PhD in mathematics, applied mathematics, statistics, operations research or a related field, strong expertise in at least one area (numerical analysis, optimization, probability, algebra, geometry, dynamical systems and so on) and practical Python. Process: screening questions, a 30-minute AI interview, then a hiring manager review.</div><div>This post is by AI Trainer Guide, an independent site, not by micro1 or its recruiter. The apply link on our page is a referral link: if micro1 takes you on through it, we may be paid a referral fee. You can also apply directly at <a href=\"http://micro1.ai\">micro1.ai</a>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "math-ph",
+        "math",
+        "cs"
+      ],
+      "experiments": [],
+      "urls": [
+        "https://aitrainerguide.com/micro1-jobs/mathematics-expert-msc-phd/?utm_source=inspire&utm_medium=job_board"
+      ],
+      "contact_email": null,
+      "created": "2026-11-21T16:33:58.273348+00:00",
+      "updated": "2026-11-23T17:01:49.789595+00:00",
+      "addedAt": "2026-11-24T08:05:49.633Z",
+      "isNew": true
+    },
+    {
       "id": "3231478",
       "title": "Postdoc in machine learning applied to complex systems",
       "institution": "U. Zurich (main)",
@@ -21,7 +104,7 @@
       "created": "2026-11-20T13:55:30.407030+00:00",
       "updated": "2026-11-21T18:12:22.697263+00:00",
       "addedAt": "2026-11-23T08:06:58.338Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3231475",
@@ -48,7 +131,7 @@
       "created": "2026-11-20T13:10:24.481419+00:00",
       "updated": "2026-11-20T17:52:07.100935+00:00",
       "addedAt": "2026-11-23T08:06:58.338Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3230944",
@@ -14397,6 +14480,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-23T08:06:58.339Z",
-  "totalJobs": 536
+  "lastUpdated": "2026-11-24T08:05:49.635Z",
+  "totalJobs": 539
 }
