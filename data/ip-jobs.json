@@ -1,6 +1,85 @@
 {
   "jobs": [
     {
+      "id": "3232782",
+      "title": "Postdoctoral position in dark sector searches with Belle II",
+      "institution": "U. British Columbia (main)",
+      "deadline": "2027-01-07",
+      "description": "<div>Applications are invited for a postdoctoral fellowship on the Belle II experiment at the University of British. The successful candidate will take a leading role in the direct search for new particles, such as dark photons or axion-like particles. The candidate will also work on the high-level trigger menu, with the goal of significantly reducing the selected event rate while retaining high efficiency for B physics and important low-multiplicity final states. The UBC group also has a leading role in the development of calorimeter reconstruction code, and in the development and deployment of calorimeter calibration algorithms.</div><div><br></div><div>The candidate will assist with the supervision of graduate and undergraduate students in these activities, but will not otherwise teach. The position is based in Vancouver, and will include some travel to KEK.</div><div><br></div><div>The group at UBC includes faculty members Christopher Hearty and Janis McKenna. We work closely with the other members of the Canadian Belle II group.</div><div><br></div><div>Applicants should email their CV, a cover letter, and contact information for three references to Prof. Christopher Hearty, hearty@physics.ubc.ca. We will request letters of reference for short-listed candidates. Consideration of candidates will start January 7, 2027, but the search will remain open until the position is filled. An ideal start date would be between March 1, 2027 and June 1, 2027, but is subject to discussion. The appointment will be for two years, with a possible extension for a third year.</div><div><br></div><div>Applicants must have received a PhD in physics no more than 5 years before the start date. Additional information about the UBC department of Physics and Astronomy is available at <a href=\"http://www.phas.ubc.ca\">http://www.phas.ubc.ca</a>. General information about postdoctoral positions at UBC is at</div><div><a href=\"http://www.hr.ubc.ca/faculty-relations/recruitment/titles-ranks-descriptions/postdoctoral-fellows/\">http://www.hr.ubc.ca/faculty-relations/recruitment/titles-ranks-descriptions/postdoctoral-fellows/</a>.</div>",
+      "regions": [
+        "North America"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "KEK-BF-BELLE-II"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-24T16:41:26.376047+00:00",
+      "updated": "2026-11-24T17:04:01.316989+00:00",
+      "addedAt": "2026-11-26T08:05:49.060Z",
+      "isNew": true
+    },
+    {
+      "id": "3232435",
+      "title": "PhD Position - Neuromorphic Computing in Gravitational Wave Detection",
+      "institution": "ZAT, Julich",
+      "deadline": "2027-01-08",
+      "description": "<div>What does the early universe look like? What sound does a black hole collision make? Big questions require big instruments to measure the faintest signals, like the <strong>Einstein Telescope (ET)</strong>. Here, even the smallest disturbances influence the signal quality and an active, low-latency compensation is proposed. Hence, specialized electronics and FPGA-based data processing are essential for active mitigation of Newtonian noise.</div><div>The Peter Grünberg Institute - Integrated Computing Architectures (PGI-4/ICA) is an interdisciplinary research institute developing next-generation computing systems, including integrated circuits and processing architectures that go beyond conventional CMOS-based technologies. Our work focuses on scalable hardware for Quantum Computing and <strong>Neuromorphic Computing</strong>, bridging novel devices with real-world applications.</div><div>In the context of a BMFTR-funded project preparing the Einstein Telescope, we are looking for a <strong>Doctoral Researcher</strong> to develop a neuromorphic computing framework for noise mitigation.</div><div><br></div><div><strong>Your Job:</strong></div><div>Your primary objective is to establish a real-time processing architecture that improves gravitational wave detection sensitivity, by utilizing hardware-based models of embedded intelligence near seismic sensor arrays, primarily using FPGAs. You will explore brain-inspired, Neuromorphic Computing approaches to maximize prediction performance while minimizing data transmission and latency.</div><div><br></div><div>Your key tasks include: <em>A×B</em>, with</div><div><em>A = [ [Singal_to_Processing, Singal_to_Processing, 0, 0], [Network_Types, Network_Types, Network_Types, 0], [0, 0, Datasets, Datasets] ]</em></div><div><em>B = [ Modelling, Simulating, Evaluating, Validating ]T</em></div><ul><li><em>Modelling</em> for a realistic hardware system primarily on FPGA basis,</li><li><em>Simulating</em> with device-aware training using both artificial as well as measured datasets,</li><li><em>Evaluating</em> neural network types for efficient hardware implementation,</li><li><em>Validating</em> the complete sensor-to-processing hardware interface.</li></ul><div>Further tasks include:</div><ul><li>Actively collaborating within the project group and with (inter-)national project partners</li><li>Participation in (inter-)national conferences and publication of your research results in peer-reviewed scientific journals</li><li>Writing your thesis</li></ul><div><strong>Your Profile:</strong></div><ul><li>University degree (Master) in electrical engineering, physics, computer science, or similar fields</li><li>Strong academic background in embedded, real-time AI and in designing and training neural networks</li><li>Proficiency in programming languages such as Python or C++ for algorithm development, simulation, and data analysis</li><li>Interest in real-time signal processing (e.g., time-series data, filtering, feature extraction)</li><li>Foundational understanding of experimental physics, sensor systems, or noise mitigation strategies in complex measurement environments</li><li>Very good command of written and spoken English with extensive vocabulary is required (at least B2 level according to the <a href=\"https://go.fzj.de/languagerequirements\">CEFR</a>), ideally supported by a certificate confirming the language level</li></ul><div>Please apply for the position even if you do not have all the listed skills and knowledge.</div><div><br></div><div><strong>Our Benefits for You:</strong></div><ul><li><strong>Research &amp; Infrastructure:</strong> You will have access to excellent scientific and technical facilities for your work</li><li><strong>Networking &amp; Exchange:</strong> You will participate in (international) conferences and project meetings and actively build your scientific network. In addition, you develop highly sought-after skills in both academia and the high-tech industry</li><li><strong>Work-life balance:</strong> We offer flexible working hours to help you balance your professional and personal life. You also have the option of flexible working (in terms of location), which is generally possible after consultation and in line with upcoming tasks and (on-site) appointments</li><li><strong>Annual Leave:</strong> You get 31 days of annual leave</li><li><strong>Knowledge &amp; Development:</strong> Your professional development is important to us – we support you specifically and individually e.g., through training and networking opportunities specifically for doctoral candidates <a href=\"https://go.fzj.de/JuDocs\">(JuDocS)</a></li><li><strong>Fair remuneration:</strong> Depending on your qualifications and assigned responsibilities, you will be classified according to pay group 13 (75%) of the TVöD-Bund. In addition to the basic salary, there is an additional year-end bonus under the collective pay agreement amounting to 75% of a monthly salary, as well as capital-forming benefits. All information about the TVöD-Bund collective agreement can be found on the <a href=\"https://go.fzj.de/bmi.tvoed\">BMI website</a> (pay scale table on page 74 of the PDF download)</li><li><strong>Perspective:</strong> The position is initially for a fixed term of 3 years but with the prospect of longer-term employment</li><li><strong>Support for international employees:</strong> Our International Advisory Service makes it easier for international employees to get started</li></ul><div>In addition to exciting tasks and a collegial working environment, we offer you much more: <a href=\"https://go.fzj.de/benefits\">https://go.fzj.de/benefits</a></div><div><br></div><div>We welcome applications from people with diverse backgrounds, e.g. in terms of age, gender, disability, sexual orientation / identity, and social, ethnic and religious origin. A diverse and inclusive working environment with equal opportunities in which everyone can realize their potential is important to us.</div><div><br></div><div>The following links provide further information on diversity and equal opportunities: <a href=\"https://go.fzj.de/equality\">https://go.fzj.de/equality</a> and on specific support options for women: <a href=\"https://go.fzj.de/womens-job-journey\">https://go.fzj.de/womens-job-journey</a>. International applicants can find more information here: <a href=\"https://go.fzj.de/job-journey-internationals\">https://go.fzj.de/job-journey-internationals</a></div><div><br></div><div><strong>Place of Employment: </strong>Jülich</div><div><strong>Start Date:</strong>To the next possible date</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "PHD"
+      ],
+      "arxiv_categories": [
+        "cs",
+        "physics.ins-det",
+        "math-ph"
+      ],
+      "experiments": [
+        "ET"
+      ],
+      "urls": [
+        "https://recruiting.fz-juelich.de/jobposting/b1e57eb1b473ab2f630aa41c59a1d5de08be6a020"
+      ],
+      "contact_email": null,
+      "created": "2026-11-24T11:52:11.071188+00:00",
+      "updated": "2026-11-24T16:30:54.391604+00:00",
+      "addedAt": "2026-11-26T08:05:49.060Z",
+      "isNew": true
+    },
+    {
+      "id": "3232703",
+      "title": "Postdoctoral Research Position in Particle Physics and Artificial Intelligence",
+      "institution": "Ramon Llull U., Barcelona",
+      "deadline": "2027-01-07",
+      "description": "<div>The <strong>Smart Society Research Group</strong> at <strong>La Salle, Ramon Llull University (Barcelona, Spain)</strong> invites applications for a <strong>postdoctoral research position</strong> in particle physics and artificial intelligence.</div><div>The successful candidate will join the <strong>LHCb Collaboration</strong>, one of the four major experiments at <strong>CERN's Large Hadron Collider (LHC)</strong>. LHCb is dedicated to the study of heavy-flavour physics, CP violation and the search for physics beyond the Standard Model through precision measurements and rare processes.</div><div>The La Salle LHCb group conducts research at the intersection of particle physics and advanced computing, with current activities including:</div><ul><li>Machine learning applications for event reconstruction and particle identification;</li><li>Physics analyses of radiative beauty-hadron decays;</li><li>Flavour tagging techniques;</li><li>Large Language Models (LLMs) for scientific applications;</li><li>Quantum computing and quantum machine learning applied to LHCb.</li></ul><div>The selected researcher will play an active role in physics analyses using <strong>Run 3 LHCb data</strong> and will have the opportunity to contribute to other research lines within the group, according to his/her expertise and scientific interests.</div><div>This is a <strong>full-time position</strong> funded for <strong>30 months</strong>, with an anticipated starting date of <strong>April 2027</strong> (or shortly thereafter). Depending on the candidate’s profile and the department's needs, the position may also include limited teaching responsibilities at the Bachelor’s and/or Master’s level.</div><div><strong>Qualifications</strong></div><div>Applicants must hold a <strong>PhD in High Energy Physics, Computer Science, or a closely related discipline</strong> by the start date of the appointment.</div><div>The following qualifications are desirable:</div><ul><li>Experience in data analysis in particle physics or related fields;</li><li>Strong programming skills;</li><li>Familiarity with machine learning and artificial intelligence techniques;</li><li>Experience working in collaborative international research environments.</li></ul><div><strong>Application Procedure</strong></div><div>Interested candidates should submit:</div><ul><li>A motivation letter describing their research interests and suitability for the position;</li><li>A curriculum vitae;</li><li>Contact information for at least <strong>two referees</strong> willing to provide letters of recommendation.</li></ul><div>Applications should be sent to:</div><div><strong>Dr. Míriam Calvo</strong> (miriam.calvo@salle.url.edu)</div><div><strong>Prof. Xavier Vilasís</strong> (xavier.vilasis@salle.url.edu)</div><div>no later than <strong>7 January 2027</strong>.</div><div>Applicants should also arrange for their referees to send recommendation letters directly to the same addresses by the application deadline.</div>",
+      "regions": [
+        "Europe"
+      ],
+      "ranks": [
+        "POSTDOC"
+      ],
+      "arxiv_categories": [
+        "hep-ex"
+      ],
+      "experiments": [
+        "CERN-LHC-LHCb"
+      ],
+      "urls": [],
+      "contact_email": null,
+      "created": "2026-11-24T14:28:31.197841+00:00",
+      "updated": "2026-11-24T16:14:02.300990+00:00",
+      "addedAt": "2026-11-26T08:05:49.060Z",
+      "isNew": true
+    },
+    {
       "id": "3231625",
       "title": "Postdoctoral Research Associate of Physics and Astronomy - ATLAS",
       "institution": "U. Oklahoma, Norman",
@@ -25,7 +104,7 @@
       "created": "2026-11-20T21:13:30.656880+00:00",
       "updated": "2026-11-23T17:07:57.271371+00:00",
       "addedAt": "2026-11-24T08:05:49.633Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3231637",
@@ -54,7 +133,7 @@
       "created": "2026-11-21T10:04:03.628556+00:00",
       "updated": "2026-11-23T17:02:59.536500+00:00",
       "addedAt": "2026-11-24T08:05:49.633Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3231642",
@@ -81,7 +160,7 @@
       "created": "2026-11-21T16:33:58.273348+00:00",
       "updated": "2026-11-23T17:01:49.789595+00:00",
       "addedAt": "2026-11-24T08:05:49.633Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3231478",
@@ -14480,6 +14559,6 @@
       "isNew": false
     }
   ],
-  "lastUpdated": "2026-11-24T08:05:49.635Z",
-  "totalJobs": 539
+  "lastUpdated": "2026-11-26T08:05:49.062Z",
+  "totalJobs": 542
 }
